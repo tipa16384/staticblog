@@ -3,6 +3,7 @@ date: '2009-05-13T07:27:25-05:00'
 draft: false
 title: "Daily Blogroll 5/13 -- Going Rogue edition"
 author: "Tipa"
+disqusIdentifier: "2009/05/13/daily-blogroll-513-going-rogue-edition"
 summary: "When I'm running around the mean streets of the Rogue Isles in City of Heroes, you know what I hate the most? Nah, not the..."
 categories:
   - "City of Heroes"
@@ -16,6 +17,19 @@ categories:
   - "Warhammer: Age of Reckoning"
   - "Wizard101"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2009/05/06/daily-blogroll-56-tempests-and-teapots-edition/"
+    title: "Daily Blogroll 5/6 -- Tempests and Teapots edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/fullscreen-capture-562009-125235-am.jpg"
+  - url: "/2009/05/08/daily-blogroll-58-darkfail-edition/"
+    title: "Daily Blogroll 5/8 -- Darkfail edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/darkfall.jpg"
+  - url: "/2009/04/24/web-log-424-friday-is-free-day-edition/"
+    title: "Web Log 4/24 -- Friday is Free Day edition"
+    thumbnailImage: "http://www.penny-arcade.com/images/2009/20090424.jpg"
+  - url: "/2008/12/24/a-look-back-at-2008/"
+    title: "A look back at 2008"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-30-22-10-50-69.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/angelatheangelic.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/angelatheangelic.jpg"
 ---

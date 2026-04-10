@@ -3,6 +3,7 @@ date: '2024-06-09T07:00:00-05:00'
 draft: false
 title: "Retro Haul: Tactics and Sea Monkeys"
 author: "Tipa"
+disqusIdentifier: "2024/06/09/retro-haul-tactics-and-sea-monkeys"
 summary: "We found ourselves once again awash in a sea of retro games. We found some winners, maybe...?"
 categories:
   - "Tactical RPG"
@@ -18,6 +19,19 @@ tags:
   - "Rebelstar"
   - "Retrogames"
   - "Sea Monkeys"
+relatedPosts:
+  - url: "/2024/03/30/retro-game-haul-march-30-2024/"
+    title: "Retro Game Haul: March 30, 2024"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/IMG_4228.jpg"
+  - url: "/2021/09/16/eqoa-desperately-seeking-skandalf/"
+    title: "EQOA: Desperately Seeking Skandalf"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/gsdx_20210916212834.png"
+  - url: "/2023/12/29/christmas-loot-knight-of-lodis-and-prince-of-zenobia/"
+    title: "Christmas Loot: Knight of Lodis and Prince of Zenobia"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/IMG_4125-scaled.jpg"
+  - url: "/2022/01/23/once-i-had-a-life-now-i-have-final-fantasy-tactics-advance/"
+    title: "Once, I had a life. Now, I have Final Fantasy Tactics Advance."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/01/Final-Fantasy-Tactics-Advanced-GBA-36.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/06/IMG_4308.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/06/IMG_4308.jpg"
 ---

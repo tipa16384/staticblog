@@ -3,6 +3,7 @@ date: '2020-10-27T07:49:41-05:00'
 draft: false
 title: "Rogue -- the original rogue-like"
 author: "Tipa"
+disqusIdentifier: "2020/10/27/rogue-the-original-rogue-like"
 summary: "There's been many efforts to define exactly what a \"rogue-like\" game is. Permadeath is definitely one. A different map every time you play is another...."
 categories:
   - "CRPG"
@@ -13,6 +14,19 @@ tags:
   - "Epyx Games"
   - "Rogue"
   - "Rogue-Like"
+relatedPosts:
+  - url: "/2021/11/01/quick-look-unexplored-2/"
+    title: "Quick Look: Unexplored 2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/mainmenu.png"
+  - url: "/2009/06/09/shiren-the-wanderer-3-coming-next-year-for-the-wii/"
+    title: "Shiren the Wanderer 3 coming next year for the Wii"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/fullscreen-capture-692009-74630-pm.jpg"
+  - url: "/2020/12/11/my-rpgs-of-2020/"
+    title: "My RPGs of 2020"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/Chocobos-Mystery-Dungeon-EVERY-BUDDY_20200506204657.jpg"
+  - url: "/2022/03/07/7drl-2022-day-2-dungeon-room/"
+    title: "7DRL 2022 Day 2: Dungeon Room"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/ezgif.com-gif-maker-2.gif"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/roguebanner.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/roguebanner.jpg"
 ---

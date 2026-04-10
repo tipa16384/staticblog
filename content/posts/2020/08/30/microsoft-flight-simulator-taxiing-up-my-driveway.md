@@ -3,12 +3,26 @@ date: '2020-08-30T18:02:22-05:00'
 draft: false
 title: "Microsoft Flight Simulator: Taxiing up my driveway"
 author: "Tipa"
+disqusIdentifier: "2020/08/30/microsoft-flight-simulator-taxiing-up-my-driveway"
 summary: "I've looked and looked and can't find out where Microsoft ever officially said that you would be able to find your house in its world-spanning..."
 categories:
   - "Steam Games"
 tags:
   - "Girls Screaming in Fear"
   - "Microsoft Flight Simulator"
+relatedPosts:
+  - url: "/2023/08/01/this-day-in-blogging-august-1-2006/"
+    title: "This Day In Blogging: August 1, 2006"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/07/dawnfull.jpg"
+  - url: "/2021/08/24/stalking-my-sister/"
+    title: "Stalking My Sister"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210824215934_1.jpg"
+  - url: "/2026/03/28/blasts-from-the-past-is-it-the-90s-again/"
+    title: "Blasts from the Past: Is it the 90s again?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/elves-and-dinokun.jpg"
+  - url: "/2026/03/25/preview-topdeck-automat/"
+    title: "Preview: Topdeck Automat"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-24-220403.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/20200830170238_1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/20200830170238_1.jpg"
 ---

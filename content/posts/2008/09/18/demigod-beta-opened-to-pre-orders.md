@@ -3,6 +3,7 @@ date: '2008-09-18T10:00:57-05:00'
 draft: false
 title: "Demigod beta opened to pre-orders"
 author: "Tipa"
+disqusIdentifier: "2008/09/18/demigod-beta-opened-to-pre-orders"
 summary: "Gas Powered Games, creators of Dungeon Siege, Dungeon Siege II, Space Siege, and Supreme Commander, is bringing the Warcraft III \"Defense of the Ancients\" mod..."
 categories:
   - "Dungeon Siege"
@@ -11,6 +12,19 @@ tags:
   - "Demigod"
   - "Gas Powered Games"
   - "Stardock"
+relatedPosts:
+  - url: "/2011/06/25/dungeon-siege-3-polished-simple-short/"
+    title: "Dungeon Siege 3: Polished, Simple, Short"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/06/Dungeon-Siege-III-2011-06-24-22-37-50-06.jpg"
+  - url: "/2008/08/04/guild-wars-nightfall-day-1/"
+    title: "Guild Wars: Nightfall, Day 1"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/gw-2008-08-03-23-28-32-61.jpg"
+  - url: "/2008/03/31/bad-article-ideas-mmo-pinup-calendar/"
+    title: "Bad article ideas: MMO Pinup Calendar"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/03/cityofheroes-2008-03-31-00-51-43-33.jpg"
+  - url: "/2025/08/06/la-brute-battles-royale-and-warring-guilds/"
+    title: "La Brute: Battles Royale and Warring Guilds"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/LaBrute.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/demigod.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/demigod.jpg"
 ---

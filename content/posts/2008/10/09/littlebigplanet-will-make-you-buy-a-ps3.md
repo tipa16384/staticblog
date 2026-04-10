@@ -3,12 +3,26 @@ date: '2008-10-09T08:30:47-05:00'
 draft: false
 title: "LittleBigPlanet will make you buy a PS3."
 author: "Tipa"
+disqusIdentifier: "2008/10/09/littlebigplanet-will-make-you-buy-a-ps3"
 summary: "What SPORE did for Civilization-type games, LittleBigPlanet is going to do for platformers. Nobody will play the game the same way you do, and the..."
 categories:
   - "Little Big Planet"
   - "Littlebigplanet"
 tags:
   - "Lbp"
+relatedPosts:
+  - url: "/2008/09/19/ps3-littlebig-planet-in-stores-october-21/"
+    title: "PS3: LittleBig Planet in stores October 21"
+    thumbnailImage: ""
+  - url: "/2008/11/12/littlebigplanet-level-design-issues/"
+    title: "LittleBigPlanet level design issues"
+    thumbnailImage: ""
+  - url: "/2008/11/10/wizard-friends-and-littlebigplanet-mazes/"
+    title: "Wizard Friends and LittleBigPlanet Mazes"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-10-00-53-52-28.jpg"
+  - url: "/2008/11/07/thursday-gaming-lbp-eq2-and-w101-again/"
+    title: "Thursday gaming: LBP, EQ2 and W101... again."
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/stp61406.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/stp61406.jpg"
 ---

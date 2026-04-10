@@ -3,11 +3,25 @@ date: '2013-07-02T06:35:19-05:00'
 draft: false
 title: "Neverwinter: Return to Azeroth(ia)"
 author: "Tipa"
+disqusIdentifier: "2013/07/02/neverwinter-return-to-azerothia"
 summary: "Each week, when Kasul and I meet for Neverwinter, we never know quite what we're going to be doing. Grinding quests to max level? Not..."
 categories:
   - "MMORPG"
   - "Neverwinter"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2013/09/12/top-5-reasons-why-neverwinter-is-the-best-mmo-that-can-exist-or-how-to-twerk-in-world-of-warcraft/"
+    title: "Top 5 Reasons why Neverwinter is the Best MMO That Can Exist, or, How To Twerk in World of Warcraft"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/09/GameClient-2013-09-12-00-38-15-69-480x334.jpg"
+  - url: "/2015/06/07/why-i-am-not-playing-neverwinter/"
+    title: "Why I am not playing Neverwinter..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/06/GameClient-2015-06-07-07-17-55-81-480x300.jpg"
+  - url: "/2015/04/19/ding-66-and-ive-left-fiery-pit-for-awhile-to-return-to-reclamation-rock-leveling-up-is-going-fairly/"
+    title: "Ding 66, and I've left Fiery Pit."
+    thumbnailImage: "https://lh3.googleusercontent.com/-jWuWsWATz_o/VTPItV-34rI/AAAAAAABCEw/HWrm_ufa8-8/w506-h750/GameClient%2B2015-04-19%2B11-22-12-18.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/07/GameClient-2013-07-01-23-09-46-06-480x343.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/07/GameClient-2013-07-01-23-09-46-06-480x343.jpg"
 ---

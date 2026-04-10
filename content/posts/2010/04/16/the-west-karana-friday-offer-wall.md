@@ -3,6 +3,7 @@ date: '2010-04-16T06:59:58-05:00'
 draft: false
 title: "The West Karana Friday Offer Wall!"
 author: "Tipa"
+disqusIdentifier: "2010/04/16/the-west-karana-friday-offer-wall"
 summary: "Unlike other offer walls, this one probably won't infect your computer with anything TOO harmful...."
 categories:
   - "Champions Online"
@@ -13,6 +14,19 @@ categories:
   - "Other Games"
   - "Runes of Magic"
   - "Star Trek"
+relatedPosts:
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/08/31/daily-blogroll-831-end-of-summer-edition/"
+    title: "Daily Blogroll 8/31 - End of Summer edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/GameClient-2009-08-30-21-20-36-81.jpg"
+  - url: "/2009/05/08/daily-blogroll-58-darkfail-edition/"
+    title: "Daily Blogroll 5/8 -- Darkfail edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/darkfall.jpg"
+  - url: "/2010/11/29/5874/"
+    title: "Daily Blogroll 11/29, Nostalgia edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/eqgame-2010-11-27-12-59-20-62.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/GSB-2010-04-16-07-24-40-94.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/GSB-2010-04-16-07-24-40-94.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2020-06-02T12:12:54-05:00'
 draft: false
 title: "Octomini Project Day 3: The $250 mini"
 author: "Tipa"
+disqusIdentifier: "2020/06/02/octomini-project-day-3-the-250-mini"
 summary: "I want to point out at the start that I did not buy a 3D printer to print miniatures...."
 categories:
   - "3D Printing"
@@ -12,6 +13,19 @@ tags:
   - "Creality Ender 3 Pro"
   - "Octomini Project"
   - "Octopath Traveler"
+relatedPosts:
+  - url: "/2020/05/28/primed-and-ready/"
+    title: "Octomini Project Day 2: Primed and Ready"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/1-primed.jpg"
+  - url: "/2020/05/25/octomini-project-day-1-minis-arrive/"
+    title: "Octomini Project Day 1: Minis Arrive"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/1-both.jpg"
+  - url: "/2020/06/29/abp-always-be-printing-always-be-painting/"
+    title: "ABP -- Always Be Printing, Always Be Painting"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/1-IMG_1698.jpg"
+  - url: "/2020/11/15/the-prusa-i3-mk3s-3d-printer-when-you-just-want-to-print/"
+    title: "The Prusa i3 Mk3S 3D printer: When you just want to print"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/11/howitstarted.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/1-IMG_1622.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/1-IMG_1622.jpg"
 ---

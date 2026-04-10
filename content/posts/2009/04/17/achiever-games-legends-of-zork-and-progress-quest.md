@@ -3,6 +3,7 @@ date: '2009-04-17T07:33:50-05:00'
 draft: false
 title: "Achiever games: Legends of Zork and Progress Quest"
 author: "Tipa"
+disqusIdentifier: "2009/04/17/achiever-games-legends-of-zork-and-progress-quest"
 summary: "On February 17th, 1980, around 10PM, I was so frustrated with some puzzles in Dungeon (which would later become Infocom's flagship game, Zork), that I..."
 categories:
   - "Legends of Zork"
@@ -14,6 +15,19 @@ tags:
   - "Bartle Test"
   - "ProgressQuest"
   - "Zork"
+relatedPosts:
+  - url: "/2009/09/03/daily-blogroll-93-sushi-day-edition/"
+    title: "Daily Blogroll 9/3 - Sushi day edition!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/Fullscreen-capture-932009-75844-AM.jpg"
+  - url: "/2021/08/07/mmos-on-the-bubble/"
+    title: "MMOs on the Bubble"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/STP61286.jpg"
+  - url: "/2020/08/18/does-crafting-have-any-place-in-modern-mmos/"
+    title: "Does Crafting have any place in modern MMOs?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-EverQuest2-2020-08-18-18-11-08-10.jpg"
+  - url: "/2011/05/12/semi-annual-blogroll-sheep-may-safely-graze-edition/"
+    title: "Semi-Annual Blogroll: Sheep may safely graze edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/05/sheep2.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/stp62024.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/stp62024.jpg"
 ---

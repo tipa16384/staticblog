@@ -3,10 +3,24 @@ date: '2010-10-15T06:33:22-05:00'
 draft: false
 title: "TV Recap: Mod Squad ep 1, \"Teeth of the Barracuda\""
 author: "Tipa"
+disqusIdentifier: "2010/10/15/tv-recap-mod-squad-ep-1-teeth-of-the-barracuda"
 summary: "I think I missed a few weeks on my TV recaps. Well, tonight's is a good one -- Mod Squad's first episode. Set in 1968..."
 categories:
   - "General"
   - "TV Recaps"
+relatedPosts:
+  - url: "/2010/07/09/peter-gunn-recap-the-blind-pianist/"
+    title: 'Peter Gunn recap: "The Blind Pianist"'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/petergunn-480x270.jpg"
+  - url: "/2010/06/19/tv-recap-land-of-the-giants-ep-1-crash/"
+    title: 'TV Recap: Land of the Giants ep 1, "The Crash"'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/06/land-of-the-giants.jpg"
+  - url: "/2022/12/16/advent-of-code-day-16-proboscidea-volcanium/"
+    title: "Advent of Code Day 16 -- Proboscidea Volcanium"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-16-23.05.05-A-publicity-photo-of-Jack-Bauer-from-_24_-leading-an-elephant-through-a-lava-tube-lit-up-with-the-red-glow-of-molten-magma.-Tubes-and-pipes-line-the-l.png"
+  - url: "/2010/06/29/tv-recap-gilligans-island-pilot-episode/"
+    title: "TV Recap: Gilligan's Island (pilot episode)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/06/Gilligans_Island_title_card.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/modsquad.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/modsquad.jpg"
 ---

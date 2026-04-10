@@ -3,6 +3,7 @@ date: '2009-08-07T07:54:54-05:00'
 draft: false
 title: "Daily Blogroll 8/7 -- Band Camp edition"
 author: "Tipa"
+disqusIdentifier: "2009/08/07/daily-blogroll-87-band-camp-edition"
 summary: "Back in EverQuest, the raid leader had banned all mage pets because they tended to push bosses into walls. The mages were not amused...."
 categories:
   - "Aion"
@@ -12,6 +13,19 @@ categories:
   - "MMORPG"
   - "Wizard101"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/09/03/daily-blogroll-93-sushi-day-edition/"
+    title: "Daily Blogroll 9/3 - Sushi day edition!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/Fullscreen-capture-932009-75844-AM.jpg"
+  - url: "/2009/08/10/daily-blogroll-810-thank-god-its-monday-edition/"
+    title: "Daily Blogroll 8/10 -- Thank God it's Monday edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/daddygirl.jpg"
+  - url: "/2009/07/23/daily-blogroll-723-aftermath-edition/"
+    title: "Daily Blogroll 7/23 -- Aftermath edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/sb_client-2009-07-23-07-34-50-3.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/burnthemage.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/burnthemage.jpg"
 ---

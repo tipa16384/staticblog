@@ -3,12 +3,26 @@ date: '2008-12-09T22:23:22-05:00'
 draft: false
 title: "DOMO: I'm a filthy camper."
 author: "Tipa"
+disqusIdentifier: "2008/12/09/domo-im-a-filthy-camper"
 summary: "Dream of Mirror Online was down most of the night last night. When it came back up, I mostly just ran around collecting jobs --..."
 categories:
   - "Dream of Mirror Online"
   - "MMORPG"
 tags:
   - "New Shiny"
+relatedPosts:
+  - url: "/2008/12/15/domo-level-23-thiefmusician-lfg/"
+    title: "DOMO: Level 23 Thief/Musician, LFG"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/domo-2008-12-14-11-32-57-40.jpg"
+  - url: "/2010/04/14/the-best-mmo-for-a-new-player/"
+    title: "The best MMO for a new player?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/options.jpg"
+  - url: "/2009/08/19/daily-blogroll-819-l2test-edition/"
+    title: "Daily Blogroll 8/19 - L2Test edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/ExeFile-2009-08-18-21-44-27-54.jpg"
+  - url: "/2009/05/04/daily-blogroll-54-dragon-claw-style-edition/"
+    title: "Daily Blogroll 5/4 -- Dragon Claw Style edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/dragonclawstyle1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/newshiny.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/newshiny.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2024-08-22T07:00:00-05:00'
 draft: false
 title: "PS2 RPGs: Quick Reviews"
 author: "Tipa"
+disqusIdentifier: "2024/08/22/ps2-rpgs-quick-reviews"
 summary: "You're down at K-Mart or Sears, looking at all those shiny new PlayStation 2 games in the sharp glass case; which one is the lady behind the counter going to bring out for you?"
 categories:
   - "Battlestar Galactica"
@@ -14,6 +15,19 @@ tags:
   - "Avatar"
   - "Avatar the Last Airbender"
   - "Dirge of Cerberus"
+relatedPosts:
+  - url: "/2008/11/21/the-xbox-nxe/"
+    title: "The Xbox NXE"
+    thumbnailImage: ""
+  - url: "/2024/08/25/retro-world-expo-2024-adventure-awaits/"
+    title: "Retro World Expo 2024: Adventure Awaits"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/tipachu_Adventurers_including_a_sorceress_battle_a_giant_kaij_c266c206-cff4-4688-bc8f-5a805d60df73_2.png"
+  - url: "/2024/08/15/champions-return-to-arms/"
+    title: "Champions: Return to Arms"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/firiona.png"
+  - url: "/2024/10/13/october-retro-finds/"
+    title: "October retro finds!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/IMG_4727-scaled.jpeg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/Final-Fantasy-7-Dirge-Of-Cerberus.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/Final-Fantasy-7-Dirge-Of-Cerberus.jpg"
 ---

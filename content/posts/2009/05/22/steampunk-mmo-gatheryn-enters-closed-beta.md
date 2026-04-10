@@ -3,6 +3,7 @@ date: '2009-05-22T16:22:11-05:00'
 draft: false
 title: "Steampunk MMO Gatheryn enters closed beta"
 author: "Tipa"
+disqusIdentifier: "2009/05/22/steampunk-mmo-gatheryn-enters-closed-beta"
 summary: "[..."
 categories:
   - "Gatheryn"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Closed Beta"
   - "Steampunk"
+relatedPosts:
+  - url: "/2009/03/24/gatheryn-steampunk-based-casual-mmo-out-this-summer/"
+    title: "Gatheryn, Steampunk-based casual MMO, out this summer?"
+    thumbnailImage: ""
+  - url: "/2009/04/28/nostalgia-comes-to-the-ds/"
+    title: "Nostalgia comes to the DS!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/nostalgia-479x181.jpg"
+  - url: "/2011/01/10/rift-beta-4-in-search-of-a-spec/"
+    title: "Rift Beta 4: In Search of... a Spec."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/rift-2011-01-09-16-45-28-62-480x384.jpg"
+  - url: "/2010/12/24/rift-3rd-beta-event-sealing-the-rift/"
+    title: 'Rift: 3rd beta event, "Sealing the Rift"'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/rift3-480x186.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/gatheryn-480x299.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/gatheryn-480x299.jpg"
 ---

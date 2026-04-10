@@ -3,6 +3,7 @@ date: '2009-03-13T19:24:33-05:00'
 draft: false
 title: "Spellborn: Marketplace, new instance, more in patch 1.03"
 author: "Tipa"
+disqusIdentifier: "2009/03/13/spellborn-marketplace-new-instance-more-in-patch-103"
 summary: "[..."
 categories:
   - "Chronicles of Spellborn"
@@ -12,6 +13,19 @@ tags:
   - "Exarchyon"
   - "Marketplace"
   - "Patch"
+relatedPosts:
+  - url: "/2010/11/29/ddo-all-the-wight-moves/"
+    title: "DDO: All the Wight Moves"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/dndclient-2010-11-28-23-54-41-89-480x384.jpg"
+  - url: "/2008/10/08/eq-october-7-update-patch-notes/"
+    title: "EQ: October 7 update patch notes"
+    thumbnailImage: ""
+  - url: "/2015/07/02/some-trufen-managed-to-re/"
+    title: "Spellborn... reborn?"
+    thumbnailImage: "https://lh6.googleusercontent.com/proxy/vBKKuw4kyr3h6Ct92g-leX2lvulYLG8VtWObZxpRG3wNupQeekWxqKtqcOypKIB_CMp9gMCmeDHiXRs9qUjB7Q=w506-h284-n"
+  - url: "/2010/08/19/chronicles-of-spellborn-anatomy-of-a-failure/"
+    title: "Chronicles of Spellborn: Anatomy of a Failure"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/sb_client-2010-08-18-19-49-21-19-480x270.jpg"
 coverImage: "http://tcos.com/uploads/news/buy_window3.jpg"
 thumbnailImage: "http://tcos.com/uploads/news/buy_window3.jpg"
 ---

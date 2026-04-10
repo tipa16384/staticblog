@@ -3,11 +3,25 @@ date: '2012-01-18T08:14:04-05:00'
 draft: false
 title: "EQ2: I wonder what he eats..."
 author: "Tipa"
+disqusIdentifier: "2012/01/18/eq2-i-wonder-what-he-eats"
 summary: "When you think about it, Fae are just the right size to be eaten in one gulp by the EverQuest 2 jumping lizard mounts. I'm..."
 categories:
   - "EverQuest"
   - "MMORPG"
   - "Star Trek"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2021/08/07/mmos-on-the-bubble/"
+    title: "MMOs on the Bubble"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/STP61286.jpg"
+  - url: "/2011/12/16/eq2-dcuo-sto-things-are-starting-to-work-again/"
+    title: "EQ2, DCUO, STO: Things are starting to work again"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/12/EverQuest2-2011-12-15-23-07-31-09-480x384.jpg"
+  - url: "/2011/01/12/daily-blogroll-112-snow-job-edition/"
+    title: "Daily Blogroll 1/12 -- Snow Job edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/11111png.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/EverQuest2-2012-01-18-07-41-15-16-480x299.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/EverQuest2-2012-01-18-07-41-15-16-480x299.jpg"
 ---

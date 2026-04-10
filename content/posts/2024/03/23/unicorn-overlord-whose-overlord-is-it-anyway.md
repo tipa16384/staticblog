@@ -3,6 +3,7 @@ date: '2024-03-23T10:03:57-05:00'
 draft: false
 title: "Unicorn Overlord -- Whose Overlord Is It, Anyway?"
 author: "Tipa"
+disqusIdentifier: "2024/03/23/unicorn-overlord-whose-overlord-is-it-anyway"
 summary: "After playing through this amazing real-time tactics RPG, the only question I hadn't answered was... were we the baddies all the time?"
 categories:
   - "PS5"
@@ -15,6 +16,19 @@ tags:
   - "RPG"
   - "Tactics"
   - "Tactics Ogre"
+relatedPosts:
+  - url: "/2020/10/05/ogre-battle-the-march-of-the-black-queen-night-1/"
+    title: 'Ogre Battle "The March of the Black Queen" -- Night 1'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/blackqueen.png"
+  - url: "/2023/11/10/knight-of-lodis-entering-the-crypt/"
+    title: "Knight of Lodis: Entering the Crypt"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/20231110_002228.png"
+  - url: "/2022/07/24/ogre-battle-64-i-am-a-person-of-lordly-caliber/"
+    title: "Ogre Battle 64: I am a Person of Lordly Caliber"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/danika.png"
+  - url: "/2020/10/17/ogre-battle-the-march-of-the-black-queen-how-to-win-the-game/"
+    title: "Ogre Battle: The March of the Black Queen: How to Win the Game."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-138.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/Unicorn-Overlord_20240322181915.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/Unicorn-Overlord_20240322181915.jpg"
 ---

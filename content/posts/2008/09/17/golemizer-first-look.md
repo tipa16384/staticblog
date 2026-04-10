@@ -3,11 +3,25 @@ date: '2008-09-17T00:49:20-05:00'
 draft: false
 title: "Golemizer -- first look"
 author: "Tipa"
+disqusIdentifier: "2008/09/17/golemizer-first-look"
 summary: "Just an update to the previous post. I had a chance to walk through a little bit of Golemizer, the AJAX/JavaScript-based MMO where you craft..."
 categories:
   - "MMORPG"
 tags:
   - "Golemizer"
+relatedPosts:
+  - url: "/2008/09/16/golemizer-ruling-the-world-through-mad-science/"
+    title: "Golemizer -- ruling the world through mad science"
+    thumbnailImage: ""
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2026/03/11/dune-awakening-finished-chapter-3/"
+    title: "Dune Awakening: Finished Chapter 3"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-11-073510.png"
+  - url: "/2026/02/04/erenshor-rising-shadows-launched/"
+    title: 'Erenshor "Rising Shadows" launched!'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/20260204080313_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/gnomebot.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/gnomebot.jpg"
 ---

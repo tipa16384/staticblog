@@ -3,6 +3,7 @@ date: '2009-02-26T08:50:13-05:00'
 draft: false
 title: "Wizard 101: Building a deck"
 author: "Tipa"
+disqusIdentifier: "2009/02/26/wizard-101-building-a-deck"
 summary: "Wizard 101 is built around a card game, and that card game is built around your deck. Deck construction can be tricky. I was talking..."
 categories:
   - "MMORPG"
@@ -11,6 +12,19 @@ tags:
   - "Colossus Boulevard"
   - "Decks"
   - "Marleybone"
+relatedPosts:
+  - url: "/2010/08/23/wizard101-its-all-about-the-ninja-pig/"
+    title: "Wizard101: It's all about the Ninja Pig"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/WizardGraphicalClient-2010-08-23-23-14-18-90.jpg"
+  - url: "/2009/07/02/wizard-101-first-night-in-grizzleheim-crafting-secrets/"
+    title: "Wizard 101: First Night in Grizzleheim & Crafting Secrets"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/WizardGraphicalClient-2009-07-02-07-16-47-37.jpg"
+  - url: "/2009/04/23/wizard-101-player-housing-on-test/"
+    title: "Wizard 101 Player Housing ON TEST!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/wizardgraphicalclient-2009-04-23-01-13-36-76.jpg"
+  - url: "/2008/10/27/wizard-101-hametsu-village/"
+    title: "Wizard 101: Hametsu Village"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-26-17-18-58-70.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/wizardgraphicalclient-2009-02-25-21-32-59-54.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/wizardgraphicalclient-2009-02-25-21-32-59-54.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2024-02-18T08:00:00-05:00'
 draft: false
 title: "Palworld is a thing that happened, I guess"
 author: "Tipa"
+disqusIdentifier: "2024/02/18/palworld-is-a-thing-that-happened-i-guess"
 summary: "I'm still playing Palworld, but I'm really not sure why..."
 categories:
   - "Palworld"
@@ -10,6 +11,19 @@ categories:
   - "Survival"
 tags:
   - "Sandbox"
+relatedPosts:
+  - url: "/2024/01/31/palworld-vandal-hearts-hons-vr-lenses/"
+    title: "Palworld, Vandal Hearts, Hons VR Lenses"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/zoe.png"
+  - url: "/2025/07/01/palworld-does-what-nintendont-again/"
+    title: "Palworld Does What Nintendon't. Again."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/drbrawngenderclinic.png"
+  - url: "/2025/01/02/best-of-2024-survival-crafting-games/"
+    title: "Best of 2024: Survival Crafting Games"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/survivalbanner.png"
+  - url: "/2025/01/27/i-know-what-i-did-last-weekend-2/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/drbrawn.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/02/swifty.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/02/swifty.png"
 ---

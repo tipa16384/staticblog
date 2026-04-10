@@ -3,6 +3,7 @@ date: '2009-05-22T08:20:38-05:00'
 draft: false
 title: "Daily Blogroll 5/22 -- On Holiday edition"
 author: "Tipa"
+disqusIdentifier: "2009/05/22/daily-blogroll-522-on-holiday-edition"
 summary: "Long weekend for us in the US, Memorial Day weekend. Though meant to honor Americans who have died in wars, I remember it mainly as..."
 categories:
   - "Champions Online"
@@ -14,6 +15,19 @@ categories:
   - "Lord of the Rings"
   - "MMORPG"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2009/05/08/daily-blogroll-58-darkfail-edition/"
+    title: "Daily Blogroll 5/8 -- Darkfail edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/darkfall.jpg"
+  - url: "/2009/08/04/daily-blogroll-84-lifetime-edition/"
+    title: "Daily Blogroll 8/4 -- Lifetime edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/lederhosenman.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/05/11/daily-blogroll-511-reboot-edition/"
+    title: "Daily Blogroll 5/11 -- Reboot edition"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/wizardgraphicalclient-2009-05-20-19-32-06-04.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/wizardgraphicalclient-2009-05-20-19-32-06-04.jpg"
 ---

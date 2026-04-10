@@ -3,12 +3,26 @@ date: '2009-06-09T23:42:13-05:00'
 draft: false
 title: "Nightly Blogroll 6/09 -- Freemium Edition"
 author: "Tipa"
+disqusIdentifier: "2009/06/09/nightly-blogroll-609-freemium-edition"
 summary: "It started out like a normal day. Then Turbine announced that it's Dungeons & Dragons Online MMO was going Free to Play, and Twitter ignited..."
 categories:
   - "Daily Blogroll"
   - "MMORPG"
   - "Star Trek"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2010/12/10/daily-blogroll-1210-bite-from-your-wallet-edition/"
+    title: "Daily Blogroll 12/10 -- Bite from your wallet edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/EverQuest2-2010-12-09-20-24-37-78.jpg"
+  - url: "/2010/01/19/weekend-gaming-super-rich-edition/"
+    title: "Weekend gaming: Super-rich edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/01/aimbomb.jpg"
+  - url: "/2009/10/09/daily-blogroll-1010-short-week-edition/"
+    title: "Daily Blogroll 10/10: Short Week edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/fox1-480x252.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/ddo.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/ddo.jpg"
 ---

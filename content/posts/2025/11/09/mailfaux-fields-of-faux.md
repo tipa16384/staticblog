@@ -3,10 +3,24 @@ date: '2025-11-09T08:00:00-05:00'
 draft: false
 title: "Mailfaux: Fields of Faux"
 author: "Tipa"
+disqusIdentifier: "2025/11/09/mailfaux-fields-of-faux"
 summary: "Our local Malifaux tournament was a chance to play against the best the game has to offer."
 categories:
   - "Malifaux"
   - "Tabletop Games"
+relatedPosts:
+  - url: "/2026/03/08/malifaux-collete-du-bois-smuggler-vs-jakob-lynch-dark-bet/"
+    title: "Malifaux: Collete du Bois, Smuggler vs Jakob Lynch, Dark Bet"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/IMG_5713-scaled.jpg"
+  - url: "/2026/02/22/malifaux-at-twilight-colette-v-maxine/"
+    title: "Malifaux at Twilight: Colette v Maxine"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/1-IMG_5684-scaled.jpg"
+  - url: "/2026/02/21/why-isnt-miniatures-gaming-more-popular/"
+    title: "Why isn't miniatures gaming more popular?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/IMG_5676-scaled.jpg"
+  - url: "/2026/02/01/captaincon-2026-masters-of-malifaux/"
+    title: "CaptainCon 2026: Masters of Malifaux"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/CC_Logo_Red.webp"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/1-IMG_5475-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/1-IMG_5475-scaled.jpg"
 ---

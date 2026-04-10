@@ -3,6 +3,7 @@ date: '2022-07-13T08:16:27-05:00'
 draft: false
 title: "Ogre Battle: Curse your sudden, but inevitable, betrayal"
 author: "Tipa"
+disqusIdentifier: "2022/07/13/ogre-battle-curse-your-sudden-but-inevitable-betrayal"
 summary: "Now that I've gotten the game so that it works and looks decent, it's time to ask the big question: How do I get Deneb..."
 categories:
   - "Nintendo 64"
@@ -12,6 +13,19 @@ tags:
   - "Ogre Battle"
   - "Person of Lordly Caliber"
   - "The March of the Black Queen"
+relatedPosts:
+  - url: "/2022/07/24/ogre-battle-64-i-am-a-person-of-lordly-caliber/"
+    title: "Ogre Battle 64: I am a Person of Lordly Caliber"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/danika.png"
+  - url: "/2020/10/17/ogre-battle-the-march-of-the-black-queen-how-to-win-the-game/"
+    title: "Ogre Battle: The March of the Black Queen: How to Win the Game."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-138.png"
+  - url: "/2020/10/07/tactics-ogre-and-ogre-battle-let-us-get-sirius/"
+    title: "Tactics Ogre and Ogre Battle: Let Us Get Sirius"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/sirius.png"
+  - url: "/2020/10/05/ogre-battle-the-march-of-the-black-queen-night-1/"
+    title: 'Ogre Battle "The March of the Black Queen" -- Night 1'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/blackqueen.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/CorwinDefects.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/CorwinDefects.png"
 ---

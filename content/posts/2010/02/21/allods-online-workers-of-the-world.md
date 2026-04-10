@@ -3,10 +3,24 @@ date: '2010-02-21T01:25:58-05:00'
 draft: false
 title: "Allods Online: Workers of the World!"
 author: "Tipa"
+disqusIdentifier: "2010/02/21/allods-online-workers-of-the-world"
 summary: "Allods Online is fun enough, and I guess it's cool that everyone's characters speak and read Russian because, hey, it's an overseas game not afraid..."
 categories:
   - "Allods Online"
   - "MMORPG"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2011/01/27/daily-blogroll-127-inevitable-backlash-edition/"
+    title: "Daily Blogroll 1/27 -- Inevitable Backlash edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/riftblade.png"
+  - url: "/2011/01/05/daily-blogroll-15-epic-win-edition/"
+    title: "Daily Blogroll 1/5 - Epic Win edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/chrome-2010-10-31-09-17-11-35-480x304.jpg"
+  - url: "/2011/01/01/daily-blogroll-1111-happy-new-year-edition/"
+    title: "Daily Blogroll 1/1/11 -- Happy New Year edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/rift-2010-12-31-16-51-43-97-480x384.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/02/AOgame-2010-02-21-00-58-10-84-480x384.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/02/AOgame-2010-02-21-00-58-10-84-480x384.jpg"
 ---

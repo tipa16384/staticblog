@@ -3,6 +3,7 @@ date: '2009-04-19T10:01:48-05:00'
 draft: false
 title: "Web log 4/19"
 author: "Tipa"
+disqusIdentifier: "2009/04/19/web-log-419"
 summary: "Welcome to the Sunday Web Log!..."
 categories:
   - "City of Heroes"
@@ -14,6 +15,19 @@ categories:
   - "Vanguard"
   - "Wizard101"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2009/05/06/daily-blogroll-56-tempests-and-teapots-edition/"
+    title: "Daily Blogroll 5/6 -- Tempests and Teapots edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/fullscreen-capture-562009-125235-am.jpg"
+  - url: "/2009/06/01/daily-blogroll-61-almost-summer-edition/"
+    title: "Daily Blogroll 6/1 -- Almost Summer edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/dungeonparty.jpg"
+  - url: "/2009/04/28/daily-blogroll-428-hug-squeeze-edition/"
+    title: "Daily Blogroll 4/28 -- Hug & Squeeze Edition"
+    thumbnailImage: ""
+  - url: "/2009/05/04/daily-blogroll-54-dragon-claw-style-edition/"
+    title: "Daily Blogroll 5/4 -- Dragon Claw Style edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/dragonclawstyle1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/marleybonepokemon.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/marleybonepokemon.jpg"
 ---

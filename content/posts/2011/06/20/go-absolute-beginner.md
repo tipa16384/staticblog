@@ -3,6 +3,7 @@ date: '2011-06-20T20:51:09-05:00'
 draft: false
 title: "Go: Absolute Beginner"
 author: "Tipa"
+disqusIdentifier: "2011/06/20/go-absolute-beginner"
 summary: "My mom died when she was fairly young. Her carnival glass collection, her silver, her jewelry, I have nothing of those things. I think her..."
 categories:
   - "Go"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Hikaru No Go"
   - "Othello"
+relatedPosts:
+  - url: "/2026/02/13/othello-trigger-for-the-gameboy-color/"
+    title: "Othello Trigger for the Gameboy Color"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/othellotrigger.png"
+  - url: "/2026/02/03/the-end-of-the-othello-world-saga/"
+    title: "The End of the Othello World Saga"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/Screenshot-2026-02-02-20-11-59.png"
+  - url: "/2026/01/30/othello-world-i-killed-the-dragon/"
+    title: "Othello World: I Killed the Dragon"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/Screenshot-2026-01-29-21-40-06.png"
+  - url: "/2024/05/25/retro-game-haul-tron-deadly-discs-and-reversi/"
+    title: "Retro Game Haul: Tron Deadly Discs and Reversi"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/trondeadlydisks.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/06/STP63350.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/06/STP63350.jpg"
 ---

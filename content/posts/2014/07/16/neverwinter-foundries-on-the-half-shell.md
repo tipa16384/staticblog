@@ -3,12 +3,26 @@ date: '2014-07-16T05:57:37-05:00'
 draft: false
 title: "Neverwinter: Foundries on the Half-Shell"
 author: "Tipa"
+disqusIdentifier: "2014/07/16/neverwinter-foundries-on-the-half-shell"
 summary: "It's another night of foundry fun! Four player quests played by our intrepid questing duo. One of which was actually really good :)..."
 categories:
   - "MMORPG"
   - "Neverwinter"
 tags:
   - "Foundry"
+relatedPosts:
+  - url: "/2015/02/19/based-on-a-suggestion-last-week-in-the-forums-i-went-through-the-159-quests-that-we-have-reviewed/"
+    title: "Weekly Foundry Reviews -- February 18, 2015"
+    thumbnailImage: ""
+  - url: "/2015/02/12/weekly-foundry-quests-february-11-2015after-running-into-ian-darksword-entirely-by-accident-guard/"
+    title: "Weekly Foundry Quests -- February 11, 2015"
+    thumbnailImage: ""
+  - url: "/2015/02/05/well-this-week-the-foundry-wasnt-being-kind-to-us-first-i-and-later-kasul-couldnt-open-the-final/"
+    title: "Weekly Foundry Reviews -- February 5, 2015"
+    thumbnailImage: ""
+  - url: "/2015/02/01/first-floor-of-newfallen-to-80-i-deleted-the-old-story-and-the-old-maps-now-the-only-way-to-go-is/"
+    title: "Neverwinter: First floor of Newfallen to 80%!"
+    thumbnailImage: ""
 coverImage: "https://lh6.googleusercontent.com/-4O4qM0goqn4/U8UTxIrlvNI/AAAAAAAAx6I/Fcn-tBZgLUw/w649-h519-no/GameClient+2014-07-14+20-39-19-81.jpg"
 thumbnailImage: "https://lh6.googleusercontent.com/-4O4qM0goqn4/U8UTxIrlvNI/AAAAAAAAx6I/Fcn-tBZgLUw/w649-h519-no/GameClient+2014-07-14+20-39-19-81.jpg"
 ---

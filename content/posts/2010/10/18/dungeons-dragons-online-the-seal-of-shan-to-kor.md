@@ -3,6 +3,7 @@ date: '2010-10-18T23:19:12-05:00'
 draft: false
 title: "Dungeons & Dragons Online: The Seal of Shan-To-Kor"
 author: "Tipa"
+disqusIdentifier: "2010/10/18/dungeons-dragons-online-the-seal-of-shan-to-kor"
 summary: "[..."
 categories:
   - "Dungeons & Dragons Online"
@@ -13,6 +14,19 @@ tags:
   - "Guild Hall"
   - "Shan to Kor"
   - "Static Group"
+relatedPosts:
+  - url: "/2010/10/26/dungeons-dragons-online-three-barrel-cove-part-1/"
+    title: "Dungeons & Dragons Online: Three Barrel Cove, Part 1"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/dndclient-2010-10-25-00-39-44-80-480x384.jpg"
+  - url: "/2008/08/07/eq2-night-of-the-living-goblin/"
+    title: "EQ2: Night of the Living Goblin"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/everquest2-2008-08-06-23-00-34-94.jpg"
+  - url: "/2008/10/24/eq2-the-loping-plains-haunted-house-scared-yet/"
+    title: "EQ2: The Loping Plains Haunted House. Scared yet?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/ghosts.jpg"
+  - url: "/2008/10/09/eq2-nostalgia-guild-hall-mania/"
+    title: "EQ2: Nostalgia Guild Hall mania!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/everquest2-2008-10-08-18-05-29-271.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/dndclient-2010-10-18-00-40-03-40.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/dndclient-2010-10-18-00-40-03-40.jpg"
 ---

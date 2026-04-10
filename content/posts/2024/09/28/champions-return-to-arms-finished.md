@@ -3,6 +3,7 @@ date: '2024-09-28T12:34:27-05:00'
 draft: false
 title: "Champions: Return to Arms finished!"
 author: "Tipa"
+disqusIdentifier: "2024/09/28/champions-return-to-arms-finished"
 summary: "Hey, I finished another game! I hope this doesn't become some kind of trend. I had a lot of fun with it."
 categories:
   - "Action RPG"
@@ -13,6 +14,19 @@ tags:
   - "Champions of Norrath"
   - "Champions Return to Arms"
   - "PCSX2"
+relatedPosts:
+  - url: "/2024/08/15/champions-return-to-arms/"
+    title: "Champions: Return to Arms"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/firiona.png"
+  - url: "/2024/09/09/weekend-gaming-janthir-wilds-return-to-arms-more-thunderjaw/"
+    title: "Weekend gaming: Janthir Wilds, Return to Arms, more Thunderjaw"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/gw2janthir.png"
+  - url: "/2020/05/01/champions-of-norrath-playthrough-chapter-1-kelethin/"
+    title: "Champions of Norrath playthrough: Act 1, Kelethin"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/pcsx2-2020-04-30-07-01-16-71-1024x769.jpg"
+  - url: "/2026/02/17/the-fellowship-of-the-ring-ps2/"
+    title: "The Fellowship of the Ring (PS2)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/The-Lord-of-the-Rings-The-Fellowship-of-the-Ring_SLUS-20520_20260217075358.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/cazicthule.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/cazicthule.png"
 ---

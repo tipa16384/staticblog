@@ -3,10 +3,24 @@ date: '2008-01-18T20:39:54-05:00'
 draft: false
 title: "MMO: Science Fiction MMO Outline #1 -- \"Book of Days\""
 author: "Tipa"
+disqusIdentifier: "2008/01/18/mmo-science-fiction-mmo-outline-1-book-of-days"
 summary: "Inspired by Wilhelm and Potshot, who both see the barriers against any sort of MMO with a science fictional basis as nearly insurmountable... I found..."
 categories:
   - "MMORPG"
   - "Sci Fi"
+relatedPosts:
+  - url: "/2009/05/15/wizard-101-arena-season-1-and-automagic/"
+    title: "Wizard 101: Arena Season 1 and Automagic"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/w101pvppreview.jpg"
+  - url: "/2009/05/07/wizard-101-housing-slump-what-housing-slump/"
+    title: "Wizard 101: Housing slump? What housing slump?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/wizardgraphicalclient-2009-05-06-20-24-33-56.jpg"
+  - url: "/2009/04/20/web-log-420-special-contest-edition/"
+    title: "Web log 4/20 -- Special Contest Edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/whatisawesome.jpg"
+  - url: "/2008/02/11/stuff-to-watch-this-week-lost-jericho-idol/"
+    title: "Stuff to watch this week: Lost, Jericho, Idol"
+    thumbnailImage: ""
 ---
 Inspired by Wilhelm and Potshot, who both see the barriers against any sort of MMO with a science fictional basis as nearly insurmountable... I found...
 <!--more-->

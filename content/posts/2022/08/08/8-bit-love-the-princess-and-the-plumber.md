@@ -3,6 +3,7 @@ date: '2022-08-08T19:45:36-05:00'
 draft: false
 title: "8 Bit Love - The Princess and the Plumber"
 author: "Tipa"
+disqusIdentifier: "2022/08/08/8-bit-love-the-princess-and-the-plumber"
 summary: "Join Mario, Link, and Dirk in their fight to save Princess Toadstool from a life of misery with Bowser. Will they be able to get through to her? Or will she stay with the monster she loves? Find out in this heart-pounding adventure!"
 categories:
   - "Humor"
@@ -16,6 +17,19 @@ tags:
   - "Link"
   - "Princess Toadstool"
   - "Super Mario"
+relatedPosts:
+  - url: "/2022/09/26/star-ocean-the-divine-force-the-demo-the-review-but-what-if-it-was-written-like-dear-abby/"
+    title: "Star Ocean: The Divine Force: The Demo: The Review, but what if it was written like Dear Abby?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-26-16.46.54-Old-time-newspaper-illustration-of-a-1950s-housewife-writing-a-letter-on-the-kitchen-table-with-pen-and-paper.-the-housewife-is-crying..png"
+  - url: "/2022/08/05/steve-the-fifth-horseman-of-the-apocalypse/"
+    title: "Steve, the Fifth Horseman of the Apocalypse"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/DALL·E-2022-07-30-11.32.58-A-photograph-of-a-colorfully-dressed-clown-named-Steve-sitting-on-a-horse-that-has-fiery-eyes.-They-are-standing-on-a-hill.-Behind-them-on-the-hori.png"
+  - url: "/2022/09/07/the-life-of-a-medical-student-who-sold-himself-as-an-nft-to-pay-for-school/"
+    title: "The Life of a Medical Student Who Sold Himself as an NFT to Pay for School"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-07-08.36.20-A-young-male-medical-student-mining-gold-in-World-of-Warcraft..png"
+  - url: "/2022/09/05/the-battle-for-lockes-heart-the-remake/"
+    title: "The Battle for Locke's Heart: The Remake"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-04-21.39.29-Digital-painting-of-a-tall-woman-with-green-hair-in-a-high-ponytail-a-long-blonde-woman-wearing-armor-a-man-in-blue-jeans-and-jacket-a-gentleman-ga.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-08-19.33.03-Zelda-and-Link-fighting-with-swords-as-high-resolution-digital-art.-they-are-spotlighted-and-they-are-on-a-stage..png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-08-19.33.03-Zelda-and-Link-fighting-with-swords-as-high-resolution-digital-art.-they-are-spotlighted-and-they-are-on-a-stage..png"
 ---

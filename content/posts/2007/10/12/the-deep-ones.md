@@ -3,6 +3,7 @@ date: '2007-10-12T12:24:28-05:00'
 draft: false
 title: "The Deep Ones"
 author: "Tipa"
+disqusIdentifier: "2007/10/12/the-deep-ones"
 summary: "And yet I saw them in a limitless stream - flopping, hopping, croaking, bleating - urging inhumanly through the spectral moonlight in a grotesque, malignant..."
 categories:
   - "EverQuest"
@@ -15,6 +16,19 @@ tags:
   - "Plane of Water"
   - "Veksar"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2008/09/03/eq2-game-update-48-is-live/"
+    title: "EQ2: Game update 48 is live"
+    thumbnailImage: ""
+  - url: "/2008/08/08/eq-veksar-rising/"
+    title: "EQ: Veksar Rising"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/everquest2-2008-08-08-06-09-15-08.jpg"
+  - url: "/2008/11/01/eq-nostalgia-enters-vex-thal/"
+    title: "EQ: Nostalgia enters Vex Thal!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/eqgame-2008-11-01-12-03-19-13.jpg"
+  - url: "/2008/10/25/eq-the-bastion-of-thunder/"
+    title: "EQ: The Bastion of Thunder"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-25-07-09-32-24.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/10/goblin.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/10/goblin.jpg"
 ---

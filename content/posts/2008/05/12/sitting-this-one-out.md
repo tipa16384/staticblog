@@ -3,6 +3,7 @@ date: '2008-05-12T12:37:14-05:00'
 draft: false
 title: "Sitting this one out."
 author: "Tipa"
+disqusIdentifier: "2008/05/12/sitting-this-one-out"
 summary: "I feel a little like a relic at this moment. Everyone is talking about Age of Conan, Warhammer Online and Wrath of the Liche King,..."
 categories:
   - "Age of Conan"
@@ -11,6 +12,19 @@ categories:
   - "Mythos"
   - "Warhammer: Age of Reckoning"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2008/12/24/a-look-back-at-2008/"
+    title: "A look back at 2008"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-30-22-10-50-69.jpg"
+  - url: "/2008/07/01/sequencing-mmo-dna/"
+    title: "Sequencing MMO DNA"
+    thumbnailImage: ""
+  - url: "/2008/04/07/the-mmo-nostalgia-challenge/"
+    title: "The MMO Nostalgia Challenge"
+    thumbnailImage: ""
 ---
 I feel a little like a relic at this moment. Everyone is talking about Age of Conan, Warhammer Online and Wrath of the Liche King,...
 <!--more-->

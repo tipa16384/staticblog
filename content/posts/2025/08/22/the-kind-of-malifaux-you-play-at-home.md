@@ -3,6 +3,7 @@ date: '2025-08-22T09:29:46-05:00'
 draft: false
 title: "The Kind of Malifaux You Play at Home"
 author: "Tipa"
+disqusIdentifier: "2025/08/22/the-kind-of-malifaux-you-play-at-home"
 summary: "With 4th Edition leaving beta, players are waiting for the official release. Meanwhile, some of us still want to play a game..."
 categories:
   - "Blaugust"
@@ -14,6 +15,19 @@ tags:
   - "December"
   - "Performer"
   - "Tormented"
+relatedPosts:
+  - url: "/2026/03/08/malifaux-collete-du-bois-smuggler-vs-jakob-lynch-dark-bet/"
+    title: "Malifaux: Collete du Bois, Smuggler vs Jakob Lynch, Dark Bet"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/IMG_5713-scaled.jpg"
+  - url: "/2026/02/01/captaincon-2026-masters-of-malifaux/"
+    title: "CaptainCon 2026: Masters of Malifaux"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/CC_Logo_Red.webp"
+  - url: "/2025/05/25/malifaux-4e-december-vs-experimental/"
+    title: "Malifaux 4e: December vs Experimental"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/IMG_5155-scaled.jpg"
+  - url: "/2025/04/30/malifaux-4th-edition-mei-feng-vs-captain-zipp/"
+    title: "Malifaux 4th Edition: Mei Feng vs Captain Zipp"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/04/newcrew4ebanner.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5337-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5337-scaled.jpg"
 ---

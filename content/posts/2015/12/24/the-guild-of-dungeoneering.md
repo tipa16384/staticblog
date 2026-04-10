@@ -3,9 +3,23 @@ date: '2015-12-24T21:32:28-05:00'
 draft: false
 title: "The Guild of Dungeoneering"
 author: "Tipa"
+disqusIdentifier: "2015/12/24/the-guild-of-dungeoneering"
 summary: "I'm usually a little wary of games that advertise the soundtrack as something you can buy separately. It's just usually not going to be that..."
 categories:
   - "Other Games"
+relatedPosts:
+  - url: "/2025/08/06/la-brute-battles-royale-and-warring-guilds/"
+    title: "La Brute: Battles Royale and Warring Guilds"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/LaBrute.png"
+  - url: "/2025/07/10/frosthaven-scenario-14-jagged-shoals/"
+    title: "Frosthaven Scenario 14: Jagged Shoals"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/07/IMG_5225-scaled.jpg"
+  - url: "/2024/11/21/dragon-age-the-veilguard-finished/"
+    title: "Dragon Age: the Veilguard finished"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/banner2.png"
+  - url: "/2024/11/09/dragon-age-the-veilguard-is-not-the-game-you-think-it-is/"
+    title: "Dragon Age: The Veilguard is not the game you think it is"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/davg-banner.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/12/dungeoneering-2015-12-24-20-39-17-29.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/12/dungeoneering-2015-12-24-20-39-17-29.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2026-02-18T08:31:57-05:00'
 draft: false
 title: "A new Tunnels &amp; Trolls? In this economy?"
 author: "Tipa"
+disqusIdentifier: "2026/02/18/a-new-tunnels-trolls-in-this-economy"
 summary: "The second (but funniest) TTRPG ever reinvents itself for the third time with Tunnels & Trolls: A New Age."
 categories:
   - "Tabletop Games"
@@ -10,6 +11,19 @@ tags:
   - "a new age"
   - "rebellion unplugged"
   - "Tunnels & Trolls"
+relatedPosts:
+  - url: "/2025/03/03/tunnels-trolls-sword-for-hire/"
+    title: "Tunnels &amp; Trolls: Sword for Hire"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/ttbanner.png"
+  - url: "/2025/03/17/sword-for-hire-vertical-slice-vibe-coding/"
+    title: "Sword for Hire: Vertical Slice &amp; Vibe Coding"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/swordforhiremap.png"
+  - url: "/2025/03/10/how-to-fail-at-writing-a-game-in-7-days/"
+    title: "How To Fail at Writing A Game in 7 Days"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/gamedevadventure.png"
+  - url: "/2026/03/08/malifaux-collete-du-bois-smuggler-vs-jakob-lynch-dark-bet/"
+    title: "Malifaux: Collete du Bois, Smuggler vs Jakob Lynch, Dark Bet"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/IMG_5713-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/TTnewbanner.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/TTnewbanner.png"
 ---

@@ -3,6 +3,7 @@ date: '2008-09-21T20:34:27-05:00'
 draft: false
 title: "W101: The Chamber of Fire, the Royal Hall and Sunken City"
 author: "Tipa"
+disqusIdentifier: "2008/09/21/w101-the-chamber-of-fire-the-royal-hall-and-sunken-city"
 summary: "A friend was having trouble in the Sunken City and asked for some help. I was in a battle of my own and was low..."
 categories:
   - "MMORPG"
@@ -14,6 +15,19 @@ tags:
   - "Sunken City"
   - "W101"
   - "Wizard101"
+relatedPosts:
+  - url: "/2008/09/25/w101-entering-the-palace-of-fire/"
+    title: "W101: Entering the Palace of Fire"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/wizardgraphicalclient-2008-09-24-20-52-32-26.jpg"
+  - url: "/2008/10/29/wizard-101-crimson-fields-and-sunken-city-again/"
+    title: "Wizard 101: Crimson Fields and Sunken City (again)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-28-01-24-41-16.jpg"
+  - url: "/2008/09/07/w101-the-sunken-city/"
+    title: "W101: The Sunken City"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/wizardgraphicalclient-2008-09-07-02-12-18-82.jpg"
+  - url: "/2008/10/27/wizard-101-hametsu-village/"
+    title: "Wizard 101: Hametsu Village"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-26-17-18-58-70.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/wizardgraphicalclient-2008-09-21-17-39-05-38.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/wizardgraphicalclient-2008-09-21-17-39-05-38.jpg"
 ---

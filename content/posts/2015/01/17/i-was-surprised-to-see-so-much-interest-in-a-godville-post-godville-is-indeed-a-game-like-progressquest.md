@@ -3,10 +3,24 @@ date: '2015-01-17T02:31:06-05:00'
 draft: false
 title: "Godville: Dungeon Run"
 author: "Tipa"
+disqusIdentifier: "2015/01/17/i-was-surprised-to-see-so-much-interest-in-a-godville-post-godville-is-indeed-a-game-like-progressquest"
 summary: "I was surprised to see so much interest in a #Godville post :) Godville is indeed a game like ProgressQuest, a parody of MMOs where..."
 categories:
   - "Godville"
   - "Other Games"
+relatedPosts:
+  - url: "/2015/09/10/double-dragon-down/"
+    title: "Double Dragon Down"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/09/1-Fullscreen-capture-992015-113559-PM.jpg"
+  - url: "/2015/01/16/my-pet-finally-hit-level-30-in-godville-and-i-now-can-proudly-bear-the-pet-trainer-badge-and-have/"
+    title: "Godville: Pet Trainer!"
+    thumbnailImage: "https://lh6.googleusercontent.com/-yBPk_9w5Qws/VLj0um-b4XI/AAAAAAAA-uk/iYq_tReYjek/w506-h750/Fullscreen%2Bcapture%2B1162015%2B61953%2BAM.jpg"
+  - url: "/2014/06/21/godville-zero-player-game-mastery/"
+    title: "Godville: Z(ero) P(layer) G(ame) mastery!"
+    thumbnailImage: "https://lh6.googleusercontent.com/-uL7DdYgolbk/U6V_RDvS-rI/AAAAAAAAvys/ZSjGj9qklMA/w710-h476-no/Fullscreen+capture+6212014+83047+AM.jpg"
+  - url: "/2020/05/11/godville-is-ten-years-old/"
+    title: "Godville is ten years old!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/godville.png"
 coverImage: "https://lh6.googleusercontent.com/-IWUZmew2OuE/VLnFtlji8HI/AAAAAAAA-xo/4QcGZ8L1mrg/w506-h750/Fullscreen%2Bcapture%2B1162015%2B71447%2BPM.jpg"
 thumbnailImage: "https://lh6.googleusercontent.com/-IWUZmew2OuE/VLnFtlji8HI/AAAAAAAA-xo/4QcGZ8L1mrg/w506-h750/Fullscreen%2Bcapture%2B1162015%2B71447%2BPM.jpg"
 ---

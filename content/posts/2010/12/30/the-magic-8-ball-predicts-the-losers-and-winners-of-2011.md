@@ -3,6 +3,7 @@ date: '2010-12-30T06:00:24-05:00'
 draft: false
 title: "The Magic 8 Ball predicts the losers and winners of 2011."
 author: "Tipa"
+disqusIdentifier: "2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011"
 summary: "I suck at predictions, but everyone else is doing them. Luckily, I have a Magic 8 Ball. I'm just gonna list some games, and ask..."
 categories:
   - "Age of Conan"
@@ -31,6 +32,19 @@ categories:
   - "Warhammer: Age of Reckoning"
   - "Wizard101"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2011/01/27/daily-blogroll-127-inevitable-backlash-edition/"
+    title: "Daily Blogroll 1/27 -- Inevitable Backlash edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/riftblade.png"
+  - url: "/2009/09/17/daily-blogroll-917-kanye-edition/"
+    title: "Daily Blogroll 9/17 - Kanye edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/kanye.jpg"
+  - url: "/2009/05/08/daily-blogroll-58-darkfail-edition/"
+    title: "Daily Blogroll 5/8 -- Darkfail edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/darkfall.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
 ---

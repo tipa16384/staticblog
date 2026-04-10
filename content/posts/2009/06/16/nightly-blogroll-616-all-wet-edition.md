@@ -3,6 +3,7 @@ date: '2009-06-16T00:55:15-05:00'
 draft: false
 title: "Nightly Blogroll 6/16 -- All Wet edition"
 author: "Tipa"
+disqusIdentifier: "2009/06/16/nightly-blogroll-616-all-wet-edition"
 summary: "Yup, back in Florensia for a second try at it. Because, hey, be a pirate on the sea and an adventurer on the land, build..."
 categories:
   - "Daily Blogroll"
@@ -12,6 +13,19 @@ categories:
   - "MMORPG"
   - "Wizard101"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2011/10/21/daily-blogroll-oct-21-tanks-for-the-memories-edition/"
+    title: "Daily Blogroll Oct 21: Tanks for the Memories edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/dndclient-2011-10-20-21-19-18-63-480x352.jpg"
+  - url: "/2009/09/01/daily-blogroll-91-hell-o-kiddie-edition/"
+    title: "Daily Blogroll 9/1 - Hell, O Kiddie edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/hko-2009-09-01-07-24-48-98.jpg"
+  - url: "/2009/08/10/daily-blogroll-810-thank-god-its-monday-edition/"
+    title: "Daily Blogroll 8/10 -- Thank God it's Monday edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/daddygirl.jpg"
+  - url: "/2009/06/15/daily-blogroll-615-just-this-once-edition/"
+    title: "Daily Blogroll 6/15 -- Just This Once edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/WizardGraphicalClient-2009-06-15-07-54-00-91.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/florensia.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/florensia.jpg"
 ---

@@ -3,9 +3,23 @@ date: '2020-08-01T13:48:42-05:00'
 draft: false
 title: "Blaugust Prompt #1: Core Fandoms"
 author: "Tipa"
+disqusIdentifier: "2020/08/01/blaugust-prompt-1-core-fandoms"
 summary: "Do I even need to explain what Blaugust is? I imagine the Venn diagram of the people who read my blog and aren't already well..."
 categories:
   - "Blaugust"
+relatedPosts:
+  - url: "/2025/09/01/august-blogging-from-2005-to-today/"
+    title: "August Blogging from 2005 to today"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/raspy-blogging.png"
+  - url: "/2025/08/31/the-vectrex-is-coming-back-in-pog-form/"
+    title: "The Vectrex is coming back... in pog form!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/vectrexmini.png"
+  - url: "/2025/08/30/dune-awakening-we-finally-got-ganked/"
+    title: "Dune Awakening: We finally got ganked"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/20250830103401_1.jpg"
+  - url: "/2025/08/29/i-guess-i-suck-at-this-whole-blaugust-thing/"
+    title: "I guess I suck at this whole Blaugust thing"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/arcaniststage.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/path3783.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/path3783.png"
 ---

@@ -3,6 +3,7 @@ date: '2026-03-28T14:51:36-05:00'
 draft: false
 title: "Blasts from the Past: Is it the 90s again?"
 author: "Tipa"
+disqusIdentifier: "2026/03/28/blasts-from-the-past-is-it-the-90s-again"
 summary: "Quick reviews of Rakuraku Dinokun, Terminal, 8-Colors Space Guardians and Pool of Madness Playtest."
 categories:
   - "Steam Games"
@@ -11,6 +12,19 @@ tags:
   - "pool of madness"
   - "raku raku dinokun"
   - "terminal"
+relatedPosts:
+  - url: "/2026/03/25/preview-topdeck-automat/"
+    title: "Preview: Topdeck Automat"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-24-220403.png"
+  - url: "/2026/03/22/review-the-invincible/"
+    title: "Review: The Invincible"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/1222-the-invincible-review-teaser.jpg"
+  - url: "/2026/03/10/tactichord-glam-strategy/"
+    title: "Tactichord: Glam Strategy"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-09-220443.png"
+  - url: "/2026/03/04/steam-next-fest-windrose-tides-of-blazefall-twilight-imperium-panzer-dragoon-zwei/"
+    title: "Steam Next Fest: Windrose, Tides of Blazefall, Twilight Imperium, Panzer Dragoon Zwei"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/1-20260301204409_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/elves-and-dinokun.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/elves-and-dinokun.jpg"
 ---

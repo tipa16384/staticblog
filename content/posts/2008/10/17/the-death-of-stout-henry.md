@@ -3,6 +3,7 @@ date: '2008-10-17T08:45:20-05:00'
 draft: false
 title: "The Death of Stout Henry"
 author: "Tipa"
+disqusIdentifier: "2008/10/17/the-death-of-stout-henry"
 summary: "\"This man,\" shouted the Magistrate, \"who has come before us, an inhuman wretch, devoid of pity; void and empty; stands before you exposed. Let they..."
 categories:
   - "Humor"
@@ -11,6 +12,19 @@ categories:
 tags:
   - "Stout Henry"
   - "The Death of Stout Henry"
+relatedPosts:
+  - url: "/2008/11/04/stout-henry-nanowrimo-edition-kneed-before-greed/"
+    title: "Stout Henry, NaNoWriMo edition: Kneed Before Greed"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/stouthenrynbg.jpg"
+  - url: "/2008/10/08/stout-henry-goes-to-war/"
+    title: "Stout Henry goes to war"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/vgclient-2008-10-07-20-41-55-41.jpg"
+  - url: "/2008/08/26/stout-henry-at-the-market/"
+    title: "Stout Henry at the Market"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/market2.jpg"
+  - url: "/2008/08/21/stout-henry/"
+    title: "Stout Henry"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/stouthenry.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/gallows.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/gallows.jpg"
 ---

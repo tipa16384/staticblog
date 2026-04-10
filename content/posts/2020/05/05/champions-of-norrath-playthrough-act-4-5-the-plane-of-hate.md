@@ -3,6 +3,7 @@ date: '2020-05-05T11:53:06-05:00'
 draft: false
 title: "Champions of Norrath playthrough Act 4 & 5: The Plane of Hate"
 author: "Tipa"
+disqusIdentifier: "2020/05/05/champions-of-norrath-playthrough-act-4-5-the-plane-of-hate"
 summary: "This is part four of a four part playthrough of the 2004 PlayStation 2 hit, Champions of Norrath: Realms of EverQuest. All four parts will..."
 categories:
   - "Emulators"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Champions of Norrath"
   - "PS2"
+relatedPosts:
+  - url: "/2020/05/03/champions-of-norrath-playthrough-act-3-pit-of-ill-omen/"
+    title: "Champions of Norrath playthrough, Act 3: Pit of Ill Omen"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/pcsx2-2020-05-02-19-09-25-62-1024x769.jpg"
+  - url: "/2020/05/02/champions-of-norrath-play-through-act-2-blackdelve-reach/"
+    title: "Champions of Norrath play through: Act 2, Blackdelve Reach"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/1-pcsx2-2020-05-01-23-30-28-91-1024x570.jpg"
+  - url: "/2020/05/01/champions-of-norrath-playthrough-chapter-1-kelethin/"
+    title: "Champions of Norrath playthrough: Act 1, Kelethin"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/pcsx2-2020-04-30-07-01-16-71-1024x769.jpg"
+  - url: "/2024/09/28/champions-return-to-arms-finished/"
+    title: "Champions: Return to Arms finished!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/cazicthule.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/1-pcsx2-2020-05-02-22-45-12-17-1024x574.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/1-pcsx2-2020-05-02-22-45-12-17-1024x574.jpg"
 ---

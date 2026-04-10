@@ -3,6 +3,7 @@ date: '2010-12-02T06:00:15-05:00'
 draft: false
 title: "Daily Blogroll 12/2 -- Rift-tease Edition"
 author: "Tipa"
+disqusIdentifier: "2010/12/02/daily-blogroll-122-rift-tease-edition"
 summary: "There's a Rift Beta event this weekend, and that's about all you'll ever hear of the beta from this site at least. To call their..."
 categories:
   - "Daily Blogroll"
@@ -11,6 +12,19 @@ categories:
   - "Neo Steam"
   - "Wizard101"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2009/05/28/daily-blogroll-528-no-funny-name-episode/"
+    title: "Daily Blogroll 5/28 -- No funny name episode"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/makinghay.jpg"
+  - url: "/2010/05/08/assault-on-the-inbox-may-7-2010/"
+    title: "Assault on the Inbox: May 7, 2010"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/stochair.jpg"
+  - url: "/2009/06/08/nightly-blogroll-though-amaryllis-dance-edition/"
+    title: "Nightly Blogroll -- Though Amaryllis dance edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/neosteambanner.jpg"
+  - url: "/2009/08/21/daily-blogroll-821-gloomshine-edition/"
+    title: "Daily Blogroll 8/21 - Gloomshine Edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/Gatheryn-2009-08-20-18-51-17-34.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/ca23-full.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/ca23-full.jpg"
 ---

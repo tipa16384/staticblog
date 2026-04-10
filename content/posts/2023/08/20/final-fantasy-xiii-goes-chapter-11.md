@@ -3,6 +3,7 @@ date: '2023-08-20T15:23:23-05:00'
 draft: false
 title: "Final Fantasy XIII goes Chapter 11"
 author: "Tipa"
+disqusIdentifier: "2023/08/20/final-fantasy-xiii-goes-chapter-11"
 summary: "Our crafty band of l'Cie defeat the big bad for the second time and head back to Cocoon to either save or destroy the floating world."
 categories:
   - "Blaugust"
@@ -10,6 +11,19 @@ categories:
   - "Final Fantasy"
 tags:
   - "Barthandelus"
+relatedPosts:
+  - url: "/2023/08/24/staying-motivated-for-retro-world-expo-2023/"
+    title: "Staying Motivated for Retro World Expo 2023"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/retroworldexpo.jpg"
+  - url: "/2023/08/16/a-tribute-to-creators/"
+    title: "From Hydaelyn to Veeshan: A Tribute to Creators"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/hydaelyn.webp"
+  - url: "/2023/08/13/ffxiii-welcome-to-gran-pulse/"
+    title: "FFXIII: Welcome to Gran Pulse"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/00-featured-barthandelus-hardest-ffxiii-boss.jpg"
+  - url: "/2023/08/04/palia-first-impressions-a-promising-start-to-a-social-mmo-adventure/"
+    title: "Palia First Impressions: A Promising Start to a Social MMO Adventure"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/PALIA_Key_Art_Logo_1920x1080.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/ffxiiich11-1.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/ffxiiich11-1.png"
 ---

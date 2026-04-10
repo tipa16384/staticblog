@@ -3,6 +3,7 @@ date: '2010-12-23T06:00:43-05:00'
 draft: false
 title: "Daily Blogroll 12/23 -- Christmas Eve Eve edition"
 author: "Tipa"
+disqusIdentifier: "2010/12/23/daily-blogroll-1223-christmas-eve-eve-edition"
 summary: "[..."
 categories:
   - "Black Prophecy"
@@ -13,6 +14,19 @@ categories:
   - "MMORPG"
   - "Rift"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2011/01/27/daily-blogroll-127-inevitable-backlash-edition/"
+    title: "Daily Blogroll 1/27 -- Inevitable Backlash edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/riftblade.png"
+  - url: "/2011/01/07/daily-blogroll-17-better-than-life-edition/"
+    title: "Daily Blogroll 1/7 - Better than Life edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/ZodiacOnline.jpg"
+  - url: "/2011/01/06/daily-blogroll-16-fair-and-balanced-edition/"
+    title: "Daily Blogroll 1/6: Fair and Balanced edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/fox.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/rifty.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/rifty.png"
 ---

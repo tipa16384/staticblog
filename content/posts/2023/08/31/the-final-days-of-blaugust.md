@@ -3,6 +3,7 @@ date: '2023-08-31T07:35:07-05:00'
 draft: false
 title: "The final days of Blaugust"
 author: "Tipa"
+disqusIdentifier: "2023/08/31/the-final-days-of-blaugust"
 summary: "...and I'm ending it as I began it..."
 categories:
   - "Blaugust"
@@ -13,6 +14,19 @@ categories:
   - "EverQuest"
   - "Neverwinter"
   - "Second Life"
+relatedPosts:
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2023/08/04/palia-first-impressions-a-promising-start-to-a-social-mmo-adventure/"
+    title: "Palia First Impressions: A Promising Start to a Social MMO Adventure"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/PALIA_Key_Art_Logo_1920x1080.jpg"
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2023/08/16/a-tribute-to-creators/"
+    title: "From Hydaelyn to Veeshan: A Tribute to Creators"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/hydaelyn.webp"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/solongblaugust.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/solongblaugust.png"
 ---

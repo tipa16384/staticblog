@@ -3,6 +3,7 @@ date: '2021-08-30T23:51:06-05:00'
 draft: false
 title: "Tipa v Internet: Part II"
 author: "Tipa"
+disqusIdentifier: "2021/08/30/tipa-v-internet-part-ii"
 summary: "I bought a new router and haven't crashed in DCUO all night. Is everything good now? Did I fix the issue?..."
 categories:
   - "Blaugust"
@@ -11,6 +12,19 @@ categories:
 tags:
   - "Blaugust"
   - "Internet"
+relatedPosts:
+  - url: "/2021/08/23/this-post-isnt-about-tiny-rogue/"
+    title: "This Post Isn't About Mini Rogue"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-IMG_2295.jpg"
+  - url: "/2021/08/19/game-night-jotl-the-gauntlet/"
+    title: 'Game Night: JotL "The Gauntlet"'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-IMG_2293-001.jpg"
+  - url: "/2020/08/29/blaugust-29-communities/"
+    title: "Blaugust #29: Communities"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/LordBritishAddressingTheMasses.jpg"
+  - url: "/2020/08/25/blaugust-25-blogging-in-a-time-of-corona/"
+    title: "Blaugust #25: Blogging in a Time of Corona"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/coronavirus.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/MADV114_DESIGNERDATA-PC-30-23.09.150.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/MADV114_DESIGNERDATA-PC-30-23.09.150.jpg"
 ---

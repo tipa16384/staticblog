@@ -3,6 +3,7 @@ date: '2020-12-08T08:49:58-05:00'
 draft: false
 title: "Too Many Games in my Queue"
 author: "Tipa"
+disqusIdentifier: "2020/12/08/too-many-games-in-my-queue"
 summary: "One really nice thing about playing a long, involved game like Assassins Creed Valhalla is that I don't have to think about what game I..."
 categories:
   - "Nintendo Switch"
@@ -23,6 +24,19 @@ tags:
   - "Valhalla"
   - "Wizard of Legend"
   - "Zachtronics"
+relatedPosts:
+  - url: "/2020/12/11/my-rpgs-of-2020/"
+    title: "My RPGs of 2020"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/Chocobos-Mystery-Dungeon-EVERY-BUDDY_20200506204657.jpg"
+  - url: "/2024/10/26/last-call-bbs-puzzle-games-for-the-retro-inclined/"
+    title: "Last Call BBS: Puzzle Games for the Retro-Inclined"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/2-20241026104137_1.jpg"
+  - url: "/2021/01/10/exapunks-finished-heres-my-solutions/"
+    title: "EXAPUNKS Finished! Here's my solutions..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/01/exaepilogue.jpg"
+  - url: "/2020/12/30/quick-takes-exapunks/"
+    title: "Quick Takes: Exapunks"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/20201230072838_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/2020120808035600-67D01338887DAC4477826B5EA75BFB74.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/2020120808035600-67D01338887DAC4477826B5EA75BFB74.jpg"
 ---

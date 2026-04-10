@@ -3,6 +3,7 @@ date: '2024-01-23T07:48:12-05:00'
 draft: false
 title: "HeroQuest: The Fire Mage"
 author: "Tipa"
+disqusIdentifier: "2024/01/23/heroquest-the-fire-mage"
 summary: "The monk and the rogue take the place of the barbarian and the wizard as the party faces their greatest challenge yet..."
 categories:
   - "Game Night"
@@ -14,6 +15,19 @@ tags:
   - "Monk"
   - "Rogue"
   - "Wizard"
+relatedPosts:
+  - url: "/2024/06/12/heroquest-return-to-barak-tor/"
+    title: "HeroQuest: Return to Barak-Tor"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/06/return-14.png"
+  - url: "/2024/02/07/heroquest-a-race-against-time/"
+    title: "HeroQuest: A Race Against Time"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/02/DALL·E-2024-02-07-07.42.15-In-the-style-of-a-dynamic-and-colorful-comic-book-illustrate-a-scene-where-a-male-elf-rogue-with-androgynous-features-long-blonde-hair-and-pointed.webp"
+  - url: "/2024/01/14/heroquest-the-monks-and-the-rogues-step-up/"
+    title: "HeroQuest: The Monks and the Rogues step up"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/IMG_4162-scaled.jpg"
+  - url: "/2010/09/11/treasure-abyss-i-got-eaten-by-a-grue/"
+    title: "Treasure Abyss: I got eaten by a grue."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/Fullscreen-capture-9112010-73352-PM-480x379.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/DALL·E-2024-01-22-22.36.44-A-vivid-and-dynamic-heroic-fantasy-battle-scene-not-in-the-form-of-miniatures.-It-features-a-Shaolin-Monk-bare-to-the-waist-and-wearing-a-red-sash-.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/DALL·E-2024-01-22-22.36.44-A-vivid-and-dynamic-heroic-fantasy-battle-scene-not-in-the-form-of-miniatures.-It-features-a-Shaolin-Monk-bare-to-the-waist-and-wearing-a-red-sash-.png"
 ---

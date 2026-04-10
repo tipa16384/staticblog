@@ -3,6 +3,7 @@ date: '2024-06-26T07:00:00-05:00'
 draft: false
 title: "Origins 2024 Recap"
 author: "Tipa"
+disqusIdentifier: "2024/06/26/origins-2024-recap"
 summary: "This was my first Origins. It was a little overwhelming, but I'll do better, next time."
 categories:
   - "Frosthaven"
@@ -17,6 +18,19 @@ tags:
   - "Gate Keeper Games"
   - "Origins Game Fair"
   - "Traveller"
+relatedPosts:
+  - url: "/2024/08/03/more-confessions-of-a-kickstarter-superbacker/"
+    title: "More Confessions of a Kickstarter Superbacker"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/superbacker.png"
+  - url: "/2024/07/24/dungeon-crawl-classics-ttrpg-survival-of-the-fittest/"
+    title: "Dungeon Crawl Classics TTRPG: Survival of the Fittest"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/07/dccbanner.png"
+  - url: "/2021/10/15/looking-for-mr-kickstarter/"
+    title: "Looking for Mr. Kickstarter"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/cologne.jpg"
+  - url: "/2021/10/10/game-night-jotl-the-heist-and-the-message/"
+    title: 'Game Night: JotL "The Heist" and "The Message"'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/1-IMG_2350.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/06/IMG_4347-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/06/IMG_4347-scaled.jpg"
 ---

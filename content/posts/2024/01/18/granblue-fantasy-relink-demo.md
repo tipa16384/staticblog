@@ -3,6 +3,7 @@ date: '2024-01-18T19:49:27-05:00'
 draft: false
 title: "Granblue Fantasy: Relink (DEMO)"
 author: "Tipa"
+disqusIdentifier: "2024/01/18/granblue-fantasy-relink-demo"
 summary: "Granblue Fantasy makes the leap from mobile to console with Relink. So... what kind of game is it?"
 categories:
   - "Dragon's Dogma"
@@ -13,6 +14,19 @@ tags:
   - "Hack and Slash"
   - "Persona"
   - "RPG"
+relatedPosts:
+  - url: "/2020/12/14/persona-4-golden-the-story-thus-far/"
+    title: "Persona 4 Golden: The Story Thus Far"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/20201209215453_1.jpg"
+  - url: "/2024/03/25/dragons-dogma-ii-now-playing/"
+    title: "Dragon's Dogma II: Now Playing"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/dd2banner.png"
+  - url: "/2022/08/05/steve-the-fifth-horseman-of-the-apocalypse/"
+    title: "Steve, the Fifth Horseman of the Apocalypse"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/DALL·E-2022-07-30-11.32.58-A-photograph-of-a-colorfully-dressed-clown-named-Steve-sitting-on-a-horse-that-has-fiery-eyes.-They-are-standing-on-a-hill.-Behind-them-on-the-hori.png"
+  - url: "/2022/05/02/restarting-in-valheim/"
+    title: "Restarting in Valheim"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/05/20220429225417_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/Granblue-Fantasy_-Relink-Demo_20240117201543-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/Granblue-Fantasy_-Relink-Demo_20240117201543-scaled.jpg"
 ---

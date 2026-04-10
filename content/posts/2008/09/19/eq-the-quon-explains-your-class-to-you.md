@@ -3,6 +3,7 @@ date: '2008-09-19T12:09:02-05:00'
 draft: false
 title: "EQ: The Quon explains your class to you"
 author: "Tipa"
+disqusIdentifier: "2008/09/19/eq-the-quon-explains-your-class-to-you"
 summary: "Back in 2003, The Quon was having trouble getting people to realize that their class was crap because they were not a cleric, the class..."
 categories:
   - "EverQuest"
@@ -10,6 +11,19 @@ categories:
   - "MMORPG"
 tags:
   - "The Quon"
+relatedPosts:
+  - url: "/2012/12/25/happy-holidays/"
+    title: "Happy Holidays!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/12/eqchristmas-386x480.png"
+  - url: "/2011/03/25/eq2-three-wolf-moon/"
+    title: "EQ2: Three Wolf Moon"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/EverQuest2-2011-03-25-07-16-23-57.jpg"
+  - url: "/2010/08/18/five-better-concepts-for-everquest-next/"
+    title: "Five Better Concepts for EverQuest Next?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/village.jpg"
+  - url: "/2009/08/22/eq2-werewolf-gets-a-new-job/"
+    title: "EQ2: Werewolf gets a new job"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/eq2bugbearwerewolf-2.jpg"
 ---
 Back in 2003, The Quon was having trouble getting people to realize that their class was crap because they were not a cleric, the class...
 <!--more-->

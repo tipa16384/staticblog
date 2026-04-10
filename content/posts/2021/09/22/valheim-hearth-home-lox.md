@@ -3,6 +3,7 @@ date: '2021-09-22T08:24:34-05:00'
 draft: false
 title: "Valheim: Hearth & Home & Lox"
 author: "Tipa"
+disqusIdentifier: "2021/09/22/valheim-hearth-home-lox"
 summary: "Valheim's first content expansion brings a little adventure together with a lot of new things to make and build. Is it going to be enough..."
 categories:
   - "Steam Games"
@@ -12,6 +13,19 @@ categories:
 tags:
   - "Hearth and Home"
   - "Steam"
+relatedPosts:
+  - url: "/2022/06/26/v-rising-hitting-the-hemoglobin/"
+    title: "V Rising: Hitting the Hemoglobin"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/06/20220626091446_1.jpg"
+  - url: "/2022/05/02/restarting-in-valheim/"
+    title: "Restarting in Valheim"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/05/20220429225417_1.jpg"
+  - url: "/2021/04/02/valheim-national-no-more-bosses-day/"
+    title: "Valheim: National No More Bosses Day"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/04/20210401223728_1.jpg"
+  - url: "/2021/03/31/valheim-friends-in-the-afterlife/"
+    title: "Valheim: Friends in the Afterlife"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/03/10-20210329072158_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/20210922072238_1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/20210922072238_1.jpg"
 ---

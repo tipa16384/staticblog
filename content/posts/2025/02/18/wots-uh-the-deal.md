@@ -3,6 +3,7 @@ date: '2025-02-18T08:42:08-05:00'
 draft: false
 title: "Wot's... Uh the Deal?"
 author: "Tipa"
+disqusIdentifier: "2025/02/18/wots-uh-the-deal"
 summary: "Lots of stuff going on, I guess I should update on all the things."
 categories:
   - "Erenshor"
@@ -14,6 +15,19 @@ tags:
   - "Erenshor"
   - "Fantasian Neo Dimension"
   - "Stars Reach"
+relatedPosts:
+  - url: "/2025/01/27/i-know-what-i-did-last-weekend-2/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/drbrawn.png"
+  - url: "/2025/02/11/erenshor-oh-by-the-way-which-one-is-bink/"
+    title: "Erenshor: Oh, by the way, which one is Bink?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/02/1-20250210223651_1.jpg"
+  - url: "/2025/01/06/i-know-what-i-did-last-weekend/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/2025-1-6.png"
+  - url: "/2024/10/18/erenshor-the-shivering-steps/"
+    title: "Erenshor: The Shivering Steps"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/erenshor-shivering.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/02/tipachu_A_scene_from_a_city_with_an_unpainted_metal_statue_of_1f26c4d5-89d9-43e1-98ae-b76a59f62d92_2.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/02/tipachu_A_scene_from_a_city_with_an_unpainted_metal_statue_of_1f26c4d5-89d9-43e1-98ae-b76a59f62d92_2.png"
 ---

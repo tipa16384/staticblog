@@ -3,6 +3,7 @@ date: '2023-12-02T15:44:35-05:00'
 draft: false
 title: "Advent of Code Day 2 -- Cube Conundrum"
 author: "Tipa"
+disqusIdentifier: "2023/12/02/advent-of-code-day-2-cube-conundrum"
 summary: "The hands of the Christmas elf are far, far larger than they appear."
 categories:
   - "Advent of Code"
@@ -11,6 +12,19 @@ tags:
   - "Copilot"
   - "Haskell"
   - "Memoization"
+relatedPosts:
+  - url: "/2023/08/14/my-non-controversial-take-on-the-ai-revolution/"
+    title: "My Non-Controversial Take on the AI Revolution"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/revolution.png"
+  - url: "/2022/12/24/advent-of-code-day-24-blizzard-basin/"
+    title: "Advent of Code Day 24 -- Blizzard Basin"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-24-15.36.17-a-hundred-Christmas-elves-in-a-blizzard-by-Bob-Eggleton-detailed-and-intricate.png"
+  - url: "/2022/12/20/advent-of-code-day-19-not-enough-minerals/"
+    title: "Advent of Code Day 19 -- Not Enough Minerals"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-20-08.04.02-A-woman-wearing-a-Christmas-hat-directing-mining-robots-with-a-handheld-device-in-a-jungle-by-a-lake-by-Bob-Eggleton-detailed-and-intricate.png"
+  - url: "/2024/12/07/advent-of-code-2024-the-first-week/"
+    title: "Advent of Code 2024: The First Week"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/DALL·E-2024-12-07-11.54.46-A-Tolkien-inspired-scene-depicting-graceful-elves-in-a-Tolkien-inspired-setting-repairing-a-rope-bridge-over-a-serene-river-surrounded-by-lush-vibra.webp"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_A_Christmas_elf_on_the_tundra_surrounded_by_red_green_a_ad0ef918-2e5e-4cad-bb3a-4f76bd9b3c04.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_A_Christmas_elf_on_the_tundra_surrounded_by_red_green_a_ad0ef918-2e5e-4cad-bb3a-4f76bd9b3c04.png"
 ---

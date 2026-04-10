@@ -3,6 +3,7 @@ date: '2009-02-17T07:01:16-05:00'
 draft: false
 title: "*Anthro* MMO Earth Eternal launches new web site"
 author: "Tipa"
+disqusIdentifier: "2009/02/17/anthro-mmo-earth-eternal-launches-new-web-site"
 summary: "There's a slim possibility I may have been dismissive of Sparkplay's Anthro (not Furry) MMO, Earth Eternal, in the past, but --..."
 categories:
   - "Earth Eternal"
@@ -11,6 +12,19 @@ tags:
   - "Beta"
   - "Not Furries Dammit"
   - "Website"
+relatedPosts:
+  - url: "/2024/05/17/midjourney-goes-web/"
+    title: "Midjourney goes Web"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/tipachu_cat_wearing_a_college_t-shirt_working_at_a_1970s-styl_dfd676f1-e727-4efc-89cf-0bcbc8ad125d_0.jpg"
+  - url: "/2021/08/22/ship-of-heroes-superheroes-in-spaaaaaace/"
+    title: "Ship of Heroes: Superheroes IN SPAAAAAACE!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/shipoffools-1.jpg"
+  - url: "/2011/01/10/rift-beta-4-in-search-of-a-spec/"
+    title: "Rift Beta 4: In Search of... a Spec."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/rift-2011-01-09-16-45-28-62-480x384.jpg"
+  - url: "/2010/12/24/rift-3rd-beta-event-sealing-the-rift/"
+    title: 'Rift: 3rd beta event, "Sealing the Rift"'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/rift3-480x186.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/pigsinspace.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/pigsinspace.jpg"
 ---

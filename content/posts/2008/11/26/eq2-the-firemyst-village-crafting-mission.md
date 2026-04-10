@@ -3,6 +3,7 @@ date: '2008-11-26T09:15:49-05:00'
 draft: false
 title: "EQ2: The Firemyst Village crafting mission"
 author: "Tipa"
+disqusIdentifier: "2008/11/26/eq2-the-firemyst-village-crafting-mission"
 summary: "While I love MMOs, the idea of playing a game where wanton killing is the only path of advancement just seems morally wrong. If anyone..."
 categories:
   - "EverQuest"
@@ -12,6 +13,19 @@ tags:
   - "Firemyst Gully"
   - "Isle of Mara"
   - "Village of Shin"
+relatedPosts:
+  - url: "/2007/10/13/eq2-the-crows-come-home-to-roost/"
+    title: "EQ2: The crows come home to roost"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/10/deraroost2.jpg"
+  - url: "/2020/08/18/does-crafting-have-any-place-in-modern-mmos/"
+    title: "Does Crafting have any place in modern MMOs?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-EverQuest2-2020-08-18-18-11-08-10.jpg"
+  - url: "/2008/11/21/eq2-crafting-an-alliance/"
+    title: "EQ2: Crafting an alliance"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/everquest2-2008-11-21-01-44-20-28.jpg"
+  - url: "/2008/09/17/eq2-gu-49-test-patch-notes-commentary/"
+    title: "EQ2: GU 49 Test patch notes commentary"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/everquest2-2008-11-25-20-42-22-31.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/everquest2-2008-11-25-20-42-22-31.jpg"
 ---

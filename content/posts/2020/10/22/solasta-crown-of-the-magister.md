@@ -3,6 +3,7 @@ date: '2020-10-22T08:03:52-05:00'
 draft: false
 title: "Solasta: Crown of the Magister"
 author: "Tipa"
+disqusIdentifier: "2020/10/22/solasta-crown-of-the-magister"
 summary: "This game flew entirely under my radar, but maybe it's the Dungeons & Dragons 5e-compliant tactical RPG we need right now. Coming out at almost..."
 categories:
   - "Steam Games"
@@ -13,6 +14,19 @@ tags:
   - "RPG"
   - "Solasta"
   - "Tactics"
+relatedPosts:
+  - url: "/2020/10/23/solasta-crown-of-the-magister-bringing-the-boom/"
+    title: "Solasta: Crown of the Magister -- Bringing the Boom"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/20201022225458_1.jpg"
+  - url: "/2020/10/26/solasta-crown-of-the-magister-a-fun-but-buggy-mess-in-early-access/"
+    title: "Solasta: Crown of the Magister -- A fun but buggy mess in early access"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/20201025094236_1.jpg"
+  - url: "/2023/09/24/dd-session-1-the-lost-mine-of-phandelver/"
+    title: "D&D Session 1: The Lost Mine of Phandelver"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/Phandelverobservers.webp"
+  - url: "/2022/04/07/you-probably-should-be-playing-wildermyth-right-now/"
+    title: "You probably should be playing Wildermyth right now."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/04/screenshot_30.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/20201022065807_1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/20201022065807_1.jpg"
 ---

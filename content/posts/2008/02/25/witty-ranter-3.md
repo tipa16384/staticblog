@@ -3,9 +3,23 @@ date: '2008-02-25T09:01:59-05:00'
 draft: false
 title: "Witty Ranter #3"
 author: "Tipa"
+disqusIdentifier: "2008/02/25/witty-ranter-3"
 summary: "Witty Ranter #3, a round-table style podcast where Adam of Troll on Fire brings together several people and sets them going, and which (unwisely) had..."
 categories:
   - "MMORPG"
+relatedPosts:
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2026/03/11/dune-awakening-finished-chapter-3/"
+    title: "Dune Awakening: Finished Chapter 3"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-11-073510.png"
+  - url: "/2026/02/04/erenshor-rising-shadows-launched/"
+    title: 'Erenshor "Rising Shadows" launched!'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/20260204080313_1.jpg"
+  - url: "/2026/01/24/dominus-automa-an-idle-mmo-for-busy-dads/"
+    title: "Dominus Automa: An Idle MMO for Busy Dads"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/dominusautoma.png"
 ---
 Witty Ranter #3, a round-table style podcast where Adam of Troll on Fire brings together several people and sets them going, and which (unwisely) had...
 <!--more-->

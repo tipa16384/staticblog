@@ -3,6 +3,7 @@ date: '2024-04-16T07:31:20-05:00'
 draft: false
 title: "That is not a sandworm in your driveway"
 author: "Tipa"
+disqusIdentifier: "2024/04/16/that-is-not-a-sandworm-in-your-driveway"
 summary: "Just random stuff I've asked ChatGPT..."
 categories:
   - "General"
@@ -14,6 +15,19 @@ tags:
   - "ChatGPT"
   - "Mr. Bean"
   - "Sandworms"
+relatedPosts:
+  - url: "/2025/09/03/the-mystery-of-the-casterville-legion/"
+    title: "The Mystery of the Casterville Legion"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/tess-of-casterville.png"
+  - url: "/2025/01/25/ai-is-going-to-steal-my-job-and-i-couldnt-be-happier/"
+    title: "AI is going to steal my job -- and I couldn't be happier"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/minitray.png"
+  - url: "/2011/02/27/star-trek-online-fe304-coliseum-spoilers/"
+    title: "Star Trek Online FE304: Coliseum (spoilers)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-26-15-29-44-32-480x275.jpg"
+  - url: "/2025/12/16/prompting-malifaux/"
+    title: "Prompting Malifaux"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/ChatGPT-Image-Dec-16-2025-08_13_14-AM.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/sandwormindriveway.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/sandwormindriveway.png"
 ---

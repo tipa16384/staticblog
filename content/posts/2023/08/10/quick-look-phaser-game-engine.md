@@ -3,6 +3,7 @@ date: '2023-08-10T07:00:00-05:00'
 draft: false
 title: "Quick Look: Phaser Game Engine"
 author: "Tipa"
+disqusIdentifier: "2023/08/10/quick-look-phaser-game-engine"
 summary: "I've been spending a few hours trying to get this Asteroids clone to some sort of playable state. Since I haven't really done anything else..."
 categories:
   - "Blaugust"
@@ -13,6 +14,19 @@ tags:
   - "Javascript"
   - "Othello"
   - "Phaser"
+relatedPosts:
+  - url: "/2023/08/05/adventures-in-bad-game-development/"
+    title: "Adventures in Bad Game Development"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/DALL·E-2023-08-04-23.05.25-classic-video-game-box-art-of-a-space-ship-shooting-a-centipede-with-asteroids-in-the-sky.png"
+  - url: "/2023/08/28/retro-world-expo-scorecard/"
+    title: "Retro World Expo Scorecard"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/sailormoonpikachu.png"
+  - url: "/2021/09/01/resurrecting-west-karana/"
+    title: "Resurrecting West Karana"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/b0d5f94a61f128683568fec95571fa8e.jpg"
+  - url: "/2024/06/25/its-not-writers-block-its-distraction/"
+    title: "It's not writer's block, it's distraction"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/06/distracted.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/gameover.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/gameover.png"
 ---

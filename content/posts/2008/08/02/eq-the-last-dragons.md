@@ -3,6 +3,7 @@ date: '2008-08-02T11:48:12-05:00'
 draft: false
 title: "EQ: The Last Dragons"
 author: "Tipa"
+disqusIdentifier: "2008/08/02/eq-the-last-dragons"
 summary: "Come Hell or high water, we were going to start leveling again after last night's dragon raids. Everyone has been getting antsy about perpetually staying..."
 categories:
   - "EverQuest"
@@ -13,6 +14,19 @@ tags:
   - "Icewind"
   - "Lady Vox"
   - "Lord Nagafen"
+relatedPosts:
+  - url: "/2008/07/19/eq-a-night-of-terror/"
+    title: "EQ: A Night of Terror."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/eqgame-2008-07-18-20-35-20-29.jpg"
+  - url: "/2008/08/06/training-skills-in-everquest/"
+    title: "Training skills in EverQuest"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/eqgame-2008-08-06-06-59-07-90.jpg"
+  - url: "/2008/07/12/eq-ding-dong-the-vox-is-dead/"
+    title: "EQ: Ding dong, the Vox is dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/voxdead.jpg"
+  - url: "/2008/07/26/eq-the-half-baked-half-dozen/"
+    title: "EQ: The Half-Baked Half Dozen"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/eqgame-2008-07-25-22-29-20-28.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/eqgame-2008-08-01-20-57-03-54.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/eqgame-2008-08-01-20-57-03-54.jpg"
 ---

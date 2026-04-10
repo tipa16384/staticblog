@@ -3,6 +3,7 @@ date: '2010-08-19T23:56:50-05:00'
 draft: false
 title: "Clone Wars Adventures: You're in ar-cade world now."
 author: "Tipa"
+disqusIdentifier: "2010/08/19/clone-wars-adventures-youre-in-ar-cade-world-now"
 summary: "[..."
 categories:
   - "Clone Wars Adventures"
@@ -14,6 +15,19 @@ tags:
   - "Kid"
   - "Sony Online Entertainment"
   - "Star Wars"
+relatedPosts:
+  - url: "/2010/08/19/chronicles-of-spellborn-anatomy-of-a-failure/"
+    title: "Chronicles of Spellborn: Anatomy of a Failure"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/sb_client-2010-08-18-19-49-21-19-480x270.jpg"
+  - url: "/2008/12/09/soe-brings-rmt-fluff-items-to-everquest-2/"
+    title: "SOE brings RMT fluff items to EverQuest 2?"
+    thumbnailImage: ""
+  - url: "/2024/12/30/best-of-2024-single-player-rpgs/"
+    title: "Best of 2024: Single-Player RPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/bestrpgbanner.png"
+  - url: "/2024/12/01/star-wars-outlaws-just-you-and-your-cat-against-the-galaxy/"
+    title: 'Star Wars: Outlaws. Just you and your "cat" against the galaxy.'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/outlawsbanner.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/Fullscreen-capture-8192010-80402-PM.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/Fullscreen-capture-8192010-80402-PM.jpg"
 ---

@@ -3,10 +3,24 @@ date: '2011-09-21T06:00:08-05:00'
 draft: false
 title: "Divinity II don't care what class you are"
 author: "Tipa"
+disqusIdentifier: "2011/09/21/divinity-ii-dont-care-what-class-you-are"
 summary: "Just because my character is wearing plate armor and swinging a two-handed sword doesn't mean she isn't a mean spell caster, because she is. Magic..."
 categories:
   - "Divinity Ii -- Dragon Knight Saga"
   - "Other Games"
+relatedPosts:
+  - url: "/2025/08/06/la-brute-battles-royale-and-warring-guilds/"
+    title: "La Brute: Battles Royale and Warring Guilds"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/LaBrute.png"
+  - url: "/2025/07/10/frosthaven-scenario-14-jagged-shoals/"
+    title: "Frosthaven Scenario 14: Jagged Shoals"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/07/IMG_5225-scaled.jpg"
+  - url: "/2024/11/21/dragon-age-the-veilguard-finished/"
+    title: "Dragon Age: the Veilguard finished"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/banner2.png"
+  - url: "/2024/11/09/dragon-age-the-veilguard-is-not-the-game-you-think-it-is/"
+    title: "Dragon Age: The Veilguard is not the game you think it is"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/davg-banner.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/09/Divinity2-2011-09-17-23-49-25-30-480x384.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/09/Divinity2-2011-09-17-23-49-25-30-480x384.jpg"
 ---

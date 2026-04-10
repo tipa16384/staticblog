@@ -3,6 +3,7 @@ date: '2024-12-24T08:00:00-05:00'
 draft: false
 title: "The Best Simulation/City Builder Games of 2024"
 author: "Tipa"
+disqusIdentifier: "2024/12/24/the-best-simulation-city-builder-games-of-2024"
 summary: "These are the simulation / city builder games I have played during 2024. It's not a comprehensive list! Some gems in here, though."
 categories:
   - "Manor Lords"
@@ -12,6 +13,19 @@ tags:
   - "Cthulhu"
   - "Plastic Ducks"
   - "Simulation Game"
+relatedPosts:
+  - url: "/2024/08/11/worshippers-of-cthulhu-the-demo/"
+    title: "Worshippers of Cthulhu: the Demo"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/cthulhu.png"
+  - url: "/2024/04/27/manor-lords-might-be-okay-actually/"
+    title: "Manor Lords might be okay, actually"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/Manor-Lords-Screenshot-2024.04.27-11.05.27.38-1.jpg"
+  - url: "/2026/02/28/steam-next-fest-mmo98-and-data-center/"
+    title: "Steam Next Fest: MMO98 and Data Center"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/20240116_2110116464139906798923568.webp"
+  - url: "/2025/12/27/steam-winter-sale-seafarer-the-ship-sim/"
+    title: "Steam Winter Sale: Seafarer, the Ship Sim"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/1-20251226095656_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/simgames.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/simgames.png"
 ---

@@ -3,10 +3,24 @@ date: '2011-03-12T07:59:03-05:00'
 draft: false
 title: "Dragon Age 2: A Kinder, Gentler Dragon Age"
 author: "Tipa"
+disqusIdentifier: "2011/03/12/dragon-age-2-a-kinder-gentler-dragon-age"
 summary: "It's more than a little frustrating that the very first dragon we see in Dragon Age 2, we're not allowed to kill. Turns out to..."
 categories:
   - "Dragon Age Origins"
   - "Other Games"
+relatedPosts:
+  - url: "/2024/11/21/dragon-age-the-veilguard-finished/"
+    title: "Dragon Age: the Veilguard finished"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/banner2.png"
+  - url: "/2024/11/09/dragon-age-the-veilguard-is-not-the-game-you-think-it-is/"
+    title: "Dragon Age: The Veilguard is not the game you think it is"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/davg-banner.png"
+  - url: "/2011/04/02/dragon-age-2-money-shot/"
+    title: "Dragon Age 2: Money shot"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/04/da23d-480x384.jpg"
+  - url: "/2011/02/09/dragon-age-goes-social-codes-included/"
+    title: "Dragon Age goes social (codes included)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/Fullscreen-capture-292011-15012-AM-458x480.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/DragonAge2-2011-03-11-23-34-04-11-480x383.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/DragonAge2-2011-03-11-23-34-04-11-480x383.jpg"
 ---

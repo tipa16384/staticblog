@@ -3,10 +3,24 @@ date: '2013-02-25T23:05:39-05:00'
 draft: false
 title: "Things to do in DCUO when you're dead."
 author: "Tipa"
+disqusIdentifier: "2013/02/25/what-to-do-in-dcuo-when-youre-dead"
 summary: "Just like in the original Guild Wars, the road to level cap in DC Universe Online is pretty much an extended tutorial ahead of the..."
 categories:
   - "DC Universe Online"
   - "MMORPG"
+relatedPosts:
+  - url: "/2024/01/16/city-of-heroes-homecoming/"
+    title: "City of Heroes: Homecoming..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/cohhclogo.png"
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2022/07/30/ship-of-heroes-housing-beta-2/"
+    title: "Ship of Heroes: Housing Beta #2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/1-20220730211912_1.jpg"
+  - url: "/2021/10/11/dcuo-the-legion-of-doom-invades-washington-d-c/"
+    title: "DCUO: The Legion of Doom invades Washington D.C."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/dcuodc.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/DCGame-2013-02-24-20-36-47-62-480x300.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/DCGame-2013-02-24-20-36-47-62-480x300.jpg"
 ---

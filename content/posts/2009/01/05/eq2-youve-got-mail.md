@@ -3,11 +3,25 @@ date: '2009-01-05T00:51:23-05:00'
 draft: false
 title: "EQ2: You've Got Mail!"
 author: "Tipa"
+disqusIdentifier: "2009/01/05/eq2-youve-got-mail"
 summary: "I don't know why I missed this HUGE sculpture in the gnomish bit of the Moors of Ykesha before. So like, NOW you know where..."
 categories:
   - "City of Heroes"
   - "EverQuest"
   - "MMORPG"
+relatedPosts:
+  - url: "/2022/07/30/ship-of-heroes-housing-beta-2/"
+    title: "Ship of Heroes: Housing Beta #2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/1-20220730211912_1.jpg"
+  - url: "/2021/08/07/mmos-on-the-bubble/"
+    title: "MMOs on the Bubble"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/STP61286.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2010/12/29/daily-blogroll-1229-super-duper-edition/"
+    title: "Daily Blogroll 12/29: Super Duper edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/dcuo.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/01/everquest2-2009-01-04-20-15-00-44.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/01/everquest2-2009-01-04-20-15-00-44.jpg"
 ---

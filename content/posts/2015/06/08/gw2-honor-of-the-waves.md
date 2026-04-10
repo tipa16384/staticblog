@@ -3,10 +3,24 @@ date: '2015-06-08T18:52:52-05:00'
 draft: false
 title: "GW2: Honor of the Waves"
 author: "Tipa"
+disqusIdentifier: "2015/06/08/gw2-honor-of-the-waves"
 summary: "I don't blog much these days. I blame Forge.gg. I stream the games, they pop-up on Forge with all the best clips I can find,..."
 categories:
   - "Guild Wars"
   - "MMORPG"
+relatedPosts:
+  - url: "/2025/12/15/i-know-what-i-did-last-weekend-6/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/IMG_5573-scaled.jpg"
+  - url: "/2025/06/02/gw2-shes-found-the-altar-to-balthazar/"
+    title: "GW2: She's Found the Altar to Balthazar"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/1-gw033.jpg"
+  - url: "/2025/05/30/amounting-to-something-in-guild-wars-2/"
+    title: "Amounting to something in Guild Wars 2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/1-gw031.jpg"
+  - url: "/2025/05/06/gw2-i-tamed-a-skyscale/"
+    title: "GW2: I TAMED A SKYSCALE!*"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/2-gw007.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/06/T1IegWNo-original.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/06/T1IegWNo-original.jpg"
 ---

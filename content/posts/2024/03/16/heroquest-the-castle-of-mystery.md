@@ -3,6 +3,7 @@ date: '2024-03-16T10:07:26-05:00'
 draft: false
 title: "HeroQuest: The Castle of Mystery"
 author: "Tipa"
+disqusIdentifier: "2024/03/16/heroquest-the-castle-of-mystery"
 summary: "This teleporting puzzle box separated the heroes across a deadly dungeon. How many would survive to escape?"
 categories:
   - "Frosthaven"
@@ -15,6 +16,19 @@ tags:
   - "Palworld"
   - "Sword of Mana"
   - "Unicorn Overlord"
+relatedPosts:
+  - url: "/2025/08/04/i-know-what-i-did-last-weekend-5/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/bewarethesandworm.png"
+  - url: "/2026/03/04/frosthaven-104-ruins-of-the-solstice-and-heroquest-first-light-sound-the-hearthkin-horn/"
+    title: "Frosthaven #104: Ruins of the Solstice and HeroQuest First Light: Sound the Hearthkin Horn"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/IMG_5701-scaled.jpg"
+  - url: "/2025/06/03/i-know-what-i-did-last-weekend-4/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/The-Pathless_20250601093750-scaled.jpg"
+  - url: "/2024/02/20/retro-game-quick-look-sword-of-mana-lotr-two-towers-iridion-3d/"
+    title: "Retro Game Quick Look: Sword of Mana, LotR: Two Towers, Iridion 3D"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/02/DALL·E-2024-02-19-23.10.31-Illustrate-an-anime-style-boy-and-girl-standing-on-a-hill-looking-towards-an-enormous-tree-surrounded-by-blue-crystals-capturing-the-essence-of-a-19.webp"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/castleofmystery.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/castleofmystery.png"
 ---

@@ -3,6 +3,7 @@ date: '2008-09-10T15:43:52-05:00'
 draft: false
 title: "Spore: Final Thoughts"
 author: "Tipa"
+disqusIdentifier: "2008/09/10/spore-final-thoughts"
 summary: "Baby Diver looks for food, flagella and true love in the primordial goo of Spore's Cell Phase...."
 categories:
   - "General"
@@ -11,6 +12,19 @@ categories:
 tags:
   - "Fatalism"
   - "Panspermia"
+relatedPosts:
+  - url: "/2009/05/05/daly-blogroll-55-five-by-five-edition/"
+    title: "Daily Blogroll 5/5 -- Five by Five edition"
+    thumbnailImage: ""
+  - url: "/2008/09/18/spore-a-tiny-planet-circling-an-unassuming-star/"
+    title: "Spore: a tiny planet circling an unassuming star"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/sporeapp-2008-09-15-19-03-17-371.jpg"
+  - url: "/2008/09/11/spore-the-widget/"
+    title: "Spore, the Widget"
+    thumbnailImage: ""
+  - url: "/2008/09/09/spore-again/"
+    title: "Spore again..."
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/sporeapp-2008-09-07-16-02-16-05.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/sporeapp-2008-09-07-16-02-16-05.jpg"
 ---

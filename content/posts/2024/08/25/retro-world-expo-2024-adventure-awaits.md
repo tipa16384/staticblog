@@ -3,6 +3,7 @@ date: '2024-08-25T08:00:00-05:00'
 draft: false
 title: "Retro World Expo 2024: Adventure Awaits"
 author: "Tipa"
+disqusIdentifier: "2024/08/25/retro-world-expo-2024-adventure-awaits"
 summary: "That's another Retro World Expo under our belts, and we got Some Stuff. But I could have spent thousands more..."
 categories:
   - "Blaugust"
@@ -13,6 +14,19 @@ tags:
   - "Analogue"
   - "Crocs"
   - "Retro World Expo"
+relatedPosts:
+  - url: "/2024/08/21/my-short-brief-history-with-crocs/"
+    title: "My short, brief history with Crocs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/pcroc.png"
+  - url: "/2025/09/15/retro-world-expo-2025-a-guilty-gear-pleasure/"
+    title: "Retro World Expo 2025: A Guilty (Gear) Pleasure"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/ebc958ca-095d-4a90-8173-3680e2352fb2.png"
+  - url: "/2025/08/05/international-play-your-vectrex-day-is-november-1/"
+    title: "International Play Your Vectrex Day is November 1!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/vectrexbanner.png"
+  - url: "/2024/01/27/vectrex-the-console-you-really-wanted/"
+    title: "Vectrex: The Console You Really Wanted"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/vectrexheader.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/tipachu_Adventurers_including_a_sorceress_battle_a_giant_kaij_c266c206-cff4-4688-bc8f-5a805d60df73_2.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/tipachu_Adventurers_including_a_sorceress_battle_a_giant_kaij_c266c206-cff4-4688-bc8f-5a805d60df73_2.png"
 ---

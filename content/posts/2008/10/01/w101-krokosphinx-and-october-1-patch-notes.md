@@ -3,6 +3,7 @@ date: '2008-10-01T12:00:35-05:00'
 draft: false
 title: "W101: Krokosphinx and October 1 patch notes"
 author: "Tipa"
+disqusIdentifier: "2008/10/01/w101-krokosphinx-and-october-1-patch-notes"
 summary: "After being a one-wizard elimination team on the Niriki royalty, it turned out it was all for nothing. Professor Winthrop told me with an astonished..."
 categories:
   - "MMORPG"
@@ -15,6 +16,19 @@ tags:
   - "The Map Room"
   - "W101"
   - "Wizard101"
+relatedPosts:
+  - url: "/2008/10/13/w101-halloween-in-wizard-city-and-october-patch-notes/"
+    title: "W101: Hallowe'en in Wizard City (and October patch notes)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-12-17-08-57-87.jpg"
+  - url: "/2008/09/25/w101-entering-the-palace-of-fire/"
+    title: "W101: Entering the Palace of Fire"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/wizardgraphicalclient-2008-09-24-20-52-32-26.jpg"
+  - url: "/2008/11/01/wizard-101-october-30-update-and-the-cave-of-sorrows/"
+    title: "Wizard 101: October 30 update and the Cave of Sorrows"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-01-08-29-11-18.jpg"
+  - url: "/2008/10/27/wizard-101-hametsu-village/"
+    title: "Wizard 101: Hametsu Village"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-26-17-18-58-70.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-01-00-34-18-86.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-01-00-34-18-86.jpg"
 ---

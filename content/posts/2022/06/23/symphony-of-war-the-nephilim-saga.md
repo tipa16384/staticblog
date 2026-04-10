@@ -3,6 +3,7 @@ date: '2022-06-23T21:17:44-05:00'
 draft: false
 title: "Symphony of War: The Nephilim Saga"
 author: "Tipa"
+disqusIdentifier: "2022/06/23/symphony-of-war-the-nephilim-saga"
 summary: "It's a tactical RPG where you control an army on the battlefield made of several squads. It's a callout to one of the most unusual..."
 categories:
   - "Steam Games"
@@ -12,6 +13,19 @@ tags:
   - "Symphony of War"
   - "Tactics"
   - "Valkyrie Chronicles"
+relatedPosts:
+  - url: "/2022/07/24/ogre-battle-64-i-am-a-person-of-lordly-caliber/"
+    title: "Ogre Battle 64: I am a Person of Lordly Caliber"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/danika.png"
+  - url: "/2022/07/02/symphony-of-war-done/"
+    title: "Symphony of War -- Done!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/20220702161823_1.jpg"
+  - url: "/2022/06/28/i-may-have-been-wrong-about-symphony-of-war-the-nephilim-saga/"
+    title: "I may have been wrong about Symphony of War: The Nephilim Saga"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/06/1-20220627230027_1.jpg"
+  - url: "/2024/03/23/unicorn-overlord-whose-overlord-is-it-anyway/"
+    title: "Unicorn Overlord -- Whose Overlord Is It, Anyway?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/Unicorn-Overlord_20240322181915.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/06/20220622113658_1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/06/20220622113658_1.jpg"
 ---

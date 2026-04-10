@@ -3,6 +3,7 @@ date: '2008-10-04T09:26:23-05:00'
 draft: false
 title: "EQ: Do you PLAY EverQuest and also BLOG about it?"
 author: "Tipa"
+disqusIdentifier: "2008/10/04/eq-do-you-play-everquest-and-also-blog-about-it"
 summary: "If I type \"EverQuest Blog\" into Google, I get pages and pages of plat seller spam, sites like Ten Ton Hammer and Warcry reblogging SOE..."
 categories:
   - "EverQuest"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Blog Me"
   - "WRU Bloggers"
+relatedPosts:
+  - url: "/2008/10/22/how-to-start-an-everquest-blog/"
+    title: "How to start an EverQuest blog."
+    thumbnailImage: ""
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2024/10/21/evercraft-online-the-unholy-child-of-eq-and-minecraft/"
+    title: "EverCraft Online: The Unholy Child of EQ and MineCraft"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/evercraft-banner.png"
+  - url: "/2024/08/28/erenshor-everquest-for-soloers/"
+    title: "Erenshor -- EverQuest for soloers"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/erenshotheader.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-04-08-59-37-85.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-04-08-59-37-85.jpg"
 ---

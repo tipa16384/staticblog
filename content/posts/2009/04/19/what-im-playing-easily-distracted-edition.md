@@ -3,6 +3,7 @@ date: '2009-04-19T13:37:38-05:00'
 draft: false
 title: "What I'm Playing: Easily Distracted edition"
 author: "Tipa"
+disqusIdentifier: "2009/04/19/what-im-playing-easily-distracted-edition"
 summary: "These are the games I've played at least a little in the past week. I'm going to end up with Chronicles of Spellborn, because I..."
 categories:
   - "Chronicles of Spellborn"
@@ -11,6 +12,19 @@ categories:
   - "Lord of the Rings"
   - "MMORPG"
   - "Wizard101"
+relatedPosts:
+  - url: "/2009/07/29/mmorpgs-in-3d-a-study-in-red-and-blue/"
+    title: "MMORPGs in 3D: A Study in Red and Blue"
+    thumbnailImage: ""
+  - url: "/2009/04/24/web-log-424-friday-is-free-day-edition/"
+    title: "Web Log 4/24 -- Friday is Free Day edition"
+    thumbnailImage: "http://www.penny-arcade.com/images/2009/20090424.jpg"
+  - url: "/2009/04/23/web-log-423-too-much-news-edition/"
+    title: "Web Log 4/23 -- Too Much News edition"
+    thumbnailImage: ""
+  - url: "/2009/05/28/daily-blogroll-528-no-funny-name-episode/"
+    title: "Daily Blogroll 5/28 -- No funny name episode"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/makinghay.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/fullscreen-capture-4192009-121615-pm.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/fullscreen-capture-4192009-121615-pm.jpg"
 ---

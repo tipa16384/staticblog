@@ -3,6 +3,7 @@ date: '2009-06-09T17:25:58-05:00'
 draft: false
 title: "Aeria Games wants Geeks with iPhones to iTest a new iGame"
 author: "Tipa"
+disqusIdentifier: "2009/06/09/aeria-games-wants-geeks-with-iphones-to-itest-a-new-igame"
 summary: "I knew I wasn't crazy! Okay, back up -- I knew I had really seen this! Jury's still out about the whole \"crazy\" thing...."
 categories:
   - "Other Games"
@@ -11,6 +12,19 @@ tags:
   - "Icollector"
   - "iPhone"
   - "Parallel Kingdoms"
+relatedPosts:
+  - url: "/2010/08/21/society-at-large-more-social-games/"
+    title: "More Social Games: Office Heroes, Kingdoms of Camelot, Virtual Villagers"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/officehero-480x348.jpg"
+  - url: "/2008/11/05/shin-megami-tensei-the-mmo/"
+    title: "Shin Megami Tensei -- the MMO"
+    thumbnailImage: "http://www.shacknews.com/images/generated/4910c1d8f256c_featured_without_text_smt_pc.jpg"
+  - url: "/2008/08/09/cronous-enters-closed-beta/"
+    title: "Cronous enters closed beta"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/cronous.jpg"
+  - url: "/2008/08/06/where-is-spellborn-already/"
+    title: "Where is SPELLBORN already?"
+    thumbnailImage: ""
 ---
 I knew I wasn't crazy! Okay, back up -- I knew I had really seen this! Jury's still out about the whole "crazy" thing....
 <!--more-->

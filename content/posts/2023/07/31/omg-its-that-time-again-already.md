@@ -3,6 +3,7 @@ date: '2023-07-31T22:24:02-05:00'
 draft: false
 title: "OMG it's that time again already!"
 author: "Tipa"
+disqusIdentifier: "2023/07/31/omg-its-that-time-again-already"
 summary: "Welcome to Blaugust!..."
 categories:
   - "Blaugust"
@@ -11,6 +12,19 @@ categories:
 tags:
   - "Crimson Eternity"
   - "Welcometoblaugust"
+relatedPosts:
+  - url: "/2024/08/23/epic-experiences-in-everquest/"
+    title: "EverQuest: Five Epic Tales"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/saryrn.png"
+  - url: "/2008/09/27/eq-the-lurkers-of-lavaspinners-lair-more/"
+    title: "EQ: The Lurkers of Lavaspinner's Lair & more"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/eqgame-2008-09-26-19-45-56-08.jpg"
+  - url: "/2008/08/23/eq-hot-zone-hoedown/"
+    title: "EQ: Hot zone hoedown"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/eqgame-2008-08-22-22-02-52-46.jpg"
+  - url: "/2023/08/31/the-final-days-of-blaugust/"
+    title: "The final days of Blaugust"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/solongblaugust.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/07/blaugust2023-logo-full.webp"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/07/blaugust2023-logo-full.webp"
 ---

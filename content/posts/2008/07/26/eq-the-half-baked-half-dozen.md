@@ -3,6 +3,7 @@ date: '2008-07-26T07:07:03-05:00'
 draft: false
 title: "EQ: The Half-Baked Half Dozen"
 author: "Tipa"
+disqusIdentifier: "2008/07/26/eq-the-half-baked-half-dozen"
 summary: "It's weird, but whenever we have the perfect dragon killing strategy, the people who make it possible don't show up the next week. Last week..."
 categories:
   - "EverQuest"
@@ -10,6 +11,19 @@ categories:
   - "Nostalgia the Guild"
 tags:
   - "Lord Nagafen"
+relatedPosts:
+  - url: "/2008/08/02/eq-the-last-dragons/"
+    title: "EQ: The Last Dragons"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/eqgame-2008-08-01-20-57-03-54.jpg"
+  - url: "/2008/07/19/eq-a-night-of-terror/"
+    title: "EQ: A Night of Terror."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/eqgame-2008-07-18-20-35-20-29.jpg"
+  - url: "/2008/07/16/eq-tower-of-frozen-shadow-floors-2-and-3/"
+    title: "EQ: Tower of Frozen Shadow, floors 2 and 3."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/eqgame-2008-07-15-22-00-20-56.jpg"
+  - url: "/2020/05/13/everquest-bones-everywhere/"
+    title: "EverQuest: Bones Everywhere."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/eqgame-2020-05-13-06-57-41-85.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/eqgame-2008-07-25-22-29-20-28.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/eqgame-2008-07-25-22-29-20-28.jpg"
 ---

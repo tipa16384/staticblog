@@ -3,12 +3,26 @@ date: '2008-11-10T09:36:17-05:00'
 draft: false
 title: "Wizard Friends and LittleBigPlanet Mazes"
 author: "Tipa"
+disqusIdentifier: "2008/11/10/wizard-friends-and-littlebigplanet-mazes"
 summary: "I was going to title this, \"Friends don't let friends play Wizard 101\" because it's so addictive, but I couldn't. I really, really enjoyed playing..."
 categories:
   - "Littlebigplanet"
   - "MMORPG"
   - "Other Games"
   - "Wizard101"
+relatedPosts:
+  - url: "/2008/11/07/thursday-gaming-lbp-eq2-and-w101-again/"
+    title: "Thursday gaming: LBP, EQ2 and W101... again."
+    thumbnailImage: ""
+  - url: "/2008/11/03/playing-second-life/"
+    title: "Playing Second Life"
+    thumbnailImage: ""
+  - url: "/2008/11/12/littlebigplanet-level-design-issues/"
+    title: "LittleBigPlanet level design issues"
+    thumbnailImage: ""
+  - url: "/2008/11/03/littlebigplanet-dippy-birds-and-rocket-sleds/"
+    title: "LittleBigPlanet: Dippy Birds and Rocket Sleds"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/stp61427.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-10-00-53-52-28.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-10-00-53-52-28.jpg"
 ---

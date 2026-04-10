@@ -3,10 +3,24 @@ date: '2010-07-23T06:15:07-05:00'
 draft: false
 title: "Kingdoms of Amalur: Reckoning = God of War?"
 author: "Tipa"
+disqusIdentifier: "2010/07/23/kingdoms-of-amalur-reckoning-god-of-war"
 summary: "38 Studios and Big Huge Games released the first cinematic trailer for their Kingdoms of Amalur: Reckoning at the San Diego ComicCon yesterday...."
 categories:
   - "Kingdoms of Amalur: Reckoning"
   - "Other Games"
+relatedPosts:
+  - url: "/2012/02/14/crafting-in-kingdoms-of-amalur-reckoning/"
+    title: "Crafting in Kingdoms of Amalur: Reckoning"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/02/Reckoning-2012-02-13-23-29-58-39-480x384.jpg"
+  - url: "/2012/02/12/koar-weapons-and-armor-bundle-is-it-worth-it/"
+    title: "KoA:R Weapons and Armor bundle -- is it worth it?"
+    thumbnailImage: ""
+  - url: "/2012/02/10/koar-what-class-are-you-supposed-to-be-anyway/"
+    title: "KoA:R -- What class are you supposed to be, anyway?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/02/Reckoning-2012-02-10-07-45-06-31-480x384.jpg"
+  - url: "/2012/02/08/koar-fem-shep-goes-medieval/"
+    title: "KoAR: Fem-Shep goes Medieval"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/02/Reckoning-2012-02-07-23-57-22-48-480x320.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/deathspank-480x270.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/deathspank-480x270.jpg"
 ---

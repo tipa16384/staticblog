@@ -3,6 +3,7 @@ date: '2022-07-11T08:24:06-05:00'
 draft: false
 title: "Is playing on the original hardware worth the trouble?"
 author: "Tipa"
+disqusIdentifier: "2022/07/11/is-playing-on-the-original-hardware-worth-the-trouble"
 summary: "I went through a lot of trouble to be able to play Ogre Battle 64 on the original hardware with today's high resolution, digital monitors...."
 categories:
   - "Emulators"
@@ -14,6 +15,19 @@ tags:
   - "Panzer Dragoon"
   - "Retroarch"
   - "Stream"
+relatedPosts:
+  - url: "/2022/07/12/streaming-from-the-nintendo-64/"
+    title: "Streaming from the Nintendo 64"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/vlcsnap-2022-07-12-07h06m02s617.jpg"
+  - url: "/2021/11/22/gladius-day-6-ursula-decided-to-return-to-her-home-planet/"
+    title: "Gladius, day 6: Ursula decided to return to her home planet"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/gsdx_20211122204522.jpg"
+  - url: "/2022/07/04/dark-stone-retroarch-and-steam/"
+    title: "Dark Stone, Retroarch, and Steam."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/IMG_2596-scaled.jpg"
+  - url: "/2024/03/23/unicorn-overlord-whose-overlord-is-it-anyway/"
+    title: "Unicorn Overlord -- Whose Overlord Is It, Anyway?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/Unicorn-Overlord_20240322181915.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/20220710085048_1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/20220710085048_1.jpg"
 ---

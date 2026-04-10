@@ -3,12 +3,26 @@ date: '2015-02-05T05:19:03-05:00'
 draft: false
 title: "Weekly Foundry Reviews -- February 5, 2015"
 author: "Tipa"
+disqusIdentifier: "2015/02/05/well-this-week-the-foundry-wasnt-being-kind-to-us-first-i-and-later-kasul-couldnt-open-the-final"
 summary: "Well, this week the Foundry wasn’t being kind to us. First I, and later Kasul, couldn’t open the final chest for two of the foundries,..."
 categories:
   - "MMORPG"
   - "Neverwinter"
 tags:
   - "Foundry"
+relatedPosts:
+  - url: "/2015/02/19/based-on-a-suggestion-last-week-in-the-forums-i-went-through-the-159-quests-that-we-have-reviewed/"
+    title: "Weekly Foundry Reviews -- February 18, 2015"
+    thumbnailImage: ""
+  - url: "/2015/02/12/weekly-foundry-quests-february-11-2015after-running-into-ian-darksword-entirely-by-accident-guard/"
+    title: "Weekly Foundry Quests -- February 11, 2015"
+    thumbnailImage: ""
+  - url: "/2015/02/01/first-floor-of-newfallen-to-80-i-deleted-the-old-story-and-the-old-maps-now-the-only-way-to-go-is/"
+    title: "Neverwinter: First floor of Newfallen to 80%!"
+    thumbnailImage: ""
+  - url: "/2015/01/29/weekly-foundry-reviews-1282015well-i-missed-a-week-so-this-week-theres-a-double-helping-of/"
+    title: "Weekly Foundry Reviews -- 1/28/2015"
+    thumbnailImage: ""
 ---
 Well, this week the Foundry wasn’t being kind to us. First I, and later Kasul, couldn’t open the final chest for two of the foundries,...
 <!--more-->

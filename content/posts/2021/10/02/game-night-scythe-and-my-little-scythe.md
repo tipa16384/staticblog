@@ -3,6 +3,7 @@ date: '2021-10-02T10:08:04-05:00'
 draft: false
 title: "Game Night: Scythe (and My Little Scythe)"
 author: "Tipa"
+disqusIdentifier: "2021/10/02/game-night-scythe-and-my-little-scythe"
 summary: "Last week, we saved the forest with apple pies in My Little Scythe. Now we have to save the world -- or at least 1920s..."
 categories:
   - "Game Night"
@@ -11,6 +12,19 @@ categories:
   - "Tabletop Games"
 tags:
   - "Tactics"
+relatedPosts:
+  - url: "/2021/09/25/game-night-my-little-scythe-and-the-watson-game-topper/"
+    title: "Game Night: My Little Scythe and the Watson Game Topper"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/2-IMG_2337.jpg"
+  - url: "/2020/05/29/game-night-game-of-thrones-the-card-game/"
+    title: "Game Night: Game of Thrones: the Card Game"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/lordsandladies.jpg"
+  - url: "/2024/01/14/heroquest-the-monks-and-the-rogues-step-up/"
+    title: "HeroQuest: The Monks and the Rogues step up"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/IMG_4162-scaled.jpg"
+  - url: "/2024/08/18/my-first-malifaux-tournament/"
+    title: "My first Malifaux tournament!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/malifaux-wtf.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/Scythe-Board-Game-img06.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/Scythe-Board-Game-img06.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2024-07-24T07:00:00-05:00'
 draft: false
 title: "Dungeon Crawl Classics TTRPG: Survival of the Fittest"
 author: "Tipa"
+disqusIdentifier: "2024/07/24/dungeon-crawl-classics-ttrpg-survival-of-the-fittest"
 summary: "Why play one character when you could play five? DCC is a table top RPG with a different perspective on roleplaying."
 categories:
   - "Dungeon Crawl Classics"
@@ -12,6 +13,19 @@ tags:
   - "Dungeon Crawl Classic"
   - "Goodman Games"
   - "TTRPG"
+relatedPosts:
+  - url: "/2024/06/26/origins-2024-recap/"
+    title: "Origins 2024 Recap"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/06/IMG_4347-scaled.jpg"
+  - url: "/2024/09/08/the-end-of-the-dragon-of-icespire-peak/"
+    title: "The End of the Dragon of Icespire Peak"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/1-IMG_4688.jpg"
+  - url: "/2024/08/03/more-confessions-of-a-kickstarter-superbacker/"
+    title: "More Confessions of a Kickstarter Superbacker"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/superbacker.png"
+  - url: "/2024/08/12/dd-i-no-we-have-a-white-dragon-problem/"
+    title: "D&amp;D: I -- no, WE -- have a white dragon problem"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_4558-EDIT-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/07/dccbanner.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/07/dccbanner.png"
 ---

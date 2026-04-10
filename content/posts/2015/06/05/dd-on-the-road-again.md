@@ -3,10 +3,24 @@ date: '2015-06-05T20:52:42-05:00'
 draft: false
 title: "D&D: On the road again!"
 author: "Tipa"
+disqusIdentifier: "2015/06/05/dd-on-the-road-again"
 summary: "Since last I wrote of our adventures, we nearly met death in a dungeon guarded by a half dragon and a roper... which was pretty..."
 categories:
   - "D&D 4e"
   - "Other Games"
+relatedPosts:
+  - url: "/2015/06/16/hoard-of-the-dragon-queen-the-story-thus-far/"
+    title: "Hoard of the Dragon Queen: The Story Thus Far..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/06/inndrawing.jpg"
+  - url: "/2014/10/15/dd-5e-death-without-succor/"
+    title: "D&D 5e -- Death Without Succor"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2014/10/1-Fullscreen-capture-1092014-115643-PM-480x374.jpg"
+  - url: "/2014/09/29/dd-5e-grist-for-the-mill/"
+    title: "D&D 5e: Grist for the Mill"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2014/09/1-Fullscreen-capture-9252014-101528-PM-480x361.jpg"
+  - url: "/2014/09/25/dd-5e-when-clerics-attack/"
+    title: "D&D 5e: When Clerics Attack"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2014/09/1-Fullscreen-capture-9182014-105212-PM-480x328.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/06/Fullscreen-capture-652015-74149-PM-480x402.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/06/Fullscreen-capture-652015-74149-PM-480x402.jpg"
 ---

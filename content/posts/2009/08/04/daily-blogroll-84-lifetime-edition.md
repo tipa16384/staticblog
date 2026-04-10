@@ -3,6 +3,7 @@ date: '2009-08-04T08:00:32-05:00'
 draft: false
 title: "Daily Blogroll 8/4 -- Lifetime edition"
 author: "Tipa"
+disqusIdentifier: "2009/08/04/daily-blogroll-84-lifetime-edition"
 summary: "Well, would YOU bet $200 on a game that nobody but press is allowed to talk about, a month before it's released? When Lord of..."
 categories:
   - "Champions Online"
@@ -16,6 +17,19 @@ categories:
   - "Star Trek"
   - "Wizard101"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/05/22/daily-blogroll-522-on-holiday-edition/"
+    title: "Daily Blogroll 5/22 -- On Holiday edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/wizardgraphicalclient-2009-05-20-19-32-06-04.jpg"
+  - url: "/2009/05/08/daily-blogroll-58-darkfail-edition/"
+    title: "Daily Blogroll 5/8 -- Darkfail edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/darkfall.jpg"
+  - url: "/2009/05/11/daily-blogroll-511-reboot-edition/"
+    title: "Daily Blogroll 5/11 -- Reboot edition"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/lederhosenman.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/lederhosenman.jpg"
 ---

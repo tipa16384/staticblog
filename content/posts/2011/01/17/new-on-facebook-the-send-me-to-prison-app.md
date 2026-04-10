@@ -3,10 +3,24 @@ date: '2011-01-17T08:42:05-05:00'
 draft: false
 title: "New on Facebook: The Send Me To Prison app"
 author: "Tipa"
+disqusIdentifier: "2011/01/17/new-on-facebook-the-send-me-to-prison-app"
 summary: "\"Hacker 4 Life? Turn it into a career. Study hacking and get a degree. We match you with programs quickly.\"..."
 categories:
   - "Facebook Games"
   - "General"
+relatedPosts:
+  - url: "/2013/09/10/omg-r-u-still-around/"
+    title: "OMG, R U STILL AROUND?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/09/GameClient-2013-09-02-20-38-42-058-480x384.jpg"
+  - url: "/2011/11/22/how-castleville-lost-me/"
+    title: "How Castleville Lost Me."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/11/Fullscreen-capture-11192011-93944-AM-480x384.jpg"
+  - url: "/2011/10/12/daily-blogroll-oct-12-no-time-for-heroes-edition/"
+    title: "Daily Blogroll Oct 12: No time for heroes edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/castleville.png"
+  - url: "/2011/09/26/treasure-abyss-closes-its-dungeons/"
+    title: "Treasure Abyss closes its dungeons"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/09/Fullscreen-capture-9232011-74807-AM-480x380.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/Fullscreen-capture-1172011-75357-AM.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/Fullscreen-capture-1172011-75357-AM.jpg"
 ---

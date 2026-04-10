@@ -3,10 +3,24 @@ date: '2009-12-08T07:27:09-05:00'
 draft: false
 title: "EVE Online: Cul-de-Wormhole"
 author: "Tipa"
+disqusIdentifier: "2009/12/08/eve-online-cul-de-wormhole"
 summary: "I don't really like making posts about EVE back-to-back. It IS my main game, these days, but I am oft reminded of some tips to..."
 categories:
   - "EVE Online"
   - "MMORPG"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2021/07/22/new-world-fomo-or-fotm/"
+    title: "New World: FOMO or FOTM?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/GameClient-2014-12-06-11-09-05-59.jpg"
+  - url: "/2011/10/11/daily-blogroll-oct-11-cant-break-the-nda-edition/"
+    title: "Daily Blogroll Oct 11: Can't break the NDA edition."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/starwarsguys.jpg"
+  - url: "/2011/02/22/the-inertia-of-eve-online-and-everquest-ii/"
+    title: "The Inertia of EVE Online and EverQuest II"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/ExeFile-2011-02-22-01-04-00-67-480x384.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/12/ExeFile-2009-12-06-21-29-39-48.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/12/ExeFile-2009-12-06-21-29-39-48.jpg"
 ---

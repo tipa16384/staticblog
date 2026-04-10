@@ -3,9 +3,23 @@ date: '2022-02-24T00:14:57-05:00'
 draft: false
 title: "7DRL: Building an Engine -- YAML"
 author: "Tipa"
+disqusIdentifier: "2022/02/24/7drl-building-an-engine-yaml"
 summary: "If someone were to quiz me on how a game engine is different from a game, I'd think about it a bit, and then probably..."
 categories:
   - "7DRL"
+relatedPosts:
+  - url: "/2025/03/10/how-to-fail-at-writing-a-game-in-7-days/"
+    title: "How To Fail at Writing A Game in 7 Days"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/gamedevadventure.png"
+  - url: "/2022/03/13/7drl-2022-retrospective/"
+    title: "7DRL 2022: Retrospective"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/1-Dream_TradingCard-4.jpg"
+  - url: "/2022/03/11/7drl-2022-day-5-im-damaged-and-i-like-it/"
+    title: "7DRL 2022 Day 5: I'm Damaged, and I Like It"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/ezgif.com-gif-maker-5.gif"
+  - url: "/2022/03/10/7drl-2022-day-4-tossing-and-turning/"
+    title: "7DRL 2022 Day 4: Tossing and Turning"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/yata-screenshot-2.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/02/screenshot-4.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/02/screenshot-4.png"
 ---

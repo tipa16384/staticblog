@@ -3,10 +3,24 @@ date: '2013-12-03T08:12:14-05:00'
 draft: false
 title: "We Will Flounder in Foundries!"
 author: "Tipa"
+disqusIdentifier: "2013/12/03/we-will-flounder-in-foundries"
 summary: "Another week, another quartet of questionable quests -- one of which is mine! MINE! Bwahahahaha!..."
 categories:
   - "MMORPG"
   - "Neverwinter"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2015/06/07/why-i-am-not-playing-neverwinter/"
+    title: "Why I am not playing Neverwinter..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/06/GameClient-2015-06-07-07-17-55-81-480x300.jpg"
+  - url: "/2015/04/19/ding-66-and-ive-left-fiery-pit-for-awhile-to-return-to-reclamation-rock-leveling-up-is-going-fairly/"
+    title: "Ding 66, and I've left Fiery Pit."
+    thumbnailImage: "https://lh3.googleusercontent.com/-jWuWsWATz_o/VTPItV-34rI/AAAAAAABCEw/HWrm_ufa8-8/w506-h750/GameClient%2B2015-04-19%2B11-22-12-18.jpg"
+  - url: "/2015/02/19/based-on-a-suggestion-last-week-in-the-forums-i-went-through-the-159-quests-that-we-have-reviewed/"
+    title: "Weekly Foundry Reviews -- February 18, 2015"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/12/GameClient-2013-12-02-22-12-51-04-480x319.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/12/GameClient-2013-12-02-22-12-51-04-480x319.jpg"
 ---

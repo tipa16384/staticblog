@@ -3,12 +3,26 @@ date: '2009-08-14T08:01:17-05:00'
 draft: false
 title: "Weekly update: EVE, Champions and Wizard 101"
 author: "Tipa"
+disqusIdentifier: "2009/08/14/weekly-update-eve-champions-and-wizard-101"
 summary: "This has been a pretty decent week in EVE Online, which is running neck and neck with Wizard 101 as my main game. Earlier, Otakudyne..."
 categories:
   - "Champions Online"
   - "EVE Online"
   - "MMORPG"
   - "Wizard101"
+relatedPosts:
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/09/28/weekend-gaming-3/"
+    title: "Weekend Gaming"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/ExeFile-2009-09-27-21-46-57-10.jpg"
+  - url: "/2009/08/13/daily-blogroll-813-gyrating-goo-edition/"
+    title: "Daily Blogroll 8/13: Gyrating Goo edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/181914a4c5ed9798708c0fb8240c540a.jpg"
+  - url: "/2009/08/10/daily-blogroll-810-thank-god-its-monday-edition/"
+    title: "Daily Blogroll 8/10 -- Thank God it's Monday edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/daddygirl.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/ExeFile-2009-08-13-21-09-39-94.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/ExeFile-2009-08-13-21-09-39-94.jpg"
 ---

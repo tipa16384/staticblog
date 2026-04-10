@@ -3,10 +3,24 @@ date: '2011-09-22T22:31:03-05:00'
 draft: false
 title: "Dragon Nest: Resting at 24"
 author: "Tipa"
+disqusIdentifier: "2011/09/22/dragon-nest-resting-at-24"
 summary: "I haven't played Dragon Nest since I hit level 24, the current maximum, a few weeks back. I understood something about myself and my relation..."
 categories:
   - "Dragon Nest"
   - "MMORPG"
+relatedPosts:
+  - url: "/2011/10/11/daily-blogroll-oct-11-cant-break-the-nda-edition/"
+    title: "Daily Blogroll Oct 11: Can't break the NDA edition."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/starwarsguys.jpg"
+  - url: "/2011/08/26/dragon-nest-out-of-power/"
+    title: "Dragon Nest: Out of Power"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/08/DragonNest-2011-08-26-00-21-49-35-480x320.jpg"
+  - url: "/2011/08/23/dragon-nest-a-warrior-a-sorceress-and-a-priest-walk-into-a-bar/"
+    title: "Dragon Nest: A Warrior, a Sorceress and a Priest walk into a bar..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/08/DragonNest-2011-08-22-20-08-16-28-480x384.jpg"
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/09/DragonNest-2011-09-22-21-26-10-46-480x384.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/09/DragonNest-2011-09-22-21-26-10-46-480x384.jpg"
 ---

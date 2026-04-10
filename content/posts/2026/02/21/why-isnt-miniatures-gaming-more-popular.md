@@ -3,11 +3,25 @@ date: '2026-02-21T10:36:56-05:00'
 draft: false
 title: "Why isn't miniatures gaming more popular?"
 author: "Tipa"
+disqusIdentifier: "2026/02/21/why-isnt-miniatures-gaming-more-popular"
 summary: "Or rather, is it super popular but I just don't see it?"
 categories:
   - "Frosthaven"
   - "Malifaux"
   - "Tabletop Games"
+relatedPosts:
+  - url: "/2025/08/04/i-know-what-i-did-last-weekend-5/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/bewarethesandworm.png"
+  - url: "/2024/06/26/origins-2024-recap/"
+    title: "Origins 2024 Recap"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/06/IMG_4347-scaled.jpg"
+  - url: "/2024/03/16/heroquest-the-castle-of-mystery/"
+    title: "HeroQuest: The Castle of Mystery"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/castleofmystery.png"
+  - url: "/2026/03/04/frosthaven-104-ruins-of-the-solstice-and-heroquest-first-light-sound-the-hearthkin-horn/"
+    title: "Frosthaven #104: Ruins of the Solstice and HeroQuest First Light: Sound the Hearthkin Horn"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/IMG_5701-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/IMG_5676-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/IMG_5676-scaled.jpg"
 ---

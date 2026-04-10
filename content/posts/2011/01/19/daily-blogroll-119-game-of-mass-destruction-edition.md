@@ -3,6 +3,7 @@ date: '2011-01-19T06:00:58-05:00'
 draft: false
 title: "Daily Blogroll 1/19 -- Game of Mass Destruction edition"
 author: "Tipa"
+disqusIdentifier: "2011/01/19/daily-blogroll-119-game-of-mass-destruction-edition"
 summary: "I absolutely would love to know how many people people are REALLY playing World of Warcraft vs Lord of the Rings Online vs Warhammer Online..."
 categories:
   - "Black Prophecy"
@@ -14,6 +15,19 @@ categories:
   - "Final Fantasy"
   - "MMORPG"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2011/01/27/daily-blogroll-127-inevitable-backlash-edition/"
+    title: "Daily Blogroll 1/27 -- Inevitable Backlash edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/riftblade.png"
+  - url: "/2010/12/08/daily-blogroll-123-holy-nda-batman-edition/"
+    title: "Daily Blogroll 12/8 -- Holy NDA, Batman! edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/lantern.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/firefox-2011-01-18-23-58-38-07.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/firefox-2011-01-18-23-58-38-07.jpg"
 ---

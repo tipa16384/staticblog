@@ -3,12 +3,26 @@ date: '2025-11-04T08:00:00-05:00'
 draft: false
 title: "Backed the Vectrex Mini"
 author: "Tipa"
+disqusIdentifier: "2025/11/04/backed-the-vectrex-mini"
 summary: "Here's what I know about it. Which is a bit."
 categories:
   - "Kickstarter"
   - "Vectrex"
 tags:
   - "Vectrex Mini"
+relatedPosts:
+  - url: "/2025/08/31/the-vectrex-is-coming-back-in-pog-form/"
+    title: "The Vectrex is coming back... in pog form!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/vectrexmini.png"
+  - url: "/2025/12/25/its-a-vectrex-christmas-miracle/"
+    title: "It's a Vectrex Christmas Miracle!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/IMG_5584-scaled.jpg"
+  - url: "/2025/09/15/retro-world-expo-2025-a-guilty-gear-pleasure/"
+    title: "Retro World Expo 2025: A Guilty (Gear) Pleasure"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/ebc958ca-095d-4a90-8173-3680e2352fb2.png"
+  - url: "/2025/08/05/international-play-your-vectrex-day-is-november-1/"
+    title: "International Play Your Vectrex Day is November 1!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/vectrexbanner.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/vectrexdemo-scaled.webp"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/vectrexdemo-scaled.webp"
 ---

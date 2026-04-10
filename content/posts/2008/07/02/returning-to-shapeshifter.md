@@ -3,6 +3,7 @@ date: '2008-07-02T09:31:09-05:00'
 draft: false
 title: "Returning to Shapeshifter"
 author: "Tipa"
+disqusIdentifier: "2008/07/02/returning-to-shapeshifter"
 summary: "With the original Neopets founders talking up their new company and their new game, I decided to go back and check out how my Xweetok..."
 categories:
   - "Neopets"
@@ -11,6 +12,19 @@ tags:
   - "Meteor Games"
   - "Shapeshifter"
   - "Time Out of Joint"
+relatedPosts:
+  - url: "/2010/08/07/neopets-wants-me-to-solve-shapeshifter-again/"
+    title: "Neopets wants me to solve Shapeshifter again."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/Fullscreen-capture-872010-35037-PM-382x480.jpg"
+  - url: "/2008/04/01/shapeshifter-champion/"
+    title: "Shapeshifter CHAMPION!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/04/ss.jpg"
+  - url: "/2020/08/19/blaugust-19-defend-your-life/"
+    title: "Blaugust #19: Defend Your Life"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/IMG_1538.jpg"
+  - url: "/2010/11/27/daily-blogroll-black-friday-edition/"
+    title: "Daily Blogroll: Black Friday Edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/GameClient-2010-11-25-22-16-43-8-480x263.jpg"
 ---
 With the original Neopets founders talking up their new company and their new game, I decided to go back and check out how my Xweetok...
 <!--more-->

@@ -3,6 +3,7 @@ date: '2020-05-13T11:41:00-05:00'
 draft: false
 title: "EverQuest: Bones Everywhere."
 author: "Tipa"
+disqusIdentifier: "2020/05/13/everquest-bones-everywhere"
 summary: "I saw my bf running around in Nektulos Forest yesterday on his baby cleric, and just had to join in...."
 categories:
   - "EverQuest"
@@ -10,6 +11,19 @@ categories:
   - "Nostalgia the Guild"
 tags:
   - "Mangler"
+relatedPosts:
+  - url: "/2020/06/10/the-end-of-the-aradune-experiment/"
+    title: "The End of the Aradune Experiment"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/1-eqgame-2020-06-10-06-33-47-96.jpg"
+  - url: "/2020/05/17/everquest-mangler-trial-run-levels-7-14/"
+    title: "EverQuest Mangler trial run: Levels 7-14"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/1-eqgame-2020-05-16-16-58-02-22.jpg"
+  - url: "/2009/06/16/welcome-to-mayong-everquests-5150-server/"
+    title: "Welcome to Mayong, EverQuest's 51/50 server"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/mayong.jpg"
+  - url: "/2009/04/17/happy-10th-birthday-everquest/"
+    title: "Happy 10th Birthday, EverQuest!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/eq10-2.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/eqgame-2020-05-13-06-57-41-85.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/eqgame-2020-05-13-06-57-41-85.jpg"
 ---

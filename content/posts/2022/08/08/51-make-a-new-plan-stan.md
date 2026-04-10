@@ -3,6 +3,7 @@ date: '2022-08-08T07:47:56-05:00'
 draft: false
 title: "#51: Make a new plan, Stan?"
 author: "Tipa"
+disqusIdentifier: "2022/08/08/51-make-a-new-plan-stan"
 summary: "I asked OpenAI's GPT-3 to list fifty ways to leave your lover... I'm just trying to help out here, Paul Simon!..."
 categories:
   - "General"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Dall-E 2"
   - "Gpt-3"
+relatedPosts:
+  - url: "/2022/09/04/how-i-used-ai-to-write-a-final-fantasy-vi-chatbot/"
+    title: "How I used AI to write a Final Fantasy VI chatbot"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-04-21.21.57-A-magazine-illustration-of-a-woman-with-dark-green-hair-in-a-high-ponytail-wearing-overalls-constructing-a-giant-mechanical-steampunk-chatbot-with-h.png"
+  - url: "/2022/09/26/star-ocean-the-divine-force-the-demo-the-review-but-what-if-it-was-written-like-dear-abby/"
+    title: "Star Ocean: The Divine Force: The Demo: The Review, but what if it was written like Dear Abby?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-26-16.46.54-Old-time-newspaper-illustration-of-a-1950s-housewife-writing-a-letter-on-the-kitchen-table-with-pen-and-paper.-the-housewife-is-crying..png"
+  - url: "/2022/09/07/the-life-of-a-medical-student-who-sold-himself-as-an-nft-to-pay-for-school/"
+    title: "The Life of a Medical Student Who Sold Himself as an NFT to Pay for School"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-07-08.36.20-A-young-male-medical-student-mining-gold-in-World-of-Warcraft..png"
+  - url: "/2022/09/05/the-battle-for-lockes-heart-the-remake/"
+    title: "The Battle for Locke's Heart: The Remake"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-04-21.39.29-Digital-painting-of-a-tall-woman-with-green-hair-in-a-high-ponytail-a-long-blonde-woman-wearing-armor-a-man-in-blue-jeans-and-jacket-a-gentleman-ga.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-08-07.44.18-Ink-and-watercolor-gray-scale-comic-of-a-woman-sitting-in-a-tent-with-a-campfire-in-the-front-yard-of-a-house..png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-08-07.44.18-Ink-and-watercolor-gray-scale-comic-of-a-woman-sitting-in-a-tent-with-a-campfire-in-the-front-yard-of-a-house..png"
 ---

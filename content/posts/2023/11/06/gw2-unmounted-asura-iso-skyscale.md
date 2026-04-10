@@ -3,6 +3,7 @@ date: '2023-11-06T07:34:02-05:00'
 draft: false
 title: "GW2: Unmounted Asura ISO Skyscale"
 author: "Tipa"
+disqusIdentifier: "2023/11/06/gw2-unmounted-asura-iso-skyscale"
 summary: "All my friends have skyscales and I am jealous and also lazy."
 categories:
   - "Guild Wars"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Skyscale"
   - "Team Spode"
+relatedPosts:
+  - url: "/2025/05/06/gw2-i-tamed-a-skyscale/"
+    title: "GW2: I TAMED A SKYSCALE!*"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/2-gw007.jpg"
+  - url: "/2025/12/15/i-know-what-i-did-last-weekend-6/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/IMG_5573-scaled.jpg"
+  - url: "/2025/06/02/gw2-shes-found-the-altar-to-balthazar/"
+    title: "GW2: She's Found the Altar to Balthazar"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/1-gw033.jpg"
+  - url: "/2025/05/30/amounting-to-something-in-guild-wars-2/"
+    title: "Amounting to something in Guild Wars 2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/1-gw031.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/gw024.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/gw024.jpg"
 ---

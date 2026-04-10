@@ -3,6 +3,7 @@ date: '2024-08-11T08:00:00-05:00'
 draft: false
 title: "Worshippers of Cthulhu: the Demo"
 author: "Tipa"
+disqusIdentifier: "2024/08/11/worshippers-of-cthulhu-the-demo"
 summary: "Loosing an ultimate evil upon the world starts with clean clothing, good food, well-built homes and safe streets."
 categories:
   - "Blaugust"
@@ -14,6 +15,19 @@ categories:
 tags:
   - "Cthulhu"
   - "Demo"
+relatedPosts:
+  - url: "/2024/12/24/the-best-simulation-city-builder-games-of-2024/"
+    title: "The Best Simulation/City Builder Games of 2024"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/simgames.png"
+  - url: "/2025/09/02/sword-hero-combat-arena-demo/"
+    title: "Sword Hero: Combat Arena Demo"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/swordhero.png"
+  - url: "/2022/09/23/star-ocean-the-divine-force-the-demo/"
+    title: "Star Ocean: The Divine Force: The Demo"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/2-STAR-OCEAN-THE-DIVINE-FORCE-DEMO_20220923212513.jpg"
+  - url: "/2022/05/02/restarting-in-valheim/"
+    title: "Restarting in Valheim"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/05/20220429225417_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/cthulhu.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/cthulhu.png"
 ---

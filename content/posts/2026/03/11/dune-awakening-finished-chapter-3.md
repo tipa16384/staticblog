@@ -3,12 +3,26 @@ date: '2026-03-11T07:58:55-05:00'
 draft: false
 title: "Dune Awakening: Finished Chapter 3"
 author: "Tipa"
+disqusIdentifier: "2026/03/11/dune-awakening-finished-chapter-3"
 summary: "I'm at the end of the current story content, and I am a little upset."
 categories:
   - "Dune Awakening"
   - "MMORPG"
 tags:
   - "chapter 3"
+relatedPosts:
+  - url: "/2026/01/05/holiday-grab-bag-dune-palworld-quest-64/"
+    title: "Holiday Grab Bag: Dune, Palworld, Quest 64"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/1-20260104163451_1.jpg"
+  - url: "/2025/12/15/i-know-what-i-did-last-weekend-6/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/IMG_5573-scaled.jpg"
+  - url: "/2025/09/22/dune-awakening-apotheosis/"
+    title: "Dune Awakening: Apotheosis"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/1-20250920233213_1.jpg"
+  - url: "/2025/09/17/dune-awakening-life-in-the-deep-desert/"
+    title: "Dune Awakening: Life in the Deep Desert"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/1-20250915204452_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-11-073510.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-11-073510.png"
 ---

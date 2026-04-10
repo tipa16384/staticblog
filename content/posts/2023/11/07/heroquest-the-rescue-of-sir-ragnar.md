@@ -3,6 +3,7 @@ date: '2023-11-07T07:00:00-05:00'
 draft: false
 title: "HeroQuest: The Rescue of Sir Ragnar"
 author: "Tipa"
+disqusIdentifier: "2023/11/07/heroquest-the-rescue-of-sir-ragnar"
 summary: "Where the wizard runs ahead of the rest of the party and everyone else pays the price. Again."
 categories:
   - "Game Night"
@@ -11,6 +12,19 @@ categories:
 tags:
   - "Orc"
   - "Wizard"
+relatedPosts:
+  - url: "/2024/01/23/heroquest-the-fire-mage/"
+    title: "HeroQuest: The Fire Mage"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/DALL·E-2024-01-22-22.36.44-A-vivid-and-dynamic-heroic-fantasy-battle-scene-not-in-the-form-of-miniatures.-It-features-a-Shaolin-Monk-bare-to-the-waist-and-wearing-a-red-sash-.png"
+  - url: "/2009/04/05/eq2-epic-encounter-in-my-bedroom/"
+    title: "EQ2: Epic encounter in my bedroom"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/everquest2-2009-04-04-21-58-41-05.jpg"
+  - url: "/2010/09/11/treasure-abyss-i-got-eaten-by-a-grue/"
+    title: "Treasure Abyss: I got eaten by a grue."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/Fullscreen-capture-9112010-73352-PM-480x379.jpg"
+  - url: "/2026/03/04/frosthaven-104-ruins-of-the-solstice-and-heroquest-first-light-sound-the-hearthkin-horn/"
+    title: "Frosthaven #104: Ruins of the Solstice and HeroQuest First Light: Sound the Hearthkin Horn"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/IMG_5701-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/rescueofsirragnar.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/rescueofsirragnar.png"
 ---

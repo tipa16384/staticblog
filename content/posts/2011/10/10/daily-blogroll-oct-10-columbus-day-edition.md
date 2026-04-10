@@ -3,6 +3,7 @@ date: '2011-10-10T06:00:07-05:00'
 draft: false
 title: "Daily Blogroll Oct 10: Columbus Day edition"
 author: "Tipa"
+disqusIdentifier: "2011/10/10/daily-blogroll-oct-10-columbus-day-edition"
 summary: "I realized today that I have no clue whatsoever what the term \"MMO\" means anymore. I gave it some thought and came up with \"An..."
 categories:
   - "Daily Blogroll"
@@ -13,6 +14,19 @@ categories:
   - "MMORPG"
   - "Star Corsairs"
   - "Web Logging"
+relatedPosts:
+  - url: "/2009/06/25/daily-blogroll-625-a-valiant-effort-edition/"
+    title: "Daily Blogroll 6/25 -- A Valiant Effort edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/valianteffort.jpg"
+  - url: "/2009/04/24/web-log-424-friday-is-free-day-edition/"
+    title: "Web Log 4/24 -- Friday is Free Day edition"
+    thumbnailImage: "http://www.penny-arcade.com/images/2009/20090424.jpg"
+  - url: "/2011/10/20/daily-blogroll-oct-19-time-enough-to-learn-to-swim-edition/"
+    title: "Daily Blogroll Oct 19: Time enough to learn to swim edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/02/ffxivgame-2011-10-18-19-43-58-81-480x234-1.jpg"
+  - url: "/2011/05/12/semi-annual-blogroll-sheep-may-safely-graze-edition/"
+    title: "Semi-Annual Blogroll: Sheep may safely graze edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/05/sheep2.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/glitch.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/glitch.png"
 ---

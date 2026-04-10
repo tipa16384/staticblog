@@ -3,6 +3,7 @@ date: '2008-07-24T09:07:04-05:00'
 draft: false
 title: "Free-to-play game of the month?"
 author: "Tipa"
+disqusIdentifier: "2008/07/24/free-to-play-game-of-the-month"
 summary: "As I was working through DOMO-like* Florensia last night (expect a separate article about it tonight), I was thinking, and this goes back to my..."
 categories:
   - "Florensia"
@@ -11,6 +12,19 @@ tags:
   - "Dream of Mirror Online"
   - "Free to Play"
   - "Pi Story"
+relatedPosts:
+  - url: "/2008/07/25/a-first-look-at-florensia/"
+    title: "A first look at Florensia"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/florensiaen-2008-07-25-07-24-20-08.jpg"
+  - url: "/2008/07/23/what-i-am-playing-723/"
+    title: "What I am playing 7/23"
+    thumbnailImage: ""
+  - url: "/2010/09/23/wizard101-a-chat-with-ki-vp-of-marketing-fred-howard/"
+    title: "Wizard101: A Chat with KI VP of Marketing, Fred Howard"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/WizardGraphicalClient-2010-09-23-21-36-13-33.jpg"
+  - url: "/2010/09/08/lord-of-the-rings-online-is-f2p-for-certain-definitions-of-free/"
+    title: "Lord of the Rings Online is F2P, for certain definitions of free"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/lotroclient-2010-09-08-07-05-29-52-480x363.jpg"
 ---
 As I was working through DOMO-like* Florensia last night (expect a separate article about it tonight), I was thinking, and this goes back to my...
 <!--more-->

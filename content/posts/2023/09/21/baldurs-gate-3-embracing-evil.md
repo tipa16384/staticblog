@@ -3,6 +3,7 @@ date: '2023-09-21T08:24:07-05:00'
 draft: false
 title: "Baldur's Gate 3: Embracing Evil"
 author: "Tipa"
+disqusIdentifier: "2023/09/21/baldurs-gate-3-embracing-evil"
 summary: "Baldur's Gate 3 didn't really grab me until the evening I woke up to find Astarion's teeth inches from my neck..."
 categories:
   - "Baldur's Gate 3"
@@ -12,6 +13,19 @@ tags:
   - "Astarion"
   - "Gruumsh"
   - "Volo"
+relatedPosts:
+  - url: "/2023/10/09/starfield-vs-baldurs-gate-3/"
+    title: "Starfield vs. Baldur's Gate 3"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/sfvsbg3.png"
+  - url: "/2023/09/12/looks-like-its-dd-time-again/"
+    title: "Looks like it's D&D time again"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/halforcclericcloseup.png"
+  - url: "/2023/10/16/baldurs-gate-3-finished/"
+    title: "Baldur's Gate 3: Finished!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/scritches1.png"
+  - url: "/2023/10/07/baldurs-gate-3-are-we-the-baddies/"
+    title: "Baldur's Gate 3: Are We the Baddies?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/Screenshot-2023-10-07-103249.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/astarion.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/astarion.png"
 ---

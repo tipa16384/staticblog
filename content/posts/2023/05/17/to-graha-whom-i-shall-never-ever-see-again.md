@@ -3,6 +3,7 @@ date: '2023-05-17T07:37:37-05:00'
 draft: false
 title: "To G'raha, whom I shall never, ever, see again"
 author: "Tipa"
+disqusIdentifier: "2023/05/17/to-graha-whom-i-shall-never-ever-see-again"
 summary: "My heart aches for the loss of G'raha Tia, as I wonder what could have been between us."
 categories:
   - "Final Fantasy"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Crystal Tower"
   - "G'raha Tia"
+relatedPosts:
+  - url: "/2021/08/17/ff3-making-myself-cod-worthy/"
+    title: "FF3 -- Making Myself CoD-Worthy"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/20210817213623_1.jpg"
+  - url: "/2021/08/17/ff3-eureka-and-the-cloud-of-darkness/"
+    title: "FF3 -- Eureka, and the Cloud of Darkness"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/20210816230414_1.jpg"
+  - url: "/2021/08/07/mmos-on-the-bubble/"
+    title: "MMOs on the Bubble"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/STP61286.jpg"
+  - url: "/2021/08/03/ff1-continues-a-witch-a-dwarf-and-a-king-walk-into-a-bar/"
+    title: "FF1 Continues: A Witch, A Dwarf, and a King walk into a bar..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/laliho.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-ffxiv_05162023_205146_829.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-ffxiv_05162023_205146_829.jpg"
 ---

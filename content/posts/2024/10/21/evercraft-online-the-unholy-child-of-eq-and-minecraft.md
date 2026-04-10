@@ -3,12 +3,26 @@ date: '2024-10-21T08:00:00-05:00'
 draft: false
 title: "EverCraft Online: The Unholy Child of EQ and MineCraft"
 author: "Tipa"
+disqusIdentifier: "2024/10/21/evercraft-online-the-unholy-child-of-eq-and-minecraft"
 summary: "Not a MineCraft mod, ECO brings back the 1999 experience in style -- block style."
 categories:
   - "Adrullan Online Adventures"
   - "EverQuest"
   - "Minecraft"
   - "MMORPG"
+relatedPosts:
+  - url: "/2020/09/09/what-makes-an-mmo-an-mmo/"
+    title: "What makes an MMO an MMO?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/Kingdoms-of-Amalur_-Reckoning-12_31_2015-4_16_05-PM-1.png"
+  - url: "/2011/06/24/eq-nostalgia-old-freeport-in-minecraft/"
+    title: "EQ Nostalgia: Old Freeport in Minecraft"
+    thumbnailImage: ""
+  - url: "/2025/02/18/wots-uh-the-deal/"
+    title: "Wot's... Uh the Deal?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/02/tipachu_A_scene_from_a_city_with_an_unpainted_metal_statue_of_1f26c4d5-89d9-43e1-98ae-b76a59f62d92_2.png"
+  - url: "/2010/10/01/star-trek-online-minecraft-treasure-abyss/"
+    title: "Star Trek Online, Minecraft, Treasure Abyss"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/javaw-2010-09-28-21-56-46-97.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/evercraft-banner.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/evercraft-banner.png"
 ---

@@ -3,6 +3,7 @@ date: '2023-01-27T08:25:03-05:00'
 draft: false
 title: "No kidding: I bought (and sold) an NFT."
 author: "Tipa"
+disqusIdentifier: "2023/01/27/no-kidding-i-bought-and-sold-an-nft"
 summary: "Turns out there might be at least one use case for the things."
 categories:
   - "Comic"
@@ -11,6 +12,19 @@ categories:
 tags:
   - "Future State"
   - "Wonder Woman"
+relatedPosts:
+  - url: "/2021/11/12/im-a-little-obsessed-with-this-ai-portrait-generator/"
+    title: "I'm a little obsessed with this AI portrait generator"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/shehulk.jpg"
+  - url: "/2008/07/21/coh-same-stuff-different-day-and-the-dcu-trailer/"
+    title: "CoH: Same stuff, different day, and the DCU trailer."
+    thumbnailImage: ""
+  - url: "/2023/08/19/blue-beetle/"
+    title: "Blue Beetle"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/blue_beetle_movie_costume_concept_art.jpg"
+  - url: "/2023/02/10/if-a-buy-an-nft-that-art-is-mine-now-right/"
+    title: "If I buy an NFT, that art is mine now. Right?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/02/mylantern.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/01/futurestatewonderwoman1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/01/futurestatewonderwoman1.jpg"
 ---

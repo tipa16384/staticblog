@@ -3,10 +3,24 @@ date: '2006-09-21T10:12:40-05:00'
 draft: false
 title: "City of Heroes: Good vs Evil"
 author: "Tipa"
+disqusIdentifier: "2006/09/21/city-of-heroes-good-vs-evil"
 summary: "NCSoft kindly sent along a notice that they're releasing next week a box containing both the City of Heroes and City of Villains games, for..."
 categories:
   - "City of Heroes"
   - "MMORPG"
+relatedPosts:
+  - url: "/2024/01/16/city-of-heroes-homecoming/"
+    title: "City of Heroes: Homecoming..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/cohhclogo.png"
+  - url: "/2022/07/30/ship-of-heroes-housing-beta-2/"
+    title: "Ship of Heroes: Housing Beta #2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/1-20220730211912_1.jpg"
+  - url: "/2021/09/26/ship-of-heroes-mission-beta-feedback/"
+    title: "Ship of Heroes: Mission Beta Feedback"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/shipoffools-redsigilbase.jpg"
+  - url: "/2021/08/18/developer-appreciation-cryptic-studios/"
+    title: "Developer Appreciation: Cryptic Studios"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/cityofheroes-2007-12-01-12-05-32-84.jpg"
 ---
 NCSoft kindly sent along a notice that they're releasing next week a box containing both the City of Heroes and City of Villains games, for...
 <!--more-->

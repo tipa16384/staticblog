@@ -3,12 +3,26 @@ date: '2009-06-25T00:28:33-05:00'
 draft: false
 title: "Wizard 101: The Ghost of Mrs. Malistaire"
 author: "Tipa"
+disqusIdentifier: "2009/06/25/wizard-101-the-ghost-of-mrs-malistaire"
 summary: "Deciding to see if a treasure card like \"Quench\" could stop Malistaire from casting Meteor Storm all the time, Thomas the Friendly Necromancer and I..."
 categories:
   - "MMORPG"
   - "Wizard101"
 tags:
   - "Malistaire"
+relatedPosts:
+  - url: "/2009/04/25/wizard-101-malistaire-finally-coughs-up-my-robe/"
+    title: "Wizard 101: Malistaire finally coughs up my robe!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/wizardgraphicalclient-2009-04-25-20-46-41-96.jpg"
+  - url: "/2009/03/28/wizard-101-so-malistaire-we-meet-again/"
+    title: "Wizard 101: So, Malistaire. We meet again."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-28-00-49-38-56.jpg"
+  - url: "/2009/03/18/wizard-101-father-drakes-tower-2/"
+    title: "Wizard 101: Father Drake's Tower"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-14-20-02-42-60.jpg"
+  - url: "/2009/03/05/wizard-101-opening-silver-chests/"
+    title: "Wizard 101: Opening Silver Chests"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-04-19-57-11-59.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/WizardGraphicalClient-2009-06-24-23-50-59-13.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/WizardGraphicalClient-2009-06-24-23-50-59-13.jpg"
 ---

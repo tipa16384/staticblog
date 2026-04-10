@@ -3,6 +3,7 @@ date: '2009-04-27T12:00:58-05:00'
 draft: false
 title: "Chronicles of Spellborn: Returning to Parliament"
 author: "Tipa"
+disqusIdentifier: "2009/04/27/chronicles-of-spellborn-returning-to-parliament"
 summary: "I spent a couple of days wandering lost through the silver mines in Quarterstone's Statue District, which ended the only way they could possibly end..."
 categories:
   - "Chronicles of Spellborn"
@@ -12,6 +13,19 @@ tags:
   - "Parliament"
   - "Quarterstone"
   - "Sorrowmist"
+relatedPosts:
+  - url: "/2009/01/03/the-many-worlds-of-chronicles-of-spellborn/"
+    title: "The many worlds of Chronicles of Spellborn"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/01/sbcomic.jpg"
+  - url: "/2010/11/03/is-your-teenager-a-minecraft-addict/"
+    title: "Is your teenager a Minecraft addict?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/javaw-2010-11-03-20-09-47-09-480x376.jpg"
+  - url: "/2015/07/02/some-trufen-managed-to-re/"
+    title: "Spellborn... reborn?"
+    thumbnailImage: "https://lh6.googleusercontent.com/proxy/vBKKuw4kyr3h6Ct92g-leX2lvulYLG8VtWObZxpRG3wNupQeekWxqKtqcOypKIB_CMp9gMCmeDHiXRs9qUjB7Q=w506-h284-n"
+  - url: "/2010/08/19/chronicles-of-spellborn-anatomy-of-a-failure/"
+    title: "Chronicles of Spellborn: Anatomy of a Failure"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/sb_client-2010-08-18-19-49-21-19-480x270.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/sb_client-2009-04-26-20-09-32-00.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/sb_client-2009-04-26-20-09-32-00.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2023-02-23T08:19:14-05:00'
 draft: false
 title: "PokeReport: Giovanni defeated, and some raids..."
 author: "Tipa"
+disqusIdentifier: "2023/02/23/pokereport-giovanni-defeated-and-some-raids"
 summary: "Okay, what is actually UP with that Latias raid?"
 categories:
   - "Pokemon"
@@ -14,6 +15,19 @@ tags:
   - "Rayquaza"
   - "Registeel"
   - "Team Go Rocket"
+relatedPosts:
+  - url: "/2025/12/15/i-know-what-i-did-last-weekend-6/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/IMG_5573-scaled.jpg"
+  - url: "/2025/11/21/pokemon-legends-z-a-rolls-credits/"
+    title: "Pokémon Legends: Z-A rolls credits"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/2025112021391100-D30A1E83A76029FCCC1E3AC4EF5B7C89L.jpg"
+  - url: "/2025/10/23/its-the-end-of-year-new-console-extravaganza/"
+    title: "It's the end of year, new console extravaganza"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/IMG_5433-EDIT-scaled.jpg"
+  - url: "/2025/10/01/i-cancelled-my-pokemon-tcg-pocket-premium-subscription/"
+    title: "I cancelled my Pokémon TCG Pocket premium subscription"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/IMG_5411.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/02/giovanniregisteel.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/02/giovanniregisteel.png"
 ---

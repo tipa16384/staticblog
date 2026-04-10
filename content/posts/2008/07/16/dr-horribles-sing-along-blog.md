@@ -3,6 +3,7 @@ date: '2008-07-16T10:28:11-05:00'
 draft: false
 title: "Dr. Horrible's Sing-Along Blog"
 author: "Tipa"
+disqusIdentifier: "2008/07/16/dr-horribles-sing-along-blog"
 summary: "If you actually CAN watch this, then I guess their servers have managed to recover from yesterday's crush. After trying for awhile, I just got..."
 categories:
   - "Humor"
@@ -13,6 +14,19 @@ tags:
   - "Felecia Day"
   - "Joss Whedon"
   - "Neil Patrick Harris"
+relatedPosts:
+  - url: "/2008/07/19/dr-horrible-act-iii/"
+    title: "Dr. Horrible act III."
+    thumbnailImage: ""
+  - url: "/2026/01/17/starfleet-academy-your-billionaire-future/"
+    title: "Starfleet Academy: Your Billionaire Future"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/starfleetacademy.png"
+  - url: "/2024/09/27/game-night-in-too-deep/"
+    title: "Game Night: In Too Deep"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/intoodeepbanner.png"
+  - url: "/2022/09/20/review-braking-day-by-adam-oyebanji/"
+    title: "Review: Braking Day by Adam Oyebanji"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/brakingday.png"
 ---
 If you actually CAN watch this, then I guess their servers have managed to recover from yesterday's crush. After trying for awhile, I just got...
 <!--more-->

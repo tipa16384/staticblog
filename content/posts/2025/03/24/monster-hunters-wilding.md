@@ -3,6 +3,7 @@ date: '2025-03-24T08:19:36-05:00'
 draft: false
 title: "Monster Hunters Wilding"
 author: "Tipa"
+disqusIdentifier: "2025/03/24/monster-hunters-wilding"
 summary: "I like to think of the Monster Hunter series being set in the same world as the Pokemon games."
 categories:
   - "Final Fantasy"
@@ -13,6 +14,19 @@ categories:
 tags:
   - "Monster Hunter Wilds"
   - "Monster Hunter World"
+relatedPosts:
+  - url: "/2023/08/03/not-taming-the-backlog/"
+    title: "(Not) Taming the Backlog"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/DALL·E-2023-08-02-23.10.21-A-dragon-wearing-glasses-surrounded-by-stacks-of-video-games.png"
+  - url: "/2025/10/19/final-fantasy-tactics-the-ivalice-chronicles-a-retrospective/"
+    title: "Final Fantasy Tactics: The Ivalice Chronicles, a retrospective"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles_20251018225944-scaled.jpg"
+  - url: "/2025/10/06/the-zen-of-final-fantasy-tactics/"
+    title: "The Zen of Final Fantasy Tactics"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles_20251005165514-scaled.jpg"
+  - url: "/2025/01/21/fantasian-neo-dimension-part-1/"
+    title: "FANTASIAN Neo Dimension (Part 1)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/FANTASIAN-Neo-Dimension_20250105160053-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/mhwildsbanner.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/mhwildsbanner.png"
 ---

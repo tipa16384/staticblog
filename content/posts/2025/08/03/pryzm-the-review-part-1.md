@@ -3,6 +3,7 @@ date: '2025-08-03T08:00:00-05:00'
 draft: false
 title: "Pryzm: The Review: Part 1."
 author: "Tipa"
+disqusIdentifier: "2025/08/03/pryzm-the-review-part-1"
 summary: "It's hot troll-on-unicorn action as Karrock and Pryzm take on the plague of corruption infecting their world."
 categories:
   - "Blaugust"
@@ -11,6 +12,19 @@ categories:
 tags:
   - "Action Adventure Games"
   - "PCSX2"
+relatedPosts:
+  - url: "/2024/08/15/champions-return-to-arms/"
+    title: "Champions: Return to Arms"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/firiona.png"
+  - url: "/2022/08/04/fourt-knight-an-awesome-game-thats-worth-the-price/"
+    title: "Fourt Knight: An Awesome Game That's Worth the Price"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/DALL·E-2022-07-30-11.41.41-a-painting-of-a-lone-knight-in-armor-standing-in-front-of-a-castle.-The-knight-is-holding-a-sword-and-shield-and-there-is-a-bow-slung-over-their-bac.png"
+  - url: "/2026/02/17/the-fellowship-of-the-ring-ps2/"
+    title: "The Fellowship of the Ring (PS2)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/The-Lord-of-the-Rings-The-Fellowship-of-the-Ring_SLUS-20520_20260217075358.png"
+  - url: "/2024/09/28/champions-return-to-arms-finished/"
+    title: "Champions: Return to Arms finished!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/cazicthule.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/pryzmbanner.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/pryzmbanner.png"
 ---

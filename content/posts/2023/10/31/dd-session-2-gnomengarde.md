@@ -3,6 +3,7 @@ date: '2023-10-31T00:19:01-05:00'
 draft: false
 title: "D&D Session 2: Gnomengarde"
 author: "Tipa"
+disqusIdentifier: "2023/10/31/dd-session-2-gnomengarde"
 summary: "Our adventuring party -- half-orc cleric Harka, barbarian Gregory, warlock Loreflower and the tricky bard with many banes -- travel to the tunnel city of rock gnomes, Gnomengarde."
 categories:
   - "Dungeons & Dragons"
@@ -11,6 +12,19 @@ tags:
   - "Gnomengarde"
   - "Gnomes"
   - "Mimic"
+relatedPosts:
+  - url: "/2023/09/24/dd-session-1-the-lost-mine-of-phandelver/"
+    title: "D&D Session 1: The Lost Mine of Phandelver"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/Phandelverobservers.webp"
+  - url: "/2023/09/12/looks-like-its-dd-time-again/"
+    title: "Looks like it's D&D time again"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/halforcclericcloseup.png"
+  - url: "/2024/09/08/the-end-of-the-dragon-of-icespire-peak/"
+    title: "The End of the Dragon of Icespire Peak"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/1-IMG_4688.jpg"
+  - url: "/2024/08/14/painting-the-white-dragon/"
+    title: "Painting the White Dragon"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/dragoncura.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/gnomengarde.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/gnomengarde.png"
 ---

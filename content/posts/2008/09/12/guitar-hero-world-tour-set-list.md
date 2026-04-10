@@ -3,12 +3,26 @@ date: '2008-09-12T15:27:30-05:00'
 draft: false
 title: "Guitar Hero World Tour set list!"
 author: "Tipa"
+disqusIdentifier: "2008/09/12/guitar-hero-world-tour-set-list"
 summary: "God, I miss Rock Band so much...."
 categories:
   - "Other Games"
   - "Rock Band"
 tags:
   - "Add New Tag"
+relatedPosts:
+  - url: "/2008/07/17/rock-band-2-controllers-blur-the-line-between-real-band-and-fake-band/"
+    title: "Rock Band 2 controllers blur the line between real band and fake band"
+    thumbnailImage: ""
+  - url: "/2008/07/14/sigh-rock-band-2-set-list/"
+    title: "Sigh. Rock Band 2 set list."
+    thumbnailImage: ""
+  - url: "/2008/06/30/rock-band-2-announced/"
+    title: "Rock Band 2 announced"
+    thumbnailImage: ""
+  - url: "/2008/06/17/ps3-vs-xbox-360-revisited/"
+    title: "PS3 vs Xbox 360, revisited"
+    thumbnailImage: ""
 ---
 God, I miss Rock Band so much....
 <!--more-->

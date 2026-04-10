@@ -3,12 +3,26 @@ date: '2009-02-12T08:31:01-05:00'
 draft: false
 title: "Beta News & More"
 author: "Tipa"
+disqusIdentifier: "2009/02/12/beta-news-more"
 summary: "City of Heroes is currently running their Valentine event, the one time in the year when heroes and villains can come together and luuuurve each..."
 categories:
   - "City of Heroes"
   - "General"
   - "Hello Kitty Online"
   - "MMORPG"
+relatedPosts:
+  - url: "/2009/04/28/daily-blogroll-428-hug-squeeze-edition/"
+    title: "Daily Blogroll 4/28 -- Hug & Squeeze Edition"
+    thumbnailImage: ""
+  - url: "/2010/09/03/a-parents-guide-to-mmo-gaming/"
+    title: "A Parent's Guide to MMO Gaming"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/worgen_1280x1024-225x225.jpg"
+  - url: "/2010/04/16/ip-based-mmos-part-2-of-5/"
+    title: "IP-based MMOs Part 2 (of 5)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/07305s-225x225.jpg"
+  - url: "/2009/09/09/daily-blogroll-9909-galaxy-express-edition/"
+    title: "Daily Blogroll 9/9/09 - Galaxy Express edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/hko-2009-09-08-21-52-33-20.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/cityofheroes-2009-02-12-07-29-18-01.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/cityofheroes-2009-02-12-07-29-18-01.jpg"
 ---

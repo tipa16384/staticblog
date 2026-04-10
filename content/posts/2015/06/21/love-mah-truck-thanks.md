@@ -3,10 +3,24 @@ date: '2015-06-21T22:03:33-05:00'
 draft: false
 title: "Love mah TRUCK!!!"
 author: "Tipa"
+disqusIdentifier: "2015/06/21/love-mah-truck-thanks"
 summary: "Love mah TRUCK!!! Thanks for the rad paint, +Michael Birke !..."
 categories:
   - "Euro Truck Simulator 2"
   - "Other Games"
+relatedPosts:
+  - url: "/2015/06/23/the-trip-from-hell/"
+    title: "The trip from Hell."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/06/2015-06-23_00001.jpg"
+  - url: "/2015/06/19/euro-truck-simulator-2n/"
+    title: "Euro Truck Simulator 2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/06/eurotrucks2-2015-06-19-06-12-21-70.jpg"
+  - url: "/2025/08/06/la-brute-battles-royale-and-warring-guilds/"
+    title: "La Brute: Battles Royale and Warring Guilds"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/LaBrute.png"
+  - url: "/2025/07/10/frosthaven-scenario-14-jagged-shoals/"
+    title: "Frosthaven Scenario 14: Jagged Shoals"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/07/IMG_5225-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/06/2015-06-20_00001.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/06/2015-06-20_00001.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2022-09-23T23:15:14-05:00'
 draft: false
 title: "Star Ocean: The Divine Force: The Demo"
 author: "Tipa"
+disqusIdentifier: "2022/09/23/star-ocean-the-divine-force-the-demo"
 summary: "Star Ocean: The Divine Force is an upcoming action RPG with a flying combat drone and a focus on disabling enemies through battle effects. The demo offers a taste of the game's fast-paced combat and linear storytelling."
 categories:
   - "Action RPG"
@@ -14,6 +15,19 @@ tags:
   - "Ffxv"
   - "Star Ocean"
   - "The Divine Force"
+relatedPosts:
+  - url: "/2022/09/26/star-ocean-the-divine-force-the-demo-the-review-but-what-if-it-was-written-like-dear-abby/"
+    title: "Star Ocean: The Divine Force: The Demo: The Review, but what if it was written like Dear Abby?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-26-16.46.54-Old-time-newspaper-illustration-of-a-1950s-housewife-writing-a-letter-on-the-kitchen-table-with-pen-and-paper.-the-housewife-is-crying..png"
+  - url: "/2025/09/02/sword-hero-combat-arena-demo/"
+    title: "Sword Hero: Combat Arena Demo"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/swordhero.png"
+  - url: "/2024/08/11/worshippers-of-cthulhu-the-demo/"
+    title: "Worshippers of Cthulhu: the Demo"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/cthulhu.png"
+  - url: "/2024/11/27/odin-sphere-two-dimensions-is-more-than-enough/"
+    title: "Odin Sphere: Two dimensions is more than enough"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/odinsphere.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/2-STAR-OCEAN-THE-DIVINE-FORCE-DEMO_20220923212513.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/2-STAR-OCEAN-THE-DIVINE-FORCE-DEMO_20220923212513.jpg"
 ---

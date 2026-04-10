@@ -3,6 +3,7 @@ date: '2023-12-21T07:41:59-05:00'
 draft: false
 title: "Pantheon: Rise of the Fallen (alpha peek)"
 author: "Tipa"
+disqusIdentifier: "2023/12/21/pantheon-rise-of-the-fallen-alpha-peek"
 summary: "More Vanguard than EverQuest, Pantheon: Rise of the Fallen tries to strike a balance between old and new."
 categories:
   - "EverQuest"
@@ -12,6 +13,19 @@ categories:
 tags:
   - "Alpha"
   - "MMORPG"
+relatedPosts:
+  - url: "/2007/12/01/cox-madame-scurry-ms-narusegawa-and-the-amoy-tiger-villains-and-heroes/"
+    title: "CoX: Madame Scurry, Ms. Narusegawa, and the Amoy Tiger -- Villains and Heroes"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/cityofheroes-2007-12-01-12-05-32-84.jpg"
+  - url: "/2025/01/04/best-of-2024-my-favorite-mmos/"
+    title: "Best of 2024: My Favorite MMOs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/mmosbanner.png"
+  - url: "/2023/11/24/pantheon-whats-so-bad-about-247-extraction/"
+    title: "Pantheon: What's so bad about 247 Extraction?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/247extraction.webp"
+  - url: "/2023/12/09/monsters-memories-wish-you-were-here/"
+    title: "Monsters & Memories: Wish you were here?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/mandmwishyouwerehere.webp"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-20-23.38.37-Create-an-illustration-that-resembles-a-crayon-drawing-of-a-scene-in-a-meadow-near-a-tall-cliff-illuminated-by-the-morning-sun.-In-the-meadow-a-woma.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-20-23.38.37-Create-an-illustration-that-resembles-a-crayon-drawing-of-a-scene-in-a-meadow-near-a-tall-cliff-illuminated-by-the-morning-sun.-In-the-meadow-a-woma.png"
 ---

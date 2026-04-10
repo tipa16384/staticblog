@@ -3,6 +3,7 @@ date: '2009-05-11T07:18:38-05:00'
 draft: false
 title: "Daily Blogroll 5/11 -- Reboot edition"
 author: "Tipa"
+disqusIdentifier: "2009/05/11/daily-blogroll-511-reboot-edition"
 summary: "I saw Star Trek Friday night -- and it was great. Kinda made me wonder if someone could do the same for Star Wars... like..."
 categories:
   - "Champions Online"
@@ -16,6 +17,19 @@ categories:
   - "Mythos"
   - "Star Trek"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2009/05/08/daily-blogroll-58-darkfail-edition/"
+    title: "Daily Blogroll 5/8 -- Darkfail edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/darkfall.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/08/04/daily-blogroll-84-lifetime-edition/"
+    title: "Daily Blogroll 8/4 -- Lifetime edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/lederhosenman.jpg"
+  - url: "/2009/05/19/daily-blogroll-519-black-lung-edition/"
+    title: "Daily Blogroll 5/19 -- Black Lung edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/exefile-2009-05-18-23-31-07-25.jpg"
 ---
 I saw Star Trek Friday night -- and it was great. Kinda made me wonder if someone could do the same for Star Wars... like...
 <!--more-->

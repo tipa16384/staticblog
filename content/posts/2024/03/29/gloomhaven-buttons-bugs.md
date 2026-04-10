@@ -3,6 +3,7 @@ date: '2024-03-29T07:00:00-05:00'
 draft: false
 title: "Gloomhaven: Buttons & Bugs"
 author: "Tipa"
+disqusIdentifier: "2024/03/29/gloomhaven-buttons-bugs"
 summary: "What if Gloomhaven, but tiny? Cephalofair has managed to cram 10kg of board game into a box no bigger than four decks of cards stacked together."
 categories:
   - "Frosthaven"
@@ -12,6 +13,19 @@ tags:
   - "Buttons & Bugs"
   - "Gloomholdin'"
   - "Jaws of the Lion"
+relatedPosts:
+  - url: "/2022/07/19/gloomhaven-jaws-of-the-lion-finished/"
+    title: "Gloomhaven Jaws of the Lion: Finished."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/jotlbox.png"
+  - url: "/2021/10/10/game-night-jotl-the-heist-and-the-message/"
+    title: 'Game Night: JotL "The Heist" and "The Message"'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/1-IMG_2350.jpg"
+  - url: "/2020/11/23/game-night-jaws-of-the-lion/"
+    title: "Game Night: Jaws of the Lion"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/11/2-IMG_2014.jpg"
+  - url: "/2020/10/16/game-night-gloomhaven-jaws-of-the-lion-a-ritual-in-stone/"
+    title: "Game Night: Gloomhaven, Jaws of the Lion, A Ritual in Stone"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/1-IMG_1959.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/pic8114705.webp"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/pic8114705.webp"
 ---

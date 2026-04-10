@@ -3,6 +3,7 @@ date: '2022-08-27T07:00:00-05:00'
 draft: false
 title: "The 27th Chamber: A Game about Time"
 author: "Tipa"
+disqusIdentifier: "2022/08/27/the-27th-chamber-a-game-about-time"
 summary: "I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day..."
 categories:
   - "Blaugust"
@@ -13,6 +14,19 @@ tags:
   - "Gpt-3"
   - "Metroidvania"
   - "Time Travel"
+relatedPosts:
+  - url: "/2022/08/07/the-seven-sages-a-masterclass-in-metroidvania-design/"
+    title: "The Seven Sages: A Masterclass in Metroidvania Design"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/7sages2.png"
+  - url: "/2022/09/01/32-bullets-new-first-person-shooter-game/"
+    title: 'Creating "32 Bullets" -- an AI adventure.'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/32bulletsbanner.png"
+  - url: "/2022/08/31/blaugust-hath-31-days/"
+    title: "Blaugust Hath 31 Days"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-24-22.46.10-a-young-woman-fighting-a-monster-with-a-rune-carved-sword.-She-is-surrounded-by-a-dark-forest-and-the-full-moon-is-shining-overhead-in-the-style-of-.png"
+  - url: "/2022/08/30/blaugust-theme-week-lessons-learned/"
+    title: "Blaugust theme week: Lessons learned"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-30-23.00.58-35mm-long-range-photograph-of-a-woman-warrior-reading-a-book-while-sitting-against-a-sleeping-green-dragon-near-a-mountain-lake-pastel-colors-peacef.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/27chamber.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/27chamber.png"
 ---

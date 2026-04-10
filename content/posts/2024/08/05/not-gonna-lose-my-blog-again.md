@@ -3,6 +3,7 @@ date: '2024-08-05T08:29:00-05:00'
 draft: false
 title: "Not Gonna Lose My Blog: Backups Saved Me Once and Will Save Me Again"
 author: "Tipa"
+disqusIdentifier: "2024/08/05/not-gonna-lose-my-blog-again"
 summary: "I lost my blog. Backups saved me. Now I'm taking it to the next level by implementing the 3-2-1 backup strategy with rclone and OneDrive."
 categories:
   - "Blaugust"
@@ -12,6 +13,19 @@ tags:
   - "3-2-1 Strategy"
   - "Backups"
   - "West Karana"
+relatedPosts:
+  - url: "/2022/08/29/blaugust-2022-staying-unmotivated/"
+    title: "Blaugust 2022: Staying (un)Motivated"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-29-21.17.59-A-pen-and-ink-drawing-of-a-penguin-typing-on-a-computer-while-floating-on-an-ice-floe-in-the-middle-of-the-ocean..png"
+  - url: "/2021/09/01/resurrecting-west-karana/"
+    title: "Resurrecting West Karana"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/b0d5f94a61f128683568fec95571fa8e.jpg"
+  - url: "/2024/08/31/my-california/"
+    title: "My California"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_4623-scaled.jpeg"
+  - url: "/2024/08/29/going-to-california/"
+    title: "Going to California"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_4594-scaled.jpeg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/3-2-1-Backup-Rule.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/3-2-1-Backup-Rule.png"
 ---

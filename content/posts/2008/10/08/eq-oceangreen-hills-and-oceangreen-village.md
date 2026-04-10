@@ -3,6 +3,7 @@ date: '2008-10-08T10:00:21-05:00'
 draft: false
 title: "EQ: Oceangreen Hills and Oceangreen Village"
 author: "Tipa"
+disqusIdentifier: "2008/10/08/eq-oceangreen-hills-and-oceangreen-village"
 summary: "I'll say straight out that I can be slow sometimes. Even after all the clues from the last update, even after I knew that the..."
 categories:
   - "EverQuest"
@@ -14,6 +15,19 @@ tags:
   - "Oceangreen Hills"
   - "Oceangreen Village"
   - "Seeds of Destruction"
+relatedPosts:
+  - url: "/2008/10/25/eq-the-bastion-of-thunder/"
+    title: "EQ: The Bastion of Thunder"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-25-07-09-32-24.jpg"
+  - url: "/2008/11/01/eq-nostalgia-enters-vex-thal/"
+    title: "EQ: Nostalgia enters Vex Thal!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/eqgame-2008-11-01-12-03-19-13.jpg"
+  - url: "/2008/10/08/eq-october-7-update-patch-notes/"
+    title: "EQ: October 7 update patch notes"
+    thumbnailImage: ""
+  - url: "/2007/10/12/the-deep-ones/"
+    title: "The Deep Ones"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/10/goblin.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-07-23-48-01-47.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-07-23-48-01-47.jpg"
 ---

@@ -3,11 +3,25 @@ date: '2011-03-05T08:24:52-05:00'
 draft: false
 title: "Rift, yer pretty, but ya ain't no EverQuest II"
 author: "Tipa"
+disqusIdentifier: "2011/03/05/rift-yer-pretty-but-ya-aint-no-everquest-ii"
 summary: "Since the times when the local post office is open correspond almost exactly to the times I am at work, I won't be able to..."
 categories:
   - "EverQuest"
   - "MMORPG"
   - "Rift"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2021/07/22/new-world-fomo-or-fotm/"
+    title: "New World: FOMO or FOTM?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/GameClient-2014-12-06-11-09-05-59.jpg"
+  - url: "/2011/05/24/what-if-rift-was-modeled-after-everquest/"
+    title: "What if Rift was modeled after EverQuest?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/05/rift-2011-05-23-07-42-33-94-480x480.jpg"
+  - url: "/2011/05/13/daily-blogroll-513-truth-in-advertising-edition/"
+    title: "Daily Blogroll 5/13: Truth in Advertising Edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/05/Fullscreen-capture-5112011-61851-AM-480x308.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/EverQuest2-2011-03-05-07-24-37-81-480x307.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/EverQuest2-2011-03-05-07-24-37-81-480x307.jpg"
 ---

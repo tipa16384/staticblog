@@ -3,12 +3,26 @@ date: '2009-08-14T06:58:49-05:00'
 draft: false
 title: "Daily Blogroll 8/14 - Remythed Edition"
 author: "Tipa"
+disqusIdentifier: "2009/08/14/daily-blogroll-814-remythed-edition"
 summary: "Apparently, Diablo-esque MMO Mythos, formerly developed by the Diablo-esque developers of Diablo, who lost the rights to their game to Korean publisher HanbitSoft, is apparently..."
 categories:
   - "Daily Blogroll"
   - "Lord of the Rings"
   - "MMORPG"
   - "Mythos"
+relatedPosts:
+  - url: "/2009/05/08/daily-blogroll-58-darkfail-edition/"
+    title: "Daily Blogroll 5/8 -- Darkfail edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/darkfall.jpg"
+  - url: "/2009/04/24/web-log-424-friday-is-free-day-edition/"
+    title: "Web Log 4/24 -- Friday is Free Day edition"
+    thumbnailImage: "http://www.penny-arcade.com/images/2009/20090424.jpg"
+  - url: "/2008/04/07/the-mmo-nostalgia-challenge/"
+    title: "The MMO Nostalgia Challenge"
+    thumbnailImage: ""
+  - url: "/2008/01/02/great-expectations-2008/"
+    title: "Great Expectations: 2008"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/mythostease.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/mythostease.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2021-07-31T23:19:27-05:00'
 draft: false
 title: "The RPG Challenge: Final Fantasy"
 author: "Tipa"
+disqusIdentifier: "2021/07/31/the-rpg-challenge-final-fantasy"
 summary: "It's the first of Blaugust! The week where a lot of game bloggers come together and... blog... to show the world just how much fun..."
 categories:
   - "Blaugust"
@@ -11,6 +12,19 @@ categories:
 tags:
   - "Blaugust"
   - "Steam"
+relatedPosts:
+  - url: "/2021/08/22/ff3-complete/"
+    title: "FF3 Complete!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210821223214_1.jpg"
+  - url: "/2021/08/17/ff3-making-myself-cod-worthy/"
+    title: "FF3 -- Making Myself CoD-Worthy"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/20210817213623_1.jpg"
+  - url: "/2021/08/17/ff3-eureka-and-the-cloud-of-darkness/"
+    title: "FF3 -- Eureka, and the Cloud of Darkness"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/20210816230414_1.jpg"
+  - url: "/2021/08/15/ff3-all-u-can-eat-gysahl-greens/"
+    title: "FF3 -- All-U-Can-Eat Gysahl Greens"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210814221925_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/Final_Fantasy_logo-1.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/Final_Fantasy_logo-1.png"
 ---

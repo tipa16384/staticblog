@@ -3,12 +3,26 @@ date: '2024-11-25T15:20:20-05:00'
 draft: false
 title: "Spy Muppets: License to Croak"
 author: "Tipa"
+disqusIdentifier: "2024/11/25/spy-muppets-license-to-croak"
 summary: "The credits are longer than the game in this classic Gameboy Advance caper..."
 categories:
   - "Arcade Game"
 tags:
   - "Gameboy Advance"
   - "Muppets"
+relatedPosts:
+  - url: "/2024/06/09/retro-haul-tactics-and-sea-monkeys/"
+    title: "Retro Haul: Tactics and Sea Monkeys"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/06/IMG_4308.jpg"
+  - url: "/2024/03/30/retro-game-haul-march-30-2024/"
+    title: "Retro Game Haul: March 30, 2024"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/IMG_4228.jpg"
+  - url: "/2024/02/20/retro-game-quick-look-sword-of-mana-lotr-two-towers-iridion-3d/"
+    title: "Retro Game Quick Look: Sword of Mana, LotR: Two Towers, Iridion 3D"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/02/DALL·E-2024-02-19-23.10.31-Illustrate-an-anime-style-boy-and-girl-standing-on-a-hill-looking-towards-an-enormous-tree-surrounded-by-blue-crystals-capturing-the-essence-of-a-19.webp"
+  - url: "/2024/01/06/tactics-ogre-the-knight-of-lodis-finished/"
+    title: "Tactics Ogre: The Knight of Lodis FINISHED!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/20240104_221426.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/20241125_153617.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/20241125_153617.jpg"
 ---

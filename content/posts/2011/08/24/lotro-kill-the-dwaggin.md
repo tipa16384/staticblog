@@ -3,10 +3,24 @@ date: '2011-08-24T06:50:08-05:00'
 draft: false
 title: "LotRO: Kill the Dwaggin"
 author: "Tipa"
+disqusIdentifier: "2011/08/24/lotro-kill-the-dwaggin"
 summary: "I got this mysterious e-mail the other day, it was simply a list of tasks to perform......"
 categories:
   - "Lord of the Rings"
   - "MMORPG"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2020/08/27/blaugust-27-be-the-content-you-want-to-see/"
+    title: "Blaugust #27: Be the Content You Want to See"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/ClipartKey_519651.png"
+  - url: "/2011/10/10/daily-blogroll-oct-10-columbus-day-edition/"
+    title: "Daily Blogroll Oct 10: Columbus Day edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/glitch.png"
+  - url: "/2011/01/01/daily-blogroll-1111-happy-new-year-edition/"
+    title: "Daily Blogroll 1/1/11 -- Happy New Year edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/rift-2010-12-31-16-51-43-97-480x384.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/08/lotroclient-2011-08-24-01-05-21-21-480x433.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/08/lotroclient-2011-08-24-01-05-21-21-480x433.jpg"
 ---

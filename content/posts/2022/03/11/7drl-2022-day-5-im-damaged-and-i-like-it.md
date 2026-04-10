@@ -3,11 +3,25 @@ date: '2022-03-11T07:37:23-05:00'
 draft: false
 title: "7DRL 2022 Day 5: I'm Damaged, and I Like It"
 author: "Tipa"
+disqusIdentifier: "2022/03/11/7drl-2022-day-5-im-damaged-and-i-like-it"
 summary: "It may seem like I'm not making a lot of progress, but I have a checklist for each night, and I really am doing what..."
 categories:
   - "7DRL"
 tags:
   - "Blue Oyster Cult"
+relatedPosts:
+  - url: "/2025/08/15/base44-games-from-a-prompt/"
+    title: "Base44: Games from a Prompt"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/pendeenpoint.png"
+  - url: "/2007/10/18/eq2-i-just-gotta-have-more-cowbell/"
+    title: "EQ2: I just gotta have more cowbell"
+    thumbnailImage: ""
+  - url: "/2025/03/10/how-to-fail-at-writing-a-game-in-7-days/"
+    title: "How To Fail at Writing A Game in 7 Days"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/gamedevadventure.png"
+  - url: "/2022/03/13/7drl-2022-retrospective/"
+    title: "7DRL 2022: Retrospective"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/1-Dream_TradingCard-4.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/ezgif.com-gif-maker-5.gif"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/ezgif.com-gif-maker-5.gif"
 ---

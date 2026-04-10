@@ -3,6 +3,7 @@ date: '2009-08-10T07:48:14-05:00'
 draft: false
 title: "Daily Blogroll 8/10 -- Thank God it's Monday edition"
 author: "Tipa"
+disqusIdentifier: "2009/08/10/daily-blogroll-810-thank-god-its-monday-edition"
 summary: "I got a spam comment today which mentioned, while complimenting me on explaining some vague idea to them, that they were unsure of this blog's..."
 categories:
   - "Aion"
@@ -16,6 +17,19 @@ categories:
   - "Vanguard"
   - "Wizard101"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2009/06/30/daily-blogroll-630-christmas-edition/"
+    title: "Daily Blogroll 6/30 - Christmas edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/TS3-2009-06-30-08-10-20-98.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/07/23/daily-blogroll-723-aftermath-edition/"
+    title: "Daily Blogroll 7/23 -- Aftermath edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/sb_client-2009-07-23-07-34-50-3.jpg"
+  - url: "/2009/05/11/daily-blogroll-511-reboot-edition/"
+    title: "Daily Blogroll 5/11 -- Reboot edition"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/daddygirl.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/daddygirl.jpg"
 ---

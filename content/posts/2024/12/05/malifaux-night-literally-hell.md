@@ -3,6 +3,7 @@ date: '2024-12-05T15:00:00-05:00'
 draft: false
 title: "Malifaux Night: Literally Hell"
 author: "Tipa"
+disqusIdentifier: "2024/12/05/malifaux-night-literally-hell"
 summary: "Tuesday night Malifaux. The snow outside was no match for the ice that waited for me inside."
 categories:
   - "Malifaux"
@@ -12,6 +13,19 @@ tags:
   - "Foundry"
   - "Savage"
   - "The Haven"
+relatedPosts:
+  - url: "/2025/03/19/malifaux-new-crew-two/"
+    title: "Malifaux: New Crew Two"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/newleague2.png"
+  - url: "/2025/01/29/malifaux-booty-plunder/"
+    title: "Malifaux: Booty &amp; Plunder"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/bootyplunder.png"
+  - url: "/2025/01/12/malifaux-the-littlest-capn/"
+    title: "Malifaux: The Littlest Cap'n"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/littlecaptainbanner.png"
+  - url: "/2024/11/20/malifaux-pig-farm/"
+    title: "Malifaux: Pig Farm"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/IMG_4871-scaled.jpeg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/1-IMG_4886-001.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/1-IMG_4886-001.jpg"
 ---

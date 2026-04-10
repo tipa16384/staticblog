@@ -3,10 +3,24 @@ date: '2009-08-25T07:17:59-05:00'
 draft: false
 title: "A first look at Dragonica Online"
 author: "Tipa"
+disqusIdentifier: "2009/08/25/a-first-look-at-dragonica-online"
 summary: "There's plenty of MMOs that promise to get you right in the action, but few of them really deliver. You have to zone out of..."
 categories:
   - "Dragonica Online"
   - "MMORPG"
+relatedPosts:
+  - url: "/2011/01/27/daily-blogroll-127-inevitable-backlash-edition/"
+    title: "Daily Blogroll 1/27 -- Inevitable Backlash edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/riftblade.png"
+  - url: "/2010/03/01/weekend-gaming-eve-eq2-sto-ddo-dragonica-online/"
+    title: "Weekend Gaming: EVE, EQ2, STO, DDO, Dragonica Online"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/03/GameClient-2010-02-28-18-44-20-73.jpg"
+  - url: "/2009/09/17/daily-blogroll-917-kanye-edition/"
+    title: "Daily Blogroll 9/17 - Kanye edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/kanye.jpg"
+  - url: "/2009/07/18/dragonica-online-closed-beta-closes-open-beta-opens-soon/"
+    title: "Dragonica Online: Closed Beta closes, Open Beta opens soon"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/Dragonica-2009-07-02-16-21-04-64.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/Dragonica-2009-08-24-08-03-50-41.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/Dragonica-2009-08-24-08-03-50-41.jpg"
 ---

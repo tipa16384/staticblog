@@ -3,6 +3,7 @@ date: '2022-04-08T20:06:46-05:00'
 draft: false
 title: "How Much is that Star Trek NFT in the Window?"
 author: "Tipa"
+disqusIdentifier: "2022/04/08/how-much-is-that-star-trek-nft-in-the-window"
 summary: "You aren't going to enjoy the RECUR/Paramount.xyz experience -- and you won't be able to afford it, either. I went through the process to make..."
 categories:
   - "Blockchain"
@@ -14,6 +15,19 @@ tags:
   - "NFT"
   - "Opensea"
   - "Wax.io"
+relatedPosts:
+  - url: "/2021/11/10/hodgepodge-games-crypto-and-nfts/"
+    title: "Hodgepodge: Games, Crypto and NFTs."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/senile.png"
+  - url: "/2021/11/01/cryptogaming-a-brief-adventure/"
+    title: "Cryptogaming: A Brief Adventure"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/CryptoDragons-a-week-later.jpg"
+  - url: "/2021/10/20/dragonereum-if-neopets-cost-7000/"
+    title: "Dragonereum: If NeoPets Cost $7,000"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/dragon-main-30501377.png"
+  - url: "/2021/11/18/im-just-here-to-bring-joy-and-melt-your-brain/"
+    title: "I'm just here to bring joy and melt your brain."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/genesisloot.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/04/Screenshot-2022-04-08-184902.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/04/Screenshot-2022-04-08-184902.png"
 ---

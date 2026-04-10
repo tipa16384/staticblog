@@ -3,6 +3,7 @@ date: '2011-05-13T06:13:34-05:00'
 draft: false
 title: "Daily Blogroll 5/13: Truth in Advertising Edition"
 author: "Tipa"
+disqusIdentifier: "2011/05/13/daily-blogroll-513-truth-in-advertising-edition"
 summary: "One thing you gotta say about Dragon Age Legends: like the single player games upon which its based, in Dragon Age Legends you Get. To...."
 categories:
   - "Daily Blogroll"
@@ -16,6 +17,19 @@ categories:
   - "Rift"
   - "Treasure Abyss"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2010/10/29/halloween-around-the-multiverse/"
+    title: "Halloween around the multiverse...."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/STOPumpkin.jpg"
+  - url: "/2011/04/09/entitlement-in-dragon-age-legends-and-wow/"
+    title: "Entitlement in Dragon Age Legends (and WoW)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/04/Fullscreen-capture-482011-110815-PM-480x396.jpg"
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/05/Fullscreen-capture-5112011-61851-AM-480x308.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/05/Fullscreen-capture-5112011-61851-AM-480x308.jpg"
 ---

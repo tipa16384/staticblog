@@ -3,12 +3,26 @@ date: '2009-05-31T08:33:15-05:00'
 draft: false
 title: "Adventures in Computer Science: Monopoly board computer"
 author: "Tipa"
+disqusIdentifier: "2009/05/31/adventures-in-computer-science-monopoly-board-computer"
 summary: "Yesterday, Bear was caught in a bind because he didn't have a computer to run the Champions Online beta. He didn't know that he was..."
 categories:
   - "Adventures in Monopoly"
   - "Asides"
   - "General"
   - "My Work"
+relatedPosts:
+  - url: "/2012/11/30/adventures-in-monopoly-kickstarter/"
+    title: "Adventures in Monopoly: Kickstarter"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/11/aimkick.png"
+  - url: "/2010/01/25/off-to-virginia-but-first-a-puzzle/"
+    title: "Off to Virginia, but first, a puzzle:"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/01/STP62004.jpg"
+  - url: "/2010/12/20/yummy/"
+    title: "Yummy!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/Fullscreen-capture-12202010-101059-AM.jpg"
+  - url: "/2009/03/26/xfire-wordpress-plugin-first-release/"
+    title: "XFire Wordpress Plugin -- first release"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/turingopoly.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/turingopoly.jpg"
 ---

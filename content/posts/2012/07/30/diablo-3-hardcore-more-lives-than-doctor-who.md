@@ -3,9 +3,23 @@ date: '2012-07-30T21:53:02-05:00'
 draft: false
 title: "Diablo 3 Hardcore: More lives than Doctor Who"
 author: "Tipa"
+disqusIdentifier: "2012/07/30/diablo-3-hardcore-more-lives-than-doctor-who"
 summary: "The ironic part was when I was saying something stupid about avoiding dying, and Calrain said, \"Like I just did?\"..."
 categories:
   - "Other Games"
+relatedPosts:
+  - url: "/2025/08/06/la-brute-battles-royale-and-warring-guilds/"
+    title: "La Brute: Battles Royale and Warring Guilds"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/LaBrute.png"
+  - url: "/2025/07/10/frosthaven-scenario-14-jagged-shoals/"
+    title: "Frosthaven Scenario 14: Jagged Shoals"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/07/IMG_5225-scaled.jpg"
+  - url: "/2024/11/21/dragon-age-the-veilguard-finished/"
+    title: "Dragon Age: the Veilguard finished"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/banner2.png"
+  - url: "/2024/11/09/dragon-age-the-veilguard-is-not-the-game-you-think-it-is/"
+    title: "Dragon Age: The Veilguard is not the game you think it is"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/davg-banner.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/07/Diablo-III-2012-07-30-21-43-24-94-480x360.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/07/Diablo-III-2012-07-30-21-43-24-94-480x360.jpg"
 ---

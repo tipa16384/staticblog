@@ -3,11 +3,25 @@ date: '2012-10-08T22:45:52-05:00'
 draft: false
 title: "Pirate101: Yo ho ho, a Pirate's Life for Me"
 author: "Tipa"
+disqusIdentifier: "2012/10/08/pirate101-yo-ho-ho-a-pirates-life-for-me"
 summary: "[..."
 categories:
   - "General"
   - "MMORPG"
   - "Pirate101"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2012/11/22/wizard101-pirate101-free-stuff/"
+    title: "Wizard101 & Pirate101 Free Stuff!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/11/Pirate-2012-11-22-22-15-34-33-480x360.jpg"
+  - url: "/2012/11/15/pirate101-buffaloon-hiding/"
+    title: "Pirate101: Buffaloon Hiding"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/11/Pirate-2012-11-14-23-00-33-94-480x270.jpg"
+  - url: "/2012/10/26/pirate101-o-valencia/"
+    title: "Pirate101: O Valencia!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-25-00-08-24-64-480x269.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-08-22-32-11-71-480x269.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-08-22-32-11-71-480x269.jpg"
 ---

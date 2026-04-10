@@ -3,6 +3,7 @@ date: '2009-05-06T08:36:55-05:00'
 draft: false
 title: "Daily Blogroll 5/6 -- Tempests and Teapots edition"
 author: "Tipa"
+disqusIdentifier: "2009/05/06/daily-blogroll-56-tempests-and-teapots-edition"
 summary: "My new computer is due to be delivered today! I'll be at work, of course, but maybe I can finally find their delivery center and..."
 categories:
   - "City of Heroes"
@@ -18,6 +19,19 @@ categories:
   - "Warhammer: Age of Reckoning"
   - "Wizard101"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2009/04/24/web-log-424-friday-is-free-day-edition/"
+    title: "Web Log 4/24 -- Friday is Free Day edition"
+    thumbnailImage: "http://www.penny-arcade.com/images/2009/20090424.jpg"
+  - url: "/2009/05/08/daily-blogroll-58-darkfail-edition/"
+    title: "Daily Blogroll 5/8 -- Darkfail edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/darkfall.jpg"
+  - url: "/2009/05/19/daily-blogroll-519-black-lung-edition/"
+    title: "Daily Blogroll 5/19 -- Black Lung edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/exefile-2009-05-18-23-31-07-25.jpg"
+  - url: "/2009/05/04/daily-blogroll-54-dragon-claw-style-edition/"
+    title: "Daily Blogroll 5/4 -- Dragon Claw Style edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/dragonclawstyle1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/fullscreen-capture-562009-125235-am.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/fullscreen-capture-562009-125235-am.jpg"
 ---

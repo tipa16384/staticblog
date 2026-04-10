@@ -3,6 +3,7 @@ date: '2020-04-26T17:52:23-05:00'
 draft: false
 title: "While True(): Learn to teach your cat to drive."
 author: "Tipa"
+disqusIdentifier: "2020/04/26/while-true-learn-to-teach-your-cat-to-drive"
 summary: "I've got a soft spot for \"programming\" games. Since that's my day job, I can usually convince myself that this is the one sort of..."
 categories:
   - "Nintendo Switch"
@@ -13,6 +14,19 @@ tags:
   - "SNAP"
   - "Spacechem"
   - "While True: Learn()"
+relatedPosts:
+  - url: "/2025/09/03/the-mystery-of-the-casterville-legion/"
+    title: "The Mystery of the Casterville Legion"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/tess-of-casterville.png"
+  - url: "/2025/01/25/ai-is-going-to-steal-my-job-and-i-couldnt-be-happier/"
+    title: "AI is going to steal my job -- and I couldn't be happier"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/minitray.png"
+  - url: "/2024/12/02/advent-of-code-2024-1/"
+    title: "Advent of Code 2024.1:"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/DALL·E-2024-12-01-15.45.53-A-serene-scene-of-Tolkien-style-elves-sorting-numbers-written-on-thin-ivory-slabs-and-placing-them-into-a-wall-hanging-reminiscent-of-hymn-boards-in-a.webp"
+  - url: "/2024/09/06/the-tale-of-tiffany-lord-of-the-ring/"
+    title: "The Tale of Tiffany, Lord of the Ring"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/DALL·E-2024-09-05-23.49.25-A-parody-scene-in-an-epic-fantasy-setting-showing-a-trendy-modern-teenage-girl-named-Tiffany-dressed-in-trendy-sneakers-ripped-jeans-and-a-Froyo-.webp"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/04/catai-1024x576.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/04/catai-1024x576.jpg"
 ---

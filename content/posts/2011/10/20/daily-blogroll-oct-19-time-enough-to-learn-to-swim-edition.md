@@ -3,6 +3,7 @@ date: '2011-10-20T05:00:04-05:00'
 draft: false
 title: "Daily Blogroll Oct 19: Time enough to learn to swim edition"
 author: "Tipa"
+disqusIdentifier: "2011/10/20/daily-blogroll-oct-19-time-enough-to-learn-to-swim-edition"
 summary: "If you were given six months to live, you wouldn't spend it leveling up a new character in some MMORPG. You'd want to do something..."
 categories:
   - "7DRL"
@@ -12,6 +13,19 @@ categories:
   - "Star Corsairs"
   - "Star Wars the Old Republic"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2011/10/21/daily-blogroll-oct-21-tanks-for-the-memories-edition/"
+    title: "Daily Blogroll Oct 21: Tanks for the Memories edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/dndclient-2011-10-20-21-19-18-63-480x352.jpg"
+  - url: "/2011/10/12/daily-blogroll-oct-12-no-time-for-heroes-edition/"
+    title: "Daily Blogroll Oct 12: No time for heroes edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/castleville.png"
+  - url: "/2011/10/11/daily-blogroll-oct-11-cant-break-the-nda-edition/"
+    title: "Daily Blogroll Oct 11: Can't break the NDA edition."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/starwarsguys.jpg"
+  - url: "/2011/01/07/daily-blogroll-17-better-than-life-edition/"
+    title: "Daily Blogroll 1/7 - Better than Life edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/ZodiacOnline.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/02/ffxivgame-2011-10-18-19-43-58-81-480x234-1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/02/ffxivgame-2011-10-18-19-43-58-81-480x234-1.jpg"
 ---

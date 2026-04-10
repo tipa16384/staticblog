@@ -3,6 +3,7 @@ date: '2021-08-24T23:34:48-05:00'
 draft: false
 title: "Stalking My Sister"
 author: "Tipa"
+disqusIdentifier: "2021/08/24/stalking-my-sister"
 summary: "My sister and her family recently moved from Texas back to Connecticut! Yay! So she's living now on the coast, just 45 minutes away! More..."
 categories:
   - "Blaugust"
@@ -15,6 +16,19 @@ tags:
   - "Nyctophobia"
   - "The Red Dragon Inn"
   - "War with the Evil Power Master"
+relatedPosts:
+  - url: "/2021/08/23/this-post-isnt-about-tiny-rogue/"
+    title: "This Post Isn't About Mini Rogue"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-IMG_2295.jpg"
+  - url: "/2023/08/01/this-day-in-blogging-august-1-2006/"
+    title: "This Day In Blogging: August 1, 2006"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/07/dawnfull.jpg"
+  - url: "/2024/04/18/confessions-of-a-kickstarter-superbacker/"
+    title: "Confessions of a Kickstarter Superbacker"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/superbacker.png"
+  - url: "/2024/04/12/is-terraforming-mars-too-good/"
+    title: "Is Terraforming Mars... too good?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/terraformingmarsbanner.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210824215934_1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210824215934_1.jpg"
 ---

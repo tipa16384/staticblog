@@ -3,6 +3,7 @@ date: '2023-08-16T07:00:00-05:00'
 draft: false
 title: "From Hydaelyn to Veeshan: A Tribute to Creators"
 author: "Tipa"
+disqusIdentifier: "2023/08/16/a-tribute-to-creators"
 summary: "It's creator appreciation week, and I'm appreciating the creation myths of the most popular MMOs in the world!"
 categories:
   - "Blaugust"
@@ -18,6 +19,19 @@ categories:
   - "World of Warcraft"
 tags:
   - "Creator"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2021/10/05/new-world-kochaja-nas-w-polsce/"
+    title: "New World: Kochają nas w Polsce!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/poland.jpg"
+  - url: "/2022/08/22/the-5-best-mmos-to-play-in-2022/"
+    title: "The 5 Best MMOs to Play in 2022"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-22-13.05.37-3d-digital-art-of-Tweedle-Dee-and-Tweedle-Dum-wearing-pots-and-pans-standing-in-Duskwood-in-World-of-Warcraft.png"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/hydaelyn.webp"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/hydaelyn.webp"
 ---

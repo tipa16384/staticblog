@@ -3,6 +3,7 @@ date: '2025-03-19T07:56:22-05:00'
 draft: false
 title: "Malifaux: New Crew Two"
 author: "Tipa"
+disqusIdentifier: "2025/03/19/malifaux-new-crew-two"
 summary: "Rasputina meets the alien, mind-controlling Cadmus project on the streets of Malifaux City."
 categories:
   - "Malifaux"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "New Crew"
   - "The Haven"
+relatedPosts:
+  - url: "/2025/03/11/malifaux-new-crew-league-week-1/"
+    title: 'Malifaux: "New Crew" League, Week 1'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/newcrew1.png"
+  - url: "/2025/01/29/malifaux-booty-plunder/"
+    title: "Malifaux: Booty &amp; Plunder"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/bootyplunder.png"
+  - url: "/2025/01/12/malifaux-the-littlest-capn/"
+    title: "Malifaux: The Littlest Cap'n"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/littlecaptainbanner.png"
+  - url: "/2024/12/05/malifaux-night-literally-hell/"
+    title: "Malifaux Night: Literally Hell"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/1-IMG_4886-001.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/newleague2.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/newleague2.png"
 ---

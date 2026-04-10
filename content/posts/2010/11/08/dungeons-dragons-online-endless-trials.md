@@ -3,6 +3,7 @@ date: '2010-11-08T23:05:43-05:00'
 draft: false
 title: "Dungeons & Dragons Online: Endless Trials"
 author: "Tipa"
+disqusIdentifier: "2010/11/08/dungeons-dragons-online-endless-trials"
 summary: "[..."
 categories:
   - "Dungeons & Dragons Online"
@@ -14,6 +15,19 @@ tags:
   - "Spode"
   - "Team Spode"
   - "Three Barrel Cove"
+relatedPosts:
+  - url: "/2010/11/17/ddo-the-puzzling-three-barrel-cove/"
+    title: "DDO: The Puzzling Three Barrel Cove"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/dndclient-2010-11-17-22-08-34-14-480x384.jpg"
+  - url: "/2010/12/06/ddo-taking-a-wight-at-the-ghast-station/"
+    title: "DDO: Taking a Wight at the Ghast Station"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/dndclient-2010-12-05-00-36-35-01-480x384.jpg"
+  - url: "/2010/10/26/dungeons-dragons-online-three-barrel-cove-part-1/"
+    title: "Dungeons & Dragons Online: Three Barrel Cove, Part 1"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/dndclient-2010-10-25-00-39-44-80-480x384.jpg"
+  - url: "/2010/10/11/ddo-weekly-recap-tangleroot-gorge/"
+    title: "DDO Weekly Recap: Tangleroot Gorge"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/dndclient-2010-10-11-00-07-07-80.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/dndclient-2010-11-08-21-15-15-11-480x384.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/dndclient-2010-11-08-21-15-15-11-480x384.jpg"
 ---

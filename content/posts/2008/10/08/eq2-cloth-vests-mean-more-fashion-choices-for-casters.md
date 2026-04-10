@@ -3,6 +3,7 @@ date: '2008-10-08T14:00:59-05:00'
 draft: false
 title: "EQ2: Cloth vests mean more fashion choices for casters"
 author: "Tipa"
+disqusIdentifier: "2008/10/08/eq2-cloth-vests-mean-more-fashion-choices-for-casters"
 summary: "In either this latest game update, GU49, or the previous one, SOE added new recipes for tailors so that cloth-wearing classes, the ones whose clothing..."
 categories:
   - "EverQuest"
@@ -13,6 +14,19 @@ tags:
   - "Gu49"
   - "Multicore"
   - "Tailoring"
+relatedPosts:
+  - url: "/2008/10/07/eq2-the-return-of-anashti-sul/"
+    title: "EQ2: The return of Anashti Sul?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/everquest2-2008-10-06-22-41-21-45.jpg"
+  - url: "/2008/10/07/eq2-gu49-live/"
+    title: "EQ2: GU49 live!"
+    thumbnailImage: ""
+  - url: "/2008/09/23/eq2-thats-ms-guild-hall-constructor-to-you/"
+    title: "EQ2: That's MS. Guild Hall Constructor to YOU."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/everquest2-2008-09-22-21-58-41-70.jpg"
+  - url: "/2008/09/14/eq2-tomb-of-thuuga-and-the-shard-of-hate/"
+    title: "EQ2: Tomb of Thuuga and the Shard of Hate"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/everquest2-2008-09-13-22-12-56-42.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/everquest2-2008-10-08-07-37-27-60.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/everquest2-2008-10-08-07-37-27-60.jpg"
 ---

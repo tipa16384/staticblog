@@ -3,6 +3,7 @@ date: '2010-09-08T06:56:29-05:00'
 draft: false
 title: "Lord of the Rings Online is F2P, for certain definitions of free"
 author: "Tipa"
+disqusIdentifier: "2010/09/08/lord-of-the-rings-online-is-f2p-for-certain-definitions-of-free"
 summary: "[..."
 categories:
   - "Lord of the Rings"
@@ -15,6 +16,19 @@ tags:
   - "Lysistra"
   - "Moria"
   - "Skirmish"
+relatedPosts:
+  - url: "/2010/09/23/wizard101-a-chat-with-ki-vp-of-marketing-fred-howard/"
+    title: "Wizard101: A Chat with KI VP of Marketing, Fred Howard"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/WizardGraphicalClient-2010-09-23-21-36-13-33.jpg"
+  - url: "/2008/08/28/wizard101s-subscription-plan-and-item-shop/"
+    title: "Wizard101's subscription plan and item shop"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/wizardgraphicalclient-2008-08-27-18-05-35-45.jpg"
+  - url: "/2008/08/08/runes-of-magic-coming-soon-to-a-leipzig-near-you/"
+    title: "Runes of Magic coming soon to a Leipzig near you!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/runeschars.jpg"
+  - url: "/2008/07/24/free-to-play-game-of-the-month/"
+    title: "Free-to-play game of the month?"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/lotroclient-2010-09-08-07-05-29-52-480x363.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/lotroclient-2010-09-08-07-05-29-52-480x363.jpg"
 ---

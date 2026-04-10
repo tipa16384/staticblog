@@ -3,6 +3,7 @@ date: '2021-11-01T23:18:50-05:00'
 draft: false
 title: "Quick Look: Unexplored 2"
 author: "Tipa"
+disqusIdentifier: "2021/11/01/quick-look-unexplored-2"
 summary: "Ludomotion's sequel to 2017's \"Unexplored\" roguelike dungeon crawler brings 3D procedural generation to the overworld in a clever little legacy roguelike with some interesting quirks...."
 categories:
   - "CRPG"
@@ -16,6 +17,19 @@ tags:
   - "Rogue"
   - "Rogue-Like"
   - "Steam"
+relatedPosts:
+  - url: "/2020/10/27/rogue-the-original-rogue-like/"
+    title: "Rogue -- the original rogue-like"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/roguebanner.jpg"
+  - url: "/2020/12/11/my-rpgs-of-2020/"
+    title: "My RPGs of 2020"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/Chocobos-Mystery-Dungeon-EVERY-BUDDY_20200506204657.jpg"
+  - url: "/2009/06/09/shiren-the-wanderer-3-coming-next-year-for-the-wii/"
+    title: "Shiren the Wanderer 3 coming next year for the Wii"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/fullscreen-capture-692009-74630-pm.jpg"
+  - url: "/2021/09/28/new-world-fun-but-does-it-live-up-to-the-hype/"
+    title: "New World: Fun, but does it live up to the hype?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/terrarandoma.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/mainmenu.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/mainmenu.png"
 ---

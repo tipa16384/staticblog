@@ -3,11 +3,25 @@ date: '2010-10-21T06:49:18-05:00'
 draft: false
 title: "How I Killed MMOs (can FFXIV get them a rez?)"
 author: "Tipa"
+disqusIdentifier: "2010/10/21/how-i-killed-mmos-can-ffxiv-get-them-a-rez"
 summary: "[..."
 categories:
   - "Final Fantasy"
   - "General"
   - "MMORPG"
+relatedPosts:
+  - url: "/2022/09/04/how-i-used-ai-to-write-a-final-fantasy-vi-chatbot/"
+    title: "How I used AI to write a Final Fantasy VI chatbot"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-04-21.21.57-A-magazine-illustration-of-a-woman-with-dark-green-hair-in-a-high-ponytail-wearing-overalls-constructing-a-giant-mechanical-steampunk-chatbot-with-h.png"
+  - url: "/2025/03/24/monster-hunters-wilding/"
+    title: "Monster Hunters Wilding"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/mhwildsbanner.png"
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2023/05/07/ffxiv-how-i-ruined-a-realm-reborn/"
+    title: "FFXIV: How I Ruined a Realm Reborn..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/ffxiv_05072023_001521_777.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/secretworld1-480x270.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/secretworld1-480x270.jpg"
 ---

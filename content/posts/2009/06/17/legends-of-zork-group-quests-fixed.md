@@ -3,10 +3,24 @@ date: '2009-06-17T07:04:29-05:00'
 draft: false
 title: "Legends of Zork group quests fixed"
 author: "Tipa"
+disqusIdentifier: "2009/06/17/legends-of-zork-group-quests-fixed"
 summary: "Actually, the folks at Jolt claimed to have fixed group quests for this hands-off browser RPG weeks ago, and maybe they did, but my first..."
 categories:
   - "Legends of Zork"
   - "Other Games"
+relatedPosts:
+  - url: "/2009/10/25/legends-of-zork-post-mortem/"
+    title: "Legends of Zork: Post-mortem"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/lozbanner1.png"
+  - url: "/2009/05/27/legends-of-zork-we-have-a-clan/"
+    title: "Legends of Zork: We have a Clan!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/fullscreen-capture-5272009-65734-am.jpg"
+  - url: "/2010/05/21/assault-on-the-inbox/"
+    title: "Assault on the Inbox"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/assault-479x185.jpg"
+  - url: "/2009/09/03/daily-blogroll-93-sushi-day-edition/"
+    title: "Daily Blogroll 9/3 - Sushi day edition!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/Fullscreen-capture-932009-75844-AM.jpg"
 ---
 Actually, the folks at Jolt claimed to have fixed group quests for this hands-off browser RPG weeks ago, and maybe they did, but my first...
 <!--more-->

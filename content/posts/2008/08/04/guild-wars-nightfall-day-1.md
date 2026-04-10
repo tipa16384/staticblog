@@ -3,6 +3,7 @@ date: '2008-08-04T07:50:19-05:00'
 draft: false
 title: "Guild Wars: Nightfall, Day 1"
 author: "Tipa"
+disqusIdentifier: "2008/08/04/guild-wars-nightfall-day-1"
 summary: "In search of... Ancient Erudites......"
 categories:
   - "Dungeon Siege"
@@ -11,6 +12,19 @@ categories:
 tags:
   - "Dungeon Siege Ii"
   - "Nightfall"
+relatedPosts:
+  - url: "/2008/08/24/guild-wars-day-3/"
+    title: "Guild Wars -- Day 3"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/gw-2008-08-24-21-15-40-74.jpg"
+  - url: "/2008/03/31/bad-article-ideas-mmo-pinup-calendar/"
+    title: "Bad article ideas: MMO Pinup Calendar"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/03/cityofheroes-2008-03-31-00-51-43-33.jpg"
+  - url: "/2011/06/25/dungeon-siege-3-polished-simple-short/"
+    title: "Dungeon Siege 3: Polished, Simple, Short"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/06/Dungeon-Siege-III-2011-06-24-22-37-50-06.jpg"
+  - url: "/2008/09/18/demigod-beta-opened-to-pre-orders/"
+    title: "Demigod beta opened to pre-orders"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/demigod.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/gw-2008-08-03-23-28-32-61.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/gw-2008-08-03-23-28-32-61.jpg"
 ---

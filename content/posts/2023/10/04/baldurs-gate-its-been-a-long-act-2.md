@@ -3,6 +3,7 @@ date: '2023-10-04T19:19:26-05:00'
 draft: false
 title: "Baldur's Gate: It's been a long Act 2"
 author: "Tipa"
+disqusIdentifier: "2023/10/04/baldurs-gate-its-been-a-long-act-2"
 summary: "I always do this. I get so wrapped up in a game that I forget to write about it, and when I try to write about it, there's too much!"
 categories:
   - "Baldur's Gate 3"
@@ -10,6 +11,19 @@ categories:
   - "PS5"
 tags:
   - "Crippling Failure"
+relatedPosts:
+  - url: "/2023/10/16/baldurs-gate-3-finished/"
+    title: "Baldur's Gate 3: Finished!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/scritches1.png"
+  - url: "/2023/10/07/baldurs-gate-3-are-we-the-baddies/"
+    title: "Baldur's Gate 3: Are We the Baddies?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/Screenshot-2023-10-07-103249.png"
+  - url: "/2023/10/06/baldurs-gate-3-back-on-track/"
+    title: "Baldur's Gate 3: Back on Track"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/Screenshot-2023-10-06-073659.png"
+  - url: "/2022/12/23/advent-of-code-day-23-unstable-diffusion/"
+    title: "Advent of Code Day 23 -- Unstable Diffusion"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-23-21.02.08-Several-Christmas-elves-standing-in-a-grid-in-a-jungle-clearing-a-volcano-in-the-background-by-Bob-Eggleton-detailed-and-intricate.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/daveinvestmentbanker.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/daveinvestmentbanker.png"
 ---

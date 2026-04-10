@@ -3,6 +3,7 @@ date: '2010-11-30T06:00:13-05:00'
 draft: false
 title: "Daily Blogroll, 11/30 -- Worst Case Scenario edition"
 author: "Tipa"
+disqusIdentifier: "2010/11/30/daily-blogroll-1130-worst-case-scenario-edition"
 summary: "World of Warcraft's forthcoming Cataclysm expansion (1 week away!!!!) is still setting fire to the blogroll today. Hey, if all a MMO has to do..."
 categories:
   - "Daily Blogroll"
@@ -15,6 +16,19 @@ categories:
   - "Runes of Magic"
   - "Vanguard"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2009/05/15/daily-blogroll-515-endelig-fredag-edition/"
+    title: "Daily Blogroll 5/15 -- Endelig Fredag edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/clangreenscaledragon.jpg"
+  - url: "/2008/12/24/a-look-back-at-2008/"
+    title: "A look back at 2008"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-30-22-10-50-69.jpg"
+  - url: "/2009/09/17/daily-blogroll-917-kanye-edition/"
+    title: "Daily Blogroll 9/17 - Kanye edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/kanye.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/vgclient-2010-11-29-20-32-30-42.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/vgclient-2010-11-29-20-32-30-42.jpg"
 ---

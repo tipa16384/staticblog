@@ -3,6 +3,7 @@ date: '2020-05-17T12:09:33-05:00'
 draft: false
 title: "EverQuest Mangler trial run: Levels 7-14"
 author: "Tipa"
+disqusIdentifier: "2020/05/17/everquest-mangler-trial-run-levels-7-14"
 summary: "Kasul and I spent a good few hours yesterday on our Mangler characters, getting ourselves and our computers ready for restarting on Aradune in a..."
 categories:
   - "EverQuest"
@@ -13,6 +14,19 @@ tags:
   - "Field of Bone"
   - "Mangler"
   - "The Estate of Unrest"
+relatedPosts:
+  - url: "/2020/06/10/the-end-of-the-aradune-experiment/"
+    title: "The End of the Aradune Experiment"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/1-eqgame-2020-06-10-06-33-47-96.jpg"
+  - url: "/2008/10/04/eq-nostalgia-enters-the-everlovin-plane-of-time/"
+    title: "EQ: Nostalgia enters the everlovin' PLANE of TIME."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/pot.jpg"
+  - url: "/2007/11/30/eq2-failure-cascade/"
+    title: "EQ2: Failure Cascade"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/11/everquest2-2007-11-30-06-50-11-87.jpg"
+  - url: "/2020/05/13/everquest-bones-everywhere/"
+    title: "EverQuest: Bones Everywhere."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/eqgame-2020-05-13-06-57-41-85.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/1-eqgame-2020-05-16-16-58-02-22.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/1-eqgame-2020-05-16-16-58-02-22.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2024-04-18T07:00:00-05:00'
 draft: false
 title: "Confessions of a Kickstarter Superbacker"
 author: "Tipa"
+disqusIdentifier: "2024/04/18/confessions-of-a-kickstarter-superbacker"
 summary: "I haven't talked about my recent kickstarter projects, so here's a bunch of board games, some video games, and some other stuff."
 categories:
   - "Kickstarter"
@@ -16,6 +17,19 @@ tags:
   - "Plane Teleporter Operator Simulator"
   - "Shadowgate"
   - "The Red Dragon Inn"
+relatedPosts:
+  - url: "/2025/09/04/still-more-confessions-of-a-kickstarter-superbacker/"
+    title: "Still More Confessions of a Kickstarter Superbacker"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/superbacker.png"
+  - url: "/2024/09/22/beyond-shadowgate-how-to-get-endings-a-b-c-and-d/"
+    title: "Beyond Shadowgate -- how to get endings A, B, C and D."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/1-Desktop-Screenshot-2024.09.22-13.07.42.90.jpg"
+  - url: "/2024/09/21/beyond-shadowgate-hey-i-actually-finished-a-game/"
+    title: "Beyond Shadowgate: Hey, I actually finished a game!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/1-Desktop-Screenshot-2024.09.21-18.35.06.66.jpg"
+  - url: "/2024/09/20/beyond-shadowgate-a-classic-reimagined/"
+    title: "Beyond Shadowgate: a classic reimagined."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/2-Beyond-Shadowgate-Screenshot-2024.09.19-23.10.27.86.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/superbacker.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/superbacker.png"
 ---

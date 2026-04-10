@@ -3,11 +3,25 @@ date: '2008-09-16T13:30:21-05:00'
 draft: false
 title: "Golemizer -- ruling the world through mad science"
 author: "Tipa"
+disqusIdentifier: "2008/09/16/golemizer-ruling-the-world-through-mad-science"
 summary: "From the press release (at work, so just cut/paste, haven't played yet). Looks from the screenshots like an old Super Nintendo-like RPG. You create golems..."
 categories:
   - "MMORPG"
 tags:
   - "Golemizer"
+relatedPosts:
+  - url: "/2008/09/17/golemizer-first-look/"
+    title: "Golemizer -- first look"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/gnomebot.jpg"
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2026/03/11/dune-awakening-finished-chapter-3/"
+    title: "Dune Awakening: Finished Chapter 3"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-11-073510.png"
+  - url: "/2026/02/04/erenshor-rising-shadows-launched/"
+    title: 'Erenshor "Rising Shadows" launched!'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/20260204080313_1.jpg"
 ---
 From the press release (at work, so just cut/paste, haven't played yet). Looks from the screenshots like an old Super Nintendo-like RPG. You create golems...
 <!--more-->

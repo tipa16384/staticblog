@@ -3,6 +3,7 @@ date: '2021-11-27T10:47:49-05:00'
 draft: false
 title: "Wombo.art -- create abstract fantasy art"
 author: "Tipa"
+disqusIdentifier: "2021/11/27/wombo-art-create-abstract-fantasy-art"
 summary: "Creating portraits with artflow.ai? Old news. Creating abstract fantasy paintings with wombo.art -- now we're talking...."
 categories:
   - "Asides"
@@ -11,6 +12,19 @@ tags:
   - "Artflow"
   - "Wombo.ai"
   - "Wombo.art"
+relatedPosts:
+  - url: "/2021/11/12/im-a-little-obsessed-with-this-ai-portrait-generator/"
+    title: "I'm a little obsessed with this AI portrait generator"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/shehulk.jpg"
+  - url: "/2025/09/03/the-mystery-of-the-casterville-legion/"
+    title: "The Mystery of the Casterville Legion"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/tess-of-casterville.png"
+  - url: "/2025/01/25/ai-is-going-to-steal-my-job-and-i-couldnt-be-happier/"
+    title: "AI is going to steal my job -- and I couldn't be happier"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/minitray.png"
+  - url: "/2024/12/02/advent-of-code-2024-1/"
+    title: "Advent of Code 2024.1:"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/DALL·E-2024-12-01-15.45.53-A-serene-scene-of-Tolkien-style-elves-sorting-numbers-written-on-thin-ivory-slabs-and-placing-them-into-a-wall-hanging-reminiscent-of-hymn-boards-in-a.webp"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/1-Tree_TradingCard.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/1-Tree_TradingCard.jpg"
 ---

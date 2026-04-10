@@ -3,9 +3,23 @@ date: '2025-10-21T23:23:49-05:00'
 draft: false
 title: "Big Changes for Advent of Code 2025"
 author: "Tipa"
+disqusIdentifier: "2025/10/21/big-changes-for-advent-of-code-2025"
 summary: "Half the puzzles, no global leaderboard, and definitely... no AI."
 categories:
   - "Advent of Code"
+relatedPosts:
+  - url: "/2024/12/07/advent-of-code-2024-the-first-week/"
+    title: "Advent of Code 2024: The First Week"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/DALL·E-2024-12-07-11.54.46-A-Tolkien-inspired-scene-depicting-graceful-elves-in-a-Tolkien-inspired-setting-repairing-a-rope-bridge-over-a-serene-river-surrounded-by-lush-vibra.webp"
+  - url: "/2024/12/02/advent-of-code-2024-1/"
+    title: "Advent of Code 2024.1:"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/DALL·E-2024-12-01-15.45.53-A-serene-scene-of-Tolkien-style-elves-sorting-numbers-written-on-thin-ivory-slabs-and-placing-them-into-a-wall-hanging-reminiscent-of-hymn-boards-in-a.webp"
+  - url: "/2023/12/22/advent-of-code-day-22-sand-slabs/"
+    title: "Advent of Code Day 22 -- Sand Slabs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/jenga.png"
+  - url: "/2023/12/21/advent-of-code-day-21-step-counter/"
+    title: "Advent of Code Day 21 -- Step Counter"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-21-20.59.37-Illustrate-a-whimsical-and-fantastical-scene-from-the-Advent-of-Code-puzzle-Step-Counter.-The-image-should-depict-an-Elf-in-a-vast-infinite-garden-.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/AoC_banner-1024x576-1.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/AoC_banner-1024x576-1.png"
 ---

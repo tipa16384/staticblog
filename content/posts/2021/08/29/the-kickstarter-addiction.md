@@ -3,6 +3,7 @@ date: '2021-08-29T21:36:08-05:00'
 draft: false
 title: "The Kickstarter Addiction"
 author: "Tipa"
+disqusIdentifier: "2021/08/29/the-kickstarter-addiction"
 summary: "I buy too much stuff on Kickstarter. And so can you. Might be fun to look into some of the recent projects I've backed... especially..."
 categories:
   - "Blaugust"
@@ -17,6 +18,19 @@ tags:
   - "Sacrifire"
   - "Sunrise Market"
   - "Tiny Epic Dungeons"
+relatedPosts:
+  - url: "/2021/09/15/lets-go-looking-for-my-games/"
+    title: "Let's Go Looking For My Games"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/china-map.gif"
+  - url: "/2021/10/15/looking-for-mr-kickstarter/"
+    title: "Looking for Mr. Kickstarter"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/cologne.jpg"
+  - url: "/2024/06/10/sacrifire-a-love-letter-to-the-golden-age-of-jrpgs/"
+    title: "SacriFire: A love letter to the golden age of JRPGS"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/06/1-Sacrifire-Screenshot-2024.06.09-13.15.40.32-scaled.jpg"
+  - url: "/2024/08/03/more-confessions-of-a-kickstarter-superbacker/"
+    title: "More Confessions of a Kickstarter Superbacker"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/superbacker.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/drz.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/drz.jpg"
 ---

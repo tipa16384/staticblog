@@ -3,10 +3,24 @@ date: '2015-12-29T18:57:44-05:00'
 draft: false
 title: "An Overdue Encounter"
 author: "Tipa"
+disqusIdentifier: "2015/12/29/an-overdue-encounter"
 summary: "Kasul was sooo close to 59, so we spent a little time doing quests and running Fates and those were actually pretty fun. There's a..."
 categories:
   - "Final Fantasy"
   - "MMORPG"
+relatedPosts:
+  - url: "/2025/03/24/monster-hunters-wilding/"
+    title: "Monster Hunters Wilding"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/mhwildsbanner.png"
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2023/05/07/ffxiv-how-i-ruined-a-realm-reborn/"
+    title: "FFXIV: How I Ruined a Realm Reborn..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/ffxiv_05072023_001521_777.jpg"
+  - url: "/2022/07/30/ship-of-heroes-housing-beta-2/"
+    title: "Ship of Heroes: Housing Beta #2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/1-20220730211912_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/12/5-vlcsnap-2015-12-29-16h17m55s220.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/12/5-vlcsnap-2015-12-29-16h17m55s220.jpg"
 ---

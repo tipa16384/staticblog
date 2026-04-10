@@ -3,10 +3,24 @@ date: '2010-04-21T23:02:44-05:00'
 draft: false
 title: "DDO: A Night of Crime"
 author: "Tipa"
+disqusIdentifier: "2010/04/21/ddo-a-night-of-crime"
 summary: "I know that I make fun of my dwarven cleric, Derra, a lot. Sure, she's stocky, so ugly she scares bugbears away, has kind of..."
 categories:
   - "Dungeons & Dragons Online"
   - "MMORPG"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2013/02/10/neverwinter-its-forgotten-realms-but-is-it-dd/"
+    title: "Neverwinter: It's Forgotten Realms, but is it D&D?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/GameClient-2013-02-10-08-38-10-48-480x342.jpg"
+  - url: "/2012/04/06/ddo-web-of-chaos/"
+    title: "DDO: Web of Chaos"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/04/dndclient-2012-04-01-23-54-24-56-480x384.jpg"
+  - url: "/2012/01/30/ddo-doomsphere-the-dull/"
+    title: "DDO: Doomsphere the Dull"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/dndclient-2012-01-29-22-54-24-25-480x319.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/dndclient-2010-04-18-21-34-14-47.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/dndclient-2010-04-18-21-34-14-47.jpg"
 ---

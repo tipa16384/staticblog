@@ -3,11 +3,25 @@ date: '2012-10-15T06:35:51-05:00'
 draft: false
 title: "Game Log: Pirate101, Star Trek Online"
 author: "Tipa"
+disqusIdentifier: "2012/10/15/game-log-pirate101-star-trek-online"
 summary: "It took a long time, too long, before it all connected: there was a reason Bonnie Anne kept wanting to meet me in the cellars..."
 categories:
   - "MMORPG"
   - "Pirate101"
   - "Star Trek"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2012/11/22/wizard101-pirate101-free-stuff/"
+    title: "Wizard101 & Pirate101 Free Stuff!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/11/Pirate-2012-11-22-22-15-34-33-480x360.jpg"
+  - url: "/2012/11/15/pirate101-buffaloon-hiding/"
+    title: "Pirate101: Buffaloon Hiding"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/11/Pirate-2012-11-14-23-00-33-94-480x270.jpg"
+  - url: "/2012/10/26/pirate101-o-valencia/"
+    title: "Pirate101: O Valencia!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-25-00-08-24-64-480x269.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-14-13-34-42-60-480x270.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-14-13-34-42-60-480x270.jpg"
 ---

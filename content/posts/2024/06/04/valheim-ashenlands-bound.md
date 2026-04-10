@@ -3,11 +3,25 @@ date: '2024-06-04T06:30:00-05:00'
 draft: false
 title: "Valheim: Ashenlands Bound"
 author: "Tipa"
+disqusIdentifier: "2024/06/04/valheim-ashenlands-bound"
 summary: "I didn't think I'd be playing Valheim again, but here we are. Let's try something different, this time."
 categories:
   - "Valheim"
 tags:
   - "Team Spode"
+relatedPosts:
+  - url: "/2023/02/21/pokemon-the-newish-addiction/"
+    title: "Pokémon: The New(ish) Addiction"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/02/pokemonaddiction.png"
+  - url: "/2022/07/18/ogre-battle-blaugust-steam-deck-v-rising-and-guild-wars-2/"
+    title: "Ogre Battle, Blaugust, Steam Deck, V Rising, and Guild Wars 2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/ogrebbbllll.png"
+  - url: "/2022/06/26/v-rising-hitting-the-hemoglobin/"
+    title: "V Rising: Hitting the Hemoglobin"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/06/20220626091446_1.jpg"
+  - url: "/2022/05/02/restarting-in-valheim/"
+    title: "Restarting in Valheim"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/05/20220429225417_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/06/banner060324.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/06/banner060324.png"
 ---

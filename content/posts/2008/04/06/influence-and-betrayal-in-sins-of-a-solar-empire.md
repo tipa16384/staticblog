@@ -3,9 +3,23 @@ date: '2008-04-06T09:27:02-05:00'
 draft: false
 title: "Influence and betrayal in Sins of a Solar Empire"
 author: "Tipa"
+disqusIdentifier: "2008/04/06/influence-and-betrayal-in-sins-of-a-solar-empire"
 summary: "I really suck at these exploration-conquest games. I don't know why I like them so much! I'm just glad, at least, that I don't play..."
 categories:
   - "Other Games"
+relatedPosts:
+  - url: "/2025/08/06/la-brute-battles-royale-and-warring-guilds/"
+    title: "La Brute: Battles Royale and Warring Guilds"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/LaBrute.png"
+  - url: "/2025/07/10/frosthaven-scenario-14-jagged-shoals/"
+    title: "Frosthaven Scenario 14: Jagged Shoals"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/07/IMG_5225-scaled.jpg"
+  - url: "/2024/11/21/dragon-age-the-veilguard-finished/"
+    title: "Dragon Age: the Veilguard finished"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/banner2.png"
+  - url: "/2024/11/09/dragon-age-the-veilguard-is-not-the-game-you-think-it-is/"
+    title: "Dragon Age: The Veilguard is not the game you think it is"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/davg-banner.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/04/sins-of-a-solar-empire-2008-04-06-08-39-58-01.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/04/sins-of-a-solar-empire-2008-04-06-08-39-58-01.jpg"
 ---

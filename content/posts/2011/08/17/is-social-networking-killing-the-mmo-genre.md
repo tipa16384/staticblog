@@ -3,11 +3,25 @@ date: '2011-08-17T06:54:36-05:00'
 draft: false
 title: "Is social networking killing the MMO genre?"
 author: "Tipa"
+disqusIdentifier: "2011/08/17/is-social-networking-killing-the-mmo-genre"
 summary: "Rift was my main game this year, the one I would play before any other. The only real way, I feel, to really enjoy a..."
 categories:
   - "MMORPG"
   - "Rift"
   - "Skyrim"
+relatedPosts:
+  - url: "/2010/12/14/daily-blogroll-1214-take-my-game-please-edition/"
+    title: "Daily Blogroll 12/14 -- Take my game, PLEASE! edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/ffxiv.png"
+  - url: "/2011/12/15/eq2-what-no-swtor/"
+    title: "EQ2: What, no SWTOR?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/12/EverQuest2-2011-12-15-00-14-36-09-480x384.jpg"
+  - url: "/2023/02/04/i-was-trapped-in-a-closet-and-forced-to-play-skyrim/"
+    title: "I Was Trapped in a Closet and Forced to Play Skyrim"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/02/skyrim.png"
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/08/rift-2011-08-17-07-23-49-86.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/08/rift-2011-08-17-07-23-49-86.jpg"
 ---

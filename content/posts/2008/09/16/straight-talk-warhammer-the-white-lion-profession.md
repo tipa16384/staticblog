@@ -3,6 +3,7 @@ date: '2008-09-16T01:18:53-05:00'
 draft: false
 title: "Straight Talk Warhammer: The White Lion profession."
 author: "Tipa"
+disqusIdentifier: "2008/09/16/straight-talk-warhammer-the-white-lion-profession"
 summary: "Warhammer Online. Warhammer. WAR. WAAAAGH. All ways to describe the game sweeping our interwebs in ways Google can easily find. More? Public quests? This game..."
 categories:
   - "Humor"
@@ -14,6 +15,19 @@ tags:
   - "Fakehammer"
   - "Not Funny"
   - "White Lion"
+relatedPosts:
+  - url: "/2008/09/17/straight-talk-warhammer-realm-vs-realm/"
+    title: "Straight Talk Warhammer: Realm vs Realm"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/warcraftbattle.jpg"
+  - url: "/2008/09/23/straight-talk-warhammer-the-warrior-priest/"
+    title: "Straight Talk Warhammer: The Warrior Priest"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/galahad.gif"
+  - url: "/2008/09/22/straight-talk-warhammer-the-bright-wizard/"
+    title: "Straight Talk Warhammer: The Bright Wizard"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/daffy.jpg"
+  - url: "/2008/09/18/straight-talk-warhammer-the-inevitable-city/"
+    title: "Straight Talk Warhammer: The Inevitable City"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/cronouscity.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/eqgame-2008-09-16-00-45-54-28.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/eqgame-2008-09-16-00-45-54-28.jpg"
 ---

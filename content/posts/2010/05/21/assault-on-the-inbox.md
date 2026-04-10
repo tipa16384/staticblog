@@ -3,6 +3,7 @@ date: '2010-05-21T21:41:28-05:00'
 draft: false
 title: "Assault on the Inbox"
 author: "Tipa"
+disqusIdentifier: "2010/05/21/assault-on-the-inbox"
 summary: "Another week, another truckload of gaming press releases...."
 categories:
   - "Daily Blogroll"
@@ -12,6 +13,19 @@ categories:
   - "Legends of Zork"
   - "MMORPG"
   - "Wizard101"
+relatedPosts:
+  - url: "/2009/09/03/daily-blogroll-93-sushi-day-edition/"
+    title: "Daily Blogroll 9/3 - Sushi day edition!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/Fullscreen-capture-932009-75844-AM.jpg"
+  - url: "/2009/06/16/nightly-blogroll-616-all-wet-edition/"
+    title: "Nightly Blogroll 6/16 -- All Wet edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/florensia.jpg"
+  - url: "/2010/11/30/daily-blogroll-1130-worst-case-scenario-edition/"
+    title: "Daily Blogroll, 11/30 -- Worst Case Scenario edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/vgclient-2010-11-29-20-32-30-42.jpg"
+  - url: "/2008/12/24/a-look-back-at-2008/"
+    title: "A look back at 2008"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-30-22-10-50-69.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/assault-479x185.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/assault-479x185.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2023-09-24T16:29:36-05:00'
 draft: false
 title: "D&D Session 1: The Lost Mine of Phandelver"
 author: "Tipa"
+disqusIdentifier: "2023/09/24/dd-session-1-the-lost-mine-of-phandelver"
 summary: "This is a ChatGPT-written description of our first D&D session in the 5e starter adventure, The Lost Mine of Phandelver."
 categories:
   - "Dungeons & Dragons"
@@ -13,6 +14,19 @@ tags:
   - "D&d"
   - "Phandalin"
   - "Phandelver"
+relatedPosts:
+  - url: "/2020/10/22/solasta-crown-of-the-magister/"
+    title: "Solasta: Crown of the Magister"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/20201022065807_1.jpg"
+  - url: "/2023/09/12/looks-like-its-dd-time-again/"
+    title: "Looks like it's D&D time again"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/halforcclericcloseup.png"
+  - url: "/2023/10/12/dd-deanna-the-bastion-cleric/"
+    title: "D&D: Deanna, the Bastion Cleric"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/deanna.png"
+  - url: "/2023/10/11/dd-bastion/"
+    title: "D&D: Bastions"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/bastion.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/Phandelverobservers.webp"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/Phandelverobservers.webp"
 ---

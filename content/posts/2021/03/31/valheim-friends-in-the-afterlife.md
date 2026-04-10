@@ -3,6 +3,7 @@ date: '2021-03-31T21:13:45-05:00'
 draft: false
 title: "Valheim: Friends in the Afterlife"
 author: "Tipa"
+disqusIdentifier: "2021/03/31/valheim-friends-in-the-afterlife"
 summary: "I don't really play survival games. I liked Minecraft until an update broke my roller coaster. I spent a lot of time on that. I..."
 categories:
   - "Steam Games"
@@ -12,6 +13,19 @@ tags:
   - "DC Universe Online"
   - "Steam"
   - "Team Spode"
+relatedPosts:
+  - url: "/2022/06/26/v-rising-hitting-the-hemoglobin/"
+    title: "V Rising: Hitting the Hemoglobin"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/06/20220626091446_1.jpg"
+  - url: "/2022/05/02/restarting-in-valheim/"
+    title: "Restarting in Valheim"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/05/20220429225417_1.jpg"
+  - url: "/2021/04/02/valheim-national-no-more-bosses-day/"
+    title: "Valheim: National No More Bosses Day"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/04/20210401223728_1.jpg"
+  - url: "/2021/07/23/dcuo-reboots-itself-with-house-of-legends/"
+    title: "DCUO Reboots itself with House of Legends"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/batman-joker-collaborations_auto_x2.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/03/10-20210329072158_1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/03/10-20210329072158_1.jpg"
 ---

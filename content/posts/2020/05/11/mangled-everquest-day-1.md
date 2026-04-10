@@ -3,6 +3,7 @@ date: '2020-05-11T01:02:22-05:00'
 draft: false
 title: "EverQuest is dead. Long live EverQuest! New games trying to capture EQ nostalgia are doomed."
 author: "Tipa"
+disqusIdentifier: "2020/05/11/mangled-everquest-day-1"
 summary: "I've been running around in an EverQuest Time-Limited Progression (TLP) server the past couple of days. Is there even such a thing as a new EverQuest player anymore?"
 categories:
   - "EverQuest"
@@ -14,6 +15,19 @@ tags:
   - "Everquest 3"
   - "Pantheon: Rise of the Fallen"
   - "Truebox Server"
+relatedPosts:
+  - url: "/2021/08/07/mmos-on-the-bubble/"
+    title: "MMOs on the Bubble"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/STP61286.jpg"
+  - url: "/2020/06/20/everquest-third-wave-adventuring-in-unrest/"
+    title: "EverQuest: Third Wave Adventuring in Unrest"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/eqgame-2020-06-19-22-46-27-98.jpg"
+  - url: "/2020/06/19/squire-wimbley-has-some-mighty-fine-hide/"
+    title: "Squire Wimbley has some mighty fine hide"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/1-eqgame-2020-06-19-07-59-23-14.jpg"
+  - url: "/2020/06/17/im-still-playing-everquest-for-some-reason/"
+    title: "I'm still playing EverQuest for some reason..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/1-eqgame-2020-06-17-08-01-40-13.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/eqgame-2020-05-10-20-24-56-57.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/eqgame-2020-05-10-20-24-56-57.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2008-12-15T09:42:18-05:00'
 draft: false
 title: "EQ 'Cide edition: Raticide, Spearicide, Gianticide."
 author: "Tipa"
+disqusIdentifier: "2008/12/15/eq-cide-edition-raticide-spearicide-gianticide"
 summary: "Rejected post titles: \"The Spear-it of Christmas\", \"The Mob that Dis-speared\", \"Spear-ritually yours\"...."
 categories:
   - "EverQuest"
@@ -16,6 +17,19 @@ tags:
   - "Plane of Disease"
   - "Spear of Fire"
   - "The Burning Lands"
+relatedPosts:
+  - url: "/2008/12/06/eq-doomfire-the-burning-lands-part-ii/"
+    title: "EQ: Doomfire, the Burning Lands (Part II)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/eqgame-2008-12-05-22-20-45-78.jpg"
+  - url: "/2008/10/18/eq-burning-in-the-plane-of-fire/"
+    title: "EQ: Burning in the Plane of Fire"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/planeoffirenotitle.jpg"
+  - url: "/2008/12/16/eq2-when-giant-dogs-attack/"
+    title: "EQ2: When giant dogs attack!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/everquest2-2008-12-16-00-45-28-721.jpg"
+  - url: "/2008/12/15/eq2-the-icy-keep-of-lag/"
+    title: "EQ2: The Icy Keep ... of LAG."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/everquest2-2008-12-14-16-56-40-60.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/eqgame-2008-12-12-20-34-02-6.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/eqgame-2008-12-12-20-34-02-6.jpg"
 ---

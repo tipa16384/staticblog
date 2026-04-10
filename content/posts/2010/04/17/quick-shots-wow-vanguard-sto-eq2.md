@@ -3,6 +3,7 @@ date: '2010-04-17T16:18:27-05:00'
 draft: false
 title: "Quick Shots... WoW, Vanguard, STO, EQ2"
 author: "Tipa"
+disqusIdentifier: "2010/04/17/quick-shots-wow-vanguard-sto-eq2"
 summary: "[..."
 categories:
   - "EverQuest"
@@ -10,6 +11,19 @@ categories:
   - "Star Trek"
   - "Vanguard"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2021/08/07/mmos-on-the-bubble/"
+    title: "MMOs on the Bubble"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/STP61286.jpg"
+  - url: "/2009/09/23/daily-blogroll-923-all-queued-up-edition/"
+    title: "Daily Blogroll 9/23 - All Queued Up Edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/yankee.jpg"
+  - url: "/2009/08/10/daily-blogroll-810-thank-god-its-monday-edition/"
+    title: "Daily Blogroll 8/10 -- Thank God it's Monday edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/daddygirl.jpg"
+  - url: "/2009/06/30/daily-blogroll-630-christmas-edition/"
+    title: "Daily Blogroll 6/30 - Christmas edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/TS3-2009-06-30-08-10-20-98.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/WoW-2010-04-16-19-02-11-50.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/WoW-2010-04-16-19-02-11-50.jpg"
 ---

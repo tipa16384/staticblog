@@ -3,6 +3,7 @@ date: '2009-04-01T07:13:20-05:00'
 draft: false
 title: "EverQuest: How I soloed Veeshan"
 author: "Tipa"
+disqusIdentifier: "2009/04/01/everquest-how-i-soloed-veeshan"
 summary: "If you go to the Plane of Time and enter the time rift that takes you to the Void, you probably have already seen Veeshan,..."
 categories:
   - "EverQuest"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "April Fool"
   - "Veeshan"
+relatedPosts:
+  - url: "/2009/02/19/the-clandestine-norrathdragonspyre-connection/"
+    title: "The clandestine Norrath/Dragonspyre connection"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/veeshansymbol.jpg"
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2024/10/21/evercraft-online-the-unholy-child-of-eq-and-minecraft/"
+    title: "EverCraft Online: The Unholy Child of EQ and MineCraft"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/evercraft-banner.png"
+  - url: "/2024/08/28/erenshor-everquest-for-soloers/"
+    title: "Erenshor -- EverQuest for soloers"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/erenshotheader.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/eqgame-2009-04-01-07-33-01-42.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/eqgame-2009-04-01-07-33-01-42.jpg"
 ---

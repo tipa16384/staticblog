@@ -3,10 +3,24 @@ date: '2010-03-07T20:05:11-05:00'
 draft: false
 title: "7DRL Day 2: Monsters, Targets, Items"
 author: "Tipa"
+disqusIdentifier: "2010/03/07/7drl-day-2-monsters-targets-items"
 summary: "My 7DRL entry is moving along, but it's not moving quickly. I'd said even before I started this that, given a full time job, how..."
 categories:
   - "7DRL"
   - "Other Games"
+relatedPosts:
+  - url: "/2010/03/24/7drl-world-of-roguecraft-slightly-more-fun-than-clipping-your-nails/"
+    title: "7DRL -- World of Roguecraft: Slightly more fun than clipping your nails."
+    thumbnailImage: ""
+  - url: "/2010/03/13/7drl-day-7-content-content-content/"
+    title: "7DRL Day 7: Content, content, content"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/02/Fullscreen-capture-3132010-35853-PM-480x384-1.jpg"
+  - url: "/2010/03/12/7drl-world-of-roguecraft-day-5/"
+    title: "7DRL: World of Roguecraft, Day 5"
+    thumbnailImage: ""
+  - url: "/2010/03/09/7drl-day-3-inventory-messages-improved-targeting/"
+    title: "7DRL Day 3: Inventory, Messages, Improved Targeting"
+    thumbnailImage: ""
 ---
 My 7DRL entry is moving along, but it's not moving quickly. I'd said even before I started this that, given a full time job, how...
 <!--more-->

@@ -3,6 +3,7 @@ date: '2021-09-16T23:04:52-05:00'
 draft: false
 title: "EQOA: Desperately Seeking Skandalf"
 author: "Tipa"
+disqusIdentifier: "2021/09/16/eqoa-desperately-seeking-skandalf"
 summary: "I didn't know what to expect when I logged into EverQuest Online Adventures for the first time. When a dark elf cleric named Skandalf started..."
 categories:
   - "EverQuest"
@@ -15,6 +16,19 @@ tags:
   - "PCSX2"
   - "PS2"
   - "Skandalf Wru"
+relatedPosts:
+  - url: "/2020/05/01/champions-of-norrath-playthrough-chapter-1-kelethin/"
+    title: "Champions of Norrath playthrough: Act 1, Kelethin"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/pcsx2-2020-04-30-07-01-16-71-1024x769.jpg"
+  - url: "/2024/07/08/backlog-report-star-trek-conquest/"
+    title: "Backlog Report: Star Trek Conquest"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/07/Star-Trek-Conquest_SLUS-21630_20240707230409.jpg"
+  - url: "/2008/03/13/soe-moving-does-this-mean-eq3-on-the-ps3/"
+    title: "EQ3 on the PS3 in 2009?"
+    thumbnailImage: ""
+  - url: "/2024/06/09/retro-haul-tactics-and-sea-monkeys/"
+    title: "Retro Haul: Tactics and Sea Monkeys"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/06/IMG_4308.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/gsdx_20210916212834.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/gsdx_20210916212834.png"
 ---

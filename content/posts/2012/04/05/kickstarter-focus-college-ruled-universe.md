@@ -3,10 +3,24 @@ date: '2012-04-05T22:07:52-05:00'
 draft: false
 title: "Kickstarter focus: College-Ruled Universe"
 author: "Tipa"
+disqusIdentifier: "2012/04/05/kickstarter-focus-college-ruled-universe"
 summary: "I used to doodle a lot as a kid. I'd draw up adventures where, typically, bad things would happen to my kid sister. If those..."
 categories:
   - "College-Ruled Universe"
   - "Kickstarter"
+relatedPosts:
+  - url: "/2013/02/20/ballpoint-universe/"
+    title: "Ballpoint Universe"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/ballpoint2-70-2013-02-19-23-15-03-00-480x271.jpg"
+  - url: "/2025/12/23/widgets-workshop-build-robots-better/"
+    title: "Widget's Workshop: Build Robots Better."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/IMG_5579-scaled.jpg"
+  - url: "/2025/11/04/backed-the-vectrex-mini/"
+    title: "Backed the Vectrex Mini"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/vectrexdemo-scaled.webp"
+  - url: "/2025/09/04/still-more-confessions-of-a-kickstarter-superbacker/"
+    title: "Still More Confessions of a Kickstarter Superbacker"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/superbacker.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/04/collegeruled-480x360.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/04/collegeruled-480x360.jpg"
 ---

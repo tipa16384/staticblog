@@ -3,12 +3,26 @@ date: '2008-09-07T13:07:32-05:00'
 draft: false
 title: "What would a Turbine Harry Potter MMO look like?"
 author: "Tipa"
+disqusIdentifier: "2008/09/07/what-would-a-turbine-harry-potter-mmo-look-like"
 summary: "Openedge left a comment to one of my Wizard 101 posts that implied Turbine might be working on a Harry Potter MMO. This isn't the..."
 categories:
   - "MMORPG"
 tags:
   - "Harry Potter"
   - "Turbine"
+relatedPosts:
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2026/03/11/dune-awakening-finished-chapter-3/"
+    title: "Dune Awakening: Finished Chapter 3"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-11-073510.png"
+  - url: "/2026/02/04/erenshor-rising-shadows-launched/"
+    title: 'Erenshor "Rising Shadows" launched!'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/20260204080313_1.jpg"
+  - url: "/2026/01/24/dominus-automa-an-idle-mmo-for-busy-dads/"
+    title: "Dominus Automa: An Idle MMO for Busy Dads"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/dominusautoma.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/potter.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/potter.jpg"
 ---

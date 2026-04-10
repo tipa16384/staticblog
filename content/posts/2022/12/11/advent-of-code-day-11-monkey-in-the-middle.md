@@ -3,6 +3,7 @@ date: '2022-12-11T17:52:42-05:00'
 draft: false
 title: "Advent of Code Day 11 -- Monkey in the Middle"
 author: "Tipa"
+disqusIdentifier: "2022/12/11/advent-of-code-day-11-monkey-in-the-middle"
 summary: "I thought this was just a puzzle to see if I knew about modulo arithmetic... but then it turned into a puzzle about VERY LARGE NUMBERS! Also, why do I bother with Java?"
 categories:
   - "Advent of Code"
@@ -13,6 +14,19 @@ tags:
   - "Jvm"
   - "Lua"
   - "Python"
+relatedPosts:
+  - url: "/2022/12/10/advent-of-code-day-10-cathode-ray-tube/"
+    title: "Advent of Code Day 10 -- Cathode-Ray Tube"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-10-19.36.37-A-woman-in-ragged-clothes-wearing-a-Christmas-hat-playing-a-video-game-in-the-jungle-by-Bob-Eggleton-detailed-and-intricate.png"
+  - url: "/2022/12/03/advent-of-code-day-3-rucksack-reorganization/"
+    title: "Advent of Code Day 3 -- Rucksack Reorganization"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/aoc2022.3.jpg"
+  - url: "/2024/12/07/advent-of-code-2024-the-first-week/"
+    title: "Advent of Code 2024: The First Week"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/DALL·E-2024-12-07-11.54.46-A-Tolkien-inspired-scene-depicting-graceful-elves-in-a-Tolkien-inspired-setting-repairing-a-rope-bridge-over-a-serene-river-surrounded-by-lush-vibra.webp"
+  - url: "/2022/12/05/advent-of-code-day-5-supply-stacks/"
+    title: "Advent of Code Day 5 -- Supply Stacks"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-05-22.32.41-Several-Christmas-elves-unloading-crates-from-an-old-riverboat-painted-by-Bob-Eggleton-detailed-and-intricate.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-11-16.50.33-A-woman-wearing-a-Christmas-hat-staring-at-a-monkey-in-a-jungle-by-Bob-Eggleton-detailed-and-intricate.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-11-16.50.33-A-woman-wearing-a-Christmas-hat-staring-at-a-monkey-in-a-jungle-by-Bob-Eggleton-detailed-and-intricate.png"
 ---

@@ -3,12 +3,26 @@ date: '2020-11-15T09:38:32-05:00'
 draft: false
 title: "The Prusa i3 Mk3S 3D printer: When you just want to print"
 author: "Tipa"
+disqusIdentifier: "2020/11/15/the-prusa-i3-mk3s-3d-printer-when-you-just-want-to-print"
 summary: "I chose my first 3D printer carefully. I lurked on r/3dprinting for months, reading all their guides, looking at what they were printing, finding people..."
 categories:
   - "3D Printing"
 tags:
   - "Creality Ender 3 Pro"
   - "Prusa"
+relatedPosts:
+  - url: "/2020/11/23/game-night-jaws-of-the-lion/"
+    title: "Game Night: Jaws of the Lion"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/11/2-IMG_2014.jpg"
+  - url: "/2020/06/29/abp-always-be-printing-always-be-painting/"
+    title: "ABP -- Always Be Printing, Always Be Painting"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/1-IMG_1698.jpg"
+  - url: "/2020/06/02/octomini-project-day-3-the-250-mini/"
+    title: "Octomini Project Day 3: The $250 mini"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/1-IMG_1622.jpg"
+  - url: "/2026/03/17/the-bambu-lab-ams-pro-2/"
+    title: "The Bambu Lab AMS Pro 2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/itsabouttheams.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/11/howitstarted.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/11/howitstarted.png"
 ---

@@ -3,6 +3,7 @@ date: '2021-11-10T23:52:22-05:00'
 draft: false
 title: "Hodgepodge: Games, Crypto and NFTs."
 author: "Tipa"
+disqusIdentifier: "2021/11/10/hodgepodge-games-crypto-and-nfts"
 summary: "I don't have anything long-form to talk about, but there's been a bunch of smaller things. So let's talk about those...."
 categories:
   - "Atari 2600"
@@ -14,6 +15,19 @@ tags:
   - "Bitcoin"
   - "Coinbase"
   - "Ethereum"
+relatedPosts:
+  - url: "/2021/10/20/dragonereum-if-neopets-cost-7000/"
+    title: "Dragonereum: If NeoPets Cost $7,000"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/dragon-main-30501377.png"
+  - url: "/2021/11/01/cryptogaming-a-brief-adventure/"
+    title: "Cryptogaming: A Brief Adventure"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/CryptoDragons-a-week-later.jpg"
+  - url: "/2022/04/08/how-much-is-that-star-trek-nft-in-the-window/"
+    title: "How Much is that Star Trek NFT in the Window?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/04/Screenshot-2022-04-08-184902.png"
+  - url: "/2021/11/18/im-just-here-to-bring-joy-and-melt-your-brain/"
+    title: "I'm just here to bring joy and melt your brain."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/genesisloot.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/senile.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/senile.png"
 ---

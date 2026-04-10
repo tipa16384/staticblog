@@ -3,6 +3,7 @@ date: '2020-08-27T08:20:39-05:00'
 draft: false
 title: "Blaugust #27: Be the Content You Want to See"
 author: "Tipa"
+disqusIdentifier: "2020/08/27/blaugust-27-be-the-content-you-want-to-see"
 summary: "I don't even know if that title makes any sense. Anyway. A bunch of the prompts from the past week have dealt, in some way,..."
 categories:
   - "Blaugust"
@@ -12,6 +13,19 @@ categories:
 tags:
   - "Blaugust"
   - "Girls Screaming at Readers"
+relatedPosts:
+  - url: "/2021/08/26/dcuo-house-of-legends-is-live/"
+    title: "DCUO: House of Legends is LIVE!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/avatarofmeta.jpg"
+  - url: "/2021/08/22/ship-of-heroes-superheroes-in-spaaaaaace/"
+    title: "Ship of Heroes: Superheroes IN SPAAAAAACE!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/shipoffools-1.jpg"
+  - url: "/2021/08/21/champions-online-vs-dcuo/"
+    title: "Champions Online vs DCUO"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/riddlers.jpg"
+  - url: "/2021/08/17/ff3-making-myself-cod-worthy/"
+    title: "FF3 -- Making Myself CoD-Worthy"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/20210817213623_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/ClipartKey_519651.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/ClipartKey_519651.png"
 ---

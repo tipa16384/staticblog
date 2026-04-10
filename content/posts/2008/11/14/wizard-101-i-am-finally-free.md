@@ -3,6 +3,7 @@ date: '2008-11-14T10:00:57-05:00'
 draft: false
 title: "Wizard 101: I am finally free."
 author: "Tipa"
+disqusIdentifier: "2008/11/14/wizard-101-i-am-finally-free"
 summary: "No, really. Since I learned that the Master's Tower, one of the three towers in that floating castle, dropped an extremely rare pet, I've had..."
 categories:
   - "MMORPG"
@@ -11,6 +12,19 @@ tags:
   - "Halloween"
   - "Harvest Festival"
   - "Master Tower"
+relatedPosts:
+  - url: "/2008/11/14/wizard-101-harvest-festival-is-here/"
+    title: "Wizard 101: Harvest Festival is here!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-14-07-10-01-56.jpg"
+  - url: "/2008/10/13/w101-halloween-in-wizard-city-and-october-patch-notes/"
+    title: "W101: Hallowe'en in Wizard City (and October patch notes)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-12-17-08-57-87.jpg"
+  - url: "/2024/09/14/this-halloween-erenshor-gets-spooky/"
+    title: "This Halloween, Erenshor Gets Spooky!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/erenshotheader.jpg"
+  - url: "/2008/10/24/eq2-the-loping-plains-haunted-house-scared-yet/"
+    title: "EQ2: The Loping Plains Haunted House. Scared yet?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/ghosts.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-13-23-45-43-45.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-13-23-45-43-45.jpg"
 ---

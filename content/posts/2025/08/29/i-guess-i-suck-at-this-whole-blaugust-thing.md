@@ -3,6 +3,7 @@ date: '2025-08-29T18:39:28-05:00'
 draft: false
 title: "I guess I suck at this whole Blaugust thing"
 author: "Tipa"
+disqusIdentifier: "2025/08/29/i-guess-i-suck-at-this-whole-blaugust-thing"
 summary: "I had such plans, but in the end, I didn't do so well."
 categories:
   - "Blaugust"
@@ -12,6 +13,19 @@ categories:
   - "Tabletop Games"
 tags:
   - "Suno"
+relatedPosts:
+  - url: "/2025/08/04/i-know-what-i-did-last-weekend-5/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/bewarethesandworm.png"
+  - url: "/2025/08/22/the-kind-of-malifaux-you-play-at-home/"
+    title: "The Kind of Malifaux You Play at Home"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5337-scaled.jpg"
+  - url: "/2025/08/30/dune-awakening-we-finally-got-ganked/"
+    title: "Dune Awakening: We finally got ganked"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/20250830103401_1.jpg"
+  - url: "/2025/08/17/dune-awakening-roc-music/"
+    title: "Dune: Awakening -- Roc Music"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/dunecarrier.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/arcaniststage.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/arcaniststage.png"
 ---

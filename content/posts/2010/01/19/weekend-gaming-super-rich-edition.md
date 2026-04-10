@@ -3,6 +3,7 @@ date: '2010-01-19T08:34:08-05:00'
 draft: false
 title: "Weekend gaming: Super-rich edition"
 author: "Tipa"
+disqusIdentifier: "2010/01/19/weekend-gaming-super-rich-edition"
 summary: "[..."
 categories:
   - "Daily Blogroll"
@@ -11,6 +12,19 @@ categories:
   - "MMORPG"
   - "Star Trek"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2010/10/29/halloween-around-the-multiverse/"
+    title: "Halloween around the multiverse...."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/STOPumpkin.jpg"
+  - url: "/2011/05/13/daily-blogroll-513-truth-in-advertising-edition/"
+    title: "Daily Blogroll 5/13: Truth in Advertising Edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/05/Fullscreen-capture-5112011-61851-AM-480x308.jpg"
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/01/aimbomb.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/01/aimbomb.jpg"
 ---

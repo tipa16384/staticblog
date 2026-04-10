@@ -3,6 +3,7 @@ date: '2010-09-23T21:31:27-05:00'
 draft: false
 title: "Wizard101: A Chat with KI VP of Marketing, Fred Howard"
 author: "Tipa"
+disqusIdentifier: "2010/09/23/wizard101-a-chat-with-ki-vp-of-marketing-fred-howard"
 summary: "Sure, Wizard101 is free... for certain values of free. I guess I'm just going to have to fall back on definitions, here...."
 categories:
   - "MMORPG"
@@ -18,6 +19,19 @@ tags:
   - "Kingsisle"
   - "Merch"
   - "Selena Gomez"
+relatedPosts:
+  - url: "/2010/10/09/wizard101-welcome-to-celestia/"
+    title: "Wizard101: Welcome to Celestia!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/WizardGraphicalClient-2010-10-09-17-50-20-17.jpg"
+  - url: "/2010/09/13/is-wizard101s-marketing-getting-out-of-hand/"
+    title: "Is Wizard101's marketing getting out of hand?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/WizardGraphicalClient-2010-09-13-21-01-59-32-480x384.jpg"
+  - url: "/2008/09/06/wizard-101-live-thoughts/"
+    title: "Wizard 101 Live thoughts"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/lifewizardcover.jpg"
+  - url: "/2008/09/02/wizard-101-goes-live/"
+    title: "Wizard 101 goes live"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/wizardgraphicalclient-2008-09-02-07-10-47-94.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/WizardGraphicalClient-2010-09-23-21-36-13-33.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/WizardGraphicalClient-2010-09-23-21-36-13-33.jpg"
 ---

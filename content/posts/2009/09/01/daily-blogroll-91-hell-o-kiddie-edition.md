@@ -3,6 +3,7 @@ date: '2009-09-01T07:48:27-05:00'
 draft: false
 title: "Daily Blogroll 9/1 - Hell, O Kiddie edition"
 author: "Tipa"
+disqusIdentifier: "2009/09/01/daily-blogroll-91-hell-o-kiddie-edition"
 summary: "(Shhh! Hello Kitty Online's closed beta started yesterday! Expect a HKO First Look once I've found my way around)...."
 categories:
   - "Daily Blogroll"
@@ -14,6 +15,19 @@ categories:
   - "MMORPG"
   - "Wizard101"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2009/09/09/daily-blogroll-9909-galaxy-express-edition/"
+    title: "Daily Blogroll 9/9/09 - Galaxy Express edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/hko-2009-09-08-21-52-33-20.jpg"
+  - url: "/2009/06/15/daily-blogroll-615-just-this-once-edition/"
+    title: "Daily Blogroll 6/15 -- Just This Once edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/WizardGraphicalClient-2009-06-15-07-54-00-91.jpg"
+  - url: "/2009/05/06/daily-blogroll-56-tempests-and-teapots-edition/"
+    title: "Daily Blogroll 5/6 -- Tempests and Teapots edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/fullscreen-capture-562009-125235-am.jpg"
+  - url: "/2009/05/11/daily-blogroll-511-reboot-edition/"
+    title: "Daily Blogroll 5/11 -- Reboot edition"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/hko-2009-09-01-07-24-48-98.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/hko-2009-09-01-07-24-48-98.jpg"
 ---

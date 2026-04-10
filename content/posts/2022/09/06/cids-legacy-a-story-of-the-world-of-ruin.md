@@ -3,6 +3,7 @@ date: '2022-09-06T08:17:03-05:00'
 draft: false
 title: "Cid's Legacy: A Story of the World of Ruin"
 author: "Tipa"
+disqusIdentifier: "2022/09/06/cids-legacy-a-story-of-the-world-of-ruin"
 summary: "A year after Kefka woke the Warring Triad and destroyed the world, Celes wakes up from a coma to find that she is on an island with Cid. Cid has been sick for a long time, and Celes is determined to take care of him."
 categories:
   - "Fanfic"
@@ -13,6 +14,19 @@ tags:
   - "Dall-E 2"
   - "Gpt-3"
   - "World of Ruin"
+relatedPosts:
+  - url: "/2022/09/05/the-battle-for-lockes-heart-the-remake/"
+    title: "The Battle for Locke's Heart: The Remake"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-04-21.39.29-Digital-painting-of-a-tall-woman-with-green-hair-in-a-high-ponytail-a-long-blonde-woman-wearing-armor-a-man-in-blue-jeans-and-jacket-a-gentleman-ga.png"
+  - url: "/2022/09/04/how-i-used-ai-to-write-a-final-fantasy-vi-chatbot/"
+    title: "How I used AI to write a Final Fantasy VI chatbot"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-04-21.21.57-A-magazine-illustration-of-a-woman-with-dark-green-hair-in-a-high-ponytail-wearing-overalls-constructing-a-giant-mechanical-steampunk-chatbot-with-h.png"
+  - url: "/2022/09/04/the-battle-for-lockes-heart-a-final-fantasy-vi-fan-fic/"
+    title: "The Battle for Locke's Heart: A Final Fantasy VI Fan Fic"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-04-11.23.53-A-digital-painting-of-a-young-man-with-pale-blonde-hair-and-pale-skin-wearing-a-blue-bandana..png"
+  - url: "/2022/08/09/the-nine-lives-chronicles/"
+    title: "The Nine-Lives Chronicles"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-01-20.27.11-A-woman-looking-at-nine-reflections-of-herself-in-nine-different-historical-periods-painterly-style.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-06-08.14.20-A-painting-of-a-blonde-haired-woman-dressed-in-silver-armor-and-with-the-Ultima-Sword-strapped-to-her-waist-stands-on-a-raft-as-it-sails-into-the-sun.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-06-08.14.20-A-painting-of-a-blonde-haired-woman-dressed-in-silver-armor-and-with-the-Ultima-Sword-strapped-to-her-waist-stands-on-a-raft-as-it-sails-into-the-sun.png"
 ---

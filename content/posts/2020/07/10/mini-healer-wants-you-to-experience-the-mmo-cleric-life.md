@@ -3,6 +3,7 @@ date: '2020-07-10T11:51:31-05:00'
 draft: false
 title: "Mini Healer wants you to experience the MMO Cleric Life"
 author: "Tipa"
+disqusIdentifier: "2020/07/10/mini-healer-wants-you-to-experience-the-mmo-cleric-life"
 summary: "If you've ever healed a party in an MMO, you know the drill: the tank forgets their defense moves, the DPS wander into every well-telegraphed..."
 categories:
   - "MMORPG"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Mini Healer"
   - "RPG"
+relatedPosts:
+  - url: "/2022/05/02/restarting-in-valheim/"
+    title: "Restarting in Valheim"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/05/20220429225417_1.jpg"
+  - url: "/2022/04/07/you-probably-should-be-playing-wildermyth-right-now/"
+    title: "You probably should be playing Wildermyth right now."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/04/screenshot_30.png"
+  - url: "/2021/08/03/ff1-continues-a-witch-a-dwarf-and-a-king-walk-into-a-bar/"
+    title: "FF1 Continues: A Witch, A Dwarf, and a King walk into a bar..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/laliho.png"
+  - url: "/2021/07/20/rise-eterna/"
+    title: "Rise Eterna"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/2021051618021700-BA2A6D95681540D14D17CA98DC5AFB99.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/07/1-streaming_client-2020-07-08-22-52-59-00.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/07/1-streaming_client-2020-07-08-22-52-59-00.jpg"
 ---

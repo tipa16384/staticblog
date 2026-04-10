@@ -3,6 +3,7 @@ date: '2025-06-03T10:00:00-05:00'
 draft: false
 title: "I Know What I Did Last Weekend"
 author: "Tipa"
+disqusIdentifier: "2025/06/03/i-know-what-i-did-last-weekend-4"
 summary: "Sometimes I just want to play games to relax. Sometimes."
 categories:
   - "Frosthaven"
@@ -14,6 +15,19 @@ tags:
   - "Balatro"
   - "Dora the Explorer"
   - "The Pathless"
+relatedPosts:
+  - url: "/2025/06/15/the-dishonesty-of-balatro/"
+    title: "The Dishonesty of Balatro"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/1-Balatro_20250602230340-scaled.jpg"
+  - url: "/2026/03/04/frosthaven-104-ruins-of-the-solstice-and-heroquest-first-light-sound-the-hearthkin-horn/"
+    title: "Frosthaven #104: Ruins of the Solstice and HeroQuest First Light: Sound the Hearthkin Horn"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/IMG_5701-scaled.jpg"
+  - url: "/2025/08/04/i-know-what-i-did-last-weekend-5/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/bewarethesandworm.png"
+  - url: "/2024/03/16/heroquest-the-castle-of-mystery/"
+    title: "HeroQuest: The Castle of Mystery"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/castleofmystery.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/The-Pathless_20250601093750-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/The-Pathless_20250601093750-scaled.jpg"
 ---

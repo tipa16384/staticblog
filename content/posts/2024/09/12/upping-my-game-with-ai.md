@@ -3,6 +3,7 @@ date: '2024-09-12T07:00:00-05:00'
 draft: false
 title: "Upping my game with AI"
 author: "Tipa"
+disqusIdentifier: "2024/09/12/upping-my-game-with-ai"
 summary: "Designing better game streams with AI feedback—turning creative ideas into reality."
 categories:
   - "EverQuest"
@@ -12,6 +13,19 @@ tags:
   - "Champions Return to Arms"
   - "OBS"
   - "Twitch"
+relatedPosts:
+  - url: "/2024/09/28/champions-return-to-arms-finished/"
+    title: "Champions: Return to Arms finished!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/cazicthule.png"
+  - url: "/2024/08/15/champions-return-to-arms/"
+    title: "Champions: Return to Arms"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/firiona.png"
+  - url: "/2024/09/09/weekend-gaming-janthir-wilds-return-to-arms-more-thunderjaw/"
+    title: "Weekend gaming: Janthir Wilds, Return to Arms, more Thunderjaw"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/gw2janthir.png"
+  - url: "/2024/08/27/twitch-drops-why/"
+    title: "Twitch Drops: Why?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/1-Palworld-Screenshot-2024.08.26-07.46.02.07.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/obstemplate.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/obstemplate.png"
 ---

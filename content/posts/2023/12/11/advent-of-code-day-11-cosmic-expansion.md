@@ -3,6 +3,7 @@ date: '2023-12-11T07:49:29-05:00'
 draft: false
 title: "Advent of Code Day 11 -- Cosmic Expansion"
 author: "Tipa"
+disqusIdentifier: "2023/12/11/advent-of-code-day-11-cosmic-expansion"
 summary: "This is why Santa shouldn't let elves do astrophysics."
 categories:
   - "Advent of Code"
@@ -12,6 +13,19 @@ tags:
   - "Observatory"
   - "Starry Starry Night"
   - "Telescope"
+relatedPosts:
+  - url: "/2023/12/22/advent-of-code-day-22-sand-slabs/"
+    title: "Advent of Code Day 22 -- Sand Slabs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/jenga.png"
+  - url: "/2023/12/21/advent-of-code-day-21-step-counter/"
+    title: "Advent of Code Day 21 -- Step Counter"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-21-20.59.37-Illustrate-a-whimsical-and-fantastical-scene-from-the-Advent-of-Code-puzzle-Step-Counter.-The-image-should-depict-an-Elf-in-a-vast-infinite-garden-.png"
+  - url: "/2023/12/20/advent-of-code-day-20-pulse-propogation/"
+    title: "Advent of Code Day 20 -- Pulse Propagation"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-20-16.57.44-Create-an-illustration-inspired-by-the-aesthetic-of-a-retro-sci-fi-movie-similar-to-Tron-avoiding-direct-references-or-copyrighted-elements.-Visualiz.png"
+  - url: "/2023/12/19/advent-of-code-day-19-aplenty/"
+    title: "Advent of Code Day 19 -- Aplenty"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-19-20.12.32-A-whimsical-and-detailed-illustration-set-on-Gear-Island-where-a-magical-workshop-is-bustling-with-activity.-Elves-dressed-in-colorful-attire-are-b.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-11-07.29.15-An-elf-showing-a-telescope-to-a-repairman-wearing-a-hardhat-and-a-safety-vest.-The-scene-is-set-under-a-dark-sky-filled-with-stars-and-galaxies.-In-th.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-11-07.29.15-An-elf-showing-a-telescope-to-a-repairman-wearing-a-hardhat-and-a-safety-vest.-The-scene-is-set-under-a-dark-sky-filled-with-stars-and-galaxies.-In-th.png"
 ---

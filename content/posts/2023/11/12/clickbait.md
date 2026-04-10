@@ -3,11 +3,25 @@ date: '2023-11-12T15:39:42-05:00'
 draft: false
 title: "Clickbait"
 author: "Tipa"
+disqusIdentifier: "2023/11/12/clickbait"
 summary: "Making some changes to the blogroll..."
 categories:
   - "Daily Blogroll"
 tags:
   - "Raid Shadow Legends"
+relatedPosts:
+  - url: "/2023/08/21/weighing-in-on-the-linus-tech-tips-controversy/"
+    title: "Weighing in on the Linus Tech Tips Controversy"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/ltt.webp"
+  - url: "/2022/09/26/my-one-sided-argument-with-raid-shadow-legends-marketing-department/"
+    title: "My One-Sided Argument with Raid: Shadow Legend's Marketing Department"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-26-18.24.24-digital-art-Raid-Shadow-Legends.png"
+  - url: "/2020/07/15/lets-have-a-little-talk-about-raid-shadow-legends/"
+    title: "Let's have a little talk about RAID: SHADOW LEGENDS."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/07/IMG_1733.png"
+  - url: "/2025/12/20/the-2025-daily-blogroll-awards/"
+    title: "The 2025 Daily Blogroll Awards"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/dailyblogrollawards.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/tipachu_a_desk_strewn_with_images_of_clickbait_ads_featuring_se_f9bb71a2-c331-4950-943b-4a0a5117b826.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/tipachu_a_desk_strewn_with_images_of_clickbait_ads_featuring_se_f9bb71a2-c331-4950-943b-4a0a5117b826.png"
 ---

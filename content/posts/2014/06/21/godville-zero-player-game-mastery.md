@@ -3,10 +3,24 @@ date: '2014-06-21T08:21:09-05:00'
 draft: false
 title: "Godville: Z(ero) P(layer) G(ame) mastery!"
 author: "Tipa"
+disqusIdentifier: "2014/06/21/godville-zero-player-game-mastery"
 summary: "On the occasion of my hero, \"Muddill\", reaching level 60, an update of progress with my favorite Zero Player Game, Godville. (http://godvillegame.com/)..."
 categories:
   - "Godville"
   - "Other Games"
+relatedPosts:
+  - url: "/2015/09/10/double-dragon-down/"
+    title: "Double Dragon Down"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/09/1-Fullscreen-capture-992015-113559-PM.jpg"
+  - url: "/2015/01/17/i-was-surprised-to-see-so-much-interest-in-a-godville-post-godville-is-indeed-a-game-like-progressquest/"
+    title: "Godville: Dungeon Run"
+    thumbnailImage: "https://lh6.googleusercontent.com/-IWUZmew2OuE/VLnFtlji8HI/AAAAAAAA-xo/4QcGZ8L1mrg/w506-h750/Fullscreen%2Bcapture%2B1162015%2B71447%2BPM.jpg"
+  - url: "/2015/01/16/my-pet-finally-hit-level-30-in-godville-and-i-now-can-proudly-bear-the-pet-trainer-badge-and-have/"
+    title: "Godville: Pet Trainer!"
+    thumbnailImage: "https://lh6.googleusercontent.com/-yBPk_9w5Qws/VLj0um-b4XI/AAAAAAAA-uk/iYq_tReYjek/w506-h750/Fullscreen%2Bcapture%2B1162015%2B61953%2BAM.jpg"
+  - url: "/2020/05/11/godville-is-ten-years-old/"
+    title: "Godville is ten years old!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/godville.png"
 coverImage: "https://lh6.googleusercontent.com/-uL7DdYgolbk/U6V_RDvS-rI/AAAAAAAAvys/ZSjGj9qklMA/w710-h476-no/Fullscreen+capture+6212014+83047+AM.jpg"
 thumbnailImage: "https://lh6.googleusercontent.com/-uL7DdYgolbk/U6V_RDvS-rI/AAAAAAAAvys/ZSjGj9qklMA/w710-h476-no/Fullscreen+capture+6212014+83047+AM.jpg"
 ---

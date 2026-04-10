@@ -3,6 +3,7 @@ date: '2010-08-31T07:07:29-05:00'
 draft: false
 title: "Treasure Abyss: Not your ordinary social game"
 author: "Tipa"
+disqusIdentifier: "2010/08/31/treasure-abyss-not-your-ordinary-social-game"
 summary: "[..."
 categories:
   - "Facebook Games"
@@ -15,6 +16,19 @@ tags:
   - "Namco"
   - "RPG"
   - "Treasure Abyss"
+relatedPosts:
+  - url: "/2010/10/19/treasure-abyss-some-exclusive-wallpaper/"
+    title: "Treasure Abyss: Some exclusive wallpaper!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/TAWallpaper-480x360.jpg"
+  - url: "/2010/09/14/facebook-game-roundup-warstorm-and-city-of-wonder/"
+    title: "Facebook game roundup: Warstorm and City of Wonder"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/Fullscreen-capture-9142010-64431-AM-480x436.jpg"
+  - url: "/2010/08/27/thoughts-on-the-social-gaming-explosion/"
+    title: "Thoughts on the social gaming explosion"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/fv-480x323.jpg"
+  - url: "/2010/10/12/social-game-review-lucky-train/"
+    title: "Social Game Review: Lucky Train"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/Fullscreen-capture-10102010-21334-PM-480x384.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/Fullscreen-capture-8302010-63135-PM-480x376.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/Fullscreen-capture-8302010-63135-PM-480x376.jpg"
 ---

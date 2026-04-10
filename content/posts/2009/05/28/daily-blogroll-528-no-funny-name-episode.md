@@ -3,6 +3,7 @@ date: '2009-05-28T08:15:58-05:00'
 draft: false
 title: "Daily Blogroll 5/28 -- No funny name episode"
 author: "Tipa"
+disqusIdentifier: "2009/05/28/daily-blogroll-528-no-funny-name-episode"
 summary: "I've been staying away from talking about Darkfall and Free Realms lately because, what's more to say about it?..."
 categories:
   - "Age of Conan"
@@ -15,6 +16,19 @@ categories:
   - "MMORPG"
   - "Neo Steam"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2009/04/24/web-log-424-friday-is-free-day-edition/"
+    title: "Web Log 4/24 -- Friday is Free Day edition"
+    thumbnailImage: "http://www.penny-arcade.com/images/2009/20090424.jpg"
+  - url: "/2009/04/23/web-log-423-too-much-news-edition/"
+    title: "Web Log 4/23 -- Too Much News edition"
+    thumbnailImage: ""
+  - url: "/2009/05/19/daily-blogroll-519-black-lung-edition/"
+    title: "Daily Blogroll 5/19 -- Black Lung edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/exefile-2009-05-18-23-31-07-25.jpg"
+  - url: "/2009/05/15/daily-blogroll-515-endelig-fredag-edition/"
+    title: "Daily Blogroll 5/15 -- Endelig Fredag edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/clangreenscaledragon.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/makinghay.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/makinghay.jpg"
 ---

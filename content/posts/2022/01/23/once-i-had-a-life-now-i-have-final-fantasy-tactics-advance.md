@@ -3,6 +3,7 @@ date: '2022-01-23T11:43:28-05:00'
 draft: false
 title: "Once, I had a life. Now, I have Final Fantasy Tactics Advance."
 author: "Tipa"
+disqusIdentifier: "2022/01/23/once-i-had-a-life-now-i-have-final-fantasy-tactics-advance"
 summary: "I haven't played the sequel to my favorite Final Fantasy game, Final Fantasy Tactics, in ages. And even when I played it before, back in..."
 categories:
   - "Final Fantasy"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Gameboy Advance"
   - "Ogre Battle"
+relatedPosts:
+  - url: "/2023/12/29/christmas-loot-knight-of-lodis-and-prince-of-zenobia/"
+    title: "Christmas Loot: Knight of Lodis and Prince of Zenobia"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/IMG_4125-scaled.jpg"
+  - url: "/2024/01/06/tactics-ogre-the-knight-of-lodis-finished/"
+    title: "Tactics Ogre: The Knight of Lodis FINISHED!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/20240104_221426.jpg"
+  - url: "/2022/07/18/ogre-battle-blaugust-steam-deck-v-rising-and-guild-wars-2/"
+    title: "Ogre Battle, Blaugust, Steam Deck, V Rising, and Guild Wars 2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/ogrebbbllll.png"
+  - url: "/2024/06/09/retro-haul-tactics-and-sea-monkeys/"
+    title: "Retro Haul: Tactics and Sea Monkeys"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/06/IMG_4308.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/01/Final-Fantasy-Tactics-Advanced-GBA-36.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/01/Final-Fantasy-Tactics-Advanced-GBA-36.jpg"
 ---

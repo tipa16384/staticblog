@@ -3,6 +3,7 @@ date: '2022-08-18T09:30:10-05:00'
 draft: false
 title: "Brown Dust? Did you mean Brave Nine?"
 author: "Tipa"
+disqusIdentifier: "2022/08/18/brown-dust-did-you-mean-brave-nine"
 summary: "A few days, Friendly Necro was going over all the mobile games on which he's worked. I was wondering why mobile games just didn't stick..."
 categories:
   - "Mobile Games"
@@ -12,6 +13,19 @@ tags:
   - "Gacha"
   - "Girls Screaming in Chinese"
   - "Tactics"
+relatedPosts:
+  - url: "/2020/09/21/banner-of-the-maid-final-thoughts/"
+    title: "Banner of the Maid: Final Thoughts"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/2020092017453800-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
+  - url: "/2020/09/01/banner-of-the-maid-lets-try-this-again/"
+    title: "Banner of the Maid: Let's try this again"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/2020083123144500-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
+  - url: "/2020/08/19/banner-of-the-maid-doesnt-want-me-to-sleep/"
+    title: "Banner of the Maid doesn't want me to sleep."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/banner-of-the-maid-switch-hero.jpg"
+  - url: "/2020/12/11/my-rpgs-of-2020/"
+    title: "My RPGs of 2020"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/Chocobos-Mystery-Dungeon-EVERY-BUDDY_20200506204657.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/Screenshot_2022.08.18_08.42.35.827.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/Screenshot_2022.08.18_08.42.35.827.png"
 ---

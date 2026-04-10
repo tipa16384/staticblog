@@ -3,6 +3,7 @@ date: '2010-08-08T07:27:53-05:00'
 draft: false
 title: "Runes of Magic: the Panorama"
 author: "Tipa"
+disqusIdentifier: "2010/08/08/runes-of-magic-the-panorama"
 summary: "Massively's Jeremy Stratton asked on Twitter what Autostitch would do with a panorama taken from an MMO like World of Warcraft or Runes of Magic...."
 categories:
   - "MMORPG"
@@ -11,6 +12,19 @@ tags:
   - "Autostitch"
   - "Panorama"
   - "Sacilla Steppes"
+relatedPosts:
+  - url: "/2010/08/07/frontierville-the-panorama/"
+    title: "Frontierville: the Panorama"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/homestead-480x276.png"
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2010/11/30/daily-blogroll-1130-worst-case-scenario-edition/"
+    title: "Daily Blogroll, 11/30 -- Worst Case Scenario edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/vgclient-2010-11-29-20-32-30-42.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/pano1-480x87.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/pano1-480x87.jpg"
 ---

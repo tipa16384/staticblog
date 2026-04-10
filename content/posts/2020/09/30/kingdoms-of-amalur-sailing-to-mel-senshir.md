@@ -3,6 +3,7 @@ date: '2020-09-30T07:58:01-05:00'
 draft: false
 title: "Kingdoms of Amalur: Sailing to Mel Senshir"
 author: "Tipa"
+disqusIdentifier: "2020/09/30/kingdoms-of-amalur-sailing-to-mel-senshir"
 summary: "Rathir and Mel Senshir are twin cities, on either side of a strait that separates the lands of mortals and Fae from the land of..."
 categories:
   - "Steam Games"
@@ -10,6 +11,19 @@ tags:
   - "Kingdoms of Amalur: Reckoning"
   - "RPG"
   - "Twitch"
+relatedPosts:
+  - url: "/2020/09/28/kingdoms-of-amalur-i-have-never-actually-played-this-game/"
+    title: "Kingdoms of Amalur: I have never actually played this game"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/deadkel.png"
+  - url: "/2020/09/23/kingdoms-of-amalur-twitch-combat/"
+    title: "Kingdoms of Amalur: Twitch combat"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/1-streaming_client-2020-09-22-23-09-00-17.jpg"
+  - url: "/2020/10/03/kingdoms-of-amalur-two-times-a-failure/"
+    title: "Kingdoms of Amalur: Two times a failure."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/20201003105145_1.jpg"
+  - url: "/2020/09/22/kingdom-of-amalur-re-reckoning-i-reckon-i-remember-this/"
+    title: "Kingdom of Amalur: Re-Reckoning: I reckon I remember this."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/streaming_client-2020-09-21-21-14-18-59.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/20200929233714_1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/20200929233714_1.jpg"
 ---

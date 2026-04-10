@@ -3,9 +3,23 @@ date: '2006-09-01T19:02:09-05:00'
 draft: false
 title: "Who Wants to be a Superhero?"
 author: "Tipa"
+disqusIdentifier: "2006/09/01/who-wants-to-be-a-superhero"
 summary: "What can I really say about WWtbaSH? It's a pleasure, a really guilty one, but I'm wallowing in it. I'm not a big reality show..."
 categories:
   - "Sci Fi"
+relatedPosts:
+  - url: "/2026/01/17/starfleet-academy-your-billionaire-future/"
+    title: "Starfleet Academy: Your Billionaire Future"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/starfleetacademy.png"
+  - url: "/2024/09/27/game-night-in-too-deep/"
+    title: "Game Night: In Too Deep"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/intoodeepbanner.png"
+  - url: "/2022/09/20/review-braking-day-by-adam-oyebanji/"
+    title: "Review: Braking Day by Adam Oyebanji"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/brakingday.png"
+  - url: "/2015/09/13/beam-me-up/"
+    title: "Beam me up..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/09/1-Star-Trek-Me-1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2006/09/superheroes.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/09/superheroes.jpg"
 ---

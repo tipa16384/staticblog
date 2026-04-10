@@ -3,6 +3,7 @@ date: '2026-01-11T21:08:53-05:00'
 draft: false
 title: "Quest 64: I played the worst RPG on the Nintendo 64 -- and I liked it"
 author: "Tipa"
+disqusIdentifier: "2026/01/11/quest-64-i-played-the-worst-rpg-on-the-nintendo-64"
 summary: "My quest to play every RPG on the Nintendo 64 continues with Quest 64, often called the worst RPG on the system. But is it?"
 categories:
   - "Nintendo 64"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Analogue"
   - "Quest 64"
+relatedPosts:
+  - url: "/2026/01/05/holiday-grab-bag-dune-palworld-quest-64/"
+    title: "Holiday Grab Bag: Dune, Palworld, Quest 64"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/1-20260104163451_1.jpg"
+  - url: "/2025/11/26/analogue-3d-play-your-nintendo-64-games-again/"
+    title: "Analogue 3D: Play your Nintendo 64 games again"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/IMG_5508-scaled.jpg"
+  - url: "/2024/10/19/analogue-3d-if-i-were-to-get-one/"
+    title: "Analogue 3D: If I were to get one..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/analogue3d.png"
+  - url: "/2022/09/17/drakkhen-for-the-snes/"
+    title: "Drakkhen for the Super Nintendo: An Unexpected Gem"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/drakkhentitle.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/Screenshot-2026-01-09-18-19-11.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/Screenshot-2026-01-09-18-19-11.png"
 ---

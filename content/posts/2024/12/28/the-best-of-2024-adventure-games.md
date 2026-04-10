@@ -3,6 +3,7 @@ date: '2024-12-28T11:08:43-05:00'
 draft: false
 title: "The Best of 2024: Adventure Games"
 author: "Tipa"
+disqusIdentifier: "2024/12/28/the-best-of-2024-adventure-games"
 summary: "They were a mainstay of 80s gaming and then all but disappeared until Portal revolutionized the genre. They are still some of the most fun you can have on a computer."
 categories:
   - "Adventure"
@@ -14,6 +15,19 @@ tags:
   - "Moss"
   - "Poop"
   - "Sable"
+relatedPosts:
+  - url: "/2024/05/12/advent-colossal-cave-3d/"
+    title: "ADVENT: Colossal Cave 3D"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/cc-troll2.png"
+  - url: "/2024/05/11/advent-seasoned-adventurer/"
+    title: "ADVENT: Seasoned Adventurer"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/cc-troll.png"
+  - url: "/2024/05/09/advent-twisty-passages-all-alike/"
+    title: "ADVENT: Twisty Passages, All Alike"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/cc-pirate.png"
+  - url: "/2024/05/07/advent-the-road-to-adventure/"
+    title: "ADVENT: The Road to Adventure"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/cca-banner.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/adventurebanner.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/adventurebanner.png"
 ---

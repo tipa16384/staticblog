@@ -3,10 +3,24 @@ date: '2013-05-21T06:01:33-05:00'
 draft: false
 title: "DCUO: The inmates are running the asylum?"
 author: "Tipa"
+disqusIdentifier: "2013/05/21/dcuo-the-inmates-are-running-the-asylum"
 summary: "Before we get started, I want to draw your attention to the right bit of the screenshot above. Where we see the entrance to the..."
 categories:
   - "DC Universe Online"
   - "MMORPG"
+relatedPosts:
+  - url: "/2024/01/16/city-of-heroes-homecoming/"
+    title: "City of Heroes: Homecoming..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/cohhclogo.png"
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2022/07/30/ship-of-heroes-housing-beta-2/"
+    title: "Ship of Heroes: Housing Beta #2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/1-20220730211912_1.jpg"
+  - url: "/2021/10/11/dcuo-the-legion-of-doom-invades-washington-d-c/"
+    title: "DCUO: The Legion of Doom invades Washington D.C."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/dcuodc.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/05/INTCHARLIGHTRIG_NEUT-PC-19-22.25.540-480x313.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/05/INTCHARLIGHTRIG_NEUT-PC-19-22.25.540-480x313.jpg"
 ---

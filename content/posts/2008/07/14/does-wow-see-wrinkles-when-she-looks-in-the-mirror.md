@@ -3,6 +3,7 @@ date: '2008-07-14T08:44:21-05:00'
 draft: false
 title: "Does WoW see wrinkles when she looks in the mirror?"
 author: "Tipa"
+disqusIdentifier: "2008/07/14/does-wow-see-wrinkles-when-she-looks-in-the-mirror"
 summary: "I have nothing against old MMOs. In fact, I spend most of my time in one of the oldest. But I know that EQ is..."
 categories:
   - "Age of Conan"
@@ -12,6 +13,19 @@ categories:
   - "Warhammer: Age of Reckoning"
   - "Wizard101"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2008/07/01/sequencing-mmo-dna/"
+    title: "Sequencing MMO DNA"
+    thumbnailImage: ""
+  - url: "/2008/05/21/being-wrong-about-age-of-conan/"
+    title: "Being wrong about Age of Conan"
+    thumbnailImage: ""
+  - url: "/2009/04/24/web-log-424-friday-is-free-day-edition/"
+    title: "Web Log 4/24 -- Friday is Free Day edition"
+    thumbnailImage: "http://www.penny-arcade.com/images/2009/20090424.jpg"
+  - url: "/2009/06/25/daily-blogroll-625-a-valiant-effort-edition/"
+    title: "Daily Blogroll 6/25 -- A Valiant Effort edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/valianteffort.jpg"
 ---
 I have nothing against old MMOs. In fact, I spend most of my time in one of the oldest. But I know that EQ is...
 <!--more-->

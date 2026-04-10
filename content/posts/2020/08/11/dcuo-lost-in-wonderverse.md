@@ -3,6 +3,7 @@ date: '2020-08-11T12:00:00-05:00'
 draft: false
 title: "DCUO: Lost in Wonderverse"
 author: "Tipa"
+disqusIdentifier: "2020/08/11/dcuo-lost-in-wonderverse"
 summary: "I just read that DC Comics and DC Universe have been hit with massive layoffs. While I doubt DC Universe Online will be much affected,..."
 categories:
   - "MMORPG"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "DC Universe Online"
   - "Team Spode"
+relatedPosts:
+  - url: "/2021/07/23/dcuo-reboots-itself-with-house-of-legends/"
+    title: "DCUO Reboots itself with House of Legends"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/batman-joker-collaborations_auto_x2.jpg"
+  - url: "/2021/03/31/valheim-friends-in-the-afterlife/"
+    title: "Valheim: Friends in the Afterlife"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/03/10-20210329072158_1.jpg"
+  - url: "/2020/04/22/dcuo-what-a-long-strange-trip-its-been/"
+    title: "DCUO: What a long, strange trip it's been."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/04/1-MPYR0296_AUDIO-PC-22-07.03.480.jpg"
+  - url: "/2021/08/26/dcuo-house-of-legends-is-live/"
+    title: "DCUO: House of Legends is LIVE!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/avatarofmeta.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-MPYR0303_AUDIO-PC-10-21.16.490.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-MPYR0303_AUDIO-PC-10-21.16.490.jpg"
 ---

@@ -3,9 +3,23 @@ date: '2009-05-02T07:46:42-05:00'
 draft: false
 title: "My favorite spam ever!"
 author: "Tipa"
+disqusIdentifier: "2009/05/02/my-favorite-spam-ever"
 summary: "I get a LOT of spam, most of it I just silently delete... but this one... this one is special. It's from Russia, and any..."
 categories:
   - "General"
+relatedPosts:
+  - url: "/2025/11/01/quick-reviews/"
+    title: "Quick Reviews"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/winterburrow.png"
+  - url: "/2025/08/07/soda-can-tabs-for-charity-really/"
+    title: "Soda can tabs for charity? REALLY?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5304-scaled.jpeg"
+  - url: "/2024/12/17/billionaire-rapture/"
+    title: "Billionaire Rapture"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/DALL·E-2024-12-17-00.14.48-A-surreal-science-fiction-book-cover-for-a-short-story-titled-Billionaire-Rapture.-The-scene-depicts-a-futuristic-dramatic-setting-in-space-and-on-.webp"
+  - url: "/2024/04/16/that-is-not-a-sandworm-in-your-driveway/"
+    title: "That is not a sandworm in your driveway"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/sandwormindriveway.png"
 ---
 I get a LOT of spam, most of it I just silently delete... but this one... this one is special. It's from Russia, and any...
 <!--more-->

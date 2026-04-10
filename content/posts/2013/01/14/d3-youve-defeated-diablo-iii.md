@@ -3,12 +3,26 @@ date: '2013-01-14T07:08:17-05:00'
 draft: false
 title: "D3: You've Defeated Diablo III"
 author: "Tipa"
+disqusIdentifier: "2013/01/14/d3-youve-defeated-diablo-iii"
 summary: "As hellspawn go, Diablo has to be feeling pretty useless. We didn't beat Diablo 3 last night; we beat Diablo #412. He dies so often,..."
 categories:
   - "Diablo 3"
   - "MMORPG"
   - "Other Games"
   - "Realm of the Mad God"
+relatedPosts:
+  - url: "/2012/10/20/game-log-pirate101-diablo3/"
+    title: "Game Log: Pirate101, Diablo3"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-19-22-31-46-93-480x384.jpg"
+  - url: "/2012/10/18/game-log-guild-wars-2-diablo-3/"
+    title: "Game Log: Guild Wars 2, Diablo 3"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Gw2-2012-10-18-23-44-12-32-480x269.jpg"
+  - url: "/2012/10/11/game-log-pirate101-torchlight-2/"
+    title: "Game Log: Pirate101, Torchlight 2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-10-21-01-42-45-480x360.jpg"
+  - url: "/2013/01/15/diablo-3-230-hours-in/"
+    title: "Diablo 3: 230 Hours In"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/01/Diablo-III-2013-01-13-23-13-22-32-480x300.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/01/Diablo-III-2013-01-13-23-13-32-63-480x298.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/01/Diablo-III-2013-01-13-23-13-32-63-480x298.jpg"
 ---

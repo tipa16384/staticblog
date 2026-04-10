@@ -3,11 +3,25 @@ date: '2025-12-07T06:45:52-05:00'
 draft: false
 title: "HeroQuest First Light: The Ring of Return"
 author: "Tipa"
+disqusIdentifier: "2025/12/07/heroquest-first-light-the-ring-of-return"
 summary: "Dragons to the left of us, Dread Warriors to the right, here I am, stuck in the middle with a dwarf, an elf, a rogue and a barbarian."
 categories:
   - "Game Night"
   - "HeroQuest"
   - "Tabletop Games"
+relatedPosts:
+  - url: "/2026/03/04/frosthaven-104-ruins-of-the-solstice-and-heroquest-first-light-sound-the-hearthkin-horn/"
+    title: "Frosthaven #104: Ruins of the Solstice and HeroQuest First Light: Sound the Hearthkin Horn"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/IMG_5701-scaled.jpg"
+  - url: "/2026/02/15/heroquest-first-light-king-forgrins-trove/"
+    title: "HeroQuest First Light: King Forgrin's Trove"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/IMG_5672-scaled.jpg"
+  - url: "/2026/01/27/heroquest-first-light-tomb-of-the-fire-king/"
+    title: "HeroQuest First Light: Tomb of the Fire King"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/IMG_5629-scaled.jpg"
+  - url: "/2025/09/16/heroquest-first-light-the-fortress-of-the-fire-king/"
+    title: "HeroQuest First Light: The Fortress of the Fire King"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/IMG_5371-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/1-IMG_5557-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/1-IMG_5557-scaled.jpg"
 ---

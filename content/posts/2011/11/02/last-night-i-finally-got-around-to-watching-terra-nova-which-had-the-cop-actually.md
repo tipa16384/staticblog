@@ -3,11 +3,25 @@ date: '2011-11-02T17:34:41-05:00'
 draft: false
 title: "TV Watch!"
 author: "Tipa"
+disqusIdentifier: "2011/11/02/last-night-i-finally-got-around-to-watching-terra-nova-which-had-the-cop-actually"
 summary: "[..."
 categories:
   - "General"
 tags:
   - "Google+"
+relatedPosts:
+  - url: "/2011/11/10/im-semi-internet-famous/"
+    title: "I'm semi-Internet famous!"
+    thumbnailImage: "http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&gadget=a&resize_h=100&url=http%3A%2F%2Fmmoquests.com%2Fwp-content%2Fuploads%2F2011%2F11%2Fgoogleplus-westkarana-logo.jpg"
+  - url: "/2011/11/09/todays-run-was-a-little-better-than-mondays/"
+    title: "Running: Nearing the Threshold"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/11/IMG_0484.jpg"
+  - url: "/2011/11/08/manchester-road-race-im-so-gonna-die/"
+    title: "Manchester Road Race: I'm so gonna die."
+    thumbnailImage: ""
+  - url: "/2011/11/07/bulls-bridge/"
+    title: "Bulls Bridge"
+    thumbnailImage: "https://lh3.googleusercontent.com/-hq0V2Nm1-Zc/TrhDEKzCF5I/AAAAAAAAPUc/SufQlMVpP1s/IMG_2053.JPG"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/11/terra_nova_poster_2top-480x338.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/11/terra_nova_poster_2top-480x338.jpg"
 ---

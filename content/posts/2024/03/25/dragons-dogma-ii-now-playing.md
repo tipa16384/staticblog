@@ -3,6 +3,7 @@ date: '2024-03-25T08:02:36-05:00'
 draft: false
 title: "Dragon's Dogma II: Now Playing"
 author: "Tipa"
+disqusIdentifier: "2024/03/25/dragons-dogma-ii-now-playing"
 summary: "I really, genuinely need to blog more promptly about the games I'm playing. Unicorn Overlord is done; I'm drowning in the world of Dragon's Dogma II now."
 categories:
   - "Dragon's Dogma"
@@ -13,6 +14,19 @@ tags:
   - "Dragon's Dogma Ii"
   - "Dragons"
   - "RPG"
+relatedPosts:
+  - url: "/2024/12/30/best-of-2024-single-player-rpgs/"
+    title: "Best of 2024: Single-Player RPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/bestrpgbanner.png"
+  - url: "/2024/04/01/dragons-dogma-2-battahl-bound/"
+    title: "Dragon's Dogma 2: Battahl Bound"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/Dragons-Dogma-2_20240401072306-scaled.jpg"
+  - url: "/2024/01/18/granblue-fantasy-relink-demo/"
+    title: "Granblue Fantasy: Relink (DEMO)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/Granblue-Fantasy_-Relink-Demo_20240117201543-scaled.jpg"
+  - url: "/2022/11/07/gotham-knights-the-best-superhero-game-youre-not-playing/"
+    title: "Gotham Knights - The Best Superhero Game You're Not Playing"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/11/DALL·E-2022-11-07-22.23.47-digital-art-city-scape-at-night.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/dd2banner.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/dd2banner.png"
 ---

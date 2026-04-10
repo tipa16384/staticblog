@@ -3,10 +3,24 @@ date: '2008-01-31T10:56:07-05:00'
 draft: false
 title: "PotBS: Flying Labs responds to lag concerns"
 author: "Tipa"
+disqusIdentifier: "2008/01/31/potbs-flying-labs-responds-to-lag-concerns"
 summary: "In the comments to my \"first glance\" post for the Pirates of the Burning Sea, Rusty from Flying Labs responded to my experiences with lag..."
 categories:
   - "MMORPG"
   - "Pirates of the Burning Sea"
+relatedPosts:
+  - url: "/2011/01/12/daily-blogroll-112-snow-job-edition/"
+    title: "Daily Blogroll 1/12 -- Snow Job edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/11111png.png"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2010/12/01/daily-blogroll-121-dress-like-a-pirate-edition/"
+    title: "Daily Blogroll, 12/1 -- Dress Like a Pirate Edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/potbs-2010-11-30-19-08-45-94.jpg"
+  - url: "/2010/11/30/daily-blogroll-1130-worst-case-scenario-edition/"
+    title: "Daily Blogroll, 11/30 -- Worst Case Scenario edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/vgclient-2010-11-29-20-32-30-42.jpg"
 ---
 In the comments to my "first glance" post for the Pirates of the Burning Sea, Rusty from Flying Labs responded to my experiences with lag...
 <!--more-->

@@ -3,12 +3,26 @@ date: '2008-03-13T14:26:44-05:00'
 draft: false
 title: "EQ3 on the PS3 in 2009?"
 author: "Tipa"
+disqusIdentifier: "2008/03/13/soe-moving-does-this-mean-eq3-on-the-ps3"
 summary: "Just saw this on F13.net:..."
 categories:
   - "EverQuest"
   - "MMORPG"
 tags:
   - "Eqoa"
+relatedPosts:
+  - url: "/2021/09/16/eqoa-desperately-seeking-skandalf/"
+    title: "EQOA: Desperately Seeking Skandalf"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/gsdx_20210916212834.png"
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2024/10/21/evercraft-online-the-unholy-child-of-eq-and-minecraft/"
+    title: "EverCraft Online: The Unholy Child of EQ and MineCraft"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/evercraft-banner.png"
+  - url: "/2024/08/28/erenshor-everquest-for-soloers/"
+    title: "Erenshor -- EverQuest for soloers"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/erenshotheader.jpg"
 ---
 Just saw this on F13.net:...
 <!--more-->

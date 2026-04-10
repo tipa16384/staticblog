@@ -3,6 +3,7 @@ date: '2008-12-15T10:16:44-05:00'
 draft: false
 title: "EQ2: The Icy Keep ... of LAG."
 author: "Tipa"
+disqusIdentifier: "2008/12/15/eq2-the-icy-keep-of-lag"
 summary: "The Icy Keep is EQ2's new addition to their winter wonderland of Frostfell fun, a nicely laid-out retooling of Permafrost that not only provides an..."
 categories:
   - "EverQuest"
@@ -11,6 +12,19 @@ categories:
 tags:
   - "Frostfell"
   - "The Icy Keep"
+relatedPosts:
+  - url: "/2008/12/16/eq2-when-giant-dogs-attack/"
+    title: "EQ2: When giant dogs attack!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/everquest2-2008-12-16-00-45-28-721.jpg"
+  - url: "/2008/12/15/eq-cide-edition-raticide-spearicide-gianticide/"
+    title: "EQ 'Cide edition: Raticide, Spearicide, Gianticide."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/eqgame-2008-12-12-20-34-02-6.jpg"
+  - url: "/2008/12/10/new-everquest-hot-zones-rmt-and-frostfell-missions/"
+    title: "New EverQuest hot zones. RMT, and Frostfell missions"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/eqgame-2008-12-10-08-05-08-12.jpg"
+  - url: "/2008/12/12/eq-frostfell-comes-to-velious/"
+    title: "EQ: Frostfell comes to Velious"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/eqgame-2008-12-11-19-37-06-12.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/everquest2-2008-12-14-16-56-40-60.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/everquest2-2008-12-14-16-56-40-60.jpg"
 ---

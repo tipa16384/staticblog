@@ -3,10 +3,24 @@ date: '2013-02-21T07:47:32-05:00'
 draft: false
 title: "Magical Diary"
 author: "Tipa"
+disqusIdentifier: "2013/02/21/magical-diary"
 summary: "Stop me if you've heard this one. A child living in our modern world discovers she has magical powers and is invited to attend a..."
 categories:
   - "Magical Diary"
   - "Other Games"
+relatedPosts:
+  - url: "/2025/08/06/la-brute-battles-royale-and-warring-guilds/"
+    title: "La Brute: Battles Royale and Warring Guilds"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/LaBrute.png"
+  - url: "/2025/07/10/frosthaven-scenario-14-jagged-shoals/"
+    title: "Frosthaven Scenario 14: Jagged Shoals"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/07/IMG_5225-scaled.jpg"
+  - url: "/2024/11/21/dragon-age-the-veilguard-finished/"
+    title: "Dragon Age: the Veilguard finished"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/banner2.png"
+  - url: "/2024/11/09/dragon-age-the-veilguard-is-not-the-game-you-think-it-is/"
+    title: "Dragon Age: The Veilguard is not the game you think it is"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/davg-banner.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/MagicalDiary-2013-02-20-22-58-02-51-480x300.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/MagicalDiary-2013-02-20-22-58-02-51-480x300.jpg"
 ---

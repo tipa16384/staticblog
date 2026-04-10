@@ -3,6 +3,7 @@ date: '2022-12-24T16:02:44-05:00'
 draft: false
 title: "Advent of Code Day 24 -- Blizzard Basin"
 author: "Tipa"
+disqusIdentifier: "2022/12/24/advent-of-code-day-24-blizzard-basin"
 summary: "The Christmas elves don't like the snow for some reason? They have the wrong boss, I think. Well, we better help them get through those couple hundred blizzards."
 categories:
   - "Advent of Code"
@@ -12,6 +13,19 @@ tags:
   - "Elf"
   - "Memoization"
   - "Python"
+relatedPosts:
+  - url: "/2023/12/17/advent-of-code-day-17-clumsy-crucible/"
+    title: "Advent of Code Day 17 -- Clumsy Crucible"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-17-16.23.47-Illustration-for-an-Advent-of-Code-puzzle-with-a-16-10-aspect-ratio.-The-scene-is-a-birds-eye-view-of-Gear-Island-half-empty-and-half-a-bustling-fac.png"
+  - url: "/2022/12/20/advent-of-code-day-19-not-enough-minerals/"
+    title: "Advent of Code Day 19 -- Not Enough Minerals"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-20-08.04.02-A-woman-wearing-a-Christmas-hat-directing-mining-robots-with-a-handheld-device-in-a-jungle-by-a-lake-by-Bob-Eggleton-detailed-and-intricate.png"
+  - url: "/2023/12/21/advent-of-code-day-21-step-counter/"
+    title: "Advent of Code Day 21 -- Step Counter"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-21-20.59.37-Illustrate-a-whimsical-and-fantastical-scene-from-the-Advent-of-Code-puzzle-Step-Counter.-The-image-should-depict-an-Elf-in-a-vast-infinite-garden-.png"
+  - url: "/2023/12/19/advent-of-code-day-19-aplenty/"
+    title: "Advent of Code Day 19 -- Aplenty"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-19-20.12.32-A-whimsical-and-detailed-illustration-set-on-Gear-Island-where-a-magical-workshop-is-bustling-with-activity.-Elves-dressed-in-colorful-attire-are-b.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-24-15.36.17-a-hundred-Christmas-elves-in-a-blizzard-by-Bob-Eggleton-detailed-and-intricate.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-24-15.36.17-a-hundred-Christmas-elves-in-a-blizzard-by-Bob-Eggleton-detailed-and-intricate.png"
 ---

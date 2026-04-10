@@ -3,6 +3,7 @@ date: '2008-06-28T07:04:40-05:00'
 draft: false
 title: "Blizzard announces Diablo III!"
 author: "Tipa"
+disqusIdentifier: "2008/06/28/blizzard-announces-diablo-iii"
 summary: "Ooooo.... Diablo III looks so cool......."
 categories:
   - "Other Games"
@@ -11,6 +12,19 @@ tags:
   - "Diablo"
   - "Diablo 3"
   - "Diablo Iii"
+relatedPosts:
+  - url: "/2008/08/14/a-first-look-at-cronous/"
+    title: "A first look at Cronous"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/game-2008-08-14-00-29-26-79.jpg"
+  - url: "/2023/05/15/slamming-the-diablo/"
+    title: "Slamming the Diablo."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/d4.jpg"
+  - url: "/2022/12/24/advent-of-code-day-24-blizzard-basin/"
+    title: "Advent of Code Day 24 -- Blizzard Basin"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-24-15.36.17-a-hundred-Christmas-elves-in-a-blizzard-by-Bob-Eggleton-detailed-and-intricate.png"
+  - url: "/2010/09/03/a-parents-guide-to-mmo-gaming/"
+    title: "A Parent's Guide to MMO Gaming"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/worgen_1280x1024-225x225.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/diablo3.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/diablo3.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2021-08-13T19:39:45-05:00'
 draft: false
 title: "Okay -- the FULL LIST of Interesting Games!"
 author: "Tipa"
+disqusIdentifier: "2021/08/13/okay-the-full-list-of-interesting-games"
 summary: "I'm not going to blast this post anywhere, but if someone was interested in what a full run of the Google Trendifier looks like with..."
 categories:
   - "Blaugust"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Google Trends"
   - "Python"
+relatedPosts:
+  - url: "/2021/08/11/the-most-interesting-game-of-all-time/"
+    title: "The Most Interesting Game of All Time!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/runescape-20-years.jpg"
+  - url: "/2021/10/05/new-world-kochaja-nas-w-polsce/"
+    title: "New World: Kochają nas w Polsce!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/poland.jpg"
+  - url: "/2021/08/12/the-most-interesting-mmo-in-the-usa-part-deux/"
+    title: "The Most Interesting MMO in the USA, Part Deux."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/RuneScape_Android_Screen_4.0.jpg"
+  - url: "/2021/09/01/resurrecting-west-karana/"
+    title: "Resurrecting West Karana"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/b0d5f94a61f128683568fec95571fa8e.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/supermechachampions.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/supermechachampions.jpg"
 ---

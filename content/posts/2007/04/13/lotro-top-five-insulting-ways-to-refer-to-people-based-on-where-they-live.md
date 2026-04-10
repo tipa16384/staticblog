@@ -3,10 +3,24 @@ date: '2007-04-13T04:01:04-05:00'
 draft: false
 title: "LotRO: Top Five Insulting Ways To Refer To People Based On Where They Live"
 author: "Tipa"
+disqusIdentifier: "2007/04/13/lotro-top-five-insulting-ways-to-refer-to-people-based-on-where-they-live"
 summary: "Farmers outside Staddle..."
 categories:
   - "Lord of the Rings"
   - "MMORPG"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2020/08/27/blaugust-27-be-the-content-you-want-to-see/"
+    title: "Blaugust #27: Be the Content You Want to See"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/ClipartKey_519651.png"
+  - url: "/2011/10/10/daily-blogroll-oct-10-columbus-day-edition/"
+    title: "Daily Blogroll Oct 10: Columbus Day edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/glitch.png"
+  - url: "/2011/08/24/lotro-kill-the-dwaggin/"
+    title: "LotRO: Kill the Dwaggin"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/08/lotroclient-2011-08-24-01-05-21-21-480x433.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/04/lotr-farmers.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/04/lotr-farmers.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2024-04-05T08:05:54-05:00'
 draft: false
 title: "Palworld's First Raid is a Killer"
 author: "Tipa"
+disqusIdentifier: "2024/04/05/palworlds-first-raid-is-a-killer"
 summary: "I was gonna go with something clickbaity like, \"can you beat the legendary Palworld level 50 raid boss with only a stick and level 1 pals?\". I bet someone out there CAN, but not me."
 categories:
   - "Open World RPG"
@@ -11,6 +12,19 @@ tags:
   - "Bellanoir"
   - "Bellanoir Libero"
   - "Raiding"
+relatedPosts:
+  - url: "/2024/04/15/palworld-100-finally/"
+    title: "Palworld @ 100%. Finally."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/BellanoirLibero.jpg"
+  - url: "/2024/08/04/ultimate-victory-dominating-palworlds-challenging-endgame-raids/"
+    title: "Ultimate Victory: Dominating Palworld’s Challenging Endgame Raids"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/bellanoirultra.png"
+  - url: "/2024/08/16/could-this-be-the-end-of-palworld/"
+    title: "Could this be the end of Palworld?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/palworld-cheevs.png"
+  - url: "/2024/12/16/invading-the-ship-of-heroes/"
+    title: "Invading the Ship of Heroes"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/invasiontestbanner.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/bellenoir.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/bellenoir.png"
 ---

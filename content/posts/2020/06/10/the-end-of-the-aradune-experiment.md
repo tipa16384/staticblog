@@ -3,6 +3,7 @@ date: '2020-06-10T12:25:38-05:00'
 draft: false
 title: "The End of the Aradune Experiment"
 author: "Tipa"
+disqusIdentifier: "2020/06/10/the-end-of-the-aradune-experiment"
 summary: "We absolutely, 100%, gave it our all...."
 categories:
   - "EverQuest"
@@ -11,6 +12,19 @@ tags:
   - "Aradune"
   - "Mangler"
   - "TLP"
+relatedPosts:
+  - url: "/2020/05/17/everquest-mangler-trial-run-levels-7-14/"
+    title: "EverQuest Mangler trial run: Levels 7-14"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/1-eqgame-2020-05-16-16-58-02-22.jpg"
+  - url: "/2020/06/20/everquest-third-wave-adventuring-in-unrest/"
+    title: "EverQuest: Third Wave Adventuring in Unrest"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/eqgame-2020-06-19-22-46-27-98.jpg"
+  - url: "/2020/06/19/squire-wimbley-has-some-mighty-fine-hide/"
+    title: "Squire Wimbley has some mighty fine hide"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/1-eqgame-2020-06-19-07-59-23-14.jpg"
+  - url: "/2020/06/17/im-still-playing-everquest-for-some-reason/"
+    title: "I'm still playing EverQuest for some reason..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/1-eqgame-2020-06-17-08-01-40-13.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/1-eqgame-2020-06-10-06-33-47-96.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/1-eqgame-2020-06-10-06-33-47-96.jpg"
 ---

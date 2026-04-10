@@ -3,6 +3,7 @@ date: '2009-04-27T07:01:37-05:00'
 draft: false
 title: "Web log 4/27 -- the Calm Before the Storm edition"
 author: "Tipa"
+disqusIdentifier: "2009/04/27/web-log-427-the-calm-before-the-storm-edition"
 summary: "Welcome to Monday! We had a gorgeous weekend here in Connecticut. The cat loved sunning herself in every patch of light, shorts weather for sure,..."
 categories:
   - "Age of Conan"
@@ -12,6 +13,19 @@ categories:
   - "EVE Online"
   - "Free Realms"
   - "MMORPG"
+relatedPosts:
+  - url: "/2009/05/19/daily-blogroll-519-black-lung-edition/"
+    title: "Daily Blogroll 5/19 -- Black Lung edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/exefile-2009-05-18-23-31-07-25.jpg"
+  - url: "/2009/04/16/web-logging/"
+    title: "Web Logging!"
+    thumbnailImage: ""
+  - url: "/2009/03/05/will-2009-be-the-best-year-ever-for-mmos/"
+    title: "Will 2009 be the best year ever for MMOs?"
+    thumbnailImage: ""
+  - url: "/2009/05/28/daily-blogroll-528-no-funny-name-episode/"
+    title: "Daily Blogroll 5/28 -- No funny name episode"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/makinghay.jpg"
 ---
 Welcome to Monday! We had a gorgeous weekend here in Connecticut. The cat loved sunning herself in every patch of light, shorts weather for sure,...
 <!--more-->

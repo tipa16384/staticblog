@@ -3,6 +3,7 @@ date: '2021-08-22T09:14:31-05:00'
 draft: false
 title: "FF3 Complete!"
 author: "Tipa"
+disqusIdentifier: "2021/08/22/ff3-complete"
 summary: "24.8 hours to finish Final Fantasy III. I spent so much time preparing so much for the World of Darkness... and those preparations worked out..."
 categories:
   - "Blaugust"
@@ -13,6 +14,19 @@ tags:
   - "Blaugust"
   - "Jrpg"
   - "Steam"
+relatedPosts:
+  - url: "/2021/08/17/ff3-eureka-and-the-cloud-of-darkness/"
+    title: "FF3 -- Eureka, and the Cloud of Darkness"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/20210816230414_1.jpg"
+  - url: "/2021/08/04/ff1-playthrough-pheasant-dreams/"
+    title: "FF1 Playthrough: Pheasant Dreams!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-lich.jpg"
+  - url: "/2021/08/01/ff1-garland-hero-of-the-empire/"
+    title: "FF1: Garland, Hero of the Empire!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-IMG_0131.jpg"
+  - url: "/2021/08/09/ff1-it-is-the-end-of-eternity/"
+    title: "FF1: It is the End of Eternity"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/20210809143848_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210821223214_1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210821223214_1.jpg"
 ---

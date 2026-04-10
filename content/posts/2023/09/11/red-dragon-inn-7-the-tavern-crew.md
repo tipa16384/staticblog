@@ -3,11 +3,25 @@ date: '2023-09-11T07:42:22-05:00'
 draft: false
 title: "Red Dragon Inn 7: The Tavern Crew"
 author: "Tipa"
+disqusIdentifier: "2023/09/11/red-dragon-inn-7-the-tavern-crew"
 summary: "We brought four new characters to the table for Game Night. Three of them were a hit. One... didn't get any love."
 categories:
   - "Game Night"
 tags:
   - "The Red Dragon Inn"
+relatedPosts:
+  - url: "/2024/04/12/is-terraforming-mars-too-good/"
+    title: "Is Terraforming Mars... too good?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/terraformingmarsbanner.jpg"
+  - url: "/2021/09/25/game-night-my-little-scythe-and-the-watson-game-topper/"
+    title: "Game Night: My Little Scythe and the Watson Game Topper"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/2-IMG_2337.jpg"
+  - url: "/2025/09/04/still-more-confessions-of-a-kickstarter-superbacker/"
+    title: "Still More Confessions of a Kickstarter Superbacker"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/superbacker.png"
+  - url: "/2024/04/18/confessions-of-a-kickstarter-superbacker/"
+    title: "Confessions of a Kickstarter Superbacker"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/superbacker.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/RDI7Logo-1024x424-1.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/RDI7Logo-1024x424-1.png"
 ---

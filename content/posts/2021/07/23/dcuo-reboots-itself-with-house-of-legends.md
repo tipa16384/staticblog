@@ -3,6 +3,7 @@ date: '2021-07-23T19:16:16-05:00'
 draft: false
 title: "DCUO Reboots itself with House of Legends"
 author: "Tipa"
+disqusIdentifier: "2021/07/23/dcuo-reboots-itself-with-house-of-legends"
 summary: "DC Universe Online has had a problem. It's the most popular of Daybreak's MMOs, but its spandex tights flies under the radar of most MMO..."
 categories:
   - "MMORPG"
@@ -14,6 +15,19 @@ tags:
   - "DC Universe Online"
   - "Steam"
   - "Team Spode"
+relatedPosts:
+  - url: "/2021/01/12/does-dcuo-on-the-switch-make-any-sense/"
+    title: "Does DCUO on the Switch make any sense?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/01/2021011212024200-57B4628D2267231D57E0FC1078C0596D.jpg"
+  - url: "/2021/03/31/valheim-friends-in-the-afterlife/"
+    title: "Valheim: Friends in the Afterlife"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/03/10-20210329072158_1.jpg"
+  - url: "/2021/07/27/dcuo-new-player-experience/"
+    title: "DCUO: New Player Experience"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/1-20210725214657_1.jpg"
+  - url: "/2021/10/24/dungeon-encounters-finished-and-finished/"
+    title: "Dungeon Encounters: Finished and finished."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/DUNGEON-ENCOUNTERS_20211024130131-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/batman-joker-collaborations_auto_x2.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/batman-joker-collaborations_auto_x2.jpg"
 ---

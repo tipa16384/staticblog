@@ -3,6 +3,7 @@ date: '2025-01-21T08:48:50-05:00'
 draft: false
 title: "FANTASIAN Neo Dimension (Part 1)"
 author: "Tipa"
+disqusIdentifier: "2025/01/21/fantasian-neo-dimension-part-1"
 summary: "A throwback to the classic JRPGs set in handcrafted dioramas, Fantasian Neo Dimension is a love letter to the Final Fantasy series."
 categories:
   - "Final Fantasy"
@@ -10,6 +11,19 @@ categories:
   - "Turn-Based Rpgs"
 tags:
   - "Fantasian Neo Dimension"
+relatedPosts:
+  - url: "/2025/02/18/wots-uh-the-deal/"
+    title: "Wot's... Uh the Deal?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/02/tipachu_A_scene_from_a_city_with_an_unpainted_metal_statue_of_1f26c4d5-89d9-43e1-98ae-b76a59f62d92_2.png"
+  - url: "/2025/01/27/i-know-what-i-did-last-weekend-2/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/drbrawn.png"
+  - url: "/2025/01/06/i-know-what-i-did-last-weekend/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/2025-1-6.png"
+  - url: "/2025/05/18/clair-obscur-expedition-33-1-3/"
+    title: "Clair Obscur: Expedition 33 1/3"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/1-Clair-Obscur_-Expedition-33_20250517165411-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/FANTASIAN-Neo-Dimension_20250105160053-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/FANTASIAN-Neo-Dimension_20250105160053-scaled.jpg"
 ---

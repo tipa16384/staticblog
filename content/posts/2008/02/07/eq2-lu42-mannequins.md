@@ -3,11 +3,25 @@ date: '2008-02-07T09:06:46-05:00'
 draft: false
 title: "EQ2: LU42 Mannequins"
 author: "Tipa"
+disqusIdentifier: "2008/02/07/eq2-lu42-mannequins"
 summary: "Really quick update. I have posts waiting to finish writing about the economy in Pirates of the Burning Sea and other adventures in that world,..."
 categories:
   - "EverQuest"
   - "MMORPG"
   - "Pirates of the Burning Sea"
+relatedPosts:
+  - url: "/2011/01/12/daily-blogroll-112-snow-job-edition/"
+    title: "Daily Blogroll 1/12 -- Snow Job edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/11111png.png"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2010/11/30/daily-blogroll-1130-worst-case-scenario-edition/"
+    title: "Daily Blogroll, 11/30 -- Worst Case Scenario edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/vgclient-2010-11-29-20-32-30-42.jpg"
+  - url: "/2009/09/17/daily-blogroll-917-kanye-edition/"
+    title: "Daily Blogroll 9/17 - Kanye edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/kanye.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/02/everquest2-2008-02-06-20-36-47-78.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/02/everquest2-2008-02-06-20-36-47-78.jpg"
 ---

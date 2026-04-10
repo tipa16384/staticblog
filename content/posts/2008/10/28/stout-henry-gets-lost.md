@@ -3,12 +3,26 @@ date: '2008-10-28T08:59:29-05:00'
 draft: false
 title: "Stout Henry Gets Lost"
 author: "Tipa"
+disqusIdentifier: "2008/10/28/stout-henry-gets-lost"
 summary: "\"My name's not Ognob,\" said Ognob, for the third time in as many minutes. \"It's Daryl. And this is NOT the way back to my..."
 categories:
   - "Humor"
   - "Stout Henry"
 tags:
   - "Stout Henry"
+relatedPosts:
+  - url: "/2008/11/18/stout-henry-live-at-nodding-fields-part-2/"
+    title: "Stout Henry: LIVE! At Nodding Fields! Part 2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/stouthenrylive2.jpg"
+  - url: "/2008/11/14/stout-henry-live-from-nodding-fields/"
+    title: "Stout Henry: LIVE! From Nodding Fields!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/stouthenrylive.jpg"
+  - url: "/2008/11/04/stout-henry-nanowrimo-edition-kneed-before-greed/"
+    title: "Stout Henry, NaNoWriMo edition: Kneed Before Greed"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/stouthenrynbg.jpg"
+  - url: "/2008/10/17/the-death-of-stout-henry/"
+    title: "The Death of Stout Henry"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/gallows.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/shgetslost.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/shgetslost.jpg"
 ---

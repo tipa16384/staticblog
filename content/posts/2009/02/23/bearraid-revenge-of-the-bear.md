@@ -3,10 +3,24 @@ date: '2009-02-23T08:16:32-05:00'
 draft: false
 title: "#bearraid: Revenge of the Bear"
 author: "Tipa"
+disqusIdentifier: "2009/02/23/bearraid-revenge-of-the-bear"
 summary: "Based on last week's run-through of the very bare beginnings of still-very-fluid Twitter RPG, I rewrote the entire thing from scratch. It has very solid..."
 categories:
   - "General"
   - "MMORPG"
+relatedPosts:
+  - url: "/2012/10/08/pirate101-yo-ho-ho-a-pirates-life-for-me/"
+    title: "Pirate101: Yo ho ho, a Pirate's Life for Me"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-08-22-32-11-71-480x269.jpg"
+  - url: "/2010/11/24/thoughts-on-elitism-and-speed-runs-or-my-dinner-with-yhrall/"
+    title: "Thoughts on Elitism and Speed Runs, or, My Dinner with Thrall"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/lotroclient-2010-11-24-00-25-18-91-480x385.jpg"
+  - url: "/2010/10/21/how-i-killed-mmos-can-ffxiv-get-them-a-rez/"
+    title: "How I Killed MMOs (can FFXIV get them a rez?)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/secretworld1-480x270.jpg"
+  - url: "/2009/04/28/daily-blogroll-428-hug-squeeze-edition/"
+    title: "Daily Blogroll 4/28 -- Hug & Squeeze Edition"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/bearraid2.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/bearraid2.jpg"
 ---

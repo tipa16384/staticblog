@@ -3,10 +3,24 @@ date: '2008-10-21T08:05:07-05:00'
 draft: false
 title: "Will EQ2's Shadow Odyssey repeat Warhammer's mistakes?"
 author: "Tipa"
+disqusIdentifier: "2008/10/21/will-eq2s-shadow-odyssey-repeat-warhammers-mistakes"
 summary: "The WAR bloggers are pretty united; they love scenarios, but people only appear to queue up for a couple of them out of all available...."
 categories:
   - "EverQuest"
   - "MMORPG"
+relatedPosts:
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2024/10/21/evercraft-online-the-unholy-child-of-eq-and-minecraft/"
+    title: "EverCraft Online: The Unholy Child of EQ and MineCraft"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/evercraft-banner.png"
+  - url: "/2024/08/28/erenshor-everquest-for-soloers/"
+    title: "Erenshor -- EverQuest for soloers"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/erenshotheader.jpg"
+  - url: "/2024/05/04/everquest-ii-goes-retro-with-anashti-sul/"
+    title: "EverQuest II goes retro with Anashti Sul"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/anashtisul.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wrubefallen.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wrubefallen.jpg"
 ---

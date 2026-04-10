@@ -3,6 +3,7 @@ date: '2022-09-11T11:47:24-05:00'
 draft: false
 title: "Game Night: Flamecraft"
 author: "Tipa"
+disqusIdentifier: "2022/09/11/game-night-flamecraft"
 summary: "Flamecraft is a light-hearted game in which players take on the role of Flamekeepers, tasked with helping Artisan dragons create a variety of goods using their specialized flames. The game is easy to pick up and play, with players taking turns visiting shops, placing dragons, and casting enchantments to earn rewards.."
 categories:
   - "Flamecraft"
@@ -13,6 +14,19 @@ tags:
   - "45 Minutes"
   - "Dragons"
   - "Worker Placement"
+relatedPosts:
+  - url: "/2024/08/14/painting-the-white-dragon/"
+    title: "Painting the White Dragon"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/dragoncura.png"
+  - url: "/2024/08/12/dd-i-no-we-have-a-white-dragon-problem/"
+    title: "D&amp;D: I -- no, WE -- have a white dragon problem"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_4558-EDIT-scaled.jpg"
+  - url: "/2024/03/25/dragons-dogma-ii-now-playing/"
+    title: "Dragon's Dogma II: Now Playing"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/dd2banner.png"
+  - url: "/2021/10/15/looking-for-mr-kickstarter/"
+    title: "Looking for Mr. Kickstarter"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/cologne.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-11-08.51.00-Ink-and-watercolor-drawing-of-the-interior-of-a-19th-century-flower-shop-wooden-counter-wooden-floor-watering-can-on-the-counter-gardening-tools-o.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-11-08.51.00-Ink-and-watercolor-drawing-of-the-interior-of-a-19th-century-flower-shop-wooden-counter-wooden-floor-watering-can-on-the-counter-gardening-tools-o.png"
 ---

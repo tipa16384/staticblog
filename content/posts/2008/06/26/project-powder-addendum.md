@@ -3,12 +3,26 @@ date: '2008-06-26T22:30:28-05:00'
 draft: false
 title: "Project Powder addendum"
 author: "Tipa"
+disqusIdentifier: "2008/06/26/project-powder-addendum"
 summary: "Ground out level 5 doing team coin missions. Instead of racing, you see who can gather the most good coins while avoiding bad coins. When..."
 categories:
   - "Other Games"
   - "Project Powder"
 tags:
   - "Project Powder"
+relatedPosts:
+  - url: "/2008/07/11/project-powder-closed-beta-test-closes/"
+    title: "Project Powder closed beta test... closes."
+    thumbnailImage: ""
+  - url: "/2008/06/30/how-to-throw-snowballs-in-project-powder/"
+    title: "How to throw snowballs in Project Powder"
+    thumbnailImage: ""
+  - url: "/2008/06/29/crafting-enhancements-in-project-powder/"
+    title: "Crafting enhancements in Project Powder"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/run-2008-06-28-18-43-39-74.jpg"
+  - url: "/2008/06/26/project-powder-shredding-the-galaxy/"
+    title: "Project Powder: Shredding the Galaxy"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/run-2008-06-25-21-16-05-20.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/run-2008-06-26-21-48-17-42.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/run-2008-06-26-21-48-17-42.jpg"
 ---

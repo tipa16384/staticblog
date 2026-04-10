@@ -3,6 +3,7 @@ date: '2014-07-05T10:47:43-05:00'
 draft: false
 title: "Brothers: A Tale of Two Sons"
 author: "Tipa"
+disqusIdentifier: "2014/07/05/brothers-a-tale-of-two-sons"
 summary: "I picked Brothers: A Tale of Two Sons up during the Steam summer sale, after remembering hearing good things about it when it came out..."
 categories:
   - "Other Games"
@@ -10,6 +11,19 @@ tags:
   - "Brothers"
   - "Co-Op"
   - "Single Player"
+relatedPosts:
+  - url: "/2010/09/12/recettear-decorating-yr-itemme-shoppe/"
+    title: "Recettear: Decorating y'r Itemme Shoppe."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/recettear-2010-09-12-08-43-01-82-480x384.jpg"
+  - url: "/2025/08/06/la-brute-battles-royale-and-warring-guilds/"
+    title: "La Brute: Battles Royale and Warring Guilds"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/LaBrute.png"
+  - url: "/2025/07/10/frosthaven-scenario-14-jagged-shoals/"
+    title: "Frosthaven Scenario 14: Jagged Shoals"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/07/IMG_5225-scaled.jpg"
+  - url: "/2024/11/21/dragon-age-the-veilguard-finished/"
+    title: "Dragon Age: the Veilguard finished"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/banner2.png"
 coverImage: "https://lh3.googleusercontent.com/-sFSBvhefBos/U7QaqHQhw5I/AAAAAAAAxUo/Ek31cE8qPkM/w907-h549-no/Brothers+2014-06-27+21-04-17-70.jpg"
 thumbnailImage: "https://lh3.googleusercontent.com/-sFSBvhefBos/U7QaqHQhw5I/AAAAAAAAxUo/Ek31cE8qPkM/w907-h549-no/Brothers+2014-06-27+21-04-17-70.jpg"
 ---

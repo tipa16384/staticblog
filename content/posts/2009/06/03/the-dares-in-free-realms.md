@@ -3,6 +3,7 @@ date: '2009-06-03T06:54:45-05:00'
 draft: false
 title: "\"The Dares\" in Free Realms"
 author: "Tipa"
+disqusIdentifier: "2009/06/03/the-dares-in-free-realms"
 summary: "Jamming and dancing after the show. Note the concert tees, put on only AFTER the show, as according to the Rules of Live Concerts..."
 categories:
   - "Free Realms"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "E3"
   - "The Dares"
+relatedPosts:
+  - url: "/2021/08/07/mmos-on-the-bubble/"
+    title: "MMOs on the Bubble"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/STP61286.jpg"
+  - url: "/2011/10/21/daily-blogroll-oct-21-tanks-for-the-memories-edition/"
+    title: "Daily Blogroll Oct 21: Tanks for the Memories edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/dndclient-2011-10-20-21-19-18-63-480x352.jpg"
+  - url: "/2011/05/12/semi-annual-blogroll-sheep-may-safely-graze-edition/"
+    title: "Semi-Annual Blogroll: Sheep may safely graze edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/05/sheep2.png"
+  - url: "/2010/04/14/the-best-mmo-for-a-new-player/"
+    title: "The best MMO for a new player?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/options.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/fullscreen-capture-622009-80051-pm.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/fullscreen-capture-622009-80051-pm.jpg"
 ---

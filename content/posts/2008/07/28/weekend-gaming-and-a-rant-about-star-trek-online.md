@@ -3,6 +3,7 @@ date: '2008-07-28T09:50:03-05:00'
 draft: false
 title: "Weekend Gaming and a rant about Star Trek Online"
 author: "Tipa"
+disqusIdentifier: "2008/07/28/weekend-gaming-and-a-rant-about-star-trek-online"
 summary: "It was a pretty slow weekend, considering. I meant to do a first look at Pi Story to complement the one I did for Florensia,..."
 categories:
   - "EverQuest"
@@ -10,6 +11,19 @@ categories:
   - "MMORPG"
   - "Star Trek"
   - "Wizard101"
+relatedPosts:
+  - url: "/2008/12/24/a-look-back-at-2008/"
+    title: "A look back at 2008"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-30-22-10-50-69.jpg"
+  - url: "/2010/05/21/assault-on-the-inbox/"
+    title: "Assault on the Inbox"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/assault-479x185.jpg"
+  - url: "/2009/06/16/nightly-blogroll-616-all-wet-edition/"
+    title: "Nightly Blogroll 6/16 -- All Wet edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/florensia.jpg"
+  - url: "/2008/07/23/what-i-am-playing-723/"
+    title: "What I am playing 7/23"
+    thumbnailImage: ""
 ---
 It was a pretty slow weekend, considering. I meant to do a first look at Pi Story to complement the one I did for Florensia,...
 <!--more-->

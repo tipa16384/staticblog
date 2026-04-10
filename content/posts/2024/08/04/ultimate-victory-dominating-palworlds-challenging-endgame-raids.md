@@ -3,6 +3,7 @@ date: '2024-08-04T16:45:52-05:00'
 draft: false
 title: "Ultimate Victory: Dominating Palworld’s Challenging Endgame Raids"
 author: "Tipa"
+disqusIdentifier: "2024/08/04/ultimate-victory-dominating-palworlds-challenging-endgame-raids"
 summary: "To take on this boss, you need to be ferocious, serene, muscle-headed and impatient."
 categories:
   - "Blaugust"
@@ -12,6 +13,19 @@ categories:
 tags:
   - "Bellanoir Libero"
   - "Raiding"
+relatedPosts:
+  - url: "/2024/04/15/palworld-100-finally/"
+    title: "Palworld @ 100%. Finally."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/BellanoirLibero.jpg"
+  - url: "/2024/04/05/palworlds-first-raid-is-a-killer/"
+    title: "Palworld's First Raid is a Killer"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/bellenoir.png"
+  - url: "/2024/08/16/could-this-be-the-end-of-palworld/"
+    title: "Could this be the end of Palworld?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/palworld-cheevs.png"
+  - url: "/2024/08/27/twitch-drops-why/"
+    title: "Twitch Drops: Why?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/1-Palworld-Screenshot-2024.08.26-07.46.02.07.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/bellanoirultra.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/bellanoirultra.png"
 ---

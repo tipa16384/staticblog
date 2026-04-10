@@ -3,12 +3,26 @@ date: '2008-12-08T09:41:02-05:00'
 draft: false
 title: "Shin Megami Tensei: Uberer than thou"
 author: "Tipa"
+disqusIdentifier: "2008/12/08/shin-megami-tensei-uberer-than-thou"
 summary: "Constant disconnects making it impossible to finish any instanced dungeons are getting a little bit aggravating. Talking to other SMT testers while playing DOMO confirms..."
 categories:
   - "MMORPG"
   - "Shin Megami Tensei"
 tags:
   - "Closed Beta"
+relatedPosts:
+  - url: "/2011/01/10/rift-beta-4-in-search-of-a-spec/"
+    title: "Rift Beta 4: In Search of... a Spec."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/rift-2011-01-09-16-45-28-62-480x384.jpg"
+  - url: "/2010/12/24/rift-3rd-beta-event-sealing-the-rift/"
+    title: 'Rift: 3rd beta event, "Sealing the Rift"'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/rift3-480x186.jpg"
+  - url: "/2010/12/15/next-rift-beta-event-guardians-of-the-vigil/"
+    title: "Next Rift Beta event: Guardians of the Vigil"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/headline-480x186.jpg"
+  - url: "/2009/05/22/steampunk-mmo-gatheryn-enters-closed-beta/"
+    title: "Steampunk MMO Gatheryn enters closed beta"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/gatheryn-480x299.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/imagineclient-2008-12-08-08-19-53-66.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/imagineclient-2008-12-08-08-19-53-66.jpg"
 ---

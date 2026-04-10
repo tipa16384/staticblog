@@ -3,10 +3,24 @@ date: '2010-09-14T21:03:02-05:00'
 draft: false
 title: "Treasure Abyss: Where's the Dragon?"
 author: "Tipa"
+disqusIdentifier: "2010/09/14/treasure-abyss-wheres-the-dragon"
 summary: "[..."
 categories:
   - "Facebook Games"
   - "Treasure Abyss"
+relatedPosts:
+  - url: "/2011/09/26/treasure-abyss-closes-its-dungeons/"
+    title: "Treasure Abyss closes its dungeons"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/09/Fullscreen-capture-9232011-74807-AM-480x380.jpg"
+  - url: "/2011/05/13/daily-blogroll-513-truth-in-advertising-edition/"
+    title: "Daily Blogroll 5/13: Truth in Advertising Edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/05/Fullscreen-capture-5112011-61851-AM-480x308.jpg"
+  - url: "/2011/01/01/treasure-abyss-the-enchanted-tower-walk-through/"
+    title: "Treasure Abyss: The Enchanted Tower (walk-through)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/chrome-2011-01-01-08-54-41-97-480x384.jpg"
+  - url: "/2010/10/19/treasure-abyss-some-exclusive-wallpaper/"
+    title: "Treasure Abyss: Some exclusive wallpaper!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/TAWallpaper-480x360.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/Fullscreen-capture-9142010-92709-PM-480x383.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/Fullscreen-capture-9142010-92709-PM-480x383.jpg"
 ---

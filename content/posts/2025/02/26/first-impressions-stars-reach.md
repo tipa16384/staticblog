@@ -3,6 +3,7 @@ date: '2025-02-26T08:00:00-05:00'
 draft: false
 title: "First Impressions: Stars Reach"
 author: "Tipa"
+disqusIdentifier: "2025/02/26/first-impressions-stars-reach"
 summary: "The game is very much in development and far from finished, but I think I see where it wants to go."
 categories:
   - "Kickstarter"
@@ -10,6 +11,19 @@ categories:
   - "No Man's Sky"
   - "Stars Reach"
   - "Survival"
+relatedPosts:
+  - url: "/2022/08/22/the-5-best-mmos-to-play-in-2022/"
+    title: "The 5 Best MMOs to Play in 2022"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-22-13.05.37-3d-digital-art-of-Tweedle-Dee-and-Tweedle-Dum-wearing-pots-and-pans-standing-in-Duskwood-in-World-of-Warcraft.png"
+  - url: "/2025/07/01/palworld-does-what-nintendont-again/"
+    title: "Palworld Does What Nintendon't. Again."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/drbrawngenderclinic.png"
+  - url: "/2025/01/02/best-of-2024-survival-crafting-games/"
+    title: "Best of 2024: Survival Crafting Games"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/survivalbanner.png"
+  - url: "/2024/08/11/worshippers-of-cthulhu-the-demo/"
+    title: "Worshippers of Cthulhu: the Demo"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/cthulhu.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/02/20250225215602_1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/02/20250225215602_1.jpg"
 ---

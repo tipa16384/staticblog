@@ -3,6 +3,7 @@ date: '2025-01-05T12:09:14-05:00'
 draft: false
 title: "Best Board Games of 2024!"
 author: "Tipa"
+disqusIdentifier: "2025/01/05/best-board-games-of-2024"
 summary: "The last Best Of post! We play a lot of board games. Stems from our crippling Kickstarter habit. Step into my tabletop world..."
 categories:
   - "HeroQuest"
@@ -14,6 +15,19 @@ tags:
   - "Bardwood Grove"
   - "Best Of 2024"
   - "In Too Deep"
+relatedPosts:
+  - url: "/2024/10/22/game-night-in-too-deep-terraforming-mars-what-comes-next/"
+    title: "Game Night: In Too Deep, Terraforming Mars, what comes next?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/intoodeep.png"
+  - url: "/2024/09/27/game-night-in-too-deep/"
+    title: "Game Night: In Too Deep"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/intoodeepbanner.png"
+  - url: "/2025/04/14/i-know-what-i-did-last-weekend-april-edition/"
+    title: "I Know What I Did Last Weekend (April edition)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/04/Blue-Prince_20250414075008-scaled.jpg"
+  - url: "/2025/03/21/game-night-bardwood-grove/"
+    title: "Game Night: Bardwood Grove"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/bwgrove.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/bestboardgamebanner.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/bestboardgamebanner.png"
 ---

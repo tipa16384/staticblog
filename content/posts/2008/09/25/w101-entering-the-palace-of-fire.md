@@ -3,6 +3,7 @@ date: '2008-09-25T12:00:57-05:00'
 draft: false
 title: "W101: Entering the Palace of Fire"
 author: "Tipa"
+disqusIdentifier: "2008/09/25/w101-entering-the-palace-of-fire"
 summary: "Dragon Mouth Cave..."
 categories:
   - "MMORPG"
@@ -16,6 +17,19 @@ tags:
   - "Royal Halls"
   - "Sprite Guardian"
   - "Wizard101"
+relatedPosts:
+  - url: "/2008/10/01/w101-krokosphinx-and-october-1-patch-notes/"
+    title: "W101: Krokosphinx and October 1 patch notes"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-01-00-34-18-86.jpg"
+  - url: "/2008/09/21/w101-the-chamber-of-fire-the-royal-hall-and-sunken-city/"
+    title: "W101: The Chamber of Fire, the Royal Hall and Sunken City"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/wizardgraphicalclient-2008-09-21-17-39-05-38.jpg"
+  - url: "/2008/10/27/wizard-101-hametsu-village/"
+    title: "Wizard 101: Hametsu Village"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-26-17-18-58-70.jpg"
+  - url: "/2008/10/13/w101-halloween-in-wizard-city-and-october-patch-notes/"
+    title: "W101: Hallowe'en in Wizard City (and October patch notes)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-12-17-08-57-87.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/wizardgraphicalclient-2008-09-24-20-52-32-26.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/wizardgraphicalclient-2008-09-24-20-52-32-26.jpg"
 ---

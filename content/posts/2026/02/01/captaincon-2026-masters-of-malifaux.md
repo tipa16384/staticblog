@@ -3,6 +3,7 @@ date: '2026-02-01T13:33:49-05:00'
 draft: false
 title: "CaptainCon 2026: Masters of Malifaux"
 author: "Tipa"
+disqusIdentifier: "2026/02/01/captaincon-2026-masters-of-malifaux"
 summary: "CaptainCon 2026 brings people the country over to Rhode Island to play Malifaux. And some other games you may have heard of."
 categories:
   - "Malifaux"
@@ -12,6 +13,19 @@ tags:
   - "CaptainCon"
   - "colette"
   - "Rasputina"
+relatedPosts:
+  - url: "/2025/01/29/malifaux-booty-plunder/"
+    title: "Malifaux: Booty &amp; Plunder"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/bootyplunder.png"
+  - url: "/2026/03/08/malifaux-collete-du-bois-smuggler-vs-jakob-lynch-dark-bet/"
+    title: "Malifaux: Collete du Bois, Smuggler vs Jakob Lynch, Dark Bet"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/IMG_5713-scaled.jpg"
+  - url: "/2025/09/30/malifaux-4e-rasputina-vs-maxine/"
+    title: "Malifaux 4e: Rasputina vs Maxine"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/rasp2vsmax2.png"
+  - url: "/2025/08/22/the-kind-of-malifaux-you-play-at-home/"
+    title: "The Kind of Malifaux You Play at Home"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5337-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/CC_Logo_Red.webp"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/CC_Logo_Red.webp"
 ---

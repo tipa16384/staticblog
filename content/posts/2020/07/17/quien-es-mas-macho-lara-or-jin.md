@@ -3,12 +3,26 @@ date: '2020-07-17T12:12:37-05:00'
 draft: false
 title: "¿Quién es más macho? Lara or Jin?"
 author: "Tipa"
+disqusIdentifier: "2020/07/17/quien-es-mas-macho-lara-or-jin"
 summary: "Since finishing Chocobo Mystery Dungeon, I've been sorta casually playing some Tomb Raider; Rise of the Tomb Raider, one of this month's free Playstation Plus..."
 categories:
   - "PS4"
 tags:
   - "Ghost of Tsushima"
   - "Rise of the Tomb Raider"
+relatedPosts:
+  - url: "/2020/12/11/my-rpgs-of-2020/"
+    title: "My RPGs of 2020"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/Chocobos-Mystery-Dungeon-EVERY-BUDDY_20200506204657.jpg"
+  - url: "/2020/08/20/blaugust-20-its-good-to-be-bad/"
+    title: "Blaugust #20: It's Good to be Bad"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-Ghost-of-Tsushima_20200726211225.jpg"
+  - url: "/2020/07/27/ghost-of-tsushima-act-iii-complete-spoilers/"
+    title: "Ghost of Tsushima: Act III complete. (Spoilers!)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/07/Ghost-of-Tsushima_20200726212441.jpg"
+  - url: "/2020/07/20/ghost-of-tsushima-act-one/"
+    title: "Ghost of Tsushima: Act One"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/07/Ghost-of-Tsushima_20200719141325.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/07/Ghost-of-Tsushima_20200717075111.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/07/Ghost-of-Tsushima_20200717075111.jpg"
 ---

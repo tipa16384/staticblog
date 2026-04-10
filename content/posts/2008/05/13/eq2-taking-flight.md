@@ -3,6 +3,7 @@ date: '2008-05-13T10:07:57-05:00'
 draft: false
 title: "EQ2: Taking Flight"
 author: "Tipa"
+disqusIdentifier: "2008/05/13/eq2-taking-flight"
 summary: "With my EQ2 raiding career at an end -- I just don't have the time for a six day a week raiding commitment any more..."
 categories:
   - "EverQuest"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Delusions of Grandeur"
   - "Winterwing"
+relatedPosts:
+  - url: "/2008/08/07/eq2-night-of-the-living-goblin/"
+    title: "EQ2: Night of the Living Goblin"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/everquest2-2008-08-06-23-00-34-94.jpg"
+  - url: "/2008/05/17/nostalgia-paludal-caverns-mistmoore-ldons-and-darklight-woods/"
+    title: "Nostalgia: Paludal Caverns, Mistmoore LDoNs and ... Darklight Woods?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/05/eqgame-2008-05-13-22-19-40-68.jpg"
+  - url: "/2007/11/30/eq2-failure-cascade/"
+    title: "EQ2: Failure Cascade"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/11/everquest2-2007-11-30-06-50-11-87.jpg"
+  - url: "/2008/01/29/short-updates-rock-band-vanguard-and-pirates-of-the-burning-sea/"
+    title: "Short updates: Rock Band, Vanguard and Pirates of the Burning Sea"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/11/everquest2-2007-11-24-10-58-51-01.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/11/everquest2-2007-11-24-10-58-51-01.jpg"
 ---

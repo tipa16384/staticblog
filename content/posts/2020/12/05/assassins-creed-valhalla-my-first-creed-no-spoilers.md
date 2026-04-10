@@ -3,6 +3,7 @@ date: '2020-12-05T10:59:48-05:00'
 draft: false
 title: "Assassin's Creed Valhalla: My First Creed (no spoilers)"
 author: "Tipa"
+disqusIdentifier: "2020/12/05/assassins-creed-valhalla-my-first-creed-no-spoilers"
 summary: "I came into this series cold: I haven't played more than a couple hours of any Assassin's Creed game. One, I played a portion of..."
 categories:
   - "Open World RPG"
@@ -11,6 +12,19 @@ tags:
   - "PSX"
   - "RPG"
   - "Valhalla"
+relatedPosts:
+  - url: "/2022/07/04/dark-stone-retroarch-and-steam/"
+    title: "Dark Stone, Retroarch, and Steam."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/IMG_2596-scaled.jpg"
+  - url: "/2022/11/07/gotham-knights-the-best-superhero-game-youre-not-playing/"
+    title: "Gotham Knights - The Best Superhero Game You're Not Playing"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/11/DALL·E-2022-11-07-22.23.47-digital-art-city-scape-at-night.png"
+  - url: "/2022/06/21/elden-ring-aftermath/"
+    title: "Elden Ring: Aftermath"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/06/1-ELDEN-RING™_20220620153851.jpg"
+  - url: "/2022/06/19/elden-ring-elden-lord/"
+    title: "Elden Ring: Elden Lord"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/06/ELDEN-RING™_20220619115831-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/Assassins-Creed®-Valhalla_20201117070244-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/Assassins-Creed®-Valhalla_20201117070244-scaled.jpg"
 ---

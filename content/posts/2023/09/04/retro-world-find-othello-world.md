@@ -3,6 +3,7 @@ date: '2023-09-04T16:21:26-05:00'
 draft: false
 title: "Retro World Find: Othello World"
 author: "Tipa"
+disqusIdentifier: "2023/09/04/retro-world-find-othello-world"
 summary: "This Othello game for the Super Famicom is funny and surprisingly challenging."
 categories:
   - "Strategy"
@@ -11,6 +12,19 @@ tags:
   - "Board Game"
   - "Othello"
   - "Retro World Expo"
+relatedPosts:
+  - url: "/2023/08/28/retro-world-expo-scorecard/"
+    title: "Retro World Expo Scorecard"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/sailormoonpikachu.png"
+  - url: "/2026/02/03/the-end-of-the-othello-world-saga/"
+    title: "The End of the Othello World Saga"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/Screenshot-2026-02-02-20-11-59.png"
+  - url: "/2024/01/09/heroquest-the-stone-hunter/"
+    title: "HeroQuest: The Stone Hunter"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/tipachu_a_dwarf_warrior_in_shining_plate_armor_wielding_a_golde_41db7272-d75f-48c1-acc0-be33fa2fa3e5.png"
+  - url: "/2023/09/05/jurassic-world-the-legacy-of-isla-nublar-finished/"
+    title: "Jurassic World: The Legacy of Isla Nublar: Finished!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/jwfinished.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/Screenshot-2023-09-04-162409.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/Screenshot-2023-09-04-162409.png"
 ---

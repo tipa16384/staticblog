@@ -3,6 +3,7 @@ date: '2009-08-31T07:19:47-05:00'
 draft: false
 title: "Daily Blogroll 8/31 - End of Summer edition"
 author: "Tipa"
+disqusIdentifier: "2009/08/31/daily-blogroll-831-end-of-summer-edition"
 summary: "Wow, can't believe it's almost autumn. Summer came so late to New England; cool and rainy through most of it, a couple of hot and..."
 categories:
   - "Champions Online"
@@ -14,6 +15,19 @@ categories:
   - "Gratuitous Space Battles"
   - "MMORPG"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2009/05/19/daily-blogroll-519-black-lung-edition/"
+    title: "Daily Blogroll 5/19 -- Black Lung edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/exefile-2009-05-18-23-31-07-25.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/05/22/daily-blogroll-522-on-holiday-edition/"
+    title: "Daily Blogroll 5/22 -- On Holiday edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/wizardgraphicalclient-2009-05-20-19-32-06-04.jpg"
+  - url: "/2009/05/11/daily-blogroll-511-reboot-edition/"
+    title: "Daily Blogroll 5/11 -- Reboot edition"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/GameClient-2009-08-30-21-20-36-81.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/GameClient-2009-08-30-21-20-36-81.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2008-06-29T01:04:14-05:00'
 draft: false
 title: "Guitar Hero: On Tour"
 author: "Tipa"
+disqusIdentifier: "2008/06/29/guitar-hero-on-tour"
 summary: "I took my own picture of the Guitar Hero: On Tour controller for the DS, but let me assure you -- it sucked...."
 categories:
   - "Other Games"
@@ -10,6 +11,19 @@ tags:
   - "Guitar Hero"
   - "Guitar Hero on Tour"
   - "Nintendo DS"
+relatedPosts:
+  - url: "/2008/06/30/rock-band-2-announced/"
+    title: "Rock Band 2 announced"
+    thumbnailImage: ""
+  - url: "/2008/06/30/slave-to-marketing/"
+    title: "Slave to marketing."
+    thumbnailImage: ""
+  - url: "/2025/08/06/la-brute-battles-royale-and-warring-guilds/"
+    title: "La Brute: Battles Royale and Warring Guilds"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/LaBrute.png"
+  - url: "/2025/07/10/frosthaven-scenario-14-jagged-shoals/"
+    title: "Frosthaven Scenario 14: Jagged Shoals"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/07/IMG_5225-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/guitarheroontour.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/guitarheroontour.jpg"
 ---

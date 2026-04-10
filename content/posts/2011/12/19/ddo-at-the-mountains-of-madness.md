@@ -3,12 +3,26 @@ date: '2011-12-19T08:05:26-05:00'
 draft: false
 title: "DDO: At the Mountains of Madness"
 author: "Tipa"
+disqusIdentifier: "2011/12/19/ddo-at-the-mountains-of-madness"
 summary: "Ulan was back from Mexico last night. How we missed your blade barriers so very, very much. Those little mechanized sawblades of suffering just tear..."
 categories:
   - "Dungeons & Dragons Online"
   - "MMORPG"
 tags:
   - "Team Spode"
+relatedPosts:
+  - url: "/2012/04/06/ddo-web-of-chaos/"
+    title: "DDO: Web of Chaos"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/04/dndclient-2012-04-01-23-54-24-56-480x384.jpg"
+  - url: "/2012/01/30/ddo-doomsphere-the-dull/"
+    title: "DDO: Doomsphere the Dull"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/dndclient-2012-01-29-22-54-24-25-480x319.jpg"
+  - url: "/2012/01/16/ddo-inferno-of-the-damned/"
+    title: "DDO: Inferno of the Damned"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/dndclient-2012-01-15-23-39-49-21-480x384.jpg"
+  - url: "/2012/01/11/ddo-buying-time/"
+    title: "DDO: Buying Time"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/dndclient-2012-01-10-23-25-52-06-480x383.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/12/dndclient-2011-12-18-23-06-20-13-480x384.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/12/dndclient-2011-12-18-23-06-20-13-480x384.jpg"
 ---

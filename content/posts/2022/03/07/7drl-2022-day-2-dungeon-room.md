@@ -3,6 +3,7 @@ date: '2022-03-07T23:12:57-05:00'
 draft: false
 title: "7DRL 2022 Day 2: Dungeon Room"
 author: "Tipa"
+disqusIdentifier: "2022/03/07/7drl-2022-day-2-dungeon-room"
 summary: "The GIF here is basically all I got done for day 2 of 7DRL 2022. It doesn't look like much, but it's something. Also, by..."
 categories:
   - "7DRL"
@@ -11,6 +12,19 @@ tags:
   - "Berlin Interpretation"
   - "Rogue-Like"
   - "Tiled"
+relatedPosts:
+  - url: "/2022/03/04/7drl-building-an-engine-i-screwed-up/"
+    title: "7DRL: Building an Engine -- I Screwed Up."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/7drlfail.png"
+  - url: "/2022/03/03/7drl-building-an-engine-winner/"
+    title: "7DRL: Building an Engine -- Winner."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/screenshot.png"
+  - url: "/2021/11/01/quick-look-unexplored-2/"
+    title: "Quick Look: Unexplored 2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/mainmenu.png"
+  - url: "/2020/10/27/rogue-the-original-rogue-like/"
+    title: "Rogue -- the original rogue-like"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/roguebanner.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/ezgif.com-gif-maker-2.gif"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/ezgif.com-gif-maker-2.gif"
 ---

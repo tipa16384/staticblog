@@ -3,6 +3,7 @@ date: '2023-08-24T07:00:00-05:00'
 draft: false
 title: "Staying Motivated for Retro World Expo 2023"
 author: "Tipa"
+disqusIdentifier: "2023/08/24/staying-motivated-for-retro-world-expo-2023"
 summary: "This weekend in glorious Hartford, Connecticut. Could I be more motivated?"
 categories:
   - "Blaugust"
@@ -13,6 +14,19 @@ tags:
   - "Retro World Expo"
   - "Um Jammer Lammy"
   - "Vectrex"
+relatedPosts:
+  - url: "/2023/08/28/retro-world-expo-scorecard/"
+    title: "Retro World Expo Scorecard"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/sailormoonpikachu.png"
+  - url: "/2025/08/05/international-play-your-vectrex-day-is-november-1/"
+    title: "International Play Your Vectrex Day is November 1!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/vectrexbanner.png"
+  - url: "/2024/08/25/retro-world-expo-2024-adventure-awaits/"
+    title: "Retro World Expo 2024: Adventure Awaits"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/tipachu_Adventurers_including_a_sorceress_battle_a_giant_kaij_c266c206-cff4-4688-bc8f-5a805d60df73_2.png"
+  - url: "/2024/08/21/my-short-brief-history-with-crocs/"
+    title: "My short, brief history with Crocs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/pcroc.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/retroworldexpo.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/retroworldexpo.jpg"
 ---

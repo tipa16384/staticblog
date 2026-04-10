@@ -3,6 +3,7 @@ date: '2025-12-26T09:00:00-05:00'
 draft: false
 title: "Steam Winter Sale: Dispatch"
 author: "Tipa"
+disqusIdentifier: "2025/12/26/steam-winter-sale-dispatch"
 summary: "Part superhero cartoon, part workplace comedy, part 911 Operator, this collaboration between ex-Telltale devs and Critical Role hits more than it misses."
 categories:
   - "Adventure"
@@ -11,6 +12,19 @@ tags:
   - "Critical Role"
   - "Dispatch"
   - "Telltale Games"
+relatedPosts:
+  - url: "/2022/08/14/the-14-pages-of-sarah-woods/"
+    title: "The 14 Pages of Sarah Woods"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-06-21.41.42-35mm-soft-focus-photograph-looking-over-the-shoulder-of-brown-haired-girl-wearing-a-red-scarf-as-she-sits-on-a-stone-in-a-forest-and-writes-the-number.png"
+  - url: "/2024/10/28/greek-gods-exist-and-they-are-living-among-us/"
+    title: "Greek Gods Exist and they are Living Among Us!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/Key_Art_-_THE_ROLEPLAYING_MUSICAL_1080p_PNG.jpg"
+  - url: "/2022/08/29/leap-year-the-29th-day/"
+    title: "Leap Year: the 29th Day"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/29daybanner.png"
+  - url: "/2022/08/17/there-is-no-room-17-in-kaisei-academy/"
+    title: "There is No Room 17 in Kaisei Academy"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-09-21.42.42-Anime-teenage-boys-in-the-school-uniform-for-Kaisei-Academy-in-Tokyo-standing-in-a-Japanese-high-school-classroom-looking-at-crime-clues-on-a-blackbo.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/dispatch.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/dispatch.jpg"
 ---

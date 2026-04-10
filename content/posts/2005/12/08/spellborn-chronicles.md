@@ -3,9 +3,23 @@ date: '2005-12-08T00:00:00-05:00'
 draft: false
 title: "Spellborn Chronicles"
 author: "Tipa"
+disqusIdentifier: "2005/12/08/spellborn-chronicles"
 summary: "Always on the lookout to find new things to which to become addicted, I've been keeping an eye on The Spellborn Chronicles. A close call..."
 categories:
   - "MMORPG"
+relatedPosts:
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2026/03/11/dune-awakening-finished-chapter-3/"
+    title: "Dune Awakening: Finished Chapter 3"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-11-073510.png"
+  - url: "/2026/02/04/erenshor-rising-shadows-launched/"
+    title: 'Erenshor "Rising Shadows" launched!'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/20260204080313_1.jpg"
+  - url: "/2026/01/24/dominus-automa-an-idle-mmo-for-busy-dads/"
+    title: "Dominus Automa: An Idle MMO for Busy Dads"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/dominusautoma.png"
 coverImage: "https://tipa16384.github.io/wkblog/images/report.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/images/report.png"
 ---

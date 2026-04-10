@@ -3,6 +3,7 @@ date: '2023-12-03T13:01:35-05:00'
 draft: false
 title: "Advent of Code Day 3 -- Gear Ratios"
 author: "Tipa"
+disqusIdentifier: "2023/12/03/advent-of-code-day-3-gear-ratios"
 summary: "My Haskell experiments end. Even though I got the answer, have I failed?"
 categories:
   - "Advent of Code"
@@ -11,6 +12,19 @@ tags:
   - "Elf"
   - "Haskell"
   - "Python"
+relatedPosts:
+  - url: "/2022/12/25/advent-of-code-day-25-full-of-hot-air/"
+    title: "Advent of Code Day 25 -- Full of Hot Air"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-25-14.03.31-Christmas-elves-on-a-snowy-mountain-top-colorful-hot-air-balloons-in-the-sky-in-the-background-by-Bob-Eggleton-detailed-and-intricate.png"
+  - url: "/2022/12/23/advent-of-code-day-23-unstable-diffusion/"
+    title: "Advent of Code Day 23 -- Unstable Diffusion"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-23-21.02.08-Several-Christmas-elves-standing-in-a-grid-in-a-jungle-clearing-a-volcano-in-the-background-by-Bob-Eggleton-detailed-and-intricate.png"
+  - url: "/2022/12/09/advent-of-code-day-9-rope-bridge/"
+    title: "Advent of Code Day 9 -- Rope Bridge"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-09-21.18.23-Christmas-Elves-walking-on-a-tattered-rope-bridge-crossing-a-river-in-a-jungle-by-Bob-Eggleton-detailed-and-intricate.png"
+  - url: "/2023/12/01/advent-of-code-day-1-trebuchet/"
+    title: "Advent of Code Day 1 -- Trebuchet?!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_A_catapult_surrounded_by_Christmas_elves_af0eba66-cf81-40e8-8736-e61609b50fdd.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_A_Christmas_elf_working_on_a_giant_machine_with_many_ge_47e1029a-b055-4df9-99f0-1c55a64ca2e8.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_A_Christmas_elf_working_on_a_giant_machine_with_many_ge_47e1029a-b055-4df9-99f0-1c55a64ca2e8.png"
 ---

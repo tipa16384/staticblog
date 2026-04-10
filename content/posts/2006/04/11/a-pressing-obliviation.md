@@ -3,10 +3,24 @@ date: '2006-04-11T00:00:00-05:00'
 draft: false
 title: "A Pressing Obliviation"
 author: "Tipa"
+disqusIdentifier: "2006/04/11/a-pressing-obliviation"
 summary: "Yes, and my apologies to my friends in EQ1, EQ2 and WoW, but I have been Obliviated. I went to Fry's for a coax cable,..."
 categories:
   - "Oblivion"
   - "Other Games"
+relatedPosts:
+  - url: "/2006/04/26/academy-of-arcane-science/"
+    title: "Academy of Arcane Science"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/images/academy.jpg"
+  - url: "/2006/04/13/leyawiin-my-old-home-town/"
+    title: "Leyawiin, my old home town"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/images/knighterrant.jpg"
+  - url: "/2006/04/11/nightmares/"
+    title: "Nightmares"
+    thumbnailImage: ""
+  - url: "/2025/08/06/la-brute-battles-royale-and-warring-guilds/"
+    title: "La Brute: Battles Royale and Warring Guilds"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/LaBrute.png"
 coverImage: "https://tipa16384.github.io/wkblog/images/ranger.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/images/ranger.jpg"
 ---

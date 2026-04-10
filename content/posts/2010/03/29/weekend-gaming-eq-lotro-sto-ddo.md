@@ -3,6 +3,7 @@ date: '2010-03-29T07:47:49-05:00'
 draft: false
 title: "Weekend gaming: EQ, LotRO, STO, DDO"
 author: "Tipa"
+disqusIdentifier: "2010/03/29/weekend-gaming-eq-lotro-sto-ddo"
 summary: "The games in the title -- EverQuest, Lord of the Rings Online, Star Trek Online, Dungeons & Dragons Online. Three of the four have \"online\"..."
 categories:
   - "Dungeons & Dragons Online"
@@ -10,6 +11,19 @@ categories:
   - "Fallen Earth"
   - "MMORPG"
   - "Star Trek"
+relatedPosts:
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/09/17/daily-blogroll-917-kanye-edition/"
+    title: "Daily Blogroll 9/17 - Kanye edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/kanye.jpg"
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2010/10/29/halloween-around-the-multiverse/"
+    title: "Halloween around the multiverse...."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/STOPumpkin.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/03/GameClient-2010-03-27-11-28-11-01.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/03/GameClient-2010-03-27-11-28-11-01.jpg"
 ---

@@ -3,12 +3,26 @@ date: '2025-10-23T06:00:00-05:00'
 draft: false
 title: "It's the end of year, new console extravaganza"
 author: "Tipa"
+disqusIdentifier: "2025/10/23/its-the-end-of-year-new-console-extravaganza"
 summary: "First comes the Switch 2, maybe someday the Analogue 3D and the Vectrex Mini?"
 categories:
   - "Nintendo Switch"
   - "Pokemon"
 tags:
   - "Pokemon"
+relatedPosts:
+  - url: "/2025/11/21/pokemon-legends-z-a-rolls-credits/"
+    title: "Pokémon Legends: Z-A rolls credits"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/2025112021391100-D30A1E83A76029FCCC1E3AC4EF5B7C89L.jpg"
+  - url: "/2023/08/03/not-taming-the-backlog/"
+    title: "(Not) Taming the Backlog"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/DALL·E-2023-08-02-23.10.21-A-dragon-wearing-glasses-surrounded-by-stacks-of-video-games.png"
+  - url: "/2025/12/15/i-know-what-i-did-last-weekend-6/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/IMG_5573-scaled.jpg"
+  - url: "/2025/10/01/i-cancelled-my-pokemon-tcg-pocket-premium-subscription/"
+    title: "I cancelled my Pokémon TCG Pocket premium subscription"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/IMG_5411.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/IMG_5433-EDIT-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/IMG_5433-EDIT-scaled.jpg"
 ---

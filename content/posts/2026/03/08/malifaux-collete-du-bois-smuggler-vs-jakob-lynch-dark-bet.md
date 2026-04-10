@@ -3,6 +3,7 @@ date: '2026-03-08T11:58:22-05:00'
 draft: false
 title: "Malifaux: Collete du Bois, Smuggler vs Jakob Lynch, Dark Bet"
 author: "Tipa"
+disqusIdentifier: "2026/03/08/malifaux-collete-du-bois-smuggler-vs-jakob-lynch-dark-bet"
 summary: "It was our second open game day at Twilight Cards & Games in South Windsor. Last time, my daughter stopped by and played a demo..."
 categories:
   - "Malifaux"
@@ -13,6 +14,19 @@ tags:
   - "jakob lynch"
   - "Performer"
   - "twilight games"
+relatedPosts:
+  - url: "/2026/02/22/malifaux-at-twilight-colette-v-maxine/"
+    title: "Malifaux at Twilight: Colette v Maxine"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/1-IMG_5684-scaled.jpg"
+  - url: "/2026/02/01/captaincon-2026-masters-of-malifaux/"
+    title: "CaptainCon 2026: Masters of Malifaux"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/CC_Logo_Red.webp"
+  - url: "/2025/08/22/the-kind-of-malifaux-you-play-at-home/"
+    title: "The Kind of Malifaux You Play at Home"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5337-scaled.jpg"
+  - url: "/2026/02/21/why-isnt-miniatures-gaming-more-popular/"
+    title: "Why isn't miniatures gaming more popular?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/IMG_5676-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/IMG_5713-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/IMG_5713-scaled.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2010-08-29T08:45:09-05:00'
 draft: false
 title: "Star Trek Online: Cold Call (spoilers)"
 author: "Tipa"
+disqusIdentifier: "2010/08/29/star-trek-online-cold-call-spoilers"
 summary: "[..."
 categories:
   - "MMORPG"
@@ -19,6 +20,19 @@ tags:
   - "Monterey"
   - "Star Trek"
   - "Thumupp"
+relatedPosts:
+  - url: "/2010/09/11/star-trek-online-s2e3-cold-comfort-spoilers/"
+    title: "Star Trek Online: S2E3 Cold Comfort (spoilers)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/GameClient-2010-09-11-16-55-05-27-480x292.jpg"
+  - url: "/2010/09/04/star-trek-online-out-in-the-cold-spoilers/"
+    title: "Star Trek Online: Out in the Cold (spoilers)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/GameClient-2010-09-04-14-10-31-72-480x269.jpg"
+  - url: "/2010/10/16/star-trek-online-skirmish-spoilers/"
+    title: "Star Trek Online: Skirmish (spoilers)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/GameClient-2010-10-16-14-50-16-71-480x303.jpg"
+  - url: "/2010/08/27/star-trek-online-featured-episodes-start-tomorrow/"
+    title: "Star Trek Online: Featured episodes start TOMORROW"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-27-21-14-32-18.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-28-14-15-48-16-480x327.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-28-14-15-48-16-480x327.jpg"
 ---

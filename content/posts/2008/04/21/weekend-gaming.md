@@ -3,6 +3,7 @@ date: '2008-04-21T08:10:18-05:00'
 draft: false
 title: "Weekend Gaming"
 author: "Tipa"
+disqusIdentifier: "2008/04/21/weekend-gaming"
 summary: "Nostalgia the Guild took most of my time this last weekend. It's supposed to just be a very casual, once-a-week grouping experience through EverQuest's old..."
 categories:
   - "City of Heroes"
@@ -10,6 +11,19 @@ categories:
   - "MMORPG"
   - "Mythos"
   - "Nostalgia the Guild"
+relatedPosts:
+  - url: "/2008/12/24/a-look-back-at-2008/"
+    title: "A look back at 2008"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-30-22-10-50-69.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/05/11/daily-blogroll-511-reboot-edition/"
+    title: "Daily Blogroll 5/11 -- Reboot edition"
+    thumbnailImage: ""
+  - url: "/2009/05/08/daily-blogroll-58-darkfail-edition/"
+    title: "Daily Blogroll 5/8 -- Darkfail edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/darkfall.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/04/eqgame-2008-04-21-07-15-12-85.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/04/eqgame-2008-04-21-07-15-12-85.jpg"
 ---

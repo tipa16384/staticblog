@@ -3,6 +3,7 @@ date: '2008-09-23T08:00:48-05:00'
 draft: false
 title: "Straight Talk Warhammer: The Warrior Priest"
 author: "Tipa"
+disqusIdentifier: "2008/09/23/straight-talk-warhammer-the-warrior-priest"
 summary: "Do you remember what life was like before Warhammer Online: The Age of Reckoning? I sure can't. Well, sometimes it comes in little bits and..."
 categories:
   - "Humor"
@@ -13,6 +14,19 @@ tags:
   - "Galahad the Brave"
   - "Not Funny"
   - "Warrior Priest"
+relatedPosts:
+  - url: "/2008/09/22/straight-talk-warhammer-the-bright-wizard/"
+    title: "Straight Talk Warhammer: The Bright Wizard"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/daffy.jpg"
+  - url: "/2008/09/18/straight-talk-warhammer-the-inevitable-city/"
+    title: "Straight Talk Warhammer: The Inevitable City"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/cronouscity.jpg"
+  - url: "/2008/09/17/straight-talk-warhammer-realm-vs-realm/"
+    title: "Straight Talk Warhammer: Realm vs Realm"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/warcraftbattle.jpg"
+  - url: "/2008/09/16/straight-talk-warhammer-the-white-lion-profession/"
+    title: "Straight Talk Warhammer: The White Lion profession."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/eqgame-2008-09-16-00-45-54-28.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/galahad.gif"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/galahad.gif"
 ---

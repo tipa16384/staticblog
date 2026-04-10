@@ -3,9 +3,23 @@ date: '2025-11-10T08:14:05-05:00'
 draft: false
 title: "Does AI need to be in EVERYTHING?"
 author: "Tipa"
+disqusIdentifier: "2025/11/10/does-ai-need-to-be-in-everything"
 summary: "Billionaires want you to become so dependent on AI that they finally get what they really want -- complete control over your life."
 categories:
   - "Generative AI"
+relatedPosts:
+  - url: "/2025/03/10/how-to-fail-at-writing-a-game-in-7-days/"
+    title: "How To Fail at Writing A Game in 7 Days"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/gamedevadventure.png"
+  - url: "/2024/12/07/advent-of-code-2024-the-first-week/"
+    title: "Advent of Code 2024: The First Week"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/DALL·E-2024-12-07-11.54.46-A-Tolkien-inspired-scene-depicting-graceful-elves-in-a-Tolkien-inspired-setting-repairing-a-rope-bridge-over-a-serene-river-surrounded-by-lush-vibra.webp"
+  - url: "/2024/09/12/upping-my-game-with-ai/"
+    title: "Upping my game with AI"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/obstemplate.png"
+  - url: "/2024/08/10/ai-has-transformed-the-way-i-code/"
+    title: "AI has transformed the way I code"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/copilot.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/monopoly.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/monopoly.png"
 ---

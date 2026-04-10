@@ -3,6 +3,7 @@ date: '2025-03-11T08:00:00-05:00'
 draft: false
 title: "Malifaux: \"New Crew\" League, Week 1"
 author: "Tipa"
+disqusIdentifier: "2025/03/11/malifaux-new-crew-league-week-1"
 summary: "The local gaming store is running a league this spring for new players or for players who want to play a crew they've never played before."
 categories:
   - "Malifaux"
@@ -11,6 +12,19 @@ tags:
   - "December"
   - "New Crew"
   - "The Battle Standard"
+relatedPosts:
+  - url: "/2025/03/19/malifaux-new-crew-two/"
+    title: "Malifaux: New Crew Two"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/newleague2.png"
+  - url: "/2025/09/30/malifaux-4e-rasputina-vs-maxine/"
+    title: "Malifaux 4e: Rasputina vs Maxine"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/rasp2vsmax2.png"
+  - url: "/2025/08/22/the-kind-of-malifaux-you-play-at-home/"
+    title: "The Kind of Malifaux You Play at Home"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5337-scaled.jpg"
+  - url: "/2025/06/07/malifaux-4e-december-meets-the-family/"
+    title: "Malifaux 4e: December Meets the Family"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/perdita.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/newcrew1.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/newcrew1.png"
 ---

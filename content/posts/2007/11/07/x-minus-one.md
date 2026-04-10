@@ -3,10 +3,24 @@ date: '2007-11-07T07:27:09-05:00'
 draft: false
 title: "X Minus One"
 author: "Tipa"
+disqusIdentifier: "2007/11/07/x-minus-one"
 summary: "Countdown for blast-off. X Minus 5, 4, 3, 2, X Minus 1, Fire. From the far horizons of the unknown come transcribed tales of new..."
 categories:
   - "General"
   - "Sci Fi"
+relatedPosts:
+  - url: "/2015/09/13/beam-me-up/"
+    title: "Beam me up..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/09/1-Star-Trek-Me-1.jpg"
+  - url: "/2011/07/31/space-battleship-yamato-the-movie/"
+    title: "Space Battleship Yamato (the movie)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/07/wmplayer-2011-07-31-08-54-13-39-480x320.jpg"
+  - url: "/2008/07/22/save-the-middleman/"
+    title: "Save the Middleman!"
+    thumbnailImage: ""
+  - url: "/2008/07/09/the-middleblog/"
+    title: "The Middleblog"
+    thumbnailImage: ""
 coverImage: "http://oldtimeradionostalgia.podomatic.com/2007-09-06T16_06_09-07_00.png"
 thumbnailImage: "http://oldtimeradionostalgia.podomatic.com/2007-09-06T16_06_09-07_00.png"
 ---

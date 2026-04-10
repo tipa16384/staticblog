@@ -3,6 +3,7 @@ date: '2008-09-11T10:57:18-05:00'
 draft: false
 title: "Why I'm not playing WAR *right now*"
 author: "Tipa"
+disqusIdentifier: "2008/09/11/why-im-not-playing-war-right-now"
 summary: "Well, first of all, I'm not playing WAR because I'm at work...."
 categories:
   - "City of Heroes"
@@ -12,6 +13,19 @@ categories:
   - "Vanguard"
   - "Warhammer: Age of Reckoning"
   - "Wizard101"
+relatedPosts:
+  - url: "/2008/12/24/a-look-back-at-2008/"
+    title: "A look back at 2008"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-30-22-10-50-69.jpg"
+  - url: "/2009/04/28/daily-blogroll-428-hug-squeeze-edition/"
+    title: "Daily Blogroll 4/28 -- Hug & Squeeze Edition"
+    thumbnailImage: ""
+  - url: "/2009/05/13/daily-blogroll-513-going-rogue-edition/"
+    title: "Daily Blogroll 5/13 -- Going Rogue edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/angelatheangelic.jpg"
+  - url: "/2009/05/06/daily-blogroll-56-tempests-and-teapots-edition/"
+    title: "Daily Blogroll 5/6 -- Tempests and Teapots edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/fullscreen-capture-562009-125235-am.jpg"
 ---
 Well, first of all, I'm not playing WAR because I'm at work....
 <!--more-->

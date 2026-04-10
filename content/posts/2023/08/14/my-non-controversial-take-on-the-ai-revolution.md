@@ -3,6 +3,7 @@ date: '2023-08-14T08:10:52-05:00'
 draft: false
 title: "My Non-Controversial Take on the AI Revolution"
 author: "Tipa"
+disqusIdentifier: "2023/08/14/my-non-controversial-take-on-the-ai-revolution"
 summary: "At least, I haven't heard anyone contravene my take, yet."
 categories:
   - "Blaugust"
@@ -13,6 +14,19 @@ tags:
   - "Github"
   - "Programming"
   - "Substack"
+relatedPosts:
+  - url: "/2024/08/10/ai-has-transformed-the-way-i-code/"
+    title: "AI has transformed the way I code"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/copilot.png"
+  - url: "/2023/12/02/advent-of-code-day-2-cube-conundrum/"
+    title: "Advent of Code Day 2 -- Cube Conundrum"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_A_Christmas_elf_on_the_tundra_surrounded_by_red_green_a_ad0ef918-2e5e-4cad-bb3a-4f76bd9b3c04.png"
+  - url: "/2023/08/25/one-does-not-simply-walk-into-ba-sing-se/"
+    title: "One does not simply walk into Ba Sing Se!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/frodoavatar.png"
+  - url: "/2021/09/01/resurrecting-west-karana/"
+    title: "Resurrecting West Karana"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/b0d5f94a61f128683568fec95571fa8e.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/revolution.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/revolution.png"
 ---

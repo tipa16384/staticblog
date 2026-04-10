@@ -3,6 +3,7 @@ date: '2020-09-14T07:21:32-05:00'
 draft: false
 title: "Banner of the Maid: The Fall of the Monarchy"
 author: "Tipa"
+disqusIdentifier: "2020/09/14/banner-of-the-maid-the-fall-of-the-monarchy"
 summary: "Queen Antoinette, one of the famed Maids of France, was no longer able to hold back the tides of populism in Revolutionary France. While Pauline..."
 categories:
   - "Nintendo Switch"
@@ -11,6 +12,19 @@ tags:
   - "Banner of the Maid"
   - "Girls Screaming in Chinese"
   - "Tactics"
+relatedPosts:
+  - url: "/2020/09/21/banner-of-the-maid-final-thoughts/"
+    title: "Banner of the Maid: Final Thoughts"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/2020092017453800-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
+  - url: "/2020/09/10/banner-of-the-maid-la-victoire-est-a-nous/"
+    title: "Banner of the Maid: La Victoire est à Nous!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/2020090922571700-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
+  - url: "/2020/08/19/banner-of-the-maid-doesnt-want-me-to-sleep/"
+    title: "Banner of the Maid doesn't want me to sleep."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/banner-of-the-maid-switch-hero.jpg"
+  - url: "/2020/12/11/my-rpgs-of-2020/"
+    title: "My RPGs of 2020"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/Chocobos-Mystery-Dungeon-EVERY-BUDDY_20200506204657.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/2020091217123000-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/2020091217123000-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
 ---

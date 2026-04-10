@@ -3,6 +3,7 @@ date: '2009-02-28T11:08:00-05:00'
 draft: false
 title: "Spellborn Developer Chat transcript, Part 1"
 author: "Tipa"
+disqusIdentifier: "2009/02/28/spellborn-developer-chat-transcript-part-1"
 summary: "This is a transcript of the first half of the Acclaim Spellborn developer chat. The first half, as in, I typed until my fingers could..."
 categories:
   - "Chronicles of Spellborn"
@@ -15,6 +16,19 @@ tags:
   - "Historian"
   - "Howard Marks"
   - "Transcript"
+relatedPosts:
+  - url: "/2009/03/20/spellborn-on-the-cheap-new-armors-dev-chat/"
+    title: "Spellborn on the cheap, new armors, dev chat"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/armor1.jpg"
+  - url: "/2009/03/06/acclaim-spellborn-client-available-for-download/"
+    title: "Acclaim Spellborn client available for download"
+    thumbnailImage: ""
+  - url: "/2009/02/27/listen-to-todays-spellborn-dev-chat/"
+    title: "Listen to today's Spellborn Dev Chat"
+    thumbnailImage: ""
+  - url: "/2010/08/19/chronicles-of-spellborn-anatomy-of-a-failure/"
+    title: "Chronicles of Spellborn: Anatomy of a Failure"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/sb_client-2010-08-18-19-49-21-19-480x270.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/sb_client-2009-01-02-00-54-38-24.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/sb_client-2009-01-02-00-54-38-24.jpg"
 ---

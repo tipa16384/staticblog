@@ -3,6 +3,7 @@ date: '2010-08-25T18:24:04-05:00'
 draft: false
 title: "Facebook thinks I'm an idiot."
 author: "Tipa"
+disqusIdentifier: "2010/08/25/facebook-thinks-im-an-idiot"
 summary: "[..."
 categories:
   - "Facebook Games"
@@ -11,6 +12,19 @@ tags:
   - "Facebook"
   - "Scam"
   - "Spyware"
+relatedPosts:
+  - url: "/2010/10/12/social-game-review-lucky-train/"
+    title: "Social Game Review: Lucky Train"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/Fullscreen-capture-10102010-21334-PM-480x384.jpg"
+  - url: "/2010/09/25/social-game-review-backyard-monsters/"
+    title: "Social Game Review: Backyard Monsters"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/Fullscreen-capture-9242010-91206-PM-480x329.jpg"
+  - url: "/2010/09/14/facebook-game-roundup-warstorm-and-city-of-wonder/"
+    title: "Facebook game roundup: Warstorm and City of Wonder"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/Fullscreen-capture-9142010-64431-AM-480x436.jpg"
+  - url: "/2010/08/31/treasure-abyss-not-your-ordinary-social-game/"
+    title: "Treasure Abyss: Not your ordinary social game"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/Fullscreen-capture-8302010-63135-PM-480x376.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/Fullscreen-capture-8252010-71315-PM.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/Fullscreen-capture-8252010-71315-PM.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2020-11-07T19:52:35-05:00'
 draft: false
 title: "AtariNFT.io -- the dumbest thing Atari has ever done."
 author: "Tipa"
+disqusIdentifier: "2020/11/07/atarinft-io-the-dumbest-thing-atari-has-ever-done"
 summary: "I hate to be hyperbolic about this. But... I just can't...."
 categories:
   - "Atari 2600"
@@ -13,6 +14,19 @@ tags:
   - "Asteroids"
   - "Atari 2600"
   - "Non-Fungible Token"
+relatedPosts:
+  - url: "/2022/07/04/dark-stone-retroarch-and-steam/"
+    title: "Dark Stone, Retroarch, and Steam."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/IMG_2596-scaled.jpg"
+  - url: "/2023/08/05/adventures-in-bad-game-development/"
+    title: "Adventures in Bad Game Development"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/DALL·E-2023-08-04-23.05.25-classic-video-game-box-art-of-a-space-ship-shooting-a-centipede-with-asteroids-in-the-sky.png"
+  - url: "/2024/05/25/retro-game-haul-tron-deadly-discs-and-reversi/"
+    title: "Retro Game Haul: Tron Deadly Discs and Reversi"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/trondeadlydisks.png"
+  - url: "/2021/11/10/hodgepodge-games-crypto-and-nfts/"
+    title: "Hodgepodge: Games, Crypto and NFTs."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/senile.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/11/atari.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/11/atari.png"
 ---

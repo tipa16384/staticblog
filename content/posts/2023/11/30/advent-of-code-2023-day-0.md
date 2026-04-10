@@ -3,6 +3,7 @@ date: '2023-11-30T07:00:00-05:00'
 draft: false
 title: "Advent of Code 2023 -- Day 0"
 author: "Tipa"
+disqusIdentifier: "2023/11/30/advent-of-code-2023-day-0"
 summary: "Oh heck... it's just about Advent of Code time! I am SO FAR from being ready."
 categories:
   - "Advent of Code"
@@ -11,6 +12,19 @@ tags:
   - "Java"
   - "Pico-8"
   - "Python"
+relatedPosts:
+  - url: "/2022/12/10/advent-of-code-day-10-cathode-ray-tube/"
+    title: "Advent of Code Day 10 -- Cathode-Ray Tube"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-10-19.36.37-A-woman-in-ragged-clothes-wearing-a-Christmas-hat-playing-a-video-game-in-the-jungle-by-Bob-Eggleton-detailed-and-intricate.png"
+  - url: "/2022/12/05/advent-of-code-day-5-supply-stacks/"
+    title: "Advent of Code Day 5 -- Supply Stacks"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-05-22.32.41-Several-Christmas-elves-unloading-crates-from-an-old-riverboat-painted-by-Bob-Eggleton-detailed-and-intricate.png"
+  - url: "/2022/12/03/advent-of-code-day-3-rucksack-reorganization/"
+    title: "Advent of Code Day 3 -- Rucksack Reorganization"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/aoc2022.3.jpg"
+  - url: "/2024/12/07/advent-of-code-2024-the-first-week/"
+    title: "Advent of Code 2024: The First Week"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/DALL·E-2024-12-07-11.54.46-A-Tolkien-inspired-scene-depicting-graceful-elves-in-a-Tolkien-inspired-setting-repairing-a-rope-bridge-over-a-serene-river-surrounded-by-lush-vibra.webp"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/DALL·E-2023-11-29-23.20.51-A-festive-and-imaginative-illustration-for-a-blog-post-combining-the-themes-of-Advent-of-Code-Python-programming-and-Christmas-in-a-16_10-aspect-ra.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/DALL·E-2023-11-29-23.20.51-A-festive-and-imaginative-illustration-for-a-blog-post-combining-the-themes-of-Advent-of-Code-Python-programming-and-Christmas-in-a-16_10-aspect-ra.png"
 ---

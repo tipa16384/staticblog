@@ -3,6 +3,7 @@ date: '2024-08-14T07:00:00-05:00'
 draft: false
 title: "Painting the White Dragon"
 author: "Tipa"
+disqusIdentifier: "2024/08/14/painting-the-white-dragon"
 summary: "I printed the White Dragon in white filament. Then I told the D&D group that I still needed to paint it. \"Why? It's already white?\" Ha!"
 categories:
   - "3D Printing"
@@ -13,6 +14,19 @@ categories:
   - "Miniatures"
 tags:
   - "Dragons"
+relatedPosts:
+  - url: "/2024/08/12/dd-i-no-we-have-a-white-dragon-problem/"
+    title: "D&amp;D: I -- no, WE -- have a white dragon problem"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_4558-EDIT-scaled.jpg"
+  - url: "/2024/03/25/dragons-dogma-ii-now-playing/"
+    title: "Dragon's Dogma II: Now Playing"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/dd2banner.png"
+  - url: "/2022/09/11/game-night-flamecraft/"
+    title: "Game Night: Flamecraft"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-11-08.51.00-Ink-and-watercolor-drawing-of-the-interior-of-a-19th-century-flower-shop-wooden-counter-wooden-floor-watering-can-on-the-counter-gardening-tools-o.png"
+  - url: "/2024/08/20/malifaux-league-champion/"
+    title: "Malifaux: League champion?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/malifaux-league-1.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/dragoncura.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/dragoncura.png"
 ---

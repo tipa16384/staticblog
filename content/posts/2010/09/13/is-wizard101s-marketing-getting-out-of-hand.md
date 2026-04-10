@@ -3,6 +3,7 @@ date: '2010-09-13T21:14:36-05:00'
 draft: false
 title: "Is Wizard101's marketing getting out of hand?"
 author: "Tipa"
+disqusIdentifier: "2010/09/13/is-wizard101s-marketing-getting-out-of-hand"
 summary: "[..."
 categories:
   - "MMORPG"
@@ -13,6 +14,19 @@ tags:
   - "Disney"
   - "Marketing"
   - "Selena Gomez"
+relatedPosts:
+  - url: "/2010/10/09/wizard101-welcome-to-celestia/"
+    title: "Wizard101: Welcome to Celestia!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/WizardGraphicalClient-2010-10-09-17-50-20-17.jpg"
+  - url: "/2010/09/23/wizard101-a-chat-with-ki-vp-of-marketing-fred-howard/"
+    title: "Wizard101: A Chat with KI VP of Marketing, Fred Howard"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/WizardGraphicalClient-2010-09-23-21-36-13-33.jpg"
+  - url: "/2010/12/24/wizard101-the-last-gift-of-the-giving-tree/"
+    title: "Wizard101: The last gift of the Giving Tree"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/WizardGraphicalClient-2010-12-24-08-35-39-45-480x360.jpg"
+  - url: "/2010/12/19/w101-celestia-finished/"
+    title: "W101: Celestia finished!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/WizardGraphicalClient-2010-12-19-14-19-18-93-480x384.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/WizardGraphicalClient-2010-09-13-21-01-59-32-480x384.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/WizardGraphicalClient-2010-09-13-21-01-59-32-480x384.jpg"
 ---

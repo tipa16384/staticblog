@@ -3,6 +3,7 @@ date: '2008-09-14T12:20:02-05:00'
 draft: false
 title: "EQ2: Tomb of Thuuga and the Shard of Hate"
 author: "Tipa"
+disqusIdentifier: "2008/09/14/eq2-tomb-of-thuuga-and-the-shard-of-hate"
 summary: "Tomb of Thuuga. The boss fight is hard to take screenshots of because of positioning...."
 categories:
   - "EverQuest"
@@ -21,6 +22,19 @@ tags:
   - "Shard of Hate"
   - "Signet of Betrayal"
   - "Tailoring"
+relatedPosts:
+  - url: "/2008/10/09/eq2-nostalgia-guild-hall-mania/"
+    title: "EQ2: Nostalgia Guild Hall mania!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/everquest2-2008-10-08-18-05-29-271.jpg"
+  - url: "/2008/10/24/eq2-the-loping-plains-haunted-house-scared-yet/"
+    title: "EQ2: The Loping Plains Haunted House. Scared yet?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/ghosts.jpg"
+  - url: "/2008/10/08/eq2-cloth-vests-mean-more-fashion-choices-for-casters/"
+    title: "EQ2: Cloth vests mean more fashion choices for casters"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/everquest2-2008-10-08-07-37-27-60.jpg"
+  - url: "/2008/11/01/eq-nostalgia-enters-vex-thal/"
+    title: "EQ: Nostalgia enters Vex Thal!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/eqgame-2008-11-01-12-03-19-13.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/everquest2-2008-09-13-22-12-56-42.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/everquest2-2008-09-13-22-12-56-42.jpg"
 ---

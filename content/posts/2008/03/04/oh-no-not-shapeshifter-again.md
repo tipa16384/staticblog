@@ -3,9 +3,23 @@ date: '2008-03-04T09:08:45-05:00'
 draft: false
 title: "Oh no, not SHAPESHIFTER again..."
 author: "Tipa"
+disqusIdentifier: "2008/03/04/oh-no-not-shapeshifter-again"
 summary: "Yeah, I'm back on Shapeshifter again, that amazingly difficult puzzle game on Neopets...."
 categories:
   - "Neopets"
+relatedPosts:
+  - url: "/2020/08/19/blaugust-19-defend-your-life/"
+    title: "Blaugust #19: Defend Your Life"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/IMG_1538.jpg"
+  - url: "/2010/11/27/daily-blogroll-black-friday-edition/"
+    title: "Daily Blogroll: Black Friday Edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/GameClient-2010-11-25-22-16-43-8-480x263.jpg"
+  - url: "/2010/08/07/neopets-wants-me-to-solve-shapeshifter-again/"
+    title: "Neopets wants me to solve Shapeshifter again."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/Fullscreen-capture-872010-35037-PM-382x480.jpg"
+  - url: "/2008/07/02/returning-to-shapeshifter/"
+    title: "Returning to Shapeshifter"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/03/image0.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/03/image0.jpg"
 ---

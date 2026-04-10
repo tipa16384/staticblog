@@ -3,11 +3,25 @@ date: '2007-01-10T16:30:03-05:00'
 draft: false
 title: "Corporate Warcraft"
 author: "Tipa"
+disqusIdentifier: "2007/01/10/corporate-warcraft"
 summary: "In my job search, there is a question I dread hearing from an interviewer. And that would be, \"Do you play World of Warcraft?\"..."
 categories:
   - "MMORPG"
   - "My Work"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2008/07/02/mmo-gene-sequencer-momentum-builds/"
+    title: "MMO Gene Sequencer momentum builds..."
+    thumbnailImage: ""
+  - url: "/2008/06/10/eq2-game-update-46/"
+    title: "EQ2 - Game Update #46"
+    thumbnailImage: "http://www.massively.com/media/2008/06/regatheringheader.jpg"
+  - url: "/2008/03/23/bad-week-for-gaming-good-week-for-blogging/"
+    title: "Bad week for gaming, good week for blogging"
+    thumbnailImage: ""
+  - url: "/2008/01/22/eq2-et-al-random-bits/"
+    title: "EQ2 (et al): Random Bits"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/everquest2-2008-01-22-07-10-48-92.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/01/headshot.gif"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/01/headshot.gif"
 ---

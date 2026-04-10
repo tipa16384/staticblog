@@ -3,6 +3,7 @@ date: '2020-09-01T20:11:04-05:00'
 draft: false
 title: "Banner of the Maid: Let's try this again"
 author: "Tipa"
+disqusIdentifier: "2020/09/01/banner-of-the-maid-lets-try-this-again"
 summary: "I was a little frustrated the last time I played Banner of the Maid, the tactical RPG for the Switch (et al) about a fantasy..."
 categories:
   - "Nintendo Switch"
@@ -12,6 +13,19 @@ tags:
   - "Girls Screaming in Chinese"
   - "RPG"
   - "Tactics"
+relatedPosts:
+  - url: "/2020/09/21/banner-of-the-maid-final-thoughts/"
+    title: "Banner of the Maid: Final Thoughts"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/2020092017453800-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
+  - url: "/2020/08/19/banner-of-the-maid-doesnt-want-me-to-sleep/"
+    title: "Banner of the Maid doesn't want me to sleep."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/banner-of-the-maid-switch-hero.jpg"
+  - url: "/2021/07/20/rise-eterna/"
+    title: "Rise Eterna"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/2021051618021700-BA2A6D95681540D14D17CA98DC5AFB99.jpg"
+  - url: "/2020/09/14/banner-of-the-maid-the-fall-of-the-monarchy/"
+    title: "Banner of the Maid: The Fall of the Monarchy"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/2020091217123000-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/2020083123144500-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/2020083123144500-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
 ---

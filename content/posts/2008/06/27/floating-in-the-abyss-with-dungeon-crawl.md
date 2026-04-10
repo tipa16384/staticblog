@@ -3,11 +3,25 @@ date: '2008-06-27T08:11:38-05:00'
 draft: false
 title: "Floating in the abyss with Dungeon Crawl"
 author: "Tipa"
+disqusIdentifier: "2008/06/27/floating-in-the-abyss-with-dungeon-crawl"
 summary: "I've been traveling a lot lately, and have had a lot less time to sit in front of a computer and game for any length..."
 categories:
   - "Other Games"
 tags:
   - "Dungeon Crawl"
+relatedPosts:
+  - url: "/2010/10/18/dungeons-dragons-online-the-seal-of-shan-to-kor/"
+    title: "Dungeons & Dragons Online: The Seal of Shan-To-Kor"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/dndclient-2010-10-18-00-40-03-40.jpg"
+  - url: "/2025/08/06/la-brute-battles-royale-and-warring-guilds/"
+    title: "La Brute: Battles Royale and Warring Guilds"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/LaBrute.png"
+  - url: "/2025/07/10/frosthaven-scenario-14-jagged-shoals/"
+    title: "Frosthaven Scenario 14: Jagged Shoals"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/07/IMG_5225-scaled.jpg"
+  - url: "/2024/11/21/dragon-age-the-veilguard-finished/"
+    title: "Dragon Age: the Veilguard finished"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/banner2.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/abyss.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/abyss.png"
 ---

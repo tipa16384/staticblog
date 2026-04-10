@@ -3,6 +3,7 @@ date: '2007-11-08T13:41:17-05:00'
 draft: false
 title: "The kind of game that leaves you bruised, battered, bleeding and begging for more."
 author: "Tipa"
+disqusIdentifier: "2007/11/08/the-kind-of-game-that-leaves-you-bruised-battered-bleeding-and-begging-for-more"
 summary: "Keen made a post decrying the \"dumbing down\" of MMOs -- people head for easy mode at every opportunity, and seeing that, more, even easier,..."
 categories:
   - "EverQuest"
@@ -10,6 +11,19 @@ categories:
   - "Lord of the Rings"
   - "MMORPG"
   - "Vanguard"
+relatedPosts:
+  - url: "/2008/07/30/trying-and-failing-to-care-about-wow-like-mmos/"
+    title: "Trying and failing to care about WoW-like MMOs."
+    thumbnailImage: ""
+  - url: "/2010/11/30/daily-blogroll-1130-worst-case-scenario-edition/"
+    title: "Daily Blogroll, 11/30 -- Worst Case Scenario edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/vgclient-2010-11-29-20-32-30-42.jpg"
+  - url: "/2009/06/30/daily-blogroll-630-christmas-edition/"
+    title: "Daily Blogroll 6/30 - Christmas edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/TS3-2009-06-30-08-10-20-98.jpg"
+  - url: "/2009/05/15/daily-blogroll-515-endelig-fredag-edition/"
+    title: "Daily Blogroll 5/15 -- Endelig Fredag edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/clangreenscaledragon.jpg"
 ---
 Keen made a post decrying the "dumbing down" of MMOs -- people head for easy mode at every opportunity, and seeing that, more, even easier,...
 <!--more-->

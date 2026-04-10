@@ -3,6 +3,7 @@ date: '2020-09-08T07:07:13-05:00'
 draft: false
 title: "Adventures in Monopoly -- Darkfall, Part II"
 author: "Tipa"
+disqusIdentifier: "2020/09/08/adventures-in-monopoly-darkfall-part-ii"
 summary: "The first part to the comic in the header image was over here, and the second part was right over there...."
 categories:
   - "Adventures in Monopoly"
@@ -13,6 +14,19 @@ tags:
   - "Bear"
   - "Bear We Can Believe In"
   - "Monopoly"
+relatedPosts:
+  - url: "/2020/08/17/adventures-in-monopoly-the-beginning/"
+    title: "Adventures in Monopoly: The Beginning"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/panel1-redo.jpg"
+  - url: "/2008/12/01/eq2-fun-with-the-dire-bear/"
+    title: "Adventures in Monopoly #1: Duke Bear"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/panel1-redo.jpg"
+  - url: "/2020/09/15/adventures-in-monopoly-darkfall-part-iii/"
+    title: "Adventures in Monopoly -- Darkfall, Part III"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/aimbomb.jpg"
+  - url: "/2020/09/01/adventures-in-monopoly-darkfall-pt-1/"
+    title: "Adventures in Monopoly -- Darkfall Pt. 1"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/panel2.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/panel3.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/panel3.jpg"
 ---

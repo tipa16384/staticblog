@@ -3,12 +3,26 @@ date: '2014-08-06T21:09:18-05:00'
 draft: false
 title: "Neverwinter: You're a Little Short for a Foundry"
 author: "Tipa"
+disqusIdentifier: "2014/08/06/neverwinter-youre-a-little-short-for-a-foundry"
 summary: "This week in the Neverwinter Foundry! A short night, as Kasul and I were play testing each other's contest entries. Mine, as you know, is..."
 categories:
   - "MMORPG"
   - "Neverwinter"
 tags:
   - "Foundry"
+relatedPosts:
+  - url: "/2015/02/19/based-on-a-suggestion-last-week-in-the-forums-i-went-through-the-159-quests-that-we-have-reviewed/"
+    title: "Weekly Foundry Reviews -- February 18, 2015"
+    thumbnailImage: ""
+  - url: "/2015/02/12/weekly-foundry-quests-february-11-2015after-running-into-ian-darksword-entirely-by-accident-guard/"
+    title: "Weekly Foundry Quests -- February 11, 2015"
+    thumbnailImage: ""
+  - url: "/2015/02/05/well-this-week-the-foundry-wasnt-being-kind-to-us-first-i-and-later-kasul-couldnt-open-the-final/"
+    title: "Weekly Foundry Reviews -- February 5, 2015"
+    thumbnailImage: ""
+  - url: "/2015/02/01/first-floor-of-newfallen-to-80-i-deleted-the-old-story-and-the-old-maps-now-the-only-way-to-go-is/"
+    title: "Neverwinter: First floor of Newfallen to 80%!"
+    thumbnailImage: ""
 coverImage: "https://lh5.googleusercontent.com/-pOTQC7nCLlk/U-LhqwTEnzI/AAAAAAAAy_8/dPxDP8VXBxo/w684-h547-no/GameClient%2B2014-08-04%2B22-12-50-33.jpg"
 thumbnailImage: "https://lh5.googleusercontent.com/-pOTQC7nCLlk/U-LhqwTEnzI/AAAAAAAAy_8/dPxDP8VXBxo/w684-h547-no/GameClient%2B2014-08-04%2B22-12-50-33.jpg"
 ---

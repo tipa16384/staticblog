@@ -3,6 +3,7 @@ date: '2008-10-25T08:48:27-05:00'
 draft: false
 title: "EQ: The Bastion of Thunder"
 author: "Tipa"
+disqusIdentifier: "2008/10/25/eq-the-bastion-of-thunder"
 summary: "Because FRAPS conked out on me, and I didn't notice until after. there's no screen shots of our night in the Bastion of Thunder...."
 categories:
   - "EverQuest"
@@ -13,6 +14,19 @@ tags:
   - "EverQuest"
   - "Mercenary"
   - "Seeds of Destruction"
+relatedPosts:
+  - url: "/2008/10/08/eq-oceangreen-hills-and-oceangreen-village/"
+    title: "EQ: Oceangreen Hills and Oceangreen Village"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-07-23-48-01-47.jpg"
+  - url: "/2008/11/08/eq-the-attack-of-the-killer-bees/"
+    title: "EQ: The Attack of the Killer Bees"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/eqgame-2008-11-07-22-07-08-71.jpg"
+  - url: "/2008/11/01/eq-nostalgia-enters-vex-thal/"
+    title: "EQ: Nostalgia enters Vex Thal!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/eqgame-2008-11-01-12-03-19-13.jpg"
+  - url: "/2008/10/22/eq-seeds-of-destruction-meet-caiffin-the-merc/"
+    title: "EQ: Seeds of Destruction: Meet Caiffin, the Merc."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-21-22-24-23-12.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-25-07-09-32-24.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-25-07-09-32-24.jpg"
 ---

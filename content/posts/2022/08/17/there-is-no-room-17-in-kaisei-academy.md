@@ -3,6 +3,7 @@ date: '2022-08-17T07:00:00-05:00'
 draft: false
 title: "There is No Room 17 in Kaisei Academy"
 author: "Tipa"
+disqusIdentifier: "2022/08/17/there-is-no-room-17-in-kaisei-academy"
 summary: "\"There Is No Room 17 in Kaisei Academy\" is a fun and mystery-filled visual novel that is perfect for fans of the genre."
 categories:
   - "Blaugust"
@@ -13,6 +14,19 @@ tags:
   - "Craiyon"
   - "Dall-E 2"
   - "Gpt-3"
+relatedPosts:
+  - url: "/2022/08/30/blaugust-theme-week-lessons-learned/"
+    title: "Blaugust theme week: Lessons learned"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-30-23.00.58-35mm-long-range-photograph-of-a-woman-warrior-reading-a-book-while-sitting-against-a-sleeping-green-dragon-near-a-mountain-lake-pastel-colors-peacef.png"
+  - url: "/2022/08/26/1926-the-golden-age-of-aviation/"
+    title: "1926: The Golden Age of Aviation"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/goldenage26.png"
+  - url: "/2022/08/25/25-cents-the-age-of-the-arcade/"
+    title: "25 Cents: The Age of the Arcade"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-17-23.27.24-synthwave-a-wombat-dressed-in-a-pink-blazer-playing-an-arcade-machine-in-a-video-arcade.-the-picture-is-lit-only-by-the-glow-of-the-arcade-machines.-l.png"
+  - url: "/2022/08/21/21-reactions-chemical-chaos/"
+    title: "21 Reactions: Chemical Chaos"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-13-21.11.32-a-beaker-containing-multicolored-chemicals.-musical-notes-are-coming-out-of-the-mouth-of-the-beaker.-in-the-style-of-a-textbook-illustration..png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-09-21.42.42-Anime-teenage-boys-in-the-school-uniform-for-Kaisei-Academy-in-Tokyo-standing-in-a-Japanese-high-school-classroom-looking-at-crime-clues-on-a-blackbo.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-09-21.42.42-Anime-teenage-boys-in-the-school-uniform-for-Kaisei-Academy-in-Tokyo-standing-in-a-Japanese-high-school-classroom-looking-at-crime-clues-on-a-blackbo.png"
 ---

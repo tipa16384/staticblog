@@ -3,6 +3,7 @@ date: '2009-06-30T17:56:54-05:00'
 draft: false
 title: "*EXCLUSIVE* Wizard 101 wallpaper!"
 author: "Tipa"
+disqusIdentifier: "2009/06/30/exclusive-wizard-101-wallpaper"
 summary: "[..."
 categories:
   - "MMORPG"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Wallpaper"
   - "Wizard City"
+relatedPosts:
+  - url: "/2009/04/23/wizard-101-player-housing-on-test/"
+    title: "Wizard 101 Player Housing ON TEST!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/wizardgraphicalclient-2009-04-23-01-13-36-76.jpg"
+  - url: "/2008/10/13/w101-halloween-in-wizard-city-and-october-patch-notes/"
+    title: "W101: Hallowe'en in Wizard City (and October patch notes)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-12-17-08-57-87.jpg"
+  - url: "/2010/10/19/treasure-abyss-some-exclusive-wallpaper/"
+    title: "Treasure Abyss: Some exclusive wallpaper!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/TAWallpaper-480x360.jpg"
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/wc_wallpaper_small.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/wc_wallpaper_small.jpg"
 ---

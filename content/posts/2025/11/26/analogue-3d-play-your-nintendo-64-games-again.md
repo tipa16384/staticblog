@@ -3,11 +3,25 @@ date: '2025-11-26T14:22:58-05:00'
 draft: false
 title: "Analogue 3D: Play your Nintendo 64 games again"
 author: "Tipa"
+disqusIdentifier: "2025/11/26/analogue-3d-play-your-nintendo-64-games-again"
 summary: "Analogue's latest retro console hardware emulator is a godsend for N64 afficionados, and almost nothing for anyone else."
 categories:
   - "Nintendo 64"
 tags:
   - "Analogue"
+relatedPosts:
+  - url: "/2026/01/11/quest-64-i-played-the-worst-rpg-on-the-nintendo-64/"
+    title: "Quest 64: I played the worst RPG on the Nintendo 64 -- and I liked it"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/Screenshot-2026-01-09-18-19-11.png"
+  - url: "/2024/10/19/analogue-3d-if-i-were-to-get-one/"
+    title: "Analogue 3D: If I were to get one..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/analogue3d.png"
+  - url: "/2026/01/05/holiday-grab-bag-dune-palworld-quest-64/"
+    title: "Holiday Grab Bag: Dune, Palworld, Quest 64"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/1-20260104163451_1.jpg"
+  - url: "/2024/08/25/retro-world-expo-2024-adventure-awaits/"
+    title: "Retro World Expo 2024: Adventure Awaits"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/tipachu_Adventurers_including_a_sorceress_battle_a_giant_kaij_c266c206-cff4-4688-bc8f-5a805d60df73_2.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/IMG_5508-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/IMG_5508-scaled.jpg"
 ---

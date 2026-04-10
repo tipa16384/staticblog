@@ -3,9 +3,23 @@ date: '2009-04-15T06:54:33-05:00'
 draft: false
 title: "Legends of Zork goes live! (UPDATED!)"
 author: "Tipa"
+disqusIdentifier: "2009/04/15/legends-of-zork-goes-live"
 summary: "Ready to return to the last days of the Great Underground Empire and carve bloody Zorkmids from the flesh of every goblin you find? Are..."
 categories:
   - "Legends of Zork"
+relatedPosts:
+  - url: "/2010/05/21/assault-on-the-inbox/"
+    title: "Assault on the Inbox"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/assault-479x185.jpg"
+  - url: "/2009/10/25/legends-of-zork-post-mortem/"
+    title: "Legends of Zork: Post-mortem"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/lozbanner1.png"
+  - url: "/2009/09/03/daily-blogroll-93-sushi-day-edition/"
+    title: "Daily Blogroll 9/3 - Sushi day edition!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/Fullscreen-capture-932009-75844-AM.jpg"
+  - url: "/2009/06/17/legends-of-zork-group-quests-fixed/"
+    title: "Legends of Zork group quests fixed"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/fullscreen-capture-4152009-71336-am.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/fullscreen-capture-4152009-71336-am.jpg"
 ---

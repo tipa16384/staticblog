@@ -3,6 +3,7 @@ date: '2023-12-09T10:39:23-05:00'
 draft: false
 title: "Advent of Code Days 8 and 9 -- Ghost Story"
 author: "Tipa"
+disqusIdentifier: "2023/12/09/advent-of-code-days-8-and-9-ghost-story"
 summary: "It took me so long to figure out the Day 8 puzzle that I didn't write it up before bed, so twofer today to catch up."
 categories:
   - "Advent of Code"
@@ -11,6 +12,19 @@ tags:
   - "Camel"
   - "Desert Walk"
   - "Python"
+relatedPosts:
+  - url: "/2023/12/22/advent-of-code-day-22-sand-slabs/"
+    title: "Advent of Code Day 22 -- Sand Slabs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/jenga.png"
+  - url: "/2023/12/21/advent-of-code-day-21-step-counter/"
+    title: "Advent of Code Day 21 -- Step Counter"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-21-20.59.37-Illustrate-a-whimsical-and-fantastical-scene-from-the-Advent-of-Code-puzzle-Step-Counter.-The-image-should-depict-an-Elf-in-a-vast-infinite-garden-.png"
+  - url: "/2023/12/20/advent-of-code-day-20-pulse-propogation/"
+    title: "Advent of Code Day 20 -- Pulse Propagation"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-20-16.57.44-Create-an-illustration-inspired-by-the-aesthetic-of-a-retro-sci-fi-movie-similar-to-Tron-avoiding-direct-references-or-copyrighted-elements.-Visualiz.png"
+  - url: "/2023/12/19/advent-of-code-day-19-aplenty/"
+    title: "Advent of Code Day 19 -- Aplenty"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-19-20.12.32-A-whimsical-and-detailed-illustration-set-on-Gear-Island-where-a-magical-workshop-is-bustling-with-activity.-Elves-dressed-in-colorful-attire-are-b.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_Ghosts_relaxing_next_to_a_watery_spring_in_a_desert_oas_8d6068ef-f97c-49b5-9979-e42e67546244.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_Ghosts_relaxing_next_to_a_watery_spring_in_a_desert_oas_8d6068ef-f97c-49b5-9979-e42e67546244.png"
 ---

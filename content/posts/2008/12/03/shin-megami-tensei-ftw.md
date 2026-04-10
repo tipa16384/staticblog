@@ -3,10 +3,24 @@ date: '2008-12-03T01:48:17-05:00'
 draft: false
 title: "Shin Megami Tensei -- FTW!"
 author: "Tipa"
+disqusIdentifier: "2008/12/03/shin-megami-tensei-ftw"
 summary: "Ever since I first heard that Shin Megami Tensei was being made into an MMO -- and that it was coming HERE -- I changed..."
 categories:
   - "MMORPG"
   - "Shin Megami Tensei"
+relatedPosts:
+  - url: "/2010/04/30/assault-on-the-inbox-weekly-marketing-e-mails/"
+    title: "Assault on the Inbox: Weekly marketing e-mails"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/GameClient-2010-04-19-23-13-13-21.jpg"
+  - url: "/2010/04/23/assault-on-the-in-box-friday-edition/"
+    title: "Assault on the In Box, Friday edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/eqgame-2010-04-10-20-48-38-69.jpg"
+  - url: "/2009/04/11/shin-megami-tensei-new-mounts-and-cool-stuff/"
+    title: "Shin Megami Tensei: New mounts and cool stuff!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/smt.jpg"
+  - url: "/2008/12/08/shin-megami-tensei-uberer-than-thou/"
+    title: "Shin Megami Tensei: Uberer than thou"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/imagineclient-2008-12-08-08-19-53-66.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/tensei.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/tensei.png"
 ---

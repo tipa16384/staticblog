@@ -3,6 +3,7 @@ date: '2010-12-29T06:00:33-05:00'
 draft: false
 title: "Daily Blogroll 12/29: Super Duper edition"
 author: "Tipa"
+disqusIdentifier: "2010/12/29/daily-blogroll-1229-super-duper-edition"
 summary: "I long ago pre-ordered SOE's DC Universe Online, but this was my first opportunity to play it, in beta, on the PC. Though it's on..."
 categories:
   - "Battle of the Immortals"
@@ -17,6 +18,19 @@ categories:
   - "Rift"
   - "Wizard101"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2011/01/27/daily-blogroll-127-inevitable-backlash-edition/"
+    title: "Daily Blogroll 1/27 -- Inevitable Backlash edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/riftblade.png"
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2009/05/13/daily-blogroll-513-going-rogue-edition/"
+    title: "Daily Blogroll 5/13 -- Going Rogue edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/angelatheangelic.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/dcuo.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/dcuo.png"
 ---

@@ -3,6 +3,7 @@ date: '2025-03-05T07:52:27-05:00'
 draft: false
 title: "\"YES\", the first cheat code."
 author: "Tipa"
+disqusIdentifier: "2025/03/05/yes-the-first-cheat-code"
 summary: "Is this blog post worth $3.50 to you?"
 categories:
   - "Adventure"
@@ -11,6 +12,19 @@ categories:
 tags:
   - "Cheat Codes"
   - "Cheating"
+relatedPosts:
+  - url: "/2024/09/20/beyond-shadowgate-a-classic-reimagined/"
+    title: "Beyond Shadowgate: a classic reimagined."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/2-Beyond-Shadowgate-Screenshot-2024.09.19-23.10.27.86.jpg"
+  - url: "/2024/05/12/advent-colossal-cave-3d/"
+    title: "ADVENT: Colossal Cave 3D"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/cc-troll2.png"
+  - url: "/2023/08/12/a-cheaters-guide-to-wordle-waffle-and-squaredle/"
+    title: "A Cheater's Guide to Wordle, Waffle and Squaredle"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/DALL·E-2023-08-12-09.16.41-clip-art-of-a-woman-solving-a-crossword-puzzle-that-is-drawn-on-a-chalkboard.png"
+  - url: "/2024/12/28/the-best-of-2024-adventure-games/"
+    title: "The Best of 2024: Adventure Games"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/adventurebanner.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/tipachu_Humorous_clip_art_of_a_dragon_looking_quizzically_at__7789a903-59ba-4366-b518-6ebc465ac59c_0.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/tipachu_Humorous_clip_art_of_a_dragon_looking_quizzically_at__7789a903-59ba-4366-b518-6ebc465ac59c_0.png"
 ---

@@ -3,10 +3,24 @@ date: '2020-08-04T01:34:51-05:00'
 draft: false
 title: "Townscaper"
 author: "Tipa"
+disqusIdentifier: "2020/08/04/townscaper"
 summary: "I like Townscaper...."
 categories:
   - "Steam Games"
   - "Townscaper"
+relatedPosts:
+  - url: "/2021/08/28/townscaper-1-0-and-3d-printing/"
+    title: "Townscaper 1.0 and 3D Printing"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210828092303_1.jpg"
+  - url: "/2026/03/28/blasts-from-the-past-is-it-the-90s-again/"
+    title: "Blasts from the Past: Is it the 90s again?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/elves-and-dinokun.jpg"
+  - url: "/2026/03/25/preview-topdeck-automat/"
+    title: "Preview: Topdeck Automat"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-24-220403.png"
+  - url: "/2026/03/22/review-the-invincible/"
+    title: "Review: The Invincible"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/1222-the-invincible-review-teaser.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-Townscaper-2020-08-01-17-24-58-18.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-Townscaper-2020-08-01-17-24-58-18.jpg"
 ---

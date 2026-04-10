@@ -3,6 +3,7 @@ date: '2008-11-24T09:40:15-05:00'
 draft: false
 title: "EQ2: Weekend Gaming"
 author: "Tipa"
+disqusIdentifier: "2008/11/24/eq2-weekend-gaming"
 summary: "Not surprisingly, the weekend continued the EQ2 fun from the week. The Shadow Odyssey is the most \"different\" EQ2 expansion yet, but I can't yet..."
 categories:
   - "EverQuest"
@@ -13,6 +14,19 @@ tags:
   - "Crafting Mission"
   - "Evernight Abbey"
   - "Shipwreck Cove"
+relatedPosts:
+  - url: "/2020/05/13/everquest-bones-everywhere/"
+    title: "EverQuest: Bones Everywhere."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/eqgame-2020-05-13-06-57-41-85.jpg"
+  - url: "/2009/06/16/welcome-to-mayong-everquests-5150-server/"
+    title: "Welcome to Mayong, EverQuest's 51/50 server"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/mayong.jpg"
+  - url: "/2009/04/17/happy-10th-birthday-everquest/"
+    title: "Happy 10th Birthday, EverQuest!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/eq10-2.jpg"
+  - url: "/2009/04/05/eq2-epic-encounter-in-my-bedroom/"
+    title: "EQ2: Epic encounter in my bedroom"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/everquest2-2009-04-04-21-58-41-05.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/everquest2-2008-11-23-22-33-34-99.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/everquest2-2008-11-23-22-33-34-99.jpg"
 ---

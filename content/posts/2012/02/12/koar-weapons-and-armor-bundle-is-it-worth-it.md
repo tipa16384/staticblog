@@ -3,10 +3,24 @@ date: '2012-02-12T10:23:38-05:00'
 draft: false
 title: "KoA:R Weapons and Armor bundle -- is it worth it?"
 author: "Tipa"
+disqusIdentifier: "2012/02/12/koar-weapons-and-armor-bundle-is-it-worth-it"
 summary: "EA released a day 1 DLC (downloadable content) pack for their Kingdoms of Amalur: Reckoning -- the Weapon and Armor Bundle. In it are unique..."
 categories:
   - "Kingdoms of Amalur: Reckoning"
   - "Other Games"
+relatedPosts:
+  - url: "/2012/02/14/crafting-in-kingdoms-of-amalur-reckoning/"
+    title: "Crafting in Kingdoms of Amalur: Reckoning"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/02/Reckoning-2012-02-13-23-29-58-39-480x384.jpg"
+  - url: "/2012/02/10/koar-what-class-are-you-supposed-to-be-anyway/"
+    title: "KoA:R -- What class are you supposed to be, anyway?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/02/Reckoning-2012-02-10-07-45-06-31-480x384.jpg"
+  - url: "/2012/02/08/koar-fem-shep-goes-medieval/"
+    title: "KoAR: Fem-Shep goes Medieval"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/02/Reckoning-2012-02-07-23-57-22-48-480x320.jpg"
+  - url: "/2012/01/21/kingdoms-of-amalur-reckoning-the-demo/"
+    title: "Kingdoms of Amalur: Reckoning: the Demo"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/ReckoningDemo-2012-01-21-16-42-57-53-480x291.jpg"
 ---
 EA released a day 1 DLC (downloadable content) pack for their Kingdoms of Amalur: Reckoning -- the Weapon and Armor Bundle. In it are unique...
 <!--more-->

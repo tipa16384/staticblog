@@ -3,6 +3,7 @@ date: '2008-02-26T13:34:42-05:00'
 draft: false
 title: "Why I Blog"
 author: "Tipa"
+disqusIdentifier: "2008/02/26/why-i-blog"
 summary: "From a comment on Tobold's excellent post about the tank shortage in the World of Warcraft (or more accurately, the Protection-spec'd Warrior shortage):..."
 categories:
   - "EverQuest"
@@ -12,6 +13,19 @@ categories:
   - "Vanguard"
   - "Warhammer: Age of Reckoning"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2008/04/07/the-mmo-nostalgia-challenge/"
+    title: "The MMO Nostalgia Challenge"
+    thumbnailImage: ""
+  - url: "/2008/01/02/great-expectations-2008/"
+    title: "Great Expectations: 2008"
+    thumbnailImage: ""
+  - url: "/2008/12/24/a-look-back-at-2008/"
+    title: "A look back at 2008"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-30-22-10-50-69.jpg"
+  - url: "/2010/11/30/daily-blogroll-1130-worst-case-scenario-edition/"
+    title: "Daily Blogroll, 11/30 -- Worst Case Scenario edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/vgclient-2010-11-29-20-32-30-42.jpg"
 ---
 From a comment on Tobold's excellent post about the tank shortage in the World of Warcraft (or more accurately, the Protection-spec'd Warrior shortage):...
 <!--more-->

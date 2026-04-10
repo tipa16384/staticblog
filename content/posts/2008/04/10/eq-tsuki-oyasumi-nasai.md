@@ -3,10 +3,24 @@ date: '2008-04-10T00:09:14-05:00'
 draft: false
 title: "EQ: Tsuki (Oyasumi Nasai)"
 author: "Tipa"
+disqusIdentifier: "2008/04/10/eq-tsuki-oyasumi-nasai"
 summary: "That was a crappy picture of my EQ1 mage in the Shard of Hate article, so I logged back into EQ and took a better..."
 categories:
   - "EverQuest"
   - "MMORPG"
+relatedPosts:
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2024/10/21/evercraft-online-the-unholy-child-of-eq-and-minecraft/"
+    title: "EverCraft Online: The Unholy Child of EQ and MineCraft"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/evercraft-banner.png"
+  - url: "/2024/08/28/erenshor-everquest-for-soloers/"
+    title: "Erenshor -- EverQuest for soloers"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/erenshotheader.jpg"
+  - url: "/2024/05/04/everquest-ii-goes-retro-with-anashti-sul/"
+    title: "EverQuest II goes retro with Anashti Sul"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/anashtisul.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/04/eqgame-2008-04-09-20-11-01-28.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/04/eqgame-2008-04-09-20-11-01-28.jpg"
 ---

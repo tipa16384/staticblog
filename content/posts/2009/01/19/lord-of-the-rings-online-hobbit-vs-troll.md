@@ -3,6 +3,7 @@ date: '2009-01-19T13:57:00-05:00'
 draft: false
 title: "Lord of the Rings Online: Hobbit vs Troll"
 author: "Tipa"
+disqusIdentifier: "2009/01/19/lord-of-the-rings-online-hobbit-vs-troll"
 summary: "If Bilbo could see me now, why, he'd be talking about how he (with maybe a very little help from a certain gray-robed wizard) kept..."
 categories:
   - "Lord of the Rings"
@@ -14,6 +15,19 @@ tags:
   - "Hobbit"
   - "The Shire"
   - "Troll"
+relatedPosts:
+  - url: "/2024/02/20/retro-game-quick-look-sword-of-mana-lotr-two-towers-iridion-3d/"
+    title: "Retro Game Quick Look: Sword of Mana, LotR: Two Towers, Iridion 3D"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/02/DALL·E-2024-02-19-23.10.31-Illustrate-an-anime-style-boy-and-girl-standing-on-a-hill-looking-towards-an-enormous-tree-surrounded-by-blue-crystals-capturing-the-essence-of-a-19.webp"
+  - url: "/2008/10/24/eq2-the-loping-plains-haunted-house-scared-yet/"
+    title: "EQ2: The Loping Plains Haunted House. Scared yet?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/ghosts.jpg"
+  - url: "/2008/09/24/eq2-eitholi-blade-of-the-fae/"
+    title: "EQ2: Eitholi, Blade of the Fae"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/everquest2-2008-09-24-01-28-29-69.jpg"
+  - url: "/2024/05/11/advent-seasoned-adventurer/"
+    title: "ADVENT: Seasoned Adventurer"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/cc-troll.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/01/lotroclient-2009-01-18-10-50-14-05.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/01/lotroclient-2009-01-18-10-50-14-05.jpg"
 ---

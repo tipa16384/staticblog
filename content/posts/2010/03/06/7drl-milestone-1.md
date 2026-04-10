@@ -3,10 +3,24 @@ date: '2010-03-06T16:16:09-05:00'
 draft: false
 title: "7DRL: Milestone #1"
 author: "Tipa"
+disqusIdentifier: "2010/03/06/7drl-milestone-1"
 summary: "I started working on my entry to the annual 7DRL (7 Day Rogue-like) game design challenge today. I've been working on algorithms for the game..."
 categories:
   - "7DRL"
   - "Other Games"
+relatedPosts:
+  - url: "/2010/03/24/7drl-world-of-roguecraft-slightly-more-fun-than-clipping-your-nails/"
+    title: "7DRL -- World of Roguecraft: Slightly more fun than clipping your nails."
+    thumbnailImage: ""
+  - url: "/2010/03/13/7drl-day-7-content-content-content/"
+    title: "7DRL Day 7: Content, content, content"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/02/Fullscreen-capture-3132010-35853-PM-480x384-1.jpg"
+  - url: "/2010/03/12/7drl-world-of-roguecraft-day-5/"
+    title: "7DRL: World of Roguecraft, Day 5"
+    thumbnailImage: ""
+  - url: "/2010/03/09/7drl-day-3-inventory-messages-improved-targeting/"
+    title: "7DRL Day 3: Inventory, Messages, Improved Targeting"
+    thumbnailImage: ""
 ---
 I started working on my entry to the annual 7DRL (7 Day Rogue-like) game design challenge today. I've been working on algorithms for the game...
 <!--more-->

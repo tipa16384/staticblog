@@ -3,12 +3,26 @@ date: '2025-11-02T08:00:00-05:00'
 draft: false
 title: "HeroQuest First Light #5: The Horrors of Synchroform"
 author: "Tipa"
+disqusIdentifier: "2025/11/02/heroquest-first-light-5-the-horrors-of-synchroform"
 summary: "Halfway through the quests, we discover the secret of Qwindrak's transformation..."
 categories:
   - "HeroQuest"
   - "Tabletop Games"
 tags:
   - "First Light"
+relatedPosts:
+  - url: "/2026/02/15/heroquest-first-light-king-forgrins-trove/"
+    title: "HeroQuest First Light: King Forgrin's Trove"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/IMG_5672-scaled.jpg"
+  - url: "/2026/01/27/heroquest-first-light-tomb-of-the-fire-king/"
+    title: "HeroQuest First Light: Tomb of the Fire King"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/IMG_5629-scaled.jpg"
+  - url: "/2025/09/16/heroquest-first-light-the-fortress-of-the-fire-king/"
+    title: "HeroQuest First Light: The Fortress of the Fire King"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/IMG_5371-scaled.jpg"
+  - url: "/2025/07/07/heroquest-first-light-second-adventure/"
+    title: "HeroQuest First Light: Second Adventure"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/07/IMG_5211-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/1-IMG_5471.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/1-IMG_5471.jpg"
 ---

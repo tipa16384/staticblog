@@ -3,6 +3,7 @@ date: '2025-01-12T08:00:00-05:00'
 draft: false
 title: "Malifaux: The Littlest Cap'n"
 author: "Tipa"
+disqusIdentifier: "2025/01/12/malifaux-the-littlest-capn"
 summary: "The local Malifaux club decided to hold a practice tournament ahead of Captain Con at the end of the month. I brought my new crew to give them a baptism by ice."
 categories:
   - "Malifaux"
@@ -11,6 +12,19 @@ tags:
   - "CaptainCon"
   - "December"
   - "The Haven"
+relatedPosts:
+  - url: "/2025/01/29/malifaux-booty-plunder/"
+    title: "Malifaux: Booty &amp; Plunder"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/bootyplunder.png"
+  - url: "/2026/02/01/captaincon-2026-masters-of-malifaux/"
+    title: "CaptainCon 2026: Masters of Malifaux"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/CC_Logo_Red.webp"
+  - url: "/2025/02/03/my-adventures-at-captaincon-2025/"
+    title: "Rolling Dice and Taking Names: My CaptainCon 2025 Experience"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/02/captainconbanner.png"
+  - url: "/2025/08/22/the-kind-of-malifaux-you-play-at-home/"
+    title: "The Kind of Malifaux You Play at Home"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5337-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/littlecaptainbanner.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/littlecaptainbanner.png"
 ---

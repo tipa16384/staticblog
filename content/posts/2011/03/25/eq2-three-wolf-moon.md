@@ -3,11 +3,25 @@ date: '2011-03-25T06:37:35-05:00'
 draft: false
 title: "EQ2: Three Wolf Moon"
 author: "Tipa"
+disqusIdentifier: "2011/03/25/eq2-three-wolf-moon"
 summary: "Lore text: This cloak will make you more desirable! Also has the property of featherfall...."
 categories:
   - "EverQuest"
   - "Humor"
   - "MMORPG"
+relatedPosts:
+  - url: "/2012/12/25/happy-holidays/"
+    title: "Happy Holidays!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/12/eqchristmas-386x480.png"
+  - url: "/2010/08/18/five-better-concepts-for-everquest-next/"
+    title: "Five Better Concepts for EverQuest Next?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/village.jpg"
+  - url: "/2009/08/22/eq2-werewolf-gets-a-new-job/"
+    title: "EQ2: Werewolf gets a new job"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/eq2bugbearwerewolf-2.jpg"
+  - url: "/2009/06/10/eq2-blossom-the-bold/"
+    title: "EQ2: Blossom the Bold"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/blossomthebold.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/EverQuest2-2011-03-25-07-16-23-57.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/EverQuest2-2011-03-25-07-16-23-57.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2010-08-09T21:38:51-05:00'
 draft: false
 title: "Star Trek Online: Fluid Dynamics (spoilers!)"
 author: "Tipa"
+disqusIdentifier: "2010/08/09/star-trek-online-fluid-dynamics-spoilers"
 summary: "Having saved the Undine from forced assimilation at the hands of the Borg in the previous episode, Assimilation, Starfleet believes the Undine might be convinced..."
 categories:
   - "MMORPG"
@@ -14,6 +15,19 @@ tags:
   - "Hylasa"
   - "Starfleet"
   - "Undine"
+relatedPosts:
+  - url: "/2010/08/26/star-trek-online-a-light-in-the-dark-spoilers/"
+    title: "Star Trek Online: A Light in the Dark (spoilers)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-21-23-10-17-94-480x384.jpg"
+  - url: "/2010/08/07/star-trek-online-undine-front-the-return-spoilers/"
+    title: "Star Trek Online, Undine Front: The Return (spoilers)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-06-20-22-16-69-480x383.jpg"
+  - url: "/2011/02/20/star-trek-online-ambassadors/"
+    title: "Star Trek Online: Ambassadors"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-20-17-34-12-79-384x480.jpg"
+  - url: "/2010/11/05/star-trek-online-what-lies-beneath/"
+    title: "Star Trek Online: What Lies Beneath"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/GameClient-2010-10-30-14-15-57-85-480x385.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-08-17-53-56-96.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-08-17-53-56-96.jpg"
 ---

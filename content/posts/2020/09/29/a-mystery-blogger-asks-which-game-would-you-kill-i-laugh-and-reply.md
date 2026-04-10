@@ -3,10 +3,24 @@ date: '2020-09-29T07:49:04-05:00'
 draft: false
 title: "A Mystery Blogger asks: Which game would you kill? I laugh, and reply..."
 author: "Tipa"
+disqusIdentifier: "2020/09/29/a-mystery-blogger-asks-which-game-would-you-kill-i-laugh-and-reply"
 summary: "Magi over at Indicator was tagged by a \"Mystery Blogger\", and like any good virus, he went on to infect at a \"R\" value of..."
 categories:
   - "Blaugust"
   - "MMORPG"
+relatedPosts:
+  - url: "/2025/08/30/dune-awakening-we-finally-got-ganked/"
+    title: "Dune Awakening: We finally got ganked"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/20250830103401_1.jpg"
+  - url: "/2025/08/17/dune-awakening-roc-music/"
+    title: "Dune: Awakening -- Roc Music"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/dunecarrier.png"
+  - url: "/2025/08/04/i-know-what-i-did-last-weekend-5/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/bewarethesandworm.png"
+  - url: "/2025/08/02/dune-awakening-fishing-for-sandtrout/"
+    title: "Dune Awakening: Fishing for Sandtrout"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/fishingforsandtrout.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/photogrid_1476365612975.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/photogrid_1476365612975.jpg"
 ---

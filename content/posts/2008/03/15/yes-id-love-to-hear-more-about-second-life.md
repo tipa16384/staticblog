@@ -3,10 +3,24 @@ date: '2008-03-15T08:58:12-05:00'
 draft: false
 title: "Yes, I'd love to hear more about Second Life"
 author: "Tipa"
+disqusIdentifier: "2008/03/15/yes-id-love-to-hear-more-about-second-life"
 summary: "Tipa Hawthorne at the NPR Science Friday Pavilion..."
 categories:
   - "MMORPG"
   - "Second Life"
+relatedPosts:
+  - url: "/2011/01/27/daily-blogroll-127-inevitable-backlash-edition/"
+    title: "Daily Blogroll 1/27 -- Inevitable Backlash edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/riftblade.png"
+  - url: "/2011/01/07/daily-blogroll-17-better-than-life-edition/"
+    title: "Daily Blogroll 1/7 - Better than Life edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/ZodiacOnline.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/05/27/daily-blogroll-527-bump-in-the-night-edition/"
+    title: "Daily Blogroll 5/27 -- Bump in the Night edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/exefile-2009-05-25-19-13-32-09.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/03/slnpr.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/03/slnpr.jpg"
 ---

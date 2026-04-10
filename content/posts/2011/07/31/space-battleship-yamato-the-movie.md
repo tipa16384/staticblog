@@ -3,10 +3,24 @@ date: '2011-07-31T09:02:23-05:00'
 draft: false
 title: "Space Battleship Yamato (the movie)"
 author: "Tipa"
+disqusIdentifier: "2011/07/31/space-battleship-yamato-the-movie"
 summary: "The movie starts, like all good space operas, in the silence of space. Blaster fire reflects off the eye of a lone pilot; the camera..."
 categories:
   - "General"
   - "Sci Fi"
+relatedPosts:
+  - url: "/2015/09/13/beam-me-up/"
+    title: "Beam me up..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/09/1-Star-Trek-Me-1.jpg"
+  - url: "/2008/07/22/save-the-middleman/"
+    title: "Save the Middleman!"
+    thumbnailImage: ""
+  - url: "/2008/07/09/the-middleblog/"
+    title: "The Middleblog"
+    thumbnailImage: ""
+  - url: "/2008/03/26/confounded-confinder/"
+    title: "Confounded Confinder!"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/07/wmplayer-2011-07-31-08-54-13-39-480x320.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/07/wmplayer-2011-07-31-08-54-13-39-480x320.jpg"
 ---

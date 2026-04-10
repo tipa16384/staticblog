@@ -3,6 +3,7 @@ date: '2008-11-05T10:00:42-05:00'
 draft: false
 title: "Wizard 101: Stick a fork in it, it's done"
 author: "Tipa"
+disqusIdentifier: "2008/11/05/wizard-101-stick-a-fork-in-it-its-done"
 summary: "It's done, it's over, and aside from finishing a couple of quests in Village of Sorrows and heading back into Shiritaki Temple for the blue..."
 categories:
   - "MMORPG"
@@ -13,6 +14,19 @@ tags:
   - "Jade Oni"
   - "Moo Shu"
   - "Oyotomi"
+relatedPosts:
+  - url: "/2008/11/01/wizard-101-october-30-update-and-the-cave-of-sorrows/"
+    title: "Wizard 101: October 30 update and the Cave of Sorrows"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-01-08-29-11-18.jpg"
+  - url: "/2008/10/29/wizard-101-crimson-fields-and-sunken-city-again/"
+    title: "Wizard 101: Crimson Fields and Sunken City (again)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-28-01-24-41-16.jpg"
+  - url: "/2008/10/27/wizard-101-hametsu-village/"
+    title: "Wizard 101: Hametsu Village"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-26-17-18-58-70.jpg"
+  - url: "/2008/10/19/w101-the-long-journey-to-moo-shu/"
+    title: "W101: The long journey to Moo Shu"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-16-00-22-19-93.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/ninjas.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/ninjas.jpg"
 ---

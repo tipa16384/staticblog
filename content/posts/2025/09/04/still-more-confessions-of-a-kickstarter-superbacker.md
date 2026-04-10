@@ -3,6 +3,7 @@ date: '2025-09-04T08:00:00-05:00'
 draft: false
 title: "Still More Confessions of a Kickstarter Superbacker"
 author: "Tipa"
+disqusIdentifier: "2025/09/04/still-more-confessions-of-a-kickstarter-superbacker"
 summary: "Oh dear. I keep backing Kickstarters. Why? WHY? I dunno. Anyway, here's what I'm waiting for today."
 categories:
   - "Kickstarter"
@@ -16,6 +17,19 @@ tags:
   - "Pocket RPG"
   - "The Red Dragon Inn"
   - "Zachtronics"
+relatedPosts:
+  - url: "/2024/04/18/confessions-of-a-kickstarter-superbacker/"
+    title: "Confessions of a Kickstarter Superbacker"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/superbacker.png"
+  - url: "/2024/08/03/more-confessions-of-a-kickstarter-superbacker/"
+    title: "More Confessions of a Kickstarter Superbacker"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/superbacker.png"
+  - url: "/2021/09/25/game-night-my-little-scythe-and-the-watson-game-topper/"
+    title: "Game Night: My Little Scythe and the Watson Game Topper"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/2-IMG_2337.jpg"
+  - url: "/2025/01/27/i-know-what-i-did-last-weekend-2/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/drbrawn.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/superbacker.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/superbacker.png"
 ---

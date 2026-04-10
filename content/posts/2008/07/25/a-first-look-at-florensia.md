@@ -3,12 +3,26 @@ date: '2008-07-25T08:15:56-05:00'
 draft: false
 title: "A first look at Florensia"
 author: "Tipa"
+disqusIdentifier: "2008/07/25/a-first-look-at-florensia"
 summary: "Adventure on land and sea? Lush, detailed world? Dual talent trees that let you mold your character however you like? How can it miss?..."
 categories:
   - "Florensia"
   - "MMORPG"
 tags:
   - "Dream of Mirror Online"
+relatedPosts:
+  - url: "/2008/07/24/free-to-play-game-of-the-month/"
+    title: "Free-to-play game of the month?"
+    thumbnailImage: ""
+  - url: "/2011/01/01/daily-blogroll-1111-happy-new-year-edition/"
+    title: "Daily Blogroll 1/1/11 -- Happy New Year edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/rift-2010-12-31-16-51-43-97-480x384.jpg"
+  - url: "/2010/11/30/daily-blogroll-1130-worst-case-scenario-edition/"
+    title: "Daily Blogroll, 11/30 -- Worst Case Scenario edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/vgclient-2010-11-29-20-32-30-42.jpg"
+  - url: "/2010/05/21/assault-on-the-inbox/"
+    title: "Assault on the Inbox"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/assault-479x185.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/florensiaen-2008-07-25-07-24-20-08.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/florensiaen-2008-07-25-07-24-20-08.jpg"
 ---

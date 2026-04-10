@@ -3,6 +3,7 @@ date: '2024-07-13T08:00:00-05:00'
 draft: false
 title: "Blaugust 2024 and DC Heroes United"
 author: "Tipa"
+disqusIdentifier: "2024/07/13/blaugust-2024-and-dc-heroes-united"
 summary: "Sure, I could use two posts to write about two things... OR I could do this, and write about them both. It's a Value Size Blog."
 categories:
   - "Blaugust"
@@ -11,6 +12,19 @@ categories:
 tags:
   - "DC Superheroes United"
   - "Gamefound"
+relatedPosts:
+  - url: "/2024/08/03/more-confessions-of-a-kickstarter-superbacker/"
+    title: "More Confessions of a Kickstarter Superbacker"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/superbacker.png"
+  - url: "/2023/08/19/blue-beetle/"
+    title: "Blue Beetle"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/blue_beetle_movie_costume_concept_art.jpg"
+  - url: "/2024/09/02/blaugust-2024-is-in-the-bag/"
+    title: "Blaugust 2024 is in the bag!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/07/blaugust-2024.png"
+  - url: "/2024/08/31/my-california/"
+    title: "My California"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_4623-scaled.jpeg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/07/dcunited.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/07/dcunited.jpg"
 ---

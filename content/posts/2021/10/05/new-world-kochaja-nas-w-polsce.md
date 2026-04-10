@@ -3,6 +3,7 @@ date: '2021-10-05T08:10:39-05:00'
 draft: false
 title: "New World: Kochają nas w Polsce!"
 author: "Tipa"
+disqusIdentifier: "2021/10/05/new-world-kochaja-nas-w-polsce"
 summary: "New World has been released for just a week. It is way, way too early to start forecasting any sort of trends from this...."
 categories:
   - "Dark Ages of Camelot"
@@ -15,6 +16,19 @@ categories:
 tags:
   - "Google Trends"
   - "Poland"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2023/08/16/a-tribute-to-creators/"
+    title: "From Hydaelyn to Veeshan: A Tribute to Creators"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/hydaelyn.webp"
+  - url: "/2021/08/13/okay-the-full-list-of-interesting-games/"
+    title: "Okay -- the FULL LIST of Interesting Games!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/supermechachampions.jpg"
+  - url: "/2021/08/11/the-most-interesting-game-of-all-time/"
+    title: "The Most Interesting Game of All Time!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/runescape-20-years.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/poland.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/poland.jpg"
 ---

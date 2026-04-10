@@ -3,6 +3,7 @@ date: '2008-09-27T10:49:29-05:00'
 draft: false
 title: "EQ: The Lurkers of Lavaspinner's Lair & more"
 author: "Tipa"
+disqusIdentifier: "2008/09/27/eq-the-lurkers-of-lavaspinners-lair-more"
 summary: "Another Friday, another entirely new zone, and we still are ages from seeing more than a fraction of the game...."
 categories:
   - "EverQuest"
@@ -16,6 +17,19 @@ tags:
   - "Gimblax"
   - "Lavaspinner's Lair"
   - "Stillmoon Temple"
+relatedPosts:
+  - url: "/2008/09/20/eq-stillmoon-temple-and-the-dragons-of-norrath/"
+    title: "EQ: Stillmoon Temple and the Dragons of Norrath"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/eqgame-2008-09-19-20-32-11-82.jpg"
+  - url: "/2008/10/04/eq-nostalgia-enters-the-everlovin-plane-of-time/"
+    title: "EQ: Nostalgia enters the everlovin' PLANE of TIME."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/pot.jpg"
+  - url: "/2008/08/23/eq-hot-zone-hoedown/"
+    title: "EQ: Hot zone hoedown"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/eqgame-2008-08-22-22-02-52-46.jpg"
+  - url: "/2024/08/23/epic-experiences-in-everquest/"
+    title: "EverQuest: Five Epic Tales"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/saryrn.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/eqgame-2008-09-26-19-45-56-08.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/eqgame-2008-09-26-19-45-56-08.jpg"
 ---

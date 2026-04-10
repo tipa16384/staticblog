@@ -3,6 +3,7 @@ date: '2021-08-21T10:26:28-05:00'
 draft: false
 title: "Champions Online vs DCUO"
 author: "Tipa"
+disqusIdentifier: "2021/08/21/champions-online-vs-dcuo"
 summary: "City of Heroes cast a long shadow over the superhero MMO landscape. There's easily a half dozen efforts to resurrect the game in some form,..."
 categories:
   - "Blaugust"
@@ -13,6 +14,19 @@ tags:
   - "Blaugust"
   - "Champions Online"
   - "DC Universe Online"
+relatedPosts:
+  - url: "/2021/08/26/dcuo-house-of-legends-is-live/"
+    title: "DCUO: House of Legends is LIVE!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/avatarofmeta.jpg"
+  - url: "/2021/08/22/ship-of-heroes-superheroes-in-spaaaaaace/"
+    title: "Ship of Heroes: Superheroes IN SPAAAAAACE!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/shipoffools-1.jpg"
+  - url: "/2021/08/18/developer-appreciation-cryptic-studios/"
+    title: "Developer Appreciation: Cryptic Studios"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/cityofheroes-2007-12-01-12-05-32-84.jpg"
+  - url: "/2021/08/07/mmos-on-the-bubble/"
+    title: "MMOs on the Bubble"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/STP61286.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/riddlers.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/riddlers.jpg"
 ---

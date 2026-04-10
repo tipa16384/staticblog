@@ -3,6 +3,7 @@ date: '2021-08-22T23:45:47-05:00'
 draft: false
 title: "Ship of Heroes: Superheroes IN SPAAAAAACE!"
 author: "Tipa"
+disqusIdentifier: "2021/08/22/ship-of-heroes-superheroes-in-spaaaaaace"
 summary: "...or so they would like you to believe. The GOVERNMENT says that we are in a GIANT SPACESHIP, a HUNDRED KILOMETERS LONG. How does that..."
 categories:
   - "Blaugust"
@@ -13,6 +14,19 @@ tags:
   - "Beta"
   - "Blaugust"
   - "Champions Online"
+relatedPosts:
+  - url: "/2021/08/21/champions-online-vs-dcuo/"
+    title: "Champions Online vs DCUO"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/riddlers.jpg"
+  - url: "/2021/08/18/developer-appreciation-cryptic-studios/"
+    title: "Developer Appreciation: Cryptic Studios"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/cityofheroes-2007-12-01-12-05-32-84.jpg"
+  - url: "/2021/08/07/mmos-on-the-bubble/"
+    title: "MMOs on the Bubble"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/STP61286.jpg"
+  - url: "/2021/09/26/ship-of-heroes-mission-beta-feedback/"
+    title: "Ship of Heroes: Mission Beta Feedback"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/shipoffools-redsigilbase.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/shipoffools-1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/shipoffools-1.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2009-06-02T08:06:38-05:00'
 draft: false
 title: "Daily Blogroll 6/2 -- E3 edition"
 author: "Tipa"
+disqusIdentifier: "2009/06/02/daily-blogroll-62-e3-edition"
 summary: "Oh, speaking of Free Realms, the band that does the theme song \"It's Your World and Welcome To It\", the Dares, will be performing the..."
 categories:
   - "Daily Blogroll"
@@ -11,6 +12,19 @@ categories:
   - "Free Realms"
   - "MMORPG"
   - "Wizard101"
+relatedPosts:
+  - url: "/2009/09/17/daily-blogroll-917-kanye-edition/"
+    title: "Daily Blogroll 9/17 - Kanye edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/kanye.jpg"
+  - url: "/2009/09/01/daily-blogroll-91-hell-o-kiddie-edition/"
+    title: "Daily Blogroll 9/1 - Hell, O Kiddie edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/hko-2009-09-01-07-24-48-98.jpg"
+  - url: "/2009/08/10/daily-blogroll-810-thank-god-its-monday-edition/"
+    title: "Daily Blogroll 8/10 -- Thank God it's Monday edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/daddygirl.jpg"
+  - url: "/2009/06/15/daily-blogroll-615-just-this-once-edition/"
+    title: "Daily Blogroll 6/15 -- Just This Once edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/WizardGraphicalClient-2009-06-15-07-54-00-91.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/fullscreen-capture-622009-122447-am.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/fullscreen-capture-622009-122447-am.jpg"
 ---

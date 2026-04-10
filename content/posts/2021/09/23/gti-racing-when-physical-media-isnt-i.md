@@ -3,6 +3,7 @@ date: '2021-09-23T20:34:37-05:00'
 draft: false
 title: "GTI Racer: When Physical Media... isn't."
 author: "Tipa"
+disqusIdentifier: "2021/09/23/gti-racing-when-physical-media-isnt-i"
 summary: "I drive a VW GTI. My son drives a VW GTI. I have owned many VWs over the years. I bought GTI Racer for the..."
 categories:
   - "Steam Games"
@@ -13,6 +14,19 @@ tags:
   - "Racing"
   - "Steam"
   - "Volkswagen"
+relatedPosts:
+  - url: "/2020/05/08/project64-and-beetle-adventure-racing/"
+    title: "Project64 and Beetle Adventure Racing"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/Project64-2020-05-08-07-01-57-40.jpg"
+  - url: "/2014/06/15/steam-game-of-the-week-little-racers-street/"
+    title: "Steam Game of the Week: Little Racers STREET"
+    thumbnailImage: "https://lh5.googleusercontent.com/-rccMy-gwepE/U51_Un5JBnI/AAAAAAAAvF0/T9hgf1q6JMs/w741-h593-no/LittleRacersStreet+2014-06-15+07-11-12-06.jpg"
+  - url: "/2022/06/26/v-rising-hitting-the-hemoglobin/"
+    title: "V Rising: Hitting the Hemoglobin"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/06/20220626091446_1.jpg"
+  - url: "/2022/05/02/restarting-in-valheim/"
+    title: "Restarting in Valheim"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/05/20220429225417_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/itsalie.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/itsalie.png"
 ---

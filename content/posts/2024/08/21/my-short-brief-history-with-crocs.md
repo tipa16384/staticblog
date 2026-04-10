@@ -3,6 +3,7 @@ date: '2024-08-21T07:00:00-05:00'
 draft: false
 title: "My short, brief history with Crocs"
 author: "Tipa"
+disqusIdentifier: "2024/08/21/my-short-brief-history-with-crocs"
 summary: "My son refuses to be seen with me while wearing them. It's like wearing a scarlet letter. But they are soooo cool."
 categories:
   - "Blaugust"
@@ -12,6 +13,19 @@ tags:
   - "Crocs"
   - "Pikachu"
   - "Retro World Expo"
+relatedPosts:
+  - url: "/2024/08/25/retro-world-expo-2024-adventure-awaits/"
+    title: "Retro World Expo 2024: Adventure Awaits"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/tipachu_Adventurers_including_a_sorceress_battle_a_giant_kaij_c266c206-cff4-4688-bc8f-5a805d60df73_2.png"
+  - url: "/2023/08/28/retro-world-expo-scorecard/"
+    title: "Retro World Expo Scorecard"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/sailormoonpikachu.png"
+  - url: "/2025/08/05/international-play-your-vectrex-day-is-november-1/"
+    title: "International Play Your Vectrex Day is November 1!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/vectrexbanner.png"
+  - url: "/2023/08/24/staying-motivated-for-retro-world-expo-2023/"
+    title: "Staying Motivated for Retro World Expo 2023"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/retroworldexpo.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/pcroc.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/pcroc.png"
 ---

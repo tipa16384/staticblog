@@ -3,6 +3,7 @@ date: '2024-08-23T08:00:00-05:00'
 draft: false
 title: "EverQuest: Five Epic Tales"
 author: "Tipa"
+disqusIdentifier: "2024/08/23/epic-experiences-in-everquest"
 summary: "There was a discussion on Mastodon yesterday (thanks, Nimgimli!) about the stories we tell about our MMO characters. Here's five EverQuest stories about mine."
 categories:
   - "Blaugust"
@@ -14,6 +15,19 @@ tags:
   - "Divine Grace"
   - "Nostalgia"
   - "United Norrath Coalition"
+relatedPosts:
+  - url: "/2023/07/31/omg-its-that-time-again-already/"
+    title: "OMG it's that time again already!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/07/blaugust2023-logo-full.webp"
+  - url: "/2008/09/27/eq-the-lurkers-of-lavaspinners-lair-more/"
+    title: "EQ: The Lurkers of Lavaspinner's Lair & more"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/eqgame-2008-09-26-19-45-56-08.jpg"
+  - url: "/2008/08/23/eq-hot-zone-hoedown/"
+    title: "EQ: Hot zone hoedown"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/eqgame-2008-08-22-22-02-52-46.jpg"
+  - url: "/2008/11/01/eq-nostalgia-enters-vex-thal/"
+    title: "EQ: Nostalgia enters Vex Thal!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/eqgame-2008-11-01-12-03-19-13.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/saryrn.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/saryrn.png"
 ---

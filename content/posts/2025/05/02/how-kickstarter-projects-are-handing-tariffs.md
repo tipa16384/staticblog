@@ -3,6 +3,7 @@ date: '2025-05-02T08:00:00-05:00'
 draft: false
 title: "How Kickstarter Projects are Handling Tariffs"
 author: "Tipa"
+disqusIdentifier: "2025/05/02/how-kickstarter-projects-are-handing-tariffs"
 summary: "I might have a Kickstarter problem. I went to all the campaign pages for the games I haven't yet received to find out how tariffs were affecting them."
 categories:
   - "Kickstarter"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "China"
   - "Tariffs"
+relatedPosts:
+  - url: "/2025/04/04/tariffs-will-destroy-the-board-game-industry-and-i-am-there-for-it/"
+    title: "Tariffs will destroy the board game industry, and I am there for it."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/04/John-Wick-Hex-Review.jpg"
+  - url: "/2021/10/15/looking-for-mr-kickstarter/"
+    title: "Looking for Mr. Kickstarter"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/cologne.jpg"
+  - url: "/2021/09/15/lets-go-looking-for-my-games/"
+    title: "Let's Go Looking For My Games"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/china-map.gif"
+  - url: "/2021/08/10/my-board-game-is-on-a-slow-boat-from-china/"
+    title: "My Board Game is on a Slow Boat from China"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/slowboat.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/evergiven.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/evergiven.png"
 ---

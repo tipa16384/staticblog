@@ -3,6 +3,7 @@ date: '2008-11-03T08:59:26-05:00'
 draft: false
 title: "LittleBigPlanet: Dippy Birds and Rocket Sleds"
 author: "Tipa"
+disqusIdentifier: "2008/11/03/littlebigplanet-dippy-birds-and-rocket-sleds"
 summary: "I got frustrated trying to make my fire beetles for my Befallen Level 0 -- Commonlands level. They are supposed to be hard to kill..."
 categories:
   - "Littlebigplanet"
@@ -12,6 +13,19 @@ tags:
   - "Jurassic Park"
   - "Rocket Sled"
   - "Tanglewood Labs"
+relatedPosts:
+  - url: "/2023/09/05/jurassic-world-the-legacy-of-isla-nublar-finished/"
+    title: "Jurassic World: The Legacy of Isla Nublar: Finished!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/jwfinished.png"
+  - url: "/2023/08/15/jurassic-world-the-legacy-of-isla-nublar/"
+    title: "Jurassic World: The Legacy of Isla Nublar"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/IMG_3952-scaled.jpg"
+  - url: "/2008/11/12/littlebigplanet-level-design-issues/"
+    title: "LittleBigPlanet level design issues"
+    thumbnailImage: ""
+  - url: "/2008/11/10/wizard-friends-and-littlebigplanet-mazes/"
+    title: "Wizard Friends and LittleBigPlanet Mazes"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-10-00-53-52-28.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/stp61427.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/stp61427.jpg"
 ---

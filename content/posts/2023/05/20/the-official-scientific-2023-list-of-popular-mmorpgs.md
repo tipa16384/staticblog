@@ -3,6 +3,7 @@ date: '2023-05-20T18:39:04-05:00'
 draft: false
 title: "The Official, Scientific, 2023 List of Popular MMORPGs"
 author: "Tipa"
+disqusIdentifier: "2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs"
 summary: "Here we go again. The top 38 MMOs in the last 30 days in the USA, as reported by Google Trends."
 categories:
   - "Aion"
@@ -37,6 +38,19 @@ categories:
   - "Ultima Online"
   - "Wizard101"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2023/08/16/a-tribute-to-creators/"
+    title: "From Hydaelyn to Veeshan: A Tribute to Creators"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/hydaelyn.webp"
+  - url: "/2009/09/17/daily-blogroll-917-kanye-edition/"
+    title: "Daily Blogroll 9/17 - Kanye edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/kanye.jpg"
+  - url: "/2021/10/05/new-world-kochaja-nas-w-polsce/"
+    title: "New World: Kochają nas w Polsce!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/poland.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
 ---

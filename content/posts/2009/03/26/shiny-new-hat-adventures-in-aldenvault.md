@@ -3,11 +3,25 @@ date: '2009-03-26T07:40:35-05:00'
 draft: false
 title: "Shiny new hat & adventures in Aldenvault"
 author: "Tipa"
+disqusIdentifier: "2009/03/26/shiny-new-hat-adventures-in-aldenvault"
 summary: "It was a sad day when the trolls discovered lawyers. I suppose that living in Freeport, they were bound to stumble upon some, sooner or..."
 categories:
   - "Chronicles of Spellborn"
   - "EverQuest"
   - "MMORPG"
+relatedPosts:
+  - url: "/2009/09/25/daily-blogroll-925-apocalypse-edition/"
+    title: "Daily Blogroll 9/25 - Apocalypse edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/GameClient-2009-09-24-21-31-22-51.jpg"
+  - url: "/2009/08/31/daily-blogroll-831-end-of-summer-edition/"
+    title: "Daily Blogroll 8/31 - End of Summer edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/GameClient-2009-08-30-21-20-36-81.jpg"
+  - url: "/2009/07/29/mmorpgs-in-3d-a-study-in-red-and-blue/"
+    title: "MMORPGs in 3D: A Study in Red and Blue"
+    thumbnailImage: ""
+  - url: "/2009/07/23/daily-blogroll-723-aftermath-edition/"
+    title: "Daily Blogroll 7/23 -- Aftermath edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/sb_client-2009-07-23-07-34-50-3.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/everquest2-2009-03-25-21-39-46-26.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/everquest2-2009-03-25-21-39-46-26.jpg"
 ---

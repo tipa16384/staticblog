@@ -3,6 +3,7 @@ date: '2024-10-28T08:00:00-05:00'
 draft: false
 title: "Greek Gods Exist and they are Living Among Us!"
 author: "Tipa"
+disqusIdentifier: "2024/10/28/greek-gods-exist-and-they-are-living-among-us"
 summary: "\"Stray Gods: The Roleplaying Musical\" puts a Broadway spin on the problems of immortal gods..."
 categories:
   - "Adventure"
@@ -10,6 +11,19 @@ categories:
   - "Visual Novel"
 tags:
   - "Stray Gods"
+relatedPosts:
+  - url: "/2025/12/26/steam-winter-sale-dispatch/"
+    title: "Steam Winter Sale: Dispatch"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/dispatch.jpg"
+  - url: "/2025/03/05/yes-the-first-cheat-code/"
+    title: '"YES", the first cheat code.'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/tipachu_Humorous_clip_art_of_a_dragon_looking_quizzically_at__7789a903-59ba-4366-b518-6ebc465ac59c_0.png"
+  - url: "/2024/09/20/beyond-shadowgate-a-classic-reimagined/"
+    title: "Beyond Shadowgate: a classic reimagined."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/2-Beyond-Shadowgate-Screenshot-2024.09.19-23.10.27.86.jpg"
+  - url: "/2024/05/12/advent-colossal-cave-3d/"
+    title: "ADVENT: Colossal Cave 3D"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/cc-troll2.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/Key_Art_-_THE_ROLEPLAYING_MUSICAL_1080p_PNG.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/Key_Art_-_THE_ROLEPLAYING_MUSICAL_1080p_PNG.jpg"
 ---

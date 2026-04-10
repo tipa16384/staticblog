@@ -3,6 +3,7 @@ date: '2025-08-04T08:53:41-05:00'
 draft: false
 title: "I Know What I Did Last Weekend"
 author: "Tipa"
+disqusIdentifier: "2025/08/04/i-know-what-i-did-last-weekend-5"
 summary: "My monthly grab bag of stuff I've been up to recently..."
 categories:
   - "Blaugust"
@@ -14,6 +15,19 @@ categories:
   - "Malifaux"
   - "MMORPG"
   - "Tabletop Games"
+relatedPosts:
+  - url: "/2024/03/16/heroquest-the-castle-of-mystery/"
+    title: "HeroQuest: The Castle of Mystery"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/castleofmystery.png"
+  - url: "/2025/08/29/i-guess-i-suck-at-this-whole-blaugust-thing/"
+    title: "I guess I suck at this whole Blaugust thing"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/arcaniststage.png"
+  - url: "/2025/08/26/frosthaven-scenario-10-crystal-enclosure/"
+    title: "Frosthaven Scenario #10: Crystal Enclosure"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5344-scaled.jpg"
+  - url: "/2026/03/04/frosthaven-104-ruins-of-the-solstice-and-heroquest-first-light-sound-the-hearthkin-horn/"
+    title: "Frosthaven #104: Ruins of the Solstice and HeroQuest First Light: Sound the Hearthkin Horn"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/IMG_5701-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/bewarethesandworm.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/bewarethesandworm.png"
 ---

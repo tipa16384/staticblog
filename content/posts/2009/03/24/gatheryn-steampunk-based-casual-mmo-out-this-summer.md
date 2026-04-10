@@ -3,6 +3,7 @@ date: '2009-03-24T12:21:44-05:00'
 draft: false
 title: "Gatheryn, Steampunk-based casual MMO, out this summer?"
 author: "Tipa"
+disqusIdentifier: "2009/03/24/gatheryn-steampunk-based-casual-mmo-out-this-summer"
 summary: "Link has been fixed. SORRY!..."
 categories:
   - "Gatheryn"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Ars Technica"
   - "Steampunk"
+relatedPosts:
+  - url: "/2009/05/22/steampunk-mmo-gatheryn-enters-closed-beta/"
+    title: "Steampunk MMO Gatheryn enters closed beta"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/gatheryn-480x299.jpg"
+  - url: "/2009/04/28/nostalgia-comes-to-the-ds/"
+    title: "Nostalgia comes to the DS!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/nostalgia-479x181.jpg"
+  - url: "/2010/12/02/daily-blogroll-122-rift-tease-edition/"
+    title: "Daily Blogroll 12/2 -- Rift-tease Edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/ca23-full.jpg"
+  - url: "/2009/09/28/weekend-gaming-3/"
+    title: "Weekend Gaming"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/ExeFile-2009-09-27-21-46-57-10.jpg"
 ---
 Link has been fixed. SORRY!...
 <!--more-->

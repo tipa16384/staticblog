@@ -3,6 +3,7 @@ date: '2008-12-06T01:53:41-05:00'
 draft: false
 title: "EQ: Doomfire, the Burning Lands (Part II)"
 author: "Tipa"
+disqusIdentifier: "2008/12/06/eq-doomfire-the-burning-lands-part-ii"
 summary: "Last time we came to the Plane of Fire, we scurried back and forth in front of the zone, kiting mobs, a good portion of..."
 categories:
   - "EverQuest"
@@ -12,6 +13,19 @@ tags:
   - "Doomfire"
   - "Plane of Fire"
   - "The Burning Lands"
+relatedPosts:
+  - url: "/2008/10/18/eq-burning-in-the-plane-of-fire/"
+    title: "EQ: Burning in the Plane of Fire"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/planeoffirenotitle.jpg"
+  - url: "/2008/12/15/eq-cide-edition-raticide-spearicide-gianticide/"
+    title: "EQ 'Cide edition: Raticide, Spearicide, Gianticide."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/eqgame-2008-12-12-20-34-02-6.jpg"
+  - url: "/2020/05/13/everquest-bones-everywhere/"
+    title: "EverQuest: Bones Everywhere."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/eqgame-2020-05-13-06-57-41-85.jpg"
+  - url: "/2009/06/16/welcome-to-mayong-everquests-5150-server/"
+    title: "Welcome to Mayong, EverQuest's 51/50 server"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/mayong.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/eqgame-2008-12-05-22-20-45-78.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/eqgame-2008-12-05-22-20-45-78.jpg"
 ---

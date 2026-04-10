@@ -3,11 +3,25 @@ date: '2023-09-22T07:00:00-05:00'
 draft: false
 title: "FFXIV Tabletop RPG: Playtest #1"
 author: "Tipa"
+disqusIdentifier: "2023/09/22/ffxiv-tabletop-rpg-playtest-1"
 summary: "Square Enix is coming out with a sourcebook and game master's guide for a table top version of Final Fantasy XIV in May. I wonder what playing that would be like..."
 categories:
   - "Final Fantasy"
   - "Humor"
   - "Tabletop Game"
+relatedPosts:
+  - url: "/2024/06/26/origins-2024-recap/"
+    title: "Origins 2024 Recap"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/06/IMG_4347-scaled.jpg"
+  - url: "/2024/01/09/heroquest-the-stone-hunter/"
+    title: "HeroQuest: The Stone Hunter"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/tipachu_a_dwarf_warrior_in_shining_plate_armor_wielding_a_golde_41db7272-d75f-48c1-acc0-be33fa2fa3e5.png"
+  - url: "/2023/09/24/dd-session-1-the-lost-mine-of-phandelver/"
+    title: "D&D Session 1: The Lost Mine of Phandelver"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/Phandelverobservers.webp"
+  - url: "/2023/01/23/the-order-of-the-stick-the-dungeon-of-dorukan/"
+    title: "The Order of the Stick: The Dungeon of Dorukan"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/01/pic169316.webp"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/ffxivttrpg.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/ffxivttrpg.png"
 ---

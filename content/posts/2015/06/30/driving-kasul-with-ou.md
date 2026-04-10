@@ -3,10 +3,24 @@ date: '2015-06-30T11:34:18-05:00'
 draft: false
 title: "Driving Kasul..."
 author: "Tipa"
+disqusIdentifier: "2015/06/30/driving-kasul-with-ou"
 summary: "With our free month of FFXIV about to end, Kasul and I had to make a difficult decision. Not about whether or not to continue..."
 categories:
   - "Final Fantasy"
   - "MMORPG"
+relatedPosts:
+  - url: "/2025/03/24/monster-hunters-wilding/"
+    title: "Monster Hunters Wilding"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/mhwildsbanner.png"
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2023/05/07/ffxiv-how-i-ruined-a-realm-reborn/"
+    title: "FFXIV: How I Ruined a Realm Reborn..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/ffxiv_05072023_001521_777.jpg"
+  - url: "/2022/07/30/ship-of-heroes-housing-beta-2/"
+    title: "Ship of Heroes: Housing Beta #2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/1-20220730211912_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/06/ffxiv-2015-06-29-20-26-46-27.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/06/ffxiv-2015-06-29-20-26-46-27.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2020-09-10T07:44:35-05:00'
 draft: false
 title: "Banner of the Maid: La Victoire est à Nous!"
 author: "Tipa"
+disqusIdentifier: "2020/09/10/banner-of-the-maid-la-victoire-est-a-nous"
 summary: "My opinion of this French Revolution-themed visual novel/tactical strategy game keeps rising as I work my way through the campaign. Once you get past the..."
 categories:
   - "Nintendo Switch"
@@ -12,6 +13,19 @@ tags:
   - "Banner of the Maid"
   - "Girls Screaming in Chinese"
   - "Tactics"
+relatedPosts:
+  - url: "/2020/12/11/my-rpgs-of-2020/"
+    title: "My RPGs of 2020"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/Chocobos-Mystery-Dungeon-EVERY-BUDDY_20200506204657.jpg"
+  - url: "/2020/09/07/banner-of-the-maid-failure-tastes-good/"
+    title: "Banner of the Maid: Failure Tastes Good."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/2020090620392900-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
+  - url: "/2020/09/21/banner-of-the-maid-final-thoughts/"
+    title: "Banner of the Maid: Final Thoughts"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/2020092017453800-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
+  - url: "/2020/09/14/banner-of-the-maid-the-fall-of-the-monarchy/"
+    title: "Banner of the Maid: The Fall of the Monarchy"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/2020091217123000-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/2020090922571700-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/2020090922571700-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
 ---

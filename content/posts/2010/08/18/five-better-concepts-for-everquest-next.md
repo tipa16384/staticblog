@@ -3,6 +3,7 @@ date: '2010-08-18T07:37:05-05:00'
 draft: false
 title: "Five Better Concepts for EverQuest Next?"
 author: "Tipa"
+disqusIdentifier: "2010/08/18/five-better-concepts-for-everquest-next"
 summary: "[..."
 categories:
   - "EverQuest"
@@ -12,6 +13,19 @@ categories:
 tags:
   - "Concept"
   - "Not Funny"
+relatedPosts:
+  - url: "/2008/09/17/straight-talk-warhammer-realm-vs-realm/"
+    title: "Straight Talk Warhammer: Realm vs Realm"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/warcraftbattle.jpg"
+  - url: "/2010/09/03/a-parents-guide-to-mmo-gaming/"
+    title: "A Parent's Guide to MMO Gaming"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/worgen_1280x1024-225x225.jpg"
+  - url: "/2008/09/23/straight-talk-warhammer-the-warrior-priest/"
+    title: "Straight Talk Warhammer: The Warrior Priest"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/galahad.gif"
+  - url: "/2008/09/22/straight-talk-warhammer-the-bright-wizard/"
+    title: "Straight Talk Warhammer: The Bright Wizard"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/daffy.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/village.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/village.jpg"
 ---

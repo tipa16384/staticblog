@@ -3,10 +3,24 @@ date: '2013-02-22T08:19:42-05:00'
 draft: false
 title: "D&D4e: Demo Fight"
 author: "Tipa"
+disqusIdentifier: "2013/02/22/dd4e-demo-fight"
 summary: "The Adventure Company reconvened last night to prepare for our new adventures. We made a few changes since the last time we met. All new..."
 categories:
   - "D&D 4e"
   - "Other Games"
+relatedPosts:
+  - url: "/2015/06/16/hoard-of-the-dragon-queen-the-story-thus-far/"
+    title: "Hoard of the Dragon Queen: The Story Thus Far..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/06/inndrawing.jpg"
+  - url: "/2015/06/05/dd-on-the-road-again/"
+    title: "D&D: On the road again!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/06/Fullscreen-capture-652015-74149-PM-480x402.jpg"
+  - url: "/2014/10/15/dd-5e-death-without-succor/"
+    title: "D&D 5e -- Death Without Succor"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2014/10/1-Fullscreen-capture-1092014-115643-PM-480x374.jpg"
+  - url: "/2014/09/29/dd-5e-grist-for-the-mill/"
+    title: "D&D 5e: Grist for the Mill"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2014/09/1-Fullscreen-capture-9252014-101528-PM-480x361.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/chrome-2013-02-21-21-40-09-45-480x344.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/chrome-2013-02-21-21-40-09-45-480x344.jpg"
 ---

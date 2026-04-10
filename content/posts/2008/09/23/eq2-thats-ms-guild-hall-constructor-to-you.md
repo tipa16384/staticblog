@@ -3,6 +3,7 @@ date: '2008-09-23T12:00:35-05:00'
 draft: false
 title: "EQ2: That's MS. Guild Hall Constructor to YOU."
 author: "Tipa"
+disqusIdentifier: "2008/09/23/eq2-thats-ms-guild-hall-constructor-to-you"
 summary: "Thought I'd never finish the thirty gathering missions necessary to get the \"Guild Hall Constructor\" title. I'd get bored, or find something else to do,..."
 categories:
   - "EverQuest"
@@ -14,6 +15,19 @@ tags:
   - "Guild Halls"
   - "Sunken City"
   - "The Graveyard"
+relatedPosts:
+  - url: "/2008/10/08/eq2-cloth-vests-mean-more-fashion-choices-for-casters/"
+    title: "EQ2: Cloth vests mean more fashion choices for casters"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/everquest2-2008-10-08-07-37-27-60.jpg"
+  - url: "/2008/10/07/eq2-the-return-of-anashti-sul/"
+    title: "EQ2: The return of Anashti Sul?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/everquest2-2008-10-06-22-41-21-45.jpg"
+  - url: "/2008/08/01/eq2-gu47-dorah-stories/"
+    title: "EQ2: GU47 Dorah stories"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/everquest2-2008-07-31-23-41-51-61.jpg"
+  - url: "/2008/09/03/eq2-game-update-48-is-live/"
+    title: "EQ2: Game update 48 is live"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/everquest2-2008-09-22-21-58-41-70.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/everquest2-2008-09-22-21-58-41-70.jpg"
 ---

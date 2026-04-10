@@ -3,6 +3,7 @@ date: '2022-08-25T21:04:09-05:00'
 draft: false
 title: "Blaugust 2022: Dev Appreciation Week"
 author: "Tipa"
+disqusIdentifier: "2022/08/25/blaugust-2022-dev-appreciation-week"
 summary: "We highlight some of the great turn-based RPGs that are currently in development by independent developers. These are games that are being made with passion and care, and it shows in the quality of the games. If you're a fan of turn-based RPGs, be sure to check out these games!"
 categories:
   - "Blaugust"
@@ -15,6 +16,19 @@ tags:
   - "Dall-E 2"
   - "Mahokenshi"
   - "Those Who Rule"
+relatedPosts:
+  - url: "/2022/09/01/32-bullets-new-first-person-shooter-game/"
+    title: 'Creating "32 Bullets" -- an AI adventure.'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/32bulletsbanner.png"
+  - url: "/2022/08/31/blaugust-hath-31-days/"
+    title: "Blaugust Hath 31 Days"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-24-22.46.10-a-young-woman-fighting-a-monster-with-a-rune-carved-sword.-She-is-surrounded-by-a-dark-forest-and-the-full-moon-is-shining-overhead-in-the-style-of-.png"
+  - url: "/2022/08/30/blaugust-theme-week-lessons-learned/"
+    title: "Blaugust theme week: Lessons learned"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-30-23.00.58-35mm-long-range-photograph-of-a-woman-warrior-reading-a-book-while-sitting-against-a-sleeping-green-dragon-near-a-mountain-lake-pastel-colors-peacef.png"
+  - url: "/2022/08/30/the-golden-years-30-something/"
+    title: "The Golden Years: 30 Something"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-23-20.51.10-A-magazine-illustration-of-a-30-something-person-surrounded-by-icons-representing-lifes-challenges-work-family-hobbies-money-food-travel-and-.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-25-20.38.03-characters-from-final-fantasy-tactics-tactics-ogre-and-octopath-traveler-fight-a-huge-boss-together-on-3D-tactical-terrain..png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-25-20.38.03-characters-from-final-fantasy-tactics-tactics-ogre-and-octopath-traveler-fight-a-huge-boss-together-on-3D-tactical-terrain..png"
 ---

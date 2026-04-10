@@ -3,6 +3,7 @@ date: '2021-11-18T00:15:44-05:00'
 draft: false
 title: "I'm just here to bring joy and melt your brain."
 author: "Tipa"
+disqusIdentifier: "2021/11/18/im-just-here-to-bring-joy-and-melt-your-brain"
 summary: "Not necessarily in that order. I have a lot to talk about and I just have to put it down in the blog, and I..."
 categories:
   - "Atari 2600"
@@ -15,6 +16,19 @@ tags:
   - "Crypto"
   - "Ethereum"
   - "Shiba Inu"
+relatedPosts:
+  - url: "/2021/11/01/cryptogaming-a-brief-adventure/"
+    title: "Cryptogaming: A Brief Adventure"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/CryptoDragons-a-week-later.jpg"
+  - url: "/2021/11/10/hodgepodge-games-crypto-and-nfts/"
+    title: "Hodgepodge: Games, Crypto and NFTs."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/senile.png"
+  - url: "/2022/11/29/crypto-crypto-what-will-you-do/"
+    title: "Crypto, Crypto, what will you do?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/11/1-A_puppy_surrounded_by_stacks_of_Bitcoin__Visual_Novel_Seed-2422298_Steps-50_Guidance-7.5.jpg"
+  - url: "/2023/08/23/the-resurrection-of-the-atari-2600/"
+    title: "The Resurrection of the Atari 2600"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/atari2600.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/genesisloot.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/genesisloot.jpg"
 ---

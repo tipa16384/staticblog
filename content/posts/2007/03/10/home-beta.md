@@ -3,10 +3,24 @@ date: '2007-03-10T17:05:24-05:00'
 draft: false
 title: "Home Beta"
 author: "Tipa"
+disqusIdentifier: "2007/03/10/home-beta"
 summary: "I mentioned in a comment to a previous post, and it has been said many times by others, that the world is poised on the..."
 categories:
   - "General"
   - "MMORPG"
+relatedPosts:
+  - url: "/2012/10/08/pirate101-yo-ho-ho-a-pirates-life-for-me/"
+    title: "Pirate101: Yo ho ho, a Pirate's Life for Me"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-08-22-32-11-71-480x269.jpg"
+  - url: "/2010/11/24/thoughts-on-elitism-and-speed-runs-or-my-dinner-with-yhrall/"
+    title: "Thoughts on Elitism and Speed Runs, or, My Dinner with Thrall"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/lotroclient-2010-11-24-00-25-18-91-480x385.jpg"
+  - url: "/2010/10/21/how-i-killed-mmos-can-ffxiv-get-them-a-rez/"
+    title: "How I Killed MMOs (can FFXIV get them a rez?)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/secretworld1-480x270.jpg"
+  - url: "/2009/04/28/daily-blogroll-428-hug-squeeze-edition/"
+    title: "Daily Blogroll 4/28 -- Hug & Squeeze Edition"
+    thumbnailImage: ""
 ---
 I mentioned in a comment to a previous post, and it has been said many times by others, that the world is poised on the...
 <!--more-->

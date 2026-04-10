@@ -3,6 +3,7 @@ date: '2023-09-01T20:16:35-05:00'
 draft: false
 title: "Defeating Mewtwo in Pokémon Scarlet/Violet"
 author: "Tipa"
+disqusIdentifier: "2023/09/01/defeating-mewtwo-in-pokemon-scarlet-violet"
 summary: "It's not really hard to defeat Mewtwo if everyone is on the same page. I did it both times with Mew; once built for support, once built for damage."
 categories:
   - "Pokemon"
@@ -10,6 +11,19 @@ tags:
   - "Mew"
   - "Mewtwo"
   - "Pokemon"
+relatedPosts:
+  - url: "/2023/08/11/only-mew-can-stop-mewtwo-now/"
+    title: "Only Mew can stop Mewtwo now..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/mewtoo.png"
+  - url: "/2025/12/15/i-know-what-i-did-last-weekend-6/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/IMG_5573-scaled.jpg"
+  - url: "/2025/11/21/pokemon-legends-z-a-rolls-credits/"
+    title: "Pokémon Legends: Z-A rolls credits"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/2025112021391100-D30A1E83A76029FCCC1E3AC4EF5B7C89L.jpg"
+  - url: "/2025/10/23/its-the-end-of-year-new-console-extravaganza/"
+    title: "It's the end of year, new console extravaganza"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/IMG_5433-EDIT-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/2023090118334300-B6CE40797459B0890BF7CEF68A4CE587.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/2023090118334300-B6CE40797459B0890BF7CEF68A4CE587.jpg"
 ---

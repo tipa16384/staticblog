@@ -3,12 +3,26 @@ date: '2009-09-04T15:23:50-05:00'
 draft: false
 title: "Gatheryn, Star Trek Online, Hello Kitty Online infomegadump"
 author: "Tipa"
+disqusIdentifier: "2009/09/04/gatheryn-star-trek-online-hello-kitty-online-infomegadump"
 summary: "I've gotten a bunch of emails telling about updates et al to a lot of games. Rather than write an article about each one, or..."
 categories:
   - "Gatheryn"
   - "Hello Kitty Online"
   - "MMORPG"
   - "Star Trek"
+relatedPosts:
+  - url: "/2009/05/27/daily-blogroll-527-bump-in-the-night-edition/"
+    title: "Daily Blogroll 5/27 -- Bump in the Night edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/exefile-2009-05-25-19-13-32-09.jpg"
+  - url: "/2010/12/02/daily-blogroll-122-rift-tease-edition/"
+    title: "Daily Blogroll 12/2 -- Rift-tease Edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/ca23-full.jpg"
+  - url: "/2009/09/28/weekend-gaming-3/"
+    title: "Weekend Gaming"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/ExeFile-2009-09-27-21-46-57-10.jpg"
+  - url: "/2009/09/26/checking-back-with-gatheryn/"
+    title: "Checking back with Gatheryn"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/Gatheryn-2009-09-26-10-32-14-59.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/ws_concept2_1024x768-480x360.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/ws_concept2_1024x768-480x360.jpg"
 ---

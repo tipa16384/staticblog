@@ -3,6 +3,7 @@ date: '2023-08-03T07:00:00-05:00'
 draft: false
 title: "(Not) Taming the Backlog"
 author: "Tipa"
+disqusIdentifier: "2023/08/03/not-taming-the-backlog"
 summary: "If I die, let it be beneath a mound of unplayed video games. Might as well accept the inevitable, right?"
 categories:
   - "Blaugust"
@@ -17,6 +18,19 @@ tags:
   - "Octopath Traveler"
   - "Panzer Dragoon"
   - "Pokemon"
+relatedPosts:
+  - url: "/2023/02/21/pokemon-the-newish-addiction/"
+    title: "Pokémon: The New(ish) Addiction"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/02/pokemonaddiction.png"
+  - url: "/2023/08/28/retro-world-expo-scorecard/"
+    title: "Retro World Expo Scorecard"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/sailormoonpikachu.png"
+  - url: "/2023/08/11/only-mew-can-stop-mewtwo-now/"
+    title: "Only Mew can stop Mewtwo now..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/mewtoo.png"
+  - url: "/2025/11/21/pokemon-legends-z-a-rolls-credits/"
+    title: "Pokémon Legends: Z-A rolls credits"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/2025112021391100-D30A1E83A76029FCCC1E3AC4EF5B7C89L.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/DALL·E-2023-08-02-23.10.21-A-dragon-wearing-glasses-surrounded-by-stacks-of-video-games.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/DALL·E-2023-08-02-23.10.21-A-dragon-wearing-glasses-surrounded-by-stacks-of-video-games.png"
 ---

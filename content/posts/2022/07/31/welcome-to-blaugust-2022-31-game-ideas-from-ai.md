@@ -3,6 +3,7 @@ date: '2022-07-31T14:28:30-05:00'
 draft: false
 title: "Welcome to Blaugust 2022: 31 game ideas from AI"
 author: "Tipa"
+disqusIdentifier: "2022/07/31/welcome-to-blaugust-2022-31-game-ideas-from-ai"
 summary: "This article is about the author's plan to use AI to help write their blog posts for Blaugust."
 categories:
   - "Blaugust"
@@ -20,6 +21,19 @@ tags:
   - "Dall-E 2"
   - "Generate Ideas"
   - "Gpt-3"
+relatedPosts:
+  - url: "/2022/08/05/steve-the-fifth-horseman-of-the-apocalypse/"
+    title: "Steve, the Fifth Horseman of the Apocalypse"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/DALL·E-2022-07-30-11.32.58-A-photograph-of-a-colorfully-dressed-clown-named-Steve-sitting-on-a-horse-that-has-fiery-eyes.-They-are-standing-on-a-hill.-Behind-them-on-the-hori.png"
+  - url: "/2022/08/01/one-the-game-a-superheroic-multiplayer-experience/"
+    title: "One: The Game - A Superheroic Multiplayer Experience"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/DALL·E-2022-07-30-12.00.18-A-group-of-diverse-superheroes-photographed-in-a-realistic-style-with-bright-cartoony-colors.-They-are-posed-heroically-with-a-cityscape-in-the-backg.png"
+  - url: "/2022/08/30/blaugust-theme-week-lessons-learned/"
+    title: "Blaugust theme week: Lessons learned"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-30-23.00.58-35mm-long-range-photograph-of-a-woman-warrior-reading-a-book-while-sitting-against-a-sleeping-green-dragon-near-a-mountain-lake-pastel-colors-peacef.png"
+  - url: "/2022/08/26/1926-the-golden-age-of-aviation/"
+    title: "1926: The Golden Age of Aviation"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/goldenage26.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/blaugust2022.webp"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/blaugust2022.webp"
 ---

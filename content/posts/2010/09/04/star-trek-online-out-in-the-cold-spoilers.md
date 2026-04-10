@@ -3,6 +3,7 @@ date: '2010-09-04T19:42:07-05:00'
 draft: false
 title: "Star Trek Online: Out in the Cold (spoilers)"
 author: "Tipa"
+disqusIdentifier: "2010/09/04/star-trek-online-out-in-the-cold-spoilers"
 summary: "[..."
 categories:
   - "MMORPG"
@@ -15,6 +16,19 @@ tags:
   - "Out in the Cold"
   - "Star Trek"
   - "Weekly Episode"
+relatedPosts:
+  - url: "/2010/08/29/star-trek-online-cold-call-spoilers/"
+    title: "Star Trek Online: Cold Call (spoilers)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-28-14-15-48-16-480x327.jpg"
+  - url: "/2010/09/25/star-trek-online-s2e5-cold-storage-spoilers/"
+    title: "Star Trek Online s2e5: Cold Storage (spoilers)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/GameClient-2010-09-25-17-08-23-68.jpg"
+  - url: "/2010/09/11/star-trek-online-s2e3-cold-comfort-spoilers/"
+    title: "Star Trek Online: S2E3 Cold Comfort (spoilers)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/GameClient-2010-09-11-16-55-05-27-480x292.jpg"
+  - url: "/2010/10/16/star-trek-online-skirmish-spoilers/"
+    title: "Star Trek Online: Skirmish (spoilers)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/GameClient-2010-10-16-14-50-16-71-480x303.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/GameClient-2010-09-04-14-10-31-72-480x269.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/GameClient-2010-09-04-14-10-31-72-480x269.jpg"
 ---

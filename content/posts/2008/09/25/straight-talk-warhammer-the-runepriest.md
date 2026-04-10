@@ -3,6 +3,7 @@ date: '2008-09-25T08:00:33-05:00'
 draft: false
 title: "Straight Talk Warhammer: The Runepriest"
 author: "Tipa"
+disqusIdentifier: "2008/09/25/straight-talk-warhammer-the-runepriest"
 summary: "You love you some Warhammer Online: Age of Reckoning, but the game isn't addicting enough. There should be some way of making your time away..."
 categories:
   - "Humor"
@@ -12,6 +13,19 @@ tags:
   - "Geto Boys"
   - "Grand Theft Altdorf"
   - "Runepriest"
+relatedPosts:
+  - url: "/2008/10/03/straight-talk-warhammer-the-archmage/"
+    title: "Straight Talk Warhammer: The Archmage"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/d2sorceress.jpg"
+  - url: "/2008/10/02/straight-talk-warhammer-the-ironbreaker/"
+    title: "Straight Talk Warhammer: The Ironbreaker"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-02-07-39-22-47.jpg"
+  - url: "/2008/10/01/straight-talk-warhammer-the-witch-hunter/"
+    title: "Straight Talk Warhammer: The Witch Hunter"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/witchhunter.jpg"
+  - url: "/2008/09/24/straight-talk-warhammer-the-dwarf-engineer/"
+    title: "Straight Talk Warhammer: The Dwarf Engineer"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/bomberman.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/grandtheftdorf.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/grandtheftdorf.jpg"
 ---

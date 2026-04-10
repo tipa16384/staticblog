@@ -3,12 +3,26 @@ date: '2010-11-25T19:49:34-05:00'
 draft: false
 title: "Daily Blogroll: Thanksgiving Edition"
 author: "Tipa"
+disqusIdentifier: "2010/11/25/daily-blogroll-thanksgiving-edition"
 summary: "[..."
 categories:
   - "Daily Blogroll"
   - "MMORPG"
 tags:
   - "Thanksgiving"
+relatedPosts:
+  - url: "/2021/10/07/he-thought-i-was-joking/"
+    title: "He thought I was joking."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/endgame_auto_x2_toned_light_ai.jpg"
+  - url: "/2011/10/26/daily-blogroll-oct-26-pandamonium-edition/"
+    title: "Daily Blogroll Oct 26: Pandamonium edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/pandamonium.png"
+  - url: "/2011/10/21/daily-blogroll-oct-21-tanks-for-the-memories-edition/"
+    title: "Daily Blogroll Oct 21: Tanks for the Memories edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/dndclient-2011-10-20-21-19-18-63-480x352.jpg"
+  - url: "/2011/10/20/daily-blogroll-oct-19-time-enough-to-learn-to-swim-edition/"
+    title: "Daily Blogroll Oct 19: Time enough to learn to swim edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/02/ffxivgame-2011-10-18-19-43-58-81-480x234-1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/WoW-2010-11-25-14-28-20-81-480x383.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/WoW-2010-11-25-14-28-20-81-480x383.jpg"
 ---

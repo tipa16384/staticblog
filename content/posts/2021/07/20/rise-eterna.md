@@ -3,6 +3,7 @@ date: '2021-07-20T23:01:10-05:00'
 draft: false
 title: "Rise Eterna"
 author: "Tipa"
+disqusIdentifier: "2021/07/20/rise-eterna"
 summary: "Rise Eterna claims to be a modern successor to the legendary tactical rpgs of the past. Can Rise Eterna really wear Final Fantasy Tactics' crown?"
 categories:
   - "Nintendo Switch"
@@ -14,6 +15,19 @@ tags:
   - "Rise Eterna"
   - "RPG"
   - "Tactics"
+relatedPosts:
+  - url: "/2020/09/21/banner-of-the-maid-final-thoughts/"
+    title: "Banner of the Maid: Final Thoughts"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/2020092017453800-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
+  - url: "/2020/08/19/banner-of-the-maid-doesnt-want-me-to-sleep/"
+    title: "Banner of the Maid doesn't want me to sleep."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/banner-of-the-maid-switch-hero.jpg"
+  - url: "/2020/09/01/banner-of-the-maid-lets-try-this-again/"
+    title: "Banner of the Maid: Let's try this again"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/2020083123144500-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
+  - url: "/2020/09/14/banner-of-the-maid-the-fall-of-the-monarchy/"
+    title: "Banner of the Maid: The Fall of the Monarchy"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/2020091217123000-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/2021051618021700-BA2A6D95681540D14D17CA98DC5AFB99.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/2021051618021700-BA2A6D95681540D14D17CA98DC5AFB99.jpg"
 ---

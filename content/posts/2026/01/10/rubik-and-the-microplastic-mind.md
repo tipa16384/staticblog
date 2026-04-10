@@ -3,12 +3,26 @@ date: '2026-01-10T20:05:14-05:00'
 draft: false
 title: "Rubik and the Microplastic Mind"
 author: "Tipa"
+disqusIdentifier: "2026/01/10/rubik-and-the-microplastic-mind"
 summary: "I just went to my first \"cubing\" competition -- the \"Wide Moves and Waterslides CT\" tournament held this weekend by Cube New England. It won't be the last,"
 categories:
   - "Real Life"
 tags:
   - "Cube New England"
   - "Rubik's Cube"
+relatedPosts:
+  - url: "/2025/08/07/soda-can-tabs-for-charity-really/"
+    title: "Soda can tabs for charity? REALLY?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5304-scaled.jpeg"
+  - url: "/2024/09/03/my-california-lick-observatory/"
+    title: "My California: Lick Observatory"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/IMG_4669-scaled.jpeg"
+  - url: "/2024/08/31/my-california/"
+    title: "My California"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_4623-scaled.jpeg"
+  - url: "/2024/08/29/going-to-california/"
+    title: "Going to California"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_4594-scaled.jpeg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/ChatGPT-Image-Jan-10-2026-07_02_02-PM.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/ChatGPT-Image-Jan-10-2026-07_02_02-PM.png"
 ---

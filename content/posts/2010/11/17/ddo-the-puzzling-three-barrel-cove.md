@@ -3,6 +3,7 @@ date: '2010-11-17T23:00:15-05:00'
 draft: false
 title: "DDO: The Puzzling Three Barrel Cove"
 author: "Tipa"
+disqusIdentifier: "2010/11/17/ddo-the-puzzling-three-barrel-cove"
 summary: "[..."
 categories:
   - "Dungeons & Dragons Online"
@@ -11,6 +12,19 @@ tags:
   - "Puzzle"
   - "Team Spode"
   - "Three Barrel Cove"
+relatedPosts:
+  - url: "/2010/11/08/dungeons-dragons-online-endless-trials/"
+    title: "Dungeons & Dragons Online: Endless Trials"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/dndclient-2010-11-08-21-15-15-11-480x384.jpg"
+  - url: "/2010/10/26/dungeons-dragons-online-three-barrel-cove-part-1/"
+    title: "Dungeons & Dragons Online: Three Barrel Cove, Part 1"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/dndclient-2010-10-25-00-39-44-80-480x384.jpg"
+  - url: "/2011/02/27/star-trek-online-fe304-coliseum-spoilers/"
+    title: "Star Trek Online FE304: Coliseum (spoilers)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-26-15-29-44-32-480x275.jpg"
+  - url: "/2012/04/06/ddo-web-of-chaos/"
+    title: "DDO: Web of Chaos"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/04/dndclient-2012-04-01-23-54-24-56-480x384.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/dndclient-2010-11-17-22-08-34-14-480x384.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/dndclient-2010-11-17-22-08-34-14-480x384.jpg"
 ---

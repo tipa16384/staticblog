@@ -3,6 +3,7 @@ date: '2020-08-26T23:01:58-05:00'
 draft: false
 title: "Game Night: Mahjong"
 author: "Tipa"
+disqusIdentifier: "2020/08/26/game-night-mahjong"
 summary: "We have been preparing for this night for a very long time. Tom has always had an intense interest in Mahjong, especially in the Japanese..."
 categories:
   - "Final Fantasy XIV"
@@ -12,6 +13,19 @@ tags:
   - "ASMR"
   - "Girls Screaming in Chinese"
   - "Mahjong"
+relatedPosts:
+  - url: "/2020/08/28/ffxiv-a-match-of-mahjong/"
+    title: "FFXIV: A Match of Mahjong"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-Fullscreen-capture-8282020-90402-PM.jpg"
+  - url: "/2022/08/09/game-night-by-shakespeare-renoir-and-openai/"
+    title: "Game Night, by Shakespeare, Renoir and OpenAI"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-09-07.25.25-Renoir-painting-of-King-Claudius-Queen-Gertrude-Prince-Hamlet-and-Ophelia-playing-Scrabble.png"
+  - url: "/2021/10/15/looking-for-mr-kickstarter/"
+    title: "Looking for Mr. Kickstarter"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/cologne.jpg"
+  - url: "/2020/10/24/japanese-mah-jong-for-the-switch/"
+    title: "Japanese Mah-jong for the Switch"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/japanese-mah-jongg-switch-screenshot01.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-IMG_1763-1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-IMG_1763-1.jpg"
 ---

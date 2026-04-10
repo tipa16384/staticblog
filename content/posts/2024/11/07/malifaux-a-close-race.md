@@ -3,6 +3,7 @@ date: '2024-11-07T07:00:00-05:00'
 draft: false
 title: "Malifaux: A Close Race"
 author: "Tipa"
+disqusIdentifier: "2024/11/07/malifaux-a-close-race"
 summary: "I thought I would stave off the existential dread of the election by playing Malifaux... little did I know..."
 categories:
   - "Malifaux"
@@ -12,6 +13,19 @@ categories:
 tags:
   - "Arcane Emissary"
   - "Elections"
+relatedPosts:
+  - url: "/2024/11/20/malifaux-pig-farm/"
+    title: "Malifaux: Pig Farm"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/IMG_4871-scaled.jpeg"
+  - url: "/2024/11/04/malifaux-ing-in-massacusetts/"
+    title: "Malifaux-ing in Massachusetts"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/carverbanner.png"
+  - url: "/2024/10/20/malifaux-fall-into-faux-tournament/"
+    title: 'Malifaux: "Fall into Faux" tournament'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/malifaux-10-19-24-banner.png"
+  - url: "/2024/09/07/fall-into-faux-the-one-where-i-win/"
+    title: "Fall into Faux: The One Where I Win"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/1988-mei-feng.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/closerace.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/closerace.png"
 ---

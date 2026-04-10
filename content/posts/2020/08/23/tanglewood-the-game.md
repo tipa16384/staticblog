@@ -3,6 +3,7 @@ date: '2020-08-23T17:43:32-05:00'
 draft: false
 title: "Tanglewood: the Game."
 author: "Tipa"
+disqusIdentifier: "2020/08/23/tanglewood-the-game"
 summary: "After I posted today's Blaugust prompts, especially the bit about the origin of most of my characters' last name, \"Tanglewood\", Bhagpuss commented that there was..."
 categories:
   - "Steam Games"
@@ -11,6 +12,19 @@ tags:
   - "Steam"
   - "Tanglewood"
   - "What Does the Fox Say"
+relatedPosts:
+  - url: "/2020/08/23/blaugust-22-and-23-fear-and-envy/"
+    title: "Blaugust #22 and #23: Fear and Envy"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/lantern-corps-970x545-1.jpg"
+  - url: "/2022/08/19/can-you-make-it-to-the-end-of-19th-street-in-this-frantic-endless-runner/"
+    title: "Can You Make It To The End Of 19th Street In This Frantic Endless Runner?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-11-19.48.05-synthwave-one-point-perspective-a-businesswoman-sprinting-toward-the-camera-along-a-busy-city-sidewalk-with-tall-buildings-in-the-background.png"
+  - url: "/2022/08/07/the-seven-sages-a-masterclass-in-metroidvania-design/"
+    title: "The Seven Sages: A Masterclass in Metroidvania Design"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/7sages2.png"
+  - url: "/2022/06/26/v-rising-hitting-the-hemoglobin/"
+    title: "V Rising: Hitting the Hemoglobin"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/06/20220626091446_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/tanglewd_win_64-2020-08-23-15-02-49-65.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/tanglewd_win_64-2020-08-23-15-02-49-65.jpg"
 ---

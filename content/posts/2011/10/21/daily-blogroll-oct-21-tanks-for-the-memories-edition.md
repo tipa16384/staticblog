@@ -3,6 +3,7 @@ date: '2011-10-21T05:00:43-05:00'
 draft: false
 title: "Daily Blogroll Oct 21: Tanks for the Memories edition"
 author: "Tipa"
+disqusIdentifier: "2011/10/21/daily-blogroll-oct-21-tanks-for-the-memories-edition"
 summary: "The big news yesterday was the dropping of the Press NDA for Bioware's Star Wars: The Old Republic. I read all the press reviews I..."
 categories:
   - "Age of Conan"
@@ -13,6 +14,19 @@ categories:
   - "Star Wars the Old Republic"
   - "Wizard101"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2009/05/29/daily-blogroll-529-reasons-to-be-cheerful-pt-iii/"
+    title: "Daily Blogroll 5/29 -- Reasons to be Cheerful, Pt III"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/everquest2-2009-05-17-07-38-31-44.jpg"
+  - url: "/2009/04/22/web-log-422-earth-day-edition/"
+    title: "Web Log 4/22 -- Earth Day edition"
+    thumbnailImage: ""
+  - url: "/2009/05/28/daily-blogroll-528-no-funny-name-episode/"
+    title: "Daily Blogroll 5/28 -- No funny name episode"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/makinghay.jpg"
+  - url: "/2009/05/15/daily-blogroll-515-endelig-fredag-edition/"
+    title: "Daily Blogroll 5/15 -- Endelig Fredag edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/clangreenscaledragon.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/dndclient-2011-10-20-21-19-18-63-480x352.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/dndclient-2011-10-20-21-19-18-63-480x352.jpg"
 ---

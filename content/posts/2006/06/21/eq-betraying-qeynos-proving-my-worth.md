@@ -3,11 +3,25 @@ date: '2006-06-21T00:00:00-05:00'
 draft: false
 title: "EQ2: Betraying Qeynos - Proving My Worth"
 author: "Tipa"
+disqusIdentifier: "2006/06/21/eq-betraying-qeynos-proving-my-worth"
 summary: "Freeport loves that whole \"I am the MASTER, you must OBEY!\" vibe, and to show me what that meant, they had me train a war..."
 categories:
   - "EverQuest"
 tags:
   - "Buddy"
+relatedPosts:
+  - url: "/2008/12/16/eq2-when-giant-dogs-attack/"
+    title: "EQ2: When giant dogs attack!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/everquest2-2008-12-16-00-45-28-721.jpg"
+  - url: "/2008/10/09/eq2-nostalgia-guild-hall-mania/"
+    title: "EQ2: Nostalgia Guild Hall mania!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/everquest2-2008-10-08-18-05-29-271.jpg"
+  - url: "/2006/06/26/speaking-to-nagafen/"
+    title: "Speaking to Nagafen"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/images/20060626-naggy.jpg"
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
 coverImage: "https://tipa16384.github.io/wkblog/images/betraybuddy.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/images/betraybuddy.jpg"
 ---

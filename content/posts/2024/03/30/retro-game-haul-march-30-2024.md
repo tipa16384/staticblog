@@ -3,6 +3,7 @@ date: '2024-03-30T14:54:28-05:00'
 draft: false
 title: "Retro Game Haul: March 30, 2024"
 author: "Tipa"
+disqusIdentifier: "2024/03/30/retro-game-haul-march-30-2024"
 summary: "I have way too many games to ever play, but still I can't help it. Today's haul: Othello (NES), Spinball (Vectrex), Colossal Cave Adventure (PS5), Broken Sword: The Shadow of the Templars (GBA). Read on for more details..."
 categories:
   - "Adventure"
@@ -21,6 +22,19 @@ tags:
   - "Othello"
   - "Pinball"
   - "Spinball"
+relatedPosts:
+  - url: "/2024/06/09/retro-haul-tactics-and-sea-monkeys/"
+    title: "Retro Haul: Tactics and Sea Monkeys"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/06/IMG_4308.jpg"
+  - url: "/2024/05/12/advent-colossal-cave-3d/"
+    title: "ADVENT: Colossal Cave 3D"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/cc-troll2.png"
+  - url: "/2024/05/09/advent-twisty-passages-all-alike/"
+    title: "ADVENT: Twisty Passages, All Alike"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/cc-pirate.png"
+  - url: "/2025/08/05/international-play-your-vectrex-day-is-november-1/"
+    title: "International Play Your Vectrex Day is November 1!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/vectrexbanner.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/IMG_4228.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/IMG_4228.jpg"
 ---

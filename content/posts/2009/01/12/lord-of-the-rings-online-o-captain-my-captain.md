@@ -3,10 +3,24 @@ date: '2009-01-12T00:37:12-05:00'
 draft: false
 title: "Lord of the Rings Online: O Captain, My Captain"
 author: "Tipa"
+disqusIdentifier: "2009/01/12/lord-of-the-rings-online-o-captain-my-captain"
 summary: "I loaded Lord of the Rings Online back onto my computer (where it replaced Vanguard and Guild Wars; my disk space is such that if..."
 categories:
   - "Lord of the Rings"
   - "MMORPG"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2020/08/27/blaugust-27-be-the-content-you-want-to-see/"
+    title: "Blaugust #27: Be the Content You Want to See"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/ClipartKey_519651.png"
+  - url: "/2011/10/10/daily-blogroll-oct-10-columbus-day-edition/"
+    title: "Daily Blogroll Oct 10: Columbus Day edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/glitch.png"
+  - url: "/2011/08/24/lotro-kill-the-dwaggin/"
+    title: "LotRO: Kill the Dwaggin"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/08/lotroclient-2011-08-24-01-05-21-21-480x433.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/01/lotroclient-2009-01-11-18-51-28-35.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/01/lotroclient-2009-01-11-18-51-28-35.jpg"
 ---

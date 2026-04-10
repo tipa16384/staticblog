@@ -3,11 +3,25 @@ date: '2022-03-04T08:17:29-05:00'
 draft: false
 title: "7DRL: Building an Engine -- I Screwed Up."
 author: "Tipa"
+disqusIdentifier: "2022/03/04/7drl-building-an-engine-i-screwed-up"
 summary: "I really thought I had more time. I thought I had a week to integrate the new Tiled-based map creation tools, and to make a..."
 categories:
   - "7DRL"
 tags:
   - "Tiled"
+relatedPosts:
+  - url: "/2022/03/07/7drl-2022-day-2-dungeon-room/"
+    title: "7DRL 2022 Day 2: Dungeon Room"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/ezgif.com-gif-maker-2.gif"
+  - url: "/2022/03/03/7drl-building-an-engine-winner/"
+    title: "7DRL: Building an Engine -- Winner."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/screenshot.png"
+  - url: "/2025/03/10/how-to-fail-at-writing-a-game-in-7-days/"
+    title: "How To Fail at Writing A Game in 7 Days"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/gamedevadventure.png"
+  - url: "/2022/03/13/7drl-2022-retrospective/"
+    title: "7DRL 2022: Retrospective"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/1-Dream_TradingCard-4.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/7drlfail.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/7drlfail.png"
 ---

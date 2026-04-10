@@ -3,12 +3,26 @@ date: '2025-09-02T08:45:02-05:00'
 draft: false
 title: "Sword Hero: Combat Arena Demo"
 author: "Tipa"
+disqusIdentifier: "2025/09/02/sword-hero-combat-arena-demo"
 summary: "This solo fantasy RPG asks the question, \"What if combat was super dangerous?\""
 categories:
   - "Steam Games"
   - "Sword Hero"
 tags:
   - "Demo"
+relatedPosts:
+  - url: "/2024/08/11/worshippers-of-cthulhu-the-demo/"
+    title: "Worshippers of Cthulhu: the Demo"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/cthulhu.png"
+  - url: "/2022/09/23/star-ocean-the-divine-force-the-demo/"
+    title: "Star Ocean: The Divine Force: The Demo"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/2-STAR-OCEAN-THE-DIVINE-FORCE-DEMO_20220923212513.jpg"
+  - url: "/2026/03/28/blasts-from-the-past-is-it-the-90s-again/"
+    title: "Blasts from the Past: Is it the 90s again?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/elves-and-dinokun.jpg"
+  - url: "/2026/03/25/preview-topdeck-automat/"
+    title: "Preview: Topdeck Automat"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-24-220403.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/swordhero.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/swordhero.png"
 ---

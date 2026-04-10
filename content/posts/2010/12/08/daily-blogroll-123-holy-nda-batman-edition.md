@@ -3,6 +3,7 @@ date: '2010-12-08T06:00:22-05:00'
 draft: false
 title: "Daily Blogroll 12/8 -- Holy NDA, Batman! edition"
 author: "Tipa"
+disqusIdentifier: "2010/12/08/daily-blogroll-123-holy-nda-batman-edition"
 summary: "Superhero comics have to be the most consistently grim form of literature imaginable. Here you have people with cosmic supernatural powers, and those powers bring..."
 categories:
   - "Daily Blogroll"
@@ -11,6 +12,19 @@ categories:
   - "Final Fantasy"
   - "MMORPG"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2011/01/19/daily-blogroll-119-game-of-mass-destruction-edition/"
+    title: "Daily Blogroll 1/19 -- Game of Mass Destruction edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/firefox-2011-01-18-23-58-38-07.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/07/13/daily-blogroll-713-monday-is-funday-edition/"
+    title: "Daily Blogroll 7/13 -- Monday is Funday edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/blacksmithdarwin.jpg"
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/lantern.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/lantern.png"
 ---

@@ -3,6 +3,7 @@ date: '2021-01-20T23:36:31-05:00'
 draft: false
 title: "Game Night: Roll Player"
 author: "Tipa"
+disqusIdentifier: "2021/01/20/game-night-roll-player"
 summary: "It's a game about rolling up a character for a tabletop fantasy RPG. You just roll up the character. That's it. It's amazing, though."
 categories:
   - "Game Night"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Dice Drafting"
   - "Roll Player"
+relatedPosts:
+  - url: "/2026/03/04/frosthaven-104-ruins-of-the-solstice-and-heroquest-first-light-sound-the-hearthkin-horn/"
+    title: "Frosthaven #104: Ruins of the Solstice and HeroQuest First Light: Sound the Hearthkin Horn"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/IMG_5701-scaled.jpg"
+  - url: "/2026/02/15/heroquest-first-light-king-forgrins-trove/"
+    title: "HeroQuest First Light: King Forgrin's Trove"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/IMG_5672-scaled.jpg"
+  - url: "/2026/02/10/frosthaven-9-glowing-catacombs/"
+    title: "Frosthaven #9: Glowing Catacombs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/1-IMG_5665-scaled.jpg"
+  - url: "/2026/01/27/heroquest-first-light-tomb-of-the-fire-king/"
+    title: "HeroQuest First Light: Tomb of the Fire King"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/IMG_5629-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/01/1-IMG_2082.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/01/1-IMG_2082.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2023-08-25T07:00:00-05:00'
 draft: false
 title: "One does not simply walk into Ba Sing Se!"
 author: "Tipa"
+disqusIdentifier: "2023/08/25/one-does-not-simply-walk-into-ba-sing-se"
 summary: "Not feeling creative tonight, so here is a ChatGPT-generated story of what Avatar: The Last Airbender might have looked like if its main characters were hobbits."
 categories:
   - "Blaugust"
@@ -11,6 +12,19 @@ tags:
   - "ChatGPT"
   - "The Last Airbender"
   - "The Lord of the Rings"
+relatedPosts:
+  - url: "/2023/08/14/my-non-controversial-take-on-the-ai-revolution/"
+    title: "My Non-Controversial Take on the AI Revolution"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/revolution.png"
+  - url: "/2025/08/15/base44-games-from-a-prompt/"
+    title: "Base44: Games from a Prompt"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/pendeenpoint.png"
+  - url: "/2008/10/02/straight-talk-warhammer-the-ironbreaker/"
+    title: "Straight Talk Warhammer: The Ironbreaker"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-02-07-39-22-47.jpg"
+  - url: "/2025/12/16/prompting-malifaux/"
+    title: "Prompting Malifaux"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/ChatGPT-Image-Dec-16-2025-08_13_14-AM.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/frodoavatar.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/frodoavatar.png"
 ---

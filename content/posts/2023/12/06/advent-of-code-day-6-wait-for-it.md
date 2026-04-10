@@ -3,6 +3,7 @@ date: '2023-12-06T21:21:22-05:00'
 draft: false
 title: "Advent of Code Day 6 -- Wait For It"
 author: "Tipa"
+disqusIdentifier: "2023/12/06/advent-of-code-day-6-wait-for-it"
 summary: "This one was easy. TOO easy. Day 7 is going to be bad."
 categories:
   - "Advent of Code"
@@ -11,6 +12,19 @@ tags:
   - "AoC 2023"
   - "Basic"
   - "Elf"
+relatedPosts:
+  - url: "/2023/12/21/advent-of-code-day-21-step-counter/"
+    title: "Advent of Code Day 21 -- Step Counter"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-21-20.59.37-Illustrate-a-whimsical-and-fantastical-scene-from-the-Advent-of-Code-puzzle-Step-Counter.-The-image-should-depict-an-Elf-in-a-vast-infinite-garden-.png"
+  - url: "/2023/12/19/advent-of-code-day-19-aplenty/"
+    title: "Advent of Code Day 19 -- Aplenty"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-19-20.12.32-A-whimsical-and-detailed-illustration-set-on-Gear-Island-where-a-magical-workshop-is-bustling-with-activity.-Elves-dressed-in-colorful-attire-are-b.png"
+  - url: "/2023/12/19/advent-of-code-day-18-lavaduct-lagoon/"
+    title: "Advent of Code Day 18 -- Lavaduct Lagoon"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-18-22.42.07-Illustration-for-an-Advent-of-Code-puzzle-with-a-16-10-aspect-ratio.-The-scene-shows-a-large-newly-constructed-lagoon-near-a-machine-parts-factory-on.png"
+  - url: "/2023/12/17/advent-of-code-day-17-clumsy-crucible/"
+    title: "Advent of Code Day 17 -- Clumsy Crucible"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-17-16.23.47-Illustration-for-an-Advent-of-Code-puzzle-with-a-16-10-aspect-ratio.-The-scene-is-a-birds-eye-view-of-Gear-Island-half-empty-and-half-a-bustling-fac.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-06-20.55.25-A-whimsical-and-vibrant-scene-depicting-an-island-with-a-small-ferry-dock-and-numerous-toy-boats-ready-for-a-race.-The-island-is-surrounded-by-water-a.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-06-20.55.25-A-whimsical-and-vibrant-scene-depicting-an-island-with-a-small-ferry-dock-and-numerous-toy-boats-ready-for-a-race.-The-island-is-surrounded-by-water-a.png"
 ---

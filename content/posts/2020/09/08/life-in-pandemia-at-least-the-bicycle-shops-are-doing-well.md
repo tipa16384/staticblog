@@ -3,6 +3,7 @@ date: '2020-09-08T22:28:15-05:00'
 draft: false
 title: "Life in Pandemia: At least the bicycle shops are doing well..."
 author: "Tipa"
+disqusIdentifier: "2020/09/08/life-in-pandemia-at-least-the-bicycle-shops-are-doing-well"
 summary: "My next birthday is a \"5\" year -- a year evenly divisible by five. I'm not going to tell you how many times that five..."
 categories:
   - "Real Life"
@@ -10,6 +11,19 @@ tags:
   - "Catrike559"
   - "Love in a Time of Corona"
   - "Peugeot"
+relatedPosts:
+  - url: "/2026/01/10/rubik-and-the-microplastic-mind/"
+    title: "Rubik and the Microplastic Mind"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/ChatGPT-Image-Jan-10-2026-07_02_02-PM.png"
+  - url: "/2025/08/07/soda-can-tabs-for-charity-really/"
+    title: "Soda can tabs for charity? REALLY?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5304-scaled.jpeg"
+  - url: "/2024/09/03/my-california-lick-observatory/"
+    title: "My California: Lick Observatory"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/IMG_4669-scaled.jpeg"
+  - url: "/2024/08/31/my-california/"
+    title: "My California"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_4623-scaled.jpeg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/1-IMG_1891.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/1-IMG_1891.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2009-04-16T07:21:45-05:00'
 draft: false
 title: "Web Logging!"
 author: "Tipa"
+disqusIdentifier: "2009/04/16/web-logging"
 summary: "The original definition of \"blog\" was as an abbreviation of \"web log\", where you'd point out interesting places you found while surfing. I don't really..."
 categories:
   - "Age of Conan"
@@ -13,6 +14,19 @@ categories:
   - "MMORPG"
   - "Shards of Dalaya"
   - "Web Logging"
+relatedPosts:
+  - url: "/2009/05/19/daily-blogroll-519-black-lung-edition/"
+    title: "Daily Blogroll 5/19 -- Black Lung edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/exefile-2009-05-18-23-31-07-25.jpg"
+  - url: "/2009/04/27/web-log-427-the-calm-before-the-storm-edition/"
+    title: "Web log 4/27 -- the Calm Before the Storm edition"
+    thumbnailImage: ""
+  - url: "/2009/03/05/will-2009-be-the-best-year-ever-for-mmos/"
+    title: "Will 2009 be the best year ever for MMOs?"
+    thumbnailImage: ""
+  - url: "/2008/12/24/a-look-back-at-2008/"
+    title: "A look back at 2008"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-30-22-10-50-69.jpg"
 ---
 The original definition of "blog" was as an abbreviation of "web log", where you'd point out interesting places you found while surfing. I don't really...
 <!--more-->

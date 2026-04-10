@@ -3,6 +3,7 @@ date: '2009-08-26T07:50:40-05:00'
 draft: false
 title: "Täglich Blogroll 26.8 - Auflage: Sturm und Drang"
 author: "Tipa"
+disqusIdentifier: "2009/08/26/taglich-blogroll-26-8-auflage-sturm-und-drang"
 summary: "I never watched Stargate: SG-1 while it was on (is it still on?), so when everyone was getting all excited about the prospect of Cheyenne..."
 categories:
   - "Champions Online"
@@ -12,6 +13,19 @@ categories:
   - "MMORPG"
   - "Warhammer: Age of Reckoning"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2009/09/03/daily-blogroll-93-sushi-day-edition/"
+    title: "Daily Blogroll 9/3 - Sushi day edition!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/Fullscreen-capture-932009-75844-AM.jpg"
+  - url: "/2009/05/08/daily-blogroll-58-darkfail-edition/"
+    title: "Daily Blogroll 5/8 -- Darkfail edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/darkfall.jpg"
+  - url: "/2008/04/07/the-mmo-nostalgia-challenge/"
+    title: "The MMO Nostalgia Challenge"
+    thumbnailImage: ""
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/stargateworlds.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/stargateworlds.jpg"
 ---

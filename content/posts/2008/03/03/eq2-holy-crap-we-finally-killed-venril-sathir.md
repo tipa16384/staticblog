@@ -3,10 +3,24 @@ date: '2008-03-03T09:09:02-05:00'
 draft: false
 title: "EQ2: Holy crap, we finally killed Venril Sathir"
 author: "Tipa"
+disqusIdentifier: "2008/03/03/eq2-holy-crap-we-finally-killed-venril-sathir"
 summary: "Aside from a couple of T1 raids, we've been working on Venril Sathir every night since we killed the Overking. Last night, we finally got..."
 categories:
   - "EverQuest"
   - "MMORPG"
+relatedPosts:
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2024/10/21/evercraft-online-the-unholy-child-of-eq-and-minecraft/"
+    title: "EverCraft Online: The Unholy Child of EQ and MineCraft"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/evercraft-banner.png"
+  - url: "/2024/08/28/erenshor-everquest-for-soloers/"
+    title: "Erenshor -- EverQuest for soloers"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/erenshotheader.jpg"
+  - url: "/2024/05/04/everquest-ii-goes-retro-with-anashti-sul/"
+    title: "EverQuest II goes retro with Anashti Sul"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/anashtisul.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/03/everquest2-2008-03-02-22-34-02-71.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/03/everquest2-2008-03-02-22-34-02-71.jpg"
 ---

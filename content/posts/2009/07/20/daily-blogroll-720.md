@@ -3,6 +3,7 @@ date: '2009-07-20T07:30:46-05:00'
 draft: false
 title: "Daily Blogroll 7/20 - Much Ado about Nothing edition"
 author: "Tipa"
+disqusIdentifier: "2009/07/20/daily-blogroll-720"
 summary: "The weekend went by too fast, as it always does...."
 categories:
   - "Aion"
@@ -15,6 +16,19 @@ categories:
   - "MMORPG"
   - "Wizard101"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/05/11/daily-blogroll-511-reboot-edition/"
+    title: "Daily Blogroll 5/11 -- Reboot edition"
+    thumbnailImage: ""
+  - url: "/2009/05/08/daily-blogroll-58-darkfail-edition/"
+    title: "Daily Blogroll 5/8 -- Darkfail edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/darkfall.jpg"
+  - url: "/2009/08/04/daily-blogroll-84-lifetime-edition/"
+    title: "Daily Blogroll 8/4 -- Lifetime edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/lederhosenman.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/LaTaleClient-2009-07-18-15-50-33-45.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/LaTaleClient-2009-07-18-15-50-33-45.jpg"
 ---

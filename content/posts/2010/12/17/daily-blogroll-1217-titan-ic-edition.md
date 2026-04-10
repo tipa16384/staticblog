@@ -3,6 +3,7 @@ date: '2010-12-17T06:00:11-05:00'
 draft: false
 title: "Daily Blogroll 12/17 -- Titan-ic Edition"
 author: "Tipa"
+disqusIdentifier: "2010/12/17/daily-blogroll-1217-titan-ic-edition"
 summary: "[..."
 categories:
   - "Daily Blogroll"
@@ -10,6 +11,19 @@ categories:
   - "EverQuest"
   - "MMORPG"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2011/05/13/daily-blogroll-513-truth-in-advertising-edition/"
+    title: "Daily Blogroll 5/13: Truth in Advertising Edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/05/Fullscreen-capture-5112011-61851-AM-480x308.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/09/23/daily-blogroll-923-all-queued-up-edition/"
+    title: "Daily Blogroll 9/23 - All Queued Up Edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/yankee.jpg"
+  - url: "/2009/09/09/daily-blogroll-9909-galaxy-express-edition/"
+    title: "Daily Blogroll 9/9/09 - Galaxy Express edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/hko-2009-09-08-21-52-33-20.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/titan.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/titan.png"
 ---

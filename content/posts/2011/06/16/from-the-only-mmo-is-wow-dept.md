@@ -3,11 +3,25 @@ date: '2011-06-16T07:03:02-05:00'
 draft: false
 title: "From \"The Only MMO is WoW\" dept.:"
 author: "Tipa"
+disqusIdentifier: "2011/06/16/from-the-only-mmo-is-wow-dept"
 summary: "There's probably worthwhile studies to be done on the MMORPG phenomenon. The games of the genre are designed to keep you interested and engaged for..."
 categories:
   - "EverQuest"
   - "MMORPG"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2021/08/07/mmos-on-the-bubble/"
+    title: "MMOs on the Bubble"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/STP61286.jpg"
+  - url: "/2020/09/09/what-makes-an-mmo-an-mmo/"
+    title: "What makes an MMO an MMO?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/Kingdoms-of-Amalur_-Reckoning-12_31_2015-4_16_05-PM-1.png"
+  - url: "/2020/08/18/does-crafting-have-any-place-in-modern-mmos/"
+    title: "Does Crafting have any place in modern MMOs?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-EverQuest2-2020-08-18-18-11-08-10.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/06/rift-2011-06-04-22-44-12-39-225x225.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/06/rift-2011-06-04-22-44-12-39-225x225.jpg"
 ---

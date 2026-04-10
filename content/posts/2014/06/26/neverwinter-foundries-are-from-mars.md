@@ -3,12 +3,26 @@ date: '2014-06-26T18:46:37-05:00'
 draft: false
 title: "Neverwinter: Foundries are from Mars"
 author: "Tipa"
+disqusIdentifier: "2014/06/26/neverwinter-foundries-are-from-mars"
 summary: "Neverwinter Foundry Night! Wind and weather conspired to give me and Kasul enough uninterrupted power to meet in Neverwinter and do some foundries. Due to..."
 categories:
   - "DC Universe Online"
   - "MMORPG"
 tags:
   - "Foundry"
+relatedPosts:
+  - url: "/2020/08/13/blaugust-7-be-the-best-that-ever-was/"
+    title: "Blaugust #7: Be The Best that Ever Was"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/GameClient-2014-02-06-07-29-35-19.jpg"
+  - url: "/2020/08/12/blaugust-11-what-weve-lost-along-the-way/"
+    title: "Blaugust #11: What We've Lost Along the Way"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/googlere.png"
+  - url: "/2015/02/19/based-on-a-suggestion-last-week-in-the-forums-i-went-through-the-159-quests-that-we-have-reviewed/"
+    title: "Weekly Foundry Reviews -- February 18, 2015"
+    thumbnailImage: ""
+  - url: "/2015/02/12/weekly-foundry-quests-february-11-2015after-running-into-ian-darksword-entirely-by-accident-guard/"
+    title: "Weekly Foundry Quests -- February 11, 2015"
+    thumbnailImage: ""
 coverImage: "https://lh3.googleusercontent.com/-q_qL0MWx2Ik/U6wASF20kQI/AAAAAAAAwEY/rhOUQX6GIkA/w907-h726-no/GameClient+2014-06-25+23-30-17-66.jpg"
 thumbnailImage: "https://lh3.googleusercontent.com/-q_qL0MWx2Ik/U6wASF20kQI/AAAAAAAAwEY/rhOUQX6GIkA/w907-h726-no/GameClient+2014-06-25+23-30-17-66.jpg"
 ---

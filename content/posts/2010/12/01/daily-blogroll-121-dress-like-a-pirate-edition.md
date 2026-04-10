@@ -3,6 +3,7 @@ date: '2010-12-01T06:00:45-05:00'
 draft: false
 title: "Daily Blogroll, 12/1 -- Dress Like a Pirate Edition"
 author: "Tipa"
+disqusIdentifier: "2010/12/01/daily-blogroll-121-dress-like-a-pirate-edition"
 summary: "It was a 7.1 gig patch, but I did managed to get into Flying Lab's Pirates of the Burning Sea last night, and spent a..."
 categories:
   - "Daily Blogroll"
@@ -11,6 +12,19 @@ categories:
   - "MMORPG"
   - "Pirates of the Burning Sea"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2009/09/17/daily-blogroll-917-kanye-edition/"
+    title: "Daily Blogroll 9/17 - Kanye edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/kanye.jpg"
+  - url: "/2008/04/07/the-mmo-nostalgia-challenge/"
+    title: "The MMO Nostalgia Challenge"
+    thumbnailImage: ""
+  - url: "/2010/11/30/daily-blogroll-1130-worst-case-scenario-edition/"
+    title: "Daily Blogroll, 11/30 -- Worst Case Scenario edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/vgclient-2010-11-29-20-32-30-42.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/potbs-2010-11-30-19-08-45-94.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/potbs-2010-11-30-19-08-45-94.jpg"
 ---

@@ -3,12 +3,26 @@ date: '2011-05-24T07:09:13-05:00'
 draft: false
 title: "What if Rift was modeled after EverQuest?"
 author: "Tipa"
+disqusIdentifier: "2011/05/24/what-if-rift-was-modeled-after-everquest"
 summary: "If you took all the bullet-point features of Rift and compared them against all the bullet-point features of World of Warcraft as it was before..."
 categories:
   - "EverQuest"
   - "MMORPG"
   - "Rift"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2011/05/13/daily-blogroll-513-truth-in-advertising-edition/"
+    title: "Daily Blogroll 5/13: Truth in Advertising Edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/05/Fullscreen-capture-5112011-61851-AM-480x308.jpg"
+  - url: "/2011/01/27/daily-blogroll-127-inevitable-backlash-edition/"
+    title: "Daily Blogroll 1/27 -- Inevitable Backlash edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/riftblade.png"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/05/rift-2011-05-23-07-42-33-94-480x480.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/05/rift-2011-05-23-07-42-33-94-480x480.jpg"
 ---

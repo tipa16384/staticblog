@@ -3,9 +3,23 @@ date: '2007-02-07T13:38:15-05:00'
 draft: false
 title: "The Proof is in the Pudding"
 author: "Tipa"
+disqusIdentifier: "2007/02/07/the-proof-is-in-the-pudding"
 summary: "And Lord knows, I love pudding. But this is getting a little funny...."
 categories:
   - "My Work"
+relatedPosts:
+  - url: "/2010/02/15/java-test-ramping-up-for-7drl/"
+    title: "Java Test: Ramping up for 7DRL"
+    thumbnailImage: ""
+  - url: "/2009/05/31/adventures-in-computer-science-monopoly-board-computer/"
+    title: "Adventures in Computer Science: Monopoly board computer"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/turingopoly.jpg"
+  - url: "/2009/03/26/xfire-wordpress-plugin-first-release/"
+    title: "XFire Wordpress Plugin -- first release"
+    thumbnailImage: ""
+  - url: "/2009/03/26/xfire-wordpress-widget/"
+    title: "XFire Wordpress Widget"
+    thumbnailImage: ""
 ---
 And Lord knows, I love pudding. But this is getting a little funny....
 <!--more-->

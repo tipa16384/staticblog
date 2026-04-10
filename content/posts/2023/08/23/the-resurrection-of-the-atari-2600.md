@@ -3,6 +3,7 @@ date: '2023-08-23T07:00:00-05:00'
 draft: false
 title: "The Resurrection of the Atari 2600"
 author: "Tipa"
+disqusIdentifier: "2023/08/23/the-resurrection-of-the-atari-2600"
 summary: "No, this isn't about the previous resurrection of the Atari 2600. Nor the previous one. Not that other one either. This is new."
 categories:
   - "Atari 2600"
@@ -11,6 +12,19 @@ categories:
 tags:
   - "Atari"
   - "River Raid"
+relatedPosts:
+  - url: "/2021/11/18/im-just-here-to-bring-joy-and-melt-your-brain/"
+    title: "I'm just here to bring joy and melt your brain."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/genesisloot.jpg"
+  - url: "/2021/11/10/hodgepodge-games-crypto-and-nfts/"
+    title: "Hodgepodge: Games, Crypto and NFTs."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/senile.png"
+  - url: "/2024/03/30/retro-game-haul-march-30-2024/"
+    title: "Retro Game Haul: March 30, 2024"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/IMG_4228.jpg"
+  - url: "/2024/03/30/the-atari-400-mini-is-it-worth-the-nostalgia/"
+    title: "The Atari 400 Mini. Is it worth the nostalgia?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/banner.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/atari2600.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/atari2600.png"
 ---

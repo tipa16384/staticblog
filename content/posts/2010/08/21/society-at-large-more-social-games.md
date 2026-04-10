@@ -3,6 +3,7 @@ date: '2010-08-21T11:31:48-05:00'
 draft: false
 title: "More Social Games: Office Heroes, Kingdoms of Camelot, Virtual Villagers"
 author: "Tipa"
+disqusIdentifier: "2010/08/21/society-at-large-more-social-games"
 summary: "[..."
 categories:
   - "Facebook Games"
@@ -14,6 +15,19 @@ tags:
   - "Office Heroes"
   - "Social Game"
   - "Virtual Villagers"
+relatedPosts:
+  - url: "/2010/08/27/thoughts-on-the-social-gaming-explosion/"
+    title: "Thoughts on the social gaming explosion"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/fv-480x323.jpg"
+  - url: "/2010/09/25/social-game-review-backyard-monsters/"
+    title: "Social Game Review: Backyard Monsters"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/Fullscreen-capture-9242010-91206-PM-480x329.jpg"
+  - url: "/2010/09/14/facebook-game-roundup-warstorm-and-city-of-wonder/"
+    title: "Facebook game roundup: Warstorm and City of Wonder"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/Fullscreen-capture-9142010-64431-AM-480x436.jpg"
+  - url: "/2010/10/12/social-game-review-lucky-train/"
+    title: "Social Game Review: Lucky Train"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/Fullscreen-capture-10102010-21334-PM-480x384.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/officehero-480x348.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/officehero-480x348.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2012-10-11T06:51:44-05:00'
 draft: false
 title: "Game Log: Pirate101, Torchlight 2"
 author: "Tipa"
+disqusIdentifier: "2012/10/11/game-log-pirate101-torchlight-2"
 summary: "I kinda remembered the Presidio battle from Alpha, but Arislyn on Google+ was saying it had gotten a lot tougher. I think I did it..."
 categories:
   - "Diablo 3"
@@ -10,6 +11,19 @@ categories:
   - "Other Games"
   - "Pirate101"
   - "Torchlight"
+relatedPosts:
+  - url: "/2012/10/20/game-log-pirate101-diablo3/"
+    title: "Game Log: Pirate101, Diablo3"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-19-22-31-46-93-480x384.jpg"
+  - url: "/2009/11/09/weekend-gaming-eve-torchlight-dragon-age/"
+    title: "Weekend Gaming: EVE, Torchlight, Dragon Age"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/11/Torchlight-2009-11-08-12-49-04-88.jpg"
+  - url: "/2009/11/02/weekend-gaming-torchlight-and-wizard101/"
+    title: "Weekend Gaming: Torchlight and Wizard101"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/11/Torchlight-2009-11-01-10-48-21-22.jpg"
+  - url: "/2009/05/13/daily-blogroll-513-going-rogue-edition/"
+    title: "Daily Blogroll 5/13 -- Going Rogue edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/angelatheangelic.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-10-21-01-42-45-480x360.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-10-21-01-42-45-480x360.jpg"
 ---

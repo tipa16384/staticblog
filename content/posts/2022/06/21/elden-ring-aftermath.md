@@ -3,6 +3,7 @@ date: '2022-06-21T07:53:29-05:00'
 draft: false
 title: "Elden Ring: Aftermath"
 author: "Tipa"
+disqusIdentifier: "2022/06/21/elden-ring-aftermath"
 summary: "I've finished the main plot to Elden Ring, and gotten one of the six endings. Now it's time to go back and get my revenge..."
 categories:
   - "Elden Ring"
@@ -16,6 +17,19 @@ tags:
   - "RPG"
   - "Souls-Like"
   - "Tree Sentinel"
+relatedPosts:
+  - url: "/2022/06/19/elden-ring-elden-lord/"
+    title: "Elden Ring: Elden Lord"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/06/ELDEN-RING™_20220619115831-scaled.jpg"
+  - url: "/2022/05/30/what-if-elden-but-ring/"
+    title: "What if Elden, but Ring?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/05/ELDEN-RING™_20220529120543-scaled.jpg"
+  - url: "/2022/11/07/gotham-knights-the-best-superhero-game-youre-not-playing/"
+    title: "Gotham Knights - The Best Superhero Game You're Not Playing"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/11/DALL·E-2022-11-07-22.23.47-digital-art-city-scape-at-night.png"
+  - url: "/2020/12/05/assassins-creed-valhalla-my-first-creed-no-spoilers/"
+    title: "Assassin's Creed Valhalla: My First Creed (no spoilers)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/Assassins-Creed®-Valhalla_20201117070244-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/06/1-ELDEN-RING™_20220620153851.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/06/1-ELDEN-RING™_20220620153851.jpg"
 ---

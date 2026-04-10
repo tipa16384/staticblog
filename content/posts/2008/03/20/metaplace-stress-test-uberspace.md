@@ -3,9 +3,14 @@ date: '2008-03-20T07:38:40-05:00'
 draft: false
 title: "Metaplace stress test -- Uberspace"
 author: "Tipa"
+disqusIdentifier: "2008/03/20/metaplace-stress-test-uberspace"
 summary: "I was delighted to be able to join another Metaplace stress test last night -- these are open to everyone, so if you ever thought..."
 categories:
   - "Metaplace"
+relatedPosts:
+  - url: "/2008/08/12/metaplace-transitions/"
+    title: "Metaplace Transitions"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/trans0.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/03/us.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/03/us.jpg"
 ---

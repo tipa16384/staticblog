@@ -3,6 +3,7 @@ date: '2007-11-29T11:08:18-05:00'
 draft: false
 title: "Vernor Vinge's \"Rainbow's End\" free to read... so go read it"
 author: "Tipa"
+disqusIdentifier: "2007/11/29/vernor-vinges-rainbows-end-free-to-read-so-go-read-it"
 summary: "Way back in the 70s, Vernor Vinge wrote a short story called \"True Names\" which is about a bunch of people who hang out in..."
 categories:
   - "Sci Fi"
@@ -10,6 +11,19 @@ tags:
   - "Rainbow's End"
   - "Sci Fi"
   - "Vernor Vinge"
+relatedPosts:
+  - url: "/2007/11/29/sf-playing-for-keeps/"
+    title: "SF: Playing for Keeps"
+    thumbnailImage: ""
+  - url: "/2026/01/17/starfleet-academy-your-billionaire-future/"
+    title: "Starfleet Academy: Your Billionaire Future"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/starfleetacademy.png"
+  - url: "/2024/09/27/game-night-in-too-deep/"
+    title: "Game Night: In Too Deep"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/intoodeepbanner.png"
+  - url: "/2022/09/20/review-braking-day-by-adam-oyebanji/"
+    title: "Review: Braking Day by Adam Oyebanji"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/brakingday.png"
 ---
 Way back in the 70s, Vernor Vinge wrote a short story called "True Names" which is about a bunch of people who hang out in...
 <!--more-->

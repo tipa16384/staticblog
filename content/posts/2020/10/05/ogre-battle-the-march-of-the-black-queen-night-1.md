@@ -3,6 +3,7 @@ date: '2020-10-05T08:03:07-05:00'
 draft: false
 title: "Ogre Battle \"The March of the Black Queen\" -- Night 1"
 author: "Tipa"
+disqusIdentifier: "2020/10/05/ogre-battle-the-march-of-the-black-queen-night-1"
 summary: "Before Final Fantasy Tactics, my favorite fantasy tactical battle RPG, there was the Ogre Battle series. I discovered the franchise the other way around, though:..."
 categories:
   - "Super Nintendo"
@@ -13,6 +14,19 @@ tags:
   - "RPG"
   - "Tactics"
   - "The March of the Black Queen"
+relatedPosts:
+  - url: "/2020/10/17/ogre-battle-the-march-of-the-black-queen-how-to-win-the-game/"
+    title: "Ogre Battle: The March of the Black Queen: How to Win the Game."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-138.png"
+  - url: "/2020/10/07/tactics-ogre-and-ogre-battle-let-us-get-sirius/"
+    title: "Tactics Ogre and Ogre Battle: Let Us Get Sirius"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/sirius.png"
+  - url: "/2020/10/14/ogre-battle-alignment-and-charisma/"
+    title: "Ogre Battle: Alignment and Charisma"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-068.png"
+  - url: "/2020/10/06/ogre-battle-night-2-pogrom-forest-this-game-is-literally-impossible/"
+    title: "Ogre Battle -- Night 2, Pogrom Forest. This game is literally impossible."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/kapella.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/blackqueen.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/blackqueen.png"
 ---

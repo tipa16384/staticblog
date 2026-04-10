@@ -3,6 +3,7 @@ date: '2008-01-29T08:18:35-05:00'
 draft: false
 title: "Short updates: Rock Band, Vanguard and Pirates of the Burning Sea"
 author: "Tipa"
+disqusIdentifier: "2008/01/29/short-updates-rock-band-vanguard-and-pirates-of-the-burning-sea"
 summary: "I finally hit 31 in Rock Band last night after about a dozen duels of which I lost two...."
 categories:
   - "MMORPG"
@@ -11,6 +12,19 @@ categories:
   - "Vanguard"
 tags:
   - "Winterwing"
+relatedPosts:
+  - url: "/2008/01/09/eq2-rock-band-goong-xbox-ps3-potbs-and-stuff/"
+    title: "EQ2, Rock Band, Goong, Xbox, PS3, PotBS, and stuff."
+    thumbnailImage: ""
+  - url: "/2008/08/07/eq2-night-of-the-living-goblin/"
+    title: "EQ2: Night of the Living Goblin"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/everquest2-2008-08-06-23-00-34-94.jpg"
+  - url: "/2008/05/17/nostalgia-paludal-caverns-mistmoore-ldons-and-darklight-woods/"
+    title: "Nostalgia: Paludal Caverns, Mistmoore LDoNs and ... Darklight Woods?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/05/eqgame-2008-05-13-22-19-40-68.jpg"
+  - url: "/2008/05/13/eq2-taking-flight/"
+    title: "EQ2: Taking Flight"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/11/everquest2-2007-11-24-10-58-51-01.jpg"
 ---
 I finally hit 31 in Rock Band last night after about a dozen duels of which I lost two....
 <!--more-->

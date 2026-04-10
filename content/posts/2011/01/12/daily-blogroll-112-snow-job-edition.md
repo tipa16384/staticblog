@@ -3,6 +3,7 @@ date: '2011-01-12T06:00:02-05:00'
 draft: false
 title: "Daily Blogroll 1/12 -- Snow Job edition"
 author: "Tipa"
+disqusIdentifier: "2011/01/12/daily-blogroll-112-snow-job-edition"
 summary: "[..."
 categories:
   - "Champions Online"
@@ -15,6 +16,19 @@ categories:
   - "Pirates of the Burning Sea"
   - "Rift"
   - "Star Trek"
+relatedPosts:
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2008/12/24/a-look-back-at-2008/"
+    title: "A look back at 2008"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-30-22-10-50-69.jpg"
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2009/03/05/will-2009-be-the-best-year-ever-for-mmos/"
+    title: "Will 2009 be the best year ever for MMOs?"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/11111png.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/11111png.png"
 ---

@@ -3,6 +3,7 @@ date: '2009-06-16T21:25:54-05:00'
 draft: false
 title: "A first look at Aion: The Tower of Eternity"
 author: "Tipa"
+disqusIdentifier: "2009/06/16/a-first-look-at-aion-the-tower-of-eternity"
 summary: "Aion is not an innovative MMO. Anybody will tell you that...."
 categories:
   - "Aion"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "First"
   - "First Impressions"
+relatedPosts:
+  - url: "/2009/05/22/atlus-neosteam-first-impressions/"
+    title: "Atlus' NeoSteam: First Impressions"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/neosteam-2009-05-22-07-08-27-43.jpg"
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2011/01/06/daily-blogroll-16-fair-and-balanced-edition/"
+    title: "Daily Blogroll 1/6: Fair and Balanced edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/fox.png"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/aionwings.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/aionwings.jpg"
 ---

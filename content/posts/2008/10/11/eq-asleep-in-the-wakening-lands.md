@@ -3,6 +3,7 @@ date: '2008-10-11T07:46:06-05:00'
 draft: false
 title: "EQ: Asleep in the Wakening Lands"
 author: "Tipa"
+disqusIdentifier: "2008/10/11/eq-asleep-in-the-wakening-lands"
 summary: "We didn't have enough people show last night to continue on the Lavaspinner's Lair quests, but Nostalgia's newest member, Stolig, a 44 Magician, was there..."
 categories:
   - "EverQuest"
@@ -13,6 +14,19 @@ tags:
   - "Sentient Armor"
   - "Stolig"
   - "Wakening Lands"
+relatedPosts:
+  - url: "/2020/05/13/everquest-bones-everywhere/"
+    title: "EverQuest: Bones Everywhere."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/eqgame-2020-05-13-06-57-41-85.jpg"
+  - url: "/2009/06/16/welcome-to-mayong-everquests-5150-server/"
+    title: "Welcome to Mayong, EverQuest's 51/50 server"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/mayong.jpg"
+  - url: "/2009/04/17/happy-10th-birthday-everquest/"
+    title: "Happy 10th Birthday, EverQuest!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/eq10-2.jpg"
+  - url: "/2009/04/05/eq2-epic-encounter-in-my-bedroom/"
+    title: "EQ2: Epic encounter in my bedroom"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/everquest2-2009-04-04-21-58-41-05.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-11-07-05-42-90.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-11-07-05-42-90.jpg"
 ---

@@ -3,12 +3,26 @@ date: '2008-05-01T13:27:24-05:00'
 draft: false
 title: "What's the big deal about open betas, anyway?"
 author: "Tipa"
+disqusIdentifier: "2008/05/01/whats-the-big-deal-about-open-betas-anyway"
 summary: "Today, the Age of Conan open beta opens. And people are fibrillating over it, slavering, EAGER to download a game most of them will have..."
 categories:
   - "Age of Conan"
   - "MMORPG"
   - "Warhammer: Age of Reckoning"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/09/23/daily-blogroll-923-all-queued-up-edition/"
+    title: "Daily Blogroll 9/23 - All Queued Up Edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/yankee.jpg"
+  - url: "/2009/06/25/daily-blogroll-625-a-valiant-effort-edition/"
+    title: "Daily Blogroll 6/25 -- A Valiant Effort edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/valianteffort.jpg"
+  - url: "/2009/05/29/daily-blogroll-529-reasons-to-be-cheerful-pt-iii/"
+    title: "Daily Blogroll 5/29 -- Reasons to be Cheerful, Pt III"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/everquest2-2009-05-17-07-38-31-44.jpg"
 ---
 Today, the Age of Conan open beta opens. And people are fibrillating over it, slavering, EAGER to download a game most of them will have...
 <!--more-->

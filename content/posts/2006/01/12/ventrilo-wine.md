@@ -3,10 +3,24 @@ date: '2006-01-12T00:00:00-05:00'
 draft: false
 title: "Ventrilo Wine"
 author: "Tipa"
+disqusIdentifier: "2006/01/12/ventrilo-wine"
 summary: "Prosthetic Feet will require Ventrilo for major raids from now on. So, my challenge is to get this working with Linux...."
 categories:
   - "General"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2008/07/01/sequencing-mmo-dna/"
+    title: "Sequencing MMO DNA"
+    thumbnailImage: ""
+  - url: "/2008/04/15/mmo-on-the-eee/"
+    title: "MMO on the EEE"
+    thumbnailImage: ""
+  - url: "/2007/10/30/suwt-12/"
+    title: "SUWT #12"
+    thumbnailImage: ""
+  - url: "/2006/08/14/wow-and-eq2-newbie-quests/"
+    title: "WoW and EQ2: Newbie Quests"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/08/antonica.jpg"
 coverImage: "http://www.winehq.org/images/winehq_top_logo.png"
 thumbnailImage: "http://www.winehq.org/images/winehq_top_logo.png"
 ---

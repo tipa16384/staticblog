@@ -3,6 +3,7 @@ date: '2009-10-09T07:09:26-05:00'
 draft: false
 title: "Daily Blogroll 10/10: Short Week edition"
 author: "Tipa"
+disqusIdentifier: "2009/10/09/daily-blogroll-1010-short-week-edition"
 summary: "I've been playing a bit of Earth Eternal since it went into open-closed beta yesterday. Since I think we're still unable to actually show the..."
 categories:
   - "Aion"
@@ -13,6 +14,19 @@ categories:
   - "Star Trek"
   - "Wizard101"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/08/10/daily-blogroll-810-thank-god-its-monday-edition/"
+    title: "Daily Blogroll 8/10 -- Thank God it's Monday edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/daddygirl.jpg"
+  - url: "/2009/06/30/daily-blogroll-630-christmas-edition/"
+    title: "Daily Blogroll 6/30 - Christmas edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/TS3-2009-06-30-08-10-20-98.jpg"
+  - url: "/2009/09/03/daily-blogroll-93-sushi-day-edition/"
+    title: "Daily Blogroll 9/3 - Sushi day edition!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/Fullscreen-capture-932009-75844-AM.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/fox1-480x252.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/fox1-480x252.jpg"
 ---

@@ -3,10 +3,24 @@ date: '2008-04-09T14:49:35-05:00'
 draft: false
 title: "Neopia World, and why I'm not excited about Free Realms"
 author: "Tipa"
+disqusIdentifier: "2008/04/09/neopia-world-and-why-im-not-excited-about-free-realms"
 summary: "It's no secret I'm a big fan of Neopets, but it's just come so close to being a fully fledged virtual world, it was just..."
 categories:
   - "MMORPG"
   - "Neopets"
+relatedPosts:
+  - url: "/2010/11/27/daily-blogroll-black-friday-edition/"
+    title: "Daily Blogroll: Black Friday Edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/GameClient-2010-11-25-22-16-43-8-480x263.jpg"
+  - url: "/2020/08/19/blaugust-19-defend-your-life/"
+    title: "Blaugust #19: Defend Your Life"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/IMG_1538.jpg"
+  - url: "/2010/08/07/neopets-wants-me-to-solve-shapeshifter-again/"
+    title: "Neopets wants me to solve Shapeshifter again."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/Fullscreen-capture-872010-35037-PM-382x480.jpg"
+  - url: "/2008/07/02/returning-to-shapeshifter/"
+    title: "Returning to Shapeshifter"
+    thumbnailImage: ""
 ---
 It's no secret I'm a big fan of Neopets, but it's just come so close to being a fully fledged virtual world, it was just...
 <!--more-->

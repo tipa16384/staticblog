@@ -3,6 +3,7 @@ date: '2011-11-09T06:33:12-05:00'
 draft: false
 title: "DDO: Rakshasa, Dragons and Many Many Minos."
 author: "Tipa"
+disqusIdentifier: "2011/11/09/ddo-rakshasa-dragons-and-many-many-minos"
 summary: "Modern MMOs have trained me to believe that no matter what class I play, I'll be able to solo anything without trouble. That's the compact..."
 categories:
   - "Dungeons & Dragons Online"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Google+"
   - "Team Spode"
+relatedPosts:
+  - url: "/2011/11/10/ddo-update-12-challenge-dungeons/"
+    title: "DDO Update 12: Challenge Dungeons"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/11/dndclient-2011-11-09-18-00-20-92.jpg"
+  - url: "/2012/04/06/ddo-web-of-chaos/"
+    title: "DDO: Web of Chaos"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/04/dndclient-2012-04-01-23-54-24-56-480x384.jpg"
+  - url: "/2012/01/30/ddo-doomsphere-the-dull/"
+    title: "DDO: Doomsphere the Dull"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/dndclient-2012-01-29-22-54-24-25-480x319.jpg"
+  - url: "/2012/01/16/ddo-inferno-of-the-damned/"
+    title: "DDO: Inferno of the Damned"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/dndclient-2012-01-15-23-39-49-21-480x384.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/11/dndclient-2011-11-07-00-08-02-82.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/11/dndclient-2011-11-07-00-08-02-82.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2008-09-06T18:04:30-05:00'
 draft: false
 title: "Wizard 101 Live thoughts"
 author: "Tipa"
+disqusIdentifier: "2008/09/06/wizard-101-live-thoughts"
 summary: "Wizard 101 went live days ago, but I've been insanely busy with real life lately (son going off to college and all), so I didn't..."
 categories:
   - "MMORPG"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Kingsisle"
   - "Wizard101"
+relatedPosts:
+  - url: "/2008/09/02/wizard-101-goes-live/"
+    title: "Wizard 101 goes live"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/wizardgraphicalclient-2008-09-02-07-10-47-94.jpg"
+  - url: "/2010/09/23/wizard101-a-chat-with-ki-vp-of-marketing-fred-howard/"
+    title: "Wizard101: A Chat with KI VP of Marketing, Fred Howard"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/WizardGraphicalClient-2010-09-23-21-36-13-33.jpg"
+  - url: "/2010/09/03/wizard101-getting-the-school-ready-for-celestia/"
+    title: "Wizard101: Getting the school ready for Celestia"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/WizardGraphicalClient-2010-09-02-20-49-06-61.jpg"
+  - url: "/2009/04/23/wizard-101-downtime/"
+    title: "Wizard 101 Downtime"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/lifewizardcover.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/lifewizardcover.jpg"
 ---

@@ -3,10 +3,24 @@ date: '2013-01-28T08:22:50-05:00'
 draft: false
 title: "DCUO: A Slippery Slope"
 author: "Tipa"
+disqusIdentifier: "2013/01/28/dcuo-a-slippery-slope"
 summary: "Move over, Justice League. It's time for Team Spode to take the stage. It was time for those old guys to take early retirement anyway,..."
 categories:
   - "DC Universe Online"
   - "MMORPG"
+relatedPosts:
+  - url: "/2024/01/16/city-of-heroes-homecoming/"
+    title: "City of Heroes: Homecoming..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/cohhclogo.png"
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2022/07/30/ship-of-heroes-housing-beta-2/"
+    title: "Ship of Heroes: Housing Beta #2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/1-20220730211912_1.jpg"
+  - url: "/2021/10/11/dcuo-the-legion-of-doom-invades-washington-d-c/"
+    title: "DCUO: The Legion of Doom invades Washington D.C."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/dcuodc.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/01/MADV101_AUDIO-PC-28-00.02.180-480x300.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/01/MADV101_AUDIO-PC-28-00.02.180-480x300.jpg"
 ---

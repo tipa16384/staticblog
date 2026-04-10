@@ -3,12 +3,26 @@ date: '2009-04-28T08:08:50-05:00'
 draft: false
 title: "Can we get back to talking about EverQuest 3 now?"
 author: "Tipa"
+disqusIdentifier: "2009/04/28/can-we-get-back-to-talking-about-everquest-3-now"
 summary: "Will EverQuest 3 be going cartoony?..."
 categories:
   - "EverQuest"
   - "MMORPG"
 tags:
   - "Eq3"
+relatedPosts:
+  - url: "/2009/05/28/will-everquest-iii-be-free-realms-ii/"
+    title: "Will EverQuest III be Free Realms II?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/fullscreen-capture-5282009-65906-am.jpg"
+  - url: "/2009/05/02/its-official-the-new-everquest-server-is-chosen-plus-eq3-rumors/"
+    title: "It's official, the new EverQuest server is chosen, plus EQ3 rumors?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/neriak5150.jpg"
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2024/10/21/evercraft-online-the-unholy-child-of-eq-and-minecraft/"
+    title: "EverCraft Online: The Unholy Child of EQ and MineCraft"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/evercraft-banner.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/faebeforeandafter.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/faebeforeandafter.jpg"
 ---

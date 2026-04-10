@@ -3,6 +3,7 @@ date: '2025-09-17T08:31:56-05:00'
 draft: false
 title: "Dune Awakening: Life in the Deep Desert"
 author: "Tipa"
+disqusIdentifier: "2025/09/17/dune-awakening-life-in-the-deep-desert"
 summary: "It's not just worms and spice and dust and sandstorms and heat and... well, actually, that's pretty much what it is."
 categories:
   - "Dune Awakening"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Landsraad"
   - "Team Spode"
+relatedPosts:
+  - url: "/2025/12/15/i-know-what-i-did-last-weekend-6/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/IMG_5573-scaled.jpg"
+  - url: "/2025/09/22/dune-awakening-apotheosis/"
+    title: "Dune Awakening: Apotheosis"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/1-20250920233213_1.jpg"
+  - url: "/2025/09/09/dune-awakening-order-of-the-wombat-steps-out/"
+    title: "Dune Awakening: Order of the Wombat Steps Out"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/1-20250908074317_1.jpg"
+  - url: "/2025/08/17/dune-awakening-roc-music/"
+    title: "Dune: Awakening -- Roc Music"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/dunecarrier.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/1-20250915204452_1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/1-20250915204452_1.jpg"
 ---

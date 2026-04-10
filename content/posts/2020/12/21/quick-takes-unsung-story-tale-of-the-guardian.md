@@ -3,6 +3,7 @@ date: '2020-12-21T11:38:02-05:00'
 draft: false
 title: "Quick Takes: Unsung Story, Tale of the Guardian"
 author: "Tipa"
+disqusIdentifier: "2020/12/21/quick-takes-unsung-story-tale-of-the-guardian"
 summary: "Unsung Story, by Little Orbit, is the game I never thought I would see. It was due to be released five and a half years..."
 categories:
   - "Kickstarter"
@@ -15,6 +16,19 @@ tags:
   - "Steam"
   - "Tactics"
   - "Unsung Story"
+relatedPosts:
+  - url: "/2021/11/02/quick-look-pawnbarian/"
+    title: "Quick Look: Pawnbarian"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/20211102204800_1.jpg"
+  - url: "/2022/04/07/you-probably-should-be-playing-wildermyth-right-now/"
+    title: "You probably should be playing Wildermyth right now."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/04/screenshot_30.png"
+  - url: "/2021/07/20/rise-eterna/"
+    title: "Rise Eterna"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/2021051618021700-BA2A6D95681540D14D17CA98DC5AFB99.jpg"
+  - url: "/2024/03/23/unicorn-overlord-whose-overlord-is-it-anyway/"
+    title: "Unicorn Overlord -- Whose Overlord Is It, Anyway?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/Unicorn-Overlord_20240322181915.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/20201219085246_1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/20201219085246_1.jpg"
 ---

@@ -3,10 +3,24 @@ date: '2006-01-09T00:00:00-05:00'
 draft: false
 title: "NationStates"
 author: "Tipa"
+disqusIdentifier: "2006/01/09/nationstates"
 summary: "NationStates is an interesting web game; you make a country and mold it according to your own beliefs, interact with other nations, join the UN..."
 categories:
   - "MMORPG"
   - "Nationstates"
+relatedPosts:
+  - url: "/2006/04/12/nationstates-progress/"
+    title: "NationStates progress"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/images/dryroot.png"
+  - url: "/2006/02/09/various-games/"
+    title: "Various Games"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/images/dryroot.jpg"
+  - url: "/2006/01/19/dryroot-joins-the-ddr/"
+    title: "Dryroot Joins the DDR"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/images/dryroot.jpg"
+  - url: "/2006/01/17/dryroot/"
+    title: "Dryroot"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/images/dryroot.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/images/dryroot.gif"
 thumbnailImage: "https://tipa16384.github.io/wkblog/images/dryroot.gif"
 ---

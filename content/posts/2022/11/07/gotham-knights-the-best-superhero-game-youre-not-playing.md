@@ -3,6 +3,7 @@ date: '2022-11-07T23:42:14-05:00'
 draft: false
 title: "Gotham Knights - The Best Superhero Game You're Not Playing"
 author: "Tipa"
+disqusIdentifier: "2022/11/07/gotham-knights-the-best-superhero-game-youre-not-playing"
 summary: "Gotham Knights is the perfect game for Batman fans who want an open world game with a good story."
 categories:
   - "Batman"
@@ -14,6 +15,19 @@ tags:
   - "DC Comics"
   - "DC Universe Online"
   - "RPG"
+relatedPosts:
+  - url: "/2022/11/14/gotham-knights-completed/"
+    title: "Gotham Knights completed"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/11/Gotham-Knights_20221114221226-scaled.jpg"
+  - url: "/2022/06/21/elden-ring-aftermath/"
+    title: "Elden Ring: Aftermath"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/06/1-ELDEN-RING™_20220620153851.jpg"
+  - url: "/2022/06/19/elden-ring-elden-lord/"
+    title: "Elden Ring: Elden Lord"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/06/ELDEN-RING™_20220619115831-scaled.jpg"
+  - url: "/2020/12/05/assassins-creed-valhalla-my-first-creed-no-spoilers/"
+    title: "Assassin's Creed Valhalla: My First Creed (no spoilers)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/Assassins-Creed®-Valhalla_20201117070244-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/11/DALL·E-2022-11-07-22.23.47-digital-art-city-scape-at-night.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/11/DALL·E-2022-11-07-22.23.47-digital-art-city-scape-at-night.png"
 ---

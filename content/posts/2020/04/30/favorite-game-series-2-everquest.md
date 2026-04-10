@@ -3,6 +3,7 @@ date: '2020-04-30T11:44:46-05:00'
 draft: false
 title: "Favorite Game Series #2: EverQuest"
 author: "Tipa"
+disqusIdentifier: "2020/04/30/favorite-game-series-2-everquest"
 summary: "Before you start objecting to having an MMO up this far, I'm just going to present my bona fides: There's a TON of games in..."
 categories:
   - "EverQuest"
@@ -10,6 +11,19 @@ categories:
   - "MMORPG"
 tags:
   - "Neverwinter Online"
+relatedPosts:
+  - url: "/2021/08/07/mmos-on-the-bubble/"
+    title: "MMOs on the Bubble"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/STP61286.jpg"
+  - url: "/2021/07/22/new-world-fomo-or-fotm/"
+    title: "New World: FOMO or FOTM?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/GameClient-2014-12-06-11-09-05-59.jpg"
+  - url: "/2020/08/13/blaugust-7-be-the-best-that-ever-was/"
+    title: "Blaugust #7: Be The Best that Ever Was"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/GameClient-2014-02-06-07-29-35-19.jpg"
+  - url: "/2020/08/12/blaugust-11-what-weve-lost-along-the-way/"
+    title: "Blaugust #11: What We've Lost Along the Way"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/googlere.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/04/pcsx2-2020-04-30-07-01-16-71-1024x769.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/04/pcsx2-2020-04-30-07-01-16-71-1024x769.jpg"
 ---

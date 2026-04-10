@@ -3,6 +3,7 @@ date: '2023-08-28T07:00:00-05:00'
 draft: false
 title: "Retro World Expo Scorecard"
 author: "Tipa"
+disqusIdentifier: "2023/08/28/retro-world-expo-scorecard"
 summary: "Retro World Expo has been defeated by us. Here's the games we ripped from its steaming corpse."
 categories:
   - "Blaugust"
@@ -15,6 +16,19 @@ tags:
   - "Powermonger"
   - "Retro World Expo"
   - "Sailor Moon"
+relatedPosts:
+  - url: "/2023/08/11/only-mew-can-stop-mewtwo-now/"
+    title: "Only Mew can stop Mewtwo now..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/mewtoo.png"
+  - url: "/2023/08/03/not-taming-the-backlog/"
+    title: "(Not) Taming the Backlog"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/DALL·E-2023-08-02-23.10.21-A-dragon-wearing-glasses-surrounded-by-stacks-of-video-games.png"
+  - url: "/2023/09/04/retro-world-find-othello-world/"
+    title: "Retro World Find: Othello World"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/Screenshot-2023-09-04-162409.png"
+  - url: "/2024/08/21/my-short-brief-history-with-crocs/"
+    title: "My short, brief history with Crocs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/pcroc.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/sailormoonpikachu.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/sailormoonpikachu.png"
 ---

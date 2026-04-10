@@ -3,6 +3,7 @@ date: '2021-08-14T09:51:19-05:00'
 draft: false
 title: "Final Fantasy III -- The Adventure Begins!"
 author: "Tipa"
+disqusIdentifier: "2021/08/14/final-fantasy-iii-the-adventure-begins"
 summary: "Final Fantasy I was a lot of fun. I really struggled which of the old NES Final Fantasy games to play next. FF2 added Cid..."
 categories:
   - "Blaugust"
@@ -12,6 +13,19 @@ categories:
 tags:
   - "Blaugust"
   - "Steam"
+relatedPosts:
+  - url: "/2021/08/22/ff3-complete/"
+    title: "FF3 Complete!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210821223214_1.jpg"
+  - url: "/2021/08/17/ff3-making-myself-cod-worthy/"
+    title: "FF3 -- Making Myself CoD-Worthy"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/20210817213623_1.jpg"
+  - url: "/2021/08/17/ff3-eureka-and-the-cloud-of-darkness/"
+    title: "FF3 -- Eureka, and the Cloud of Darkness"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/20210816230414_1.jpg"
+  - url: "/2021/08/15/ff3-all-u-can-eat-gysahl-greens/"
+    title: "FF3 -- All-U-Can-Eat Gysahl Greens"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210814221925_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210813233332_1-1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210813233332_1-1.jpg"
 ---

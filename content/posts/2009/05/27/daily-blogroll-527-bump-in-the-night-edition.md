@@ -3,6 +3,7 @@ date: '2009-05-27T08:29:33-05:00'
 draft: false
 title: "Daily Blogroll 5/27 -- Bump in the Night edition"
 author: "Tipa"
+disqusIdentifier: "2009/05/27/daily-blogroll-527-bump-in-the-night-edition"
 summary: "Working on a first impressions piece about Mabinogi. Will keep the self-flagellation to a minimum but really, I only do it because it feels good..."
 categories:
   - "Daily Blogroll"
@@ -12,6 +13,19 @@ categories:
   - "Second Life"
   - "Star Trek"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2011/01/27/daily-blogroll-127-inevitable-backlash-edition/"
+    title: "Daily Blogroll 1/27 -- Inevitable Backlash edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/riftblade.png"
+  - url: "/2010/12/10/daily-blogroll-1210-bite-from-your-wallet-edition/"
+    title: "Daily Blogroll 12/10 -- Bite from your wallet edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/EverQuest2-2010-12-09-20-24-37-78.jpg"
+  - url: "/2010/01/19/weekend-gaming-super-rich-edition/"
+    title: "Weekend gaming: Super-rich edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/01/aimbomb.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/exefile-2009-05-25-19-13-32-09.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/exefile-2009-05-25-19-13-32-09.jpg"
 ---

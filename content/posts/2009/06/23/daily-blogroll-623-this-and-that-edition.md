@@ -3,6 +3,7 @@ date: '2009-06-23T07:55:46-05:00'
 draft: false
 title: "Daily Blogroll 6/23 -- This and That edition"
 author: "Tipa"
+disqusIdentifier: "2009/06/23/daily-blogroll-623-this-and-that-edition"
 summary: "Between allergies and traveling, hasn't been a lot of writing being done. When I got back home Sunday, there were nearly 200 messages in the..."
 categories:
   - "Aion"
@@ -12,6 +13,19 @@ categories:
   - "MMORPG"
   - "Wizard101"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2009/07/20/daily-blogroll-720/"
+    title: "Daily Blogroll 7/20 - Much Ado about Nothing edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/LaTaleClient-2009-07-18-15-50-33-45.jpg"
+  - url: "/2009/09/09/daily-blogroll-9909-galaxy-express-edition/"
+    title: "Daily Blogroll 9/9/09 - Galaxy Express edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/hko-2009-09-08-21-52-33-20.jpg"
+  - url: "/2009/09/17/daily-blogroll-917-kanye-edition/"
+    title: "Daily Blogroll 9/17 - Kanye edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/kanye.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/Fullscreen-capture-6232009-61718-AM.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/Fullscreen-capture-6232009-61718-AM.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2022-08-25T07:00:00-05:00'
 draft: false
 title: "25 Cents: The Age of the Arcade"
 author: "Tipa"
+disqusIdentifier: "2022/08/25/25-cents-the-age-of-the-arcade"
 summary: "In 25 Cents, players take on the role of arcade owners in the 1980s, running their businesses and competing against each other to attract high scores from players who drop quarters into virtual machines."
 categories:
   - "Arcade Game"
@@ -14,6 +15,19 @@ tags:
   - "Craiyon"
   - "Dall-E 2"
   - "Gpt-3"
+relatedPosts:
+  - url: "/2022/08/30/blaugust-theme-week-lessons-learned/"
+    title: "Blaugust theme week: Lessons learned"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-30-23.00.58-35mm-long-range-photograph-of-a-woman-warrior-reading-a-book-while-sitting-against-a-sleeping-green-dragon-near-a-mountain-lake-pastel-colors-peacef.png"
+  - url: "/2022/08/26/1926-the-golden-age-of-aviation/"
+    title: "1926: The Golden Age of Aviation"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/goldenage26.png"
+  - url: "/2022/08/21/21-reactions-chemical-chaos/"
+    title: "21 Reactions: Chemical Chaos"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-13-21.11.32-a-beaker-containing-multicolored-chemicals.-musical-notes-are-coming-out-of-the-mouth-of-the-beaker.-in-the-style-of-a-textbook-illustration..png"
+  - url: "/2022/08/20/the-wild-20s-the-city-is-your-sandbox/"
+    title: "The Wild 20s - The City is Your Sandbox"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/wild20s.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-17-23.27.24-synthwave-a-wombat-dressed-in-a-pink-blazer-playing-an-arcade-machine-in-a-video-arcade.-the-picture-is-lit-only-by-the-glow-of-the-arcade-machines.-l.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-17-23.27.24-synthwave-a-wombat-dressed-in-a-pink-blazer-playing-an-arcade-machine-in-a-video-arcade.-the-picture-is-lit-only-by-the-glow-of-the-arcade-machines.-l.png"
 ---

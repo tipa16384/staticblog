@@ -3,6 +3,7 @@ date: '2023-11-24T10:33:38-05:00'
 draft: false
 title: "Pantheon: What's so bad about 247 Extraction?"
 author: "Tipa"
+disqusIdentifier: "2023/11/24/pantheon-whats-so-bad-about-247-extraction"
 summary: "We need to have a little talk about Pantheon..."
 categories:
   - "EverQuest"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Dark and Darker"
   - "Palia"
+relatedPosts:
+  - url: "/2023/08/04/palia-first-impressions-a-promising-start-to-a-social-mmo-adventure/"
+    title: "Palia First Impressions: A Promising Start to a Social MMO Adventure"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/PALIA_Key_Art_Logo_1920x1080.jpg"
+  - url: "/2021/08/10/palia-youre-in-our-world-now/"
+    title: "Palia: You're In Our World Now."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/Palia__ConceptRuinsPast.jpg"
+  - url: "/2023/12/21/pantheon-rise-of-the-fallen-alpha-peek/"
+    title: "Pantheon: Rise of the Fallen (alpha peek)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-20-23.38.37-Create-an-illustration-that-resembles-a-crayon-drawing-of-a-scene-in-a-meadow-near-a-tall-cliff-illuminated-by-the-morning-sun.-In-the-meadow-a-woma.png"
+  - url: "/2025/01/04/best-of-2024-my-favorite-mmos/"
+    title: "Best of 2024: My Favorite MMOs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/mmosbanner.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/247extraction.webp"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/247extraction.webp"
 ---

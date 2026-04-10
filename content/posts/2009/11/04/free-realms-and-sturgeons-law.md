@@ -3,10 +3,24 @@ date: '2009-11-04T08:01:08-05:00'
 draft: false
 title: "Free Realms and Sturgeon's Law"
 author: "Tipa"
+disqusIdentifier: "2009/11/04/free-realms-and-sturgeons-law"
 summary: "In 1958, noted science fiction author Theodore Sturgeon wrote that 90% of science fiction was crud, which was generalized and explained that 90% of EVERYTHING..."
 categories:
   - "Free Realms"
   - "MMORPG"
+relatedPosts:
+  - url: "/2021/08/07/mmos-on-the-bubble/"
+    title: "MMOs on the Bubble"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/STP61286.jpg"
+  - url: "/2011/10/21/daily-blogroll-oct-21-tanks-for-the-memories-edition/"
+    title: "Daily Blogroll Oct 21: Tanks for the Memories edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/dndclient-2011-10-20-21-19-18-63-480x352.jpg"
+  - url: "/2011/05/12/semi-annual-blogroll-sheep-may-safely-graze-edition/"
+    title: "Semi-Annual Blogroll: Sheep may safely graze edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/05/sheep2.png"
+  - url: "/2010/04/14/the-best-mmo-for-a-new-player/"
+    title: "The best MMO for a new player?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/options.jpg"
 ---
 In 1958, noted science fiction author Theodore Sturgeon wrote that 90% of science fiction was crud, which was generalized and explained that 90% of EVERYTHING...
 <!--more-->

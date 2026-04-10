@@ -3,9 +3,23 @@ date: '2007-07-19T12:24:54-05:00'
 draft: false
 title: "Bioware Austin uses Perpetual's MMO Middleware"
 author: "Tipa"
+disqusIdentifier: "2007/07/19/bioware-austin-uses-perpetuals-mmo-middleware"
 summary: "Bioware, makers of Baldur's Gate (and Fallout, I think) currently working on an unannounced MMO (could it be a Fallout MMO?) have licensed Perpetual's patcher/lobby/launcher..."
 categories:
   - "MMORPG"
+relatedPosts:
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2026/03/11/dune-awakening-finished-chapter-3/"
+    title: "Dune Awakening: Finished Chapter 3"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-11-073510.png"
+  - url: "/2026/02/04/erenshor-rising-shadows-launched/"
+    title: 'Erenshor "Rising Shadows" launched!'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/20260204080313_1.jpg"
+  - url: "/2026/01/24/dominus-automa-an-idle-mmo-for-busy-dads/"
+    title: "Dominus Automa: An Idle MMO for Busy Dads"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/dominusautoma.png"
 ---
 Bioware, makers of Baldur's Gate (and Fallout, I think) currently working on an unannounced MMO (could it be a Fallout MMO?) have licensed Perpetual's patcher/lobby/launcher...
 <!--more-->

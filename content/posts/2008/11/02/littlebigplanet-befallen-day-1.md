@@ -3,12 +3,26 @@ date: '2008-11-02T11:50:19-05:00'
 draft: false
 title: "LittleBigPlanet Befallen: Day 1"
 author: "Tipa"
+disqusIdentifier: "2008/11/02/littlebigplanet-befallen-day-1"
 summary: "What LittleBigPlanet REALLY needs is a command where you can shift EVERYTHING up and over to the right...."
 categories:
   - "Littlebigplanet"
   - "Other Games"
 tags:
   - "Befallen"
+relatedPosts:
+  - url: "/2020/08/12/blaugust-11-what-weve-lost-along-the-way/"
+    title: "Blaugust #11: What We've Lost Along the Way"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/googlere.png"
+  - url: "/2008/11/12/littlebigplanet-level-design-issues/"
+    title: "LittleBigPlanet level design issues"
+    thumbnailImage: ""
+  - url: "/2008/11/10/wizard-friends-and-littlebigplanet-mazes/"
+    title: "Wizard Friends and LittleBigPlanet Mazes"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-10-00-53-52-28.jpg"
+  - url: "/2008/11/07/thursday-gaming-lbp-eq2-and-w101-again/"
+    title: "Thursday gaming: LBP, EQ2 and W101... again."
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/stp61419.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/stp61419.jpg"
 ---

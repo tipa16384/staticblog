@@ -3,6 +3,7 @@ date: '2022-12-14T23:39:52-05:00'
 draft: false
 title: "Advent of Code Day 14 -- Regolith Reservoir"
 author: "Tipa"
+disqusIdentifier: "2022/12/14/advent-of-code-day-14-regolith-reservoir"
 summary: "I thought, for my vacation, I'd have time to really dive deep into these puzzles. Instead, I've been buried deep in sand -- much like the hapless victim in today's puzzle."
 categories:
   - "Advent of Code"
@@ -10,6 +11,19 @@ tags:
   - "Advent"
   - "Depth First Search"
   - "Python"
+relatedPosts:
+  - url: "/2022/12/20/advent-of-code-day-19-not-enough-minerals/"
+    title: "Advent of Code Day 19 -- Not Enough Minerals"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-20-08.04.02-A-woman-wearing-a-Christmas-hat-directing-mining-robots-with-a-handheld-device-in-a-jungle-by-a-lake-by-Bob-Eggleton-detailed-and-intricate.png"
+  - url: "/2023/12/05/advent-of-code-day-5-if-you-give-a-seed-a-fertilizer/"
+    title: "Advent of Code Day 5 -- If You Give A Seed A Fertilizer"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_A_Christmas_elf_tending_a_wide_variety_of_bizarre_looki_61e5db45-06f1-482c-9242-78720532164f.png"
+  - url: "/2023/12/03/advent-of-code-day-3-gear-ratios/"
+    title: "Advent of Code Day 3 -- Gear Ratios"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_A_Christmas_elf_working_on_a_giant_machine_with_many_ge_47e1029a-b055-4df9-99f0-1c55a64ca2e8.png"
+  - url: "/2022/12/25/advent-of-code-day-25-full-of-hot-air/"
+    title: "Advent of Code Day 25 -- Full of Hot Air"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-25-14.03.31-Christmas-elves-on-a-snowy-mountain-top-colorful-hot-air-balloons-in-the-sky-in-the-background-by-Bob-Eggleton-detailed-and-intricate.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-14-23.21.55-A-woman-wearing-a-Christmas-hat-caught-in-a-cave-with-sand-pouring-down-from-an-opening-in-the-ceiling-by-Bob-Eggleton-detailed-and-intricate.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-14-23.21.55-A-woman-wearing-a-Christmas-hat-caught-in-a-cave-with-sand-pouring-down-from-an-opening-in-the-ceiling-by-Bob-Eggleton-detailed-and-intricate.png"
 ---

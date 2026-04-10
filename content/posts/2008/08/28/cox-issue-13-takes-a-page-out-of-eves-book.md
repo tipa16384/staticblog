@@ -3,6 +3,7 @@ date: '2008-08-28T08:26:14-05:00'
 draft: false
 title: "CoX Issue 13 takes a page out of EVE's book"
 author: "Tipa"
+disqusIdentifier: "2008/08/28/cox-issue-13-takes-a-page-out-of-eves-book"
 summary: "Fighting evil by moonlight..."
 categories:
   - "City of Heroes"
@@ -11,6 +12,19 @@ tags:
   - "Architect"
   - "City of Villains"
   - "Issue 13"
+relatedPosts:
+  - url: "/2009/03/25/city-of-heroes-architect-killer-klowns/"
+    title: "City of Heroes Architect: Killer Klowns"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/cityofheroes-2009-03-24-22-57-35-03.jpg"
+  - url: "/2009/03/19/city-of-heroes-architect-system-dont-you-know-that-youre-my-hero/"
+    title: "City of Heroes Architect system: Don't you know that you're my hero?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/cityofheroes-2009-03-19-07-56-46-51-480x359.jpg"
+  - url: "/2021/08/18/developer-appreciation-cryptic-studios/"
+    title: "Developer Appreciation: Cryptic Studios"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/cityofheroes-2007-12-01-12-05-32-84.jpg"
+  - url: "/2007/12/02/cov-madame-scurry-is-dead/"
+    title: "CoV: Madame Scurry is DEAD."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/coh1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/cityofheroes-2008-08-28-07-06-42-61.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/cityofheroes-2008-08-28-07-06-42-61.jpg"
 ---

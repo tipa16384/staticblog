@@ -3,6 +3,7 @@ date: '2020-08-02T11:34:15-05:00'
 draft: false
 title: "Blaugust #2: Everything You Like is Bad (and you should feel bad)"
 author: "Tipa"
+disqusIdentifier: "2020/08/02/blaugust-2-everything-you-like-is-bad-and-you-should-feel-bad"
 summary: "Today's Blaugust prompt is from the blog Azerothian Life:..."
 categories:
   - "Blaugust"
@@ -11,6 +12,19 @@ tags:
   - "Disney"
   - "Facebook"
   - "Twitch"
+relatedPosts:
+  - url: "/2024/08/27/twitch-drops-why/"
+    title: "Twitch Drops: Why?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/1-Palworld-Screenshot-2024.08.26-07.46.02.07.jpg"
+  - url: "/2022/09/01/32-bullets-new-first-person-shooter-game/"
+    title: 'Creating "32 Bullets" -- an AI adventure.'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/32bulletsbanner.png"
+  - url: "/2010/09/13/is-wizard101s-marketing-getting-out-of-hand/"
+    title: "Is Wizard101's marketing getting out of hand?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/WizardGraphicalClient-2010-09-13-21-01-59-32-480x384.jpg"
+  - url: "/2022/08/06/the-six-cats-of-madame-miracle/"
+    title: "The Six Cats of Madame Miracle"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/sixcats.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/you-like-bad-stuff-and-you-should-feel-bad.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/you-like-bad-stuff-and-you-should-feel-bad.jpg"
 ---

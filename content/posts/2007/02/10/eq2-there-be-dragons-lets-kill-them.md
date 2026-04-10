@@ -3,11 +3,25 @@ date: '2007-02-10T00:19:55-05:00'
 draft: false
 title: "EQ2: There be DRAGONS! Let's kill them."
 author: "Tipa"
+disqusIdentifier: "2007/02/10/eq2-there-be-dragons-lets-kill-them"
 summary: "There be further foul denizens cluttering the shores and deeps of Norrath, and it's my intention to carry on in the grand tradition of halflings..."
 categories:
   - "EverQuest"
   - "General"
   - "MMORPG"
+relatedPosts:
+  - url: "/2009/04/28/daily-blogroll-428-hug-squeeze-edition/"
+    title: "Daily Blogroll 4/28 -- Hug & Squeeze Edition"
+    thumbnailImage: ""
+  - url: "/2009/02/23/sick-sixth-six/"
+    title: "Sick Sixth Six!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/2b0b27c337a6b9f7f5fb6a707be25cb8.jpg"
+  - url: "/2008/07/01/sequencing-mmo-dna/"
+    title: "Sequencing MMO DNA"
+    thumbnailImage: ""
+  - url: "/2008/02/13/jericho-lost-american-idol-and-my-first-dog-raid-on-eq2/"
+    title: "Jericho, Lost, American Idol and my first DoG raid on EQ2"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/02/tarinaxthumb.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/02/tarinaxthumb.jpg"
 ---

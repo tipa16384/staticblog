@@ -3,6 +3,7 @@ date: '2009-10-08T07:02:12-05:00'
 draft: false
 title: "Daily Blogroll 10/8: Inappropriate Birth Metaphor edition"
 author: "Tipa"
+disqusIdentifier: "2009/10/08/daily-blogroll-108-inappropriate-birth-metaphor-edition"
 summary: "Awwww, over-protective mommy ship takes cute baby alt-ship out for the first time! Yes, I've joined the ranks of EVE pilots with two accounts; the..."
 categories:
   - "Aion"
@@ -11,6 +12,19 @@ categories:
   - "Fallen Earth"
   - "MMORPG"
   - "Shards of Dalaya"
+relatedPosts:
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/09/17/daily-blogroll-917-kanye-edition/"
+    title: "Daily Blogroll 9/17 - Kanye edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/kanye.jpg"
+  - url: "/2009/08/04/daily-blogroll-84-lifetime-edition/"
+    title: "Daily Blogroll 8/4 -- Lifetime edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/lederhosenman.jpg"
+  - url: "/2010/07/02/assault-on-the-inbox-independence-day-edition/"
+    title: "Assault on the Inbox: Independence Day Edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/GameClient-2010-06-29-20-37-53-38.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/ExeFile-2009-10-04-21-34-16-87.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/ExeFile-2009-10-04-21-34-16-87.jpg"
 ---

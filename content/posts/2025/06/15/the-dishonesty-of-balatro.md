@@ -3,6 +3,7 @@ date: '2025-06-15T10:00:00-05:00'
 draft: false
 title: "The Dishonesty of Balatro"
 author: "Tipa"
+disqusIdentifier: "2025/06/15/the-dishonesty-of-balatro"
 summary: "Now that I have finally won the game, I have some thoughts..."
 categories:
   - "Arcade Game"
@@ -10,6 +11,19 @@ categories:
   - "PS5"
 tags:
   - "Balatro"
+relatedPosts:
+  - url: "/2025/06/03/i-know-what-i-did-last-weekend-4/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/The-Pathless_20250601093750-scaled.jpg"
+  - url: "/2021/09/06/panzer-dragoon-the-remake/"
+    title: "Panzer Dragoon: The Remake"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/1-Panzer-Dragoon_-Remake_20210831205643.jpg"
+  - url: "/2025/10/01/i-cancelled-my-pokemon-tcg-pocket-premium-subscription/"
+    title: "I cancelled my Pokémon TCG Pocket premium subscription"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/IMG_5411.png"
+  - url: "/2025/08/14/micro-hero-hercules/"
+    title: "Micro Hero: Hercules"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5324-EDIT-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/1-Balatro_20250602230340-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/1-Balatro_20250602230340-scaled.jpg"
 ---

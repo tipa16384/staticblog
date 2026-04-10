@@ -3,6 +3,7 @@ date: '2009-05-04T07:52:13-05:00'
 draft: false
 title: "Daily Blogroll 5/4 -- Dragon Claw Style edition"
 author: "Tipa"
+disqusIdentifier: "2009/05/04/daily-blogroll-54-dragon-claw-style-edition"
 summary: "Yes, this is the Daily Blogroll MY OWN BLOG didn't want you to see!..."
 categories:
   - "City of Heroes"
@@ -17,6 +18,19 @@ categories:
   - "Star Trek"
   - "Wizard101"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2009/05/08/daily-blogroll-58-darkfail-edition/"
+    title: "Daily Blogroll 5/8 -- Darkfail edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/darkfall.jpg"
+  - url: "/2009/09/17/daily-blogroll-917-kanye-edition/"
+    title: "Daily Blogroll 9/17 - Kanye edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/kanye.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/05/06/daily-blogroll-56-tempests-and-teapots-edition/"
+    title: "Daily Blogroll 5/6 -- Tempests and Teapots edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/fullscreen-capture-562009-125235-am.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/dragonclawstyle1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/dragonclawstyle1.jpg"
 ---

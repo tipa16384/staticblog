@@ -3,12 +3,26 @@ date: '2024-05-07T07:00:00-05:00'
 draft: false
 title: "ADVENT: The Road to Adventure"
 author: "Tipa"
+disqusIdentifier: "2024/05/07/advent-the-road-to-adventure"
 summary: "You can draw a direct line from Crowther and Woods' \"Adventure\" to MMOs such as EverQuest. I'm going to be playing it all the way through... twice."
 categories:
   - "Adventure"
   - "Text Adventure Game"
 tags:
   - "Colossal Cave Adventure"
+relatedPosts:
+  - url: "/2024/12/28/the-best-of-2024-adventure-games/"
+    title: "The Best of 2024: Adventure Games"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/adventurebanner.png"
+  - url: "/2024/05/12/advent-colossal-cave-3d/"
+    title: "ADVENT: Colossal Cave 3D"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/cc-troll2.png"
+  - url: "/2024/05/11/advent-seasoned-adventurer/"
+    title: "ADVENT: Seasoned Adventurer"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/cc-troll.png"
+  - url: "/2024/05/09/advent-twisty-passages-all-alike/"
+    title: "ADVENT: Twisty Passages, All Alike"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/cc-pirate.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/cca-banner.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/cca-banner.png"
 ---

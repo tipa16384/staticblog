@@ -3,10 +3,24 @@ date: '2012-11-29T07:22:01-05:00'
 draft: false
 title: "EQ2: Going Mobile"
 author: "Tipa"
+disqusIdentifier: "2012/11/29/eq2-going-mobile"
 summary: "A few days ago, I blogged about a little script I wrote that helped me price things for selling from the EverQuest 2 broker. It's..."
 categories:
   - "EverQuest"
   - "MMORPG"
+relatedPosts:
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2024/10/21/evercraft-online-the-unholy-child-of-eq-and-minecraft/"
+    title: "EverCraft Online: The Unholy Child of EQ and MineCraft"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/evercraft-banner.png"
+  - url: "/2024/08/28/erenshor-everquest-for-soloers/"
+    title: "Erenshor -- EverQuest for soloers"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/erenshotheader.jpg"
+  - url: "/2024/05/04/everquest-ii-goes-retro-with-anashti-sul/"
+    title: "EverQuest II goes retro with Anashti Sul"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/anashtisul.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/11/IMG_8919-319x480.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/11/IMG_8919-319x480.jpg"
 ---

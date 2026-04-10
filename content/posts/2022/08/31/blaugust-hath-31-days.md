@@ -3,6 +3,7 @@ date: '2022-08-31T07:00:00-05:00'
 draft: false
 title: "Blaugust Hath 31 Days"
 author: "Tipa"
+disqusIdentifier: "2022/08/31/blaugust-hath-31-days"
 summary: "Genre: 2D Platformer. Title: \"Blaugust Hath 31 Days\". Outline: In this 2D platformer, you play as a young woman who is terrorized by 31 different..."
 categories:
   - "Blaugust"
@@ -12,6 +13,19 @@ categories:
 tags:
   - "Dall-E 2"
   - "Gpt-3"
+relatedPosts:
+  - url: "/2022/08/07/the-seven-sages-a-masterclass-in-metroidvania-design/"
+    title: "The Seven Sages: A Masterclass in Metroidvania Design"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/7sages2.png"
+  - url: "/2022/09/01/32-bullets-new-first-person-shooter-game/"
+    title: 'Creating "32 Bullets" -- an AI adventure.'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/32bulletsbanner.png"
+  - url: "/2022/08/30/blaugust-theme-week-lessons-learned/"
+    title: "Blaugust theme week: Lessons learned"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-30-23.00.58-35mm-long-range-photograph-of-a-woman-warrior-reading-a-book-while-sitting-against-a-sleeping-green-dragon-near-a-mountain-lake-pastel-colors-peacef.png"
+  - url: "/2022/08/30/the-golden-years-30-something/"
+    title: "The Golden Years: 30 Something"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-23-20.51.10-A-magazine-illustration-of-a-30-something-person-surrounded-by-icons-representing-lifes-challenges-work-family-hobbies-money-food-travel-and-.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-24-22.46.10-a-young-woman-fighting-a-monster-with-a-rune-carved-sword.-She-is-surrounded-by-a-dark-forest-and-the-full-moon-is-shining-overhead-in-the-style-of-.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-24-22.46.10-a-young-woman-fighting-a-monster-with-a-rune-carved-sword.-She-is-surrounded-by-a-dark-forest-and-the-full-moon-is-shining-overhead-in-the-style-of-.png"
 ---

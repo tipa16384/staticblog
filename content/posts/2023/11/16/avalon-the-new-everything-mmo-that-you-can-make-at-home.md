@@ -3,12 +3,26 @@ date: '2023-11-16T07:00:00-05:00'
 draft: false
 title: "Avalon: the new everything MMO that you can make at home!"
 author: "Tipa"
+disqusIdentifier: "2023/11/16/avalon-the-new-everything-mmo-that-you-can-make-at-home"
 summary: "Content warning: Blockchain, AI, Metaverse. Please do not read if you have or feel you may have a susceptibility toward \"Web3\". See your doctor at the first sign of symptoms."
 categories:
   - "Avalon"
   - "Blockchain"
   - "EverQuest"
   - "NFT"
+relatedPosts:
+  - url: "/2022/11/29/crypto-crypto-what-will-you-do/"
+    title: "Crypto, Crypto, what will you do?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/11/1-A_puppy_surrounded_by_stacks_of_Bitcoin__Visual_Novel_Seed-2422298_Steps-50_Guidance-7.5.jpg"
+  - url: "/2022/04/08/how-much-is-that-star-trek-nft-in-the-window/"
+    title: "How Much is that Star Trek NFT in the Window?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/04/Screenshot-2022-04-08-184902.png"
+  - url: "/2021/10/18/i-burned-down-a-rain-forest-and-all-i-got-was-this-stupid-nft/"
+    title: "I Burned Down a Rain Forest and All I Got Was This Stupid NFT"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/51k1w0ALNL.jpg"
+  - url: "/2020/11/07/atarinft-io-the-dumbest-thing-atari-has-ever-done/"
+    title: "AtariNFT.io -- the dumbest thing Atari has ever done."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/11/atari.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/next_static_media_Splash_Gradient.dd97fb8f.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/next_static_media_Splash_Gradient.dd97fb8f.jpg"
 ---

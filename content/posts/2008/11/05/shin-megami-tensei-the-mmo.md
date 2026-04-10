@@ -3,12 +3,26 @@ date: '2008-11-05T13:19:09-05:00'
 draft: false
 title: "Shin Megami Tensei -- the MMO"
 author: "Tipa"
+disqusIdentifier: "2008/11/05/shin-megami-tensei-the-mmo"
 summary: "Just saw that Aeria Games is adding Shin Megami Tensei to its stable of free-to-play Asian import MMOs. Brought to the West previously as single..."
 categories:
   - "MMORPG"
   - "Shin Megami Tensei"
 tags:
   - "Aeria Games"
+relatedPosts:
+  - url: "/2008/08/09/cronous-enters-closed-beta/"
+    title: "Cronous enters closed beta"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/cronous.jpg"
+  - url: "/2008/08/06/where-is-spellborn-already/"
+    title: "Where is SPELLBORN already?"
+    thumbnailImage: ""
+  - url: "/2008/07/23/spellborn-vs-runes-of-magic-cage-match/"
+    title: "Spellborn vs Runes of Magic CAGE MATCH"
+    thumbnailImage: ""
+  - url: "/2009/06/09/aeria-games-wants-geeks-with-iphones-to-itest-a-new-igame/"
+    title: "Aeria Games wants Geeks with iPhones to iTest a new iGame"
+    thumbnailImage: ""
 coverImage: "http://www.shacknews.com/images/generated/4910c1d8f256c_featured_without_text_smt_pc.jpg"
 thumbnailImage: "http://www.shacknews.com/images/generated/4910c1d8f256c_featured_without_text_smt_pc.jpg"
 ---

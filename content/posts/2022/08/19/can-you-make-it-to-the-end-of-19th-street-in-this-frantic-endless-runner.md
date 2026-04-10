@@ -3,6 +3,7 @@ date: '2022-08-19T07:00:00-05:00'
 draft: false
 title: "Can You Make It To The End Of 19th Street In This Frantic Endless Runner?"
 author: "Tipa"
+disqusIdentifier: "2022/08/19/can-you-make-it-to-the-end-of-19th-street-in-this-frantic-endless-runner"
 summary: "I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day..."
 categories:
   - "Blaugust"
@@ -14,6 +15,19 @@ tags:
   - "Endless Runner"
   - "Gpt-3"
   - "Platformer"
+relatedPosts:
+  - url: "/2022/08/08/the-amazing-adventures-of-8-ball/"
+    title: "The Amazing Adventures of 8-Ball!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/TipaNina_A_tuxedo_cat_wearing_a_red_bowtie._He_is_standing_in_f_7f5ba02f-45ee-4c41-bf1c-71df9e5d3245.png"
+  - url: "/2022/08/07/the-seven-sages-a-masterclass-in-metroidvania-design/"
+    title: "The Seven Sages: A Masterclass in Metroidvania Design"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/7sages2.png"
+  - url: "/2022/09/01/32-bullets-new-first-person-shooter-game/"
+    title: 'Creating "32 Bullets" -- an AI adventure.'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/32bulletsbanner.png"
+  - url: "/2022/08/31/blaugust-hath-31-days/"
+    title: "Blaugust Hath 31 Days"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-24-22.46.10-a-young-woman-fighting-a-monster-with-a-rune-carved-sword.-She-is-surrounded-by-a-dark-forest-and-the-full-moon-is-shining-overhead-in-the-style-of-.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-11-19.48.05-synthwave-one-point-perspective-a-businesswoman-sprinting-toward-the-camera-along-a-busy-city-sidewalk-with-tall-buildings-in-the-background.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-11-19.48.05-synthwave-one-point-perspective-a-businesswoman-sprinting-toward-the-camera-along-a-busy-city-sidewalk-with-tall-buildings-in-the-background.png"
 ---

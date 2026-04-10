@@ -3,11 +3,25 @@ date: '2011-01-11T22:41:19-05:00'
 draft: false
 title: "The MMO Challenge, Revisited."
 author: "Tipa"
+disqusIdentifier: "2011/01/11/the-mmo-challenge-revisited"
 summary: "[..."
 categories:
   - "MMORPG"
 tags:
   - "MMORPG Challenge"
+relatedPosts:
+  - url: "/2022/08/22/the-5-best-mmos-to-play-in-2022/"
+    title: "The 5 Best MMOs to Play in 2022"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-22-13.05.37-3d-digital-art-of-Tweedle-Dee-and-Tweedle-Dum-wearing-pots-and-pans-standing-in-Duskwood-in-World-of-Warcraft.png"
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2026/03/11/dune-awakening-finished-chapter-3/"
+    title: "Dune Awakening: Finished Chapter 3"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-11-073510.png"
+  - url: "/2026/02/04/erenshor-rising-shadows-launched/"
+    title: 'Erenshor "Rising Shadows" launched!'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/20260204080313_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/01cf1aed618e714403893048aef63ded-480x383.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/01cf1aed618e714403893048aef63ded-480x383.jpg"
 ---

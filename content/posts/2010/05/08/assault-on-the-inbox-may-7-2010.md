@@ -3,6 +3,7 @@ date: '2010-05-08T08:26:27-05:00'
 draft: false
 title: "Assault on the Inbox: May 7, 2010"
 author: "Tipa"
+disqusIdentifier: "2010/05/08/assault-on-the-inbox-may-7-2010"
 summary: "[..."
 categories:
   - "Daily Blogroll"
@@ -13,6 +14,19 @@ categories:
   - "Runes of Magic"
   - "Star Trek"
   - "Wizard101"
+relatedPosts:
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/09/17/daily-blogroll-917-kanye-edition/"
+    title: "Daily Blogroll 9/17 - Kanye edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/kanye.jpg"
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2009/05/04/daily-blogroll-54-dragon-claw-style-edition/"
+    title: "Daily Blogroll 5/4 -- Dragon Claw Style edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/dragonclawstyle1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/stochair.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/stochair.jpg"
 ---

@@ -3,10 +3,24 @@ date: '2008-10-31T01:15:18-05:00'
 draft: false
 title: "So, here's why I am looking forward to Chronicles of Spellborn"
 author: "Tipa"
+disqusIdentifier: "2008/10/31/so-heres-why-i-am-looking-forward-to-chronicles-of-spellborn"
 summary: "Gorgeous looking world. The art style is colorful and pastel, reminds me of Pirates of the Burning Sea actually. Say what you like about the..."
 categories:
   - "Chronicles of Spellborn"
   - "MMORPG"
+relatedPosts:
+  - url: "/2015/07/02/some-trufen-managed-to-re/"
+    title: "Spellborn... reborn?"
+    thumbnailImage: "https://lh6.googleusercontent.com/proxy/vBKKuw4kyr3h6Ct92g-leX2lvulYLG8VtWObZxpRG3wNupQeekWxqKtqcOypKIB_CMp9gMCmeDHiXRs9qUjB7Q=w506-h284-n"
+  - url: "/2010/08/19/chronicles-of-spellborn-anatomy-of-a-failure/"
+    title: "Chronicles of Spellborn: Anatomy of a Failure"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/sb_client-2010-08-18-19-49-21-19-480x270.jpg"
+  - url: "/2009/09/25/daily-blogroll-925-apocalypse-edition/"
+    title: "Daily Blogroll 9/25 - Apocalypse edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/GameClient-2009-09-24-21-31-22-51.jpg"
+  - url: "/2009/08/31/daily-blogroll-831-end-of-summer-edition/"
+    title: "Daily Blogroll 8/31 - End of Summer edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/GameClient-2009-08-30-21-20-36-81.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/spellborn1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/spellborn1.jpg"
 ---

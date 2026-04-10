@@ -3,6 +3,7 @@ date: '2021-10-20T08:26:25-05:00'
 draft: false
 title: "Dragonereum: If NeoPets Cost $7,000"
 author: "Tipa"
+disqusIdentifier: "2021/10/20/dragonereum-if-neopets-cost-7000"
 summary: "Am I just too stupid to play crypto browser games? Or just too poor?..."
 categories:
   - "Blockchain"
@@ -16,6 +17,19 @@ tags:
   - "Ethereum"
   - "Gas"
   - "Metamask"
+relatedPosts:
+  - url: "/2021/11/10/hodgepodge-games-crypto-and-nfts/"
+    title: "Hodgepodge: Games, Crypto and NFTs."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/senile.png"
+  - url: "/2021/11/01/cryptogaming-a-brief-adventure/"
+    title: "Cryptogaming: A Brief Adventure"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/CryptoDragons-a-week-later.jpg"
+  - url: "/2022/04/08/how-much-is-that-star-trek-nft-in-the-window/"
+    title: "How Much is that Star Trek NFT in the Window?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/04/Screenshot-2022-04-08-184902.png"
+  - url: "/2021/10/18/i-burned-down-a-rain-forest-and-all-i-got-was-this-stupid-nft/"
+    title: "I Burned Down a Rain Forest and All I Got Was This Stupid NFT"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/51k1w0ALNL.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/dragon-main-30501377.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/dragon-main-30501377.png"
 ---

@@ -3,6 +3,7 @@ date: '2009-05-28T07:01:20-05:00'
 draft: false
 title: "Will EverQuest III be Free Realms II?"
 author: "Tipa"
+disqusIdentifier: "2009/05/28/will-everquest-iii-be-free-realms-ii"
 summary: "No, I don't (to answer people on Twitter) actually know anything about EverQuest III. I don't even know if it exists. And in this NDA-loving..."
 categories:
   - "EverQuest"
@@ -10,6 +11,19 @@ categories:
   - "MMORPG"
 tags:
   - "Eq3"
+relatedPosts:
+  - url: "/2009/05/02/its-official-the-new-everquest-server-is-chosen-plus-eq3-rumors/"
+    title: "It's official, the new EverQuest server is chosen, plus EQ3 rumors?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/neriak5150.jpg"
+  - url: "/2009/04/28/can-we-get-back-to-talking-about-everquest-3-now/"
+    title: "Can we get back to talking about EverQuest 3 now?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/faebeforeandafter.jpg"
+  - url: "/2021/08/07/mmos-on-the-bubble/"
+    title: "MMOs on the Bubble"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/STP61286.jpg"
+  - url: "/2011/10/21/daily-blogroll-oct-21-tanks-for-the-memories-edition/"
+    title: "Daily Blogroll Oct 21: Tanks for the Memories edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/dndclient-2011-10-20-21-19-18-63-480x352.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/fullscreen-capture-5282009-65906-am.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/fullscreen-capture-5282009-65906-am.jpg"
 ---

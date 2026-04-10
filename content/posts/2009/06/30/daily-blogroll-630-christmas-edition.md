@@ -3,6 +3,7 @@ date: '2009-06-30T08:25:29-05:00'
 draft: false
 title: "Daily Blogroll 6/30 - Christmas edition"
 author: "Tipa"
+disqusIdentifier: "2009/06/30/daily-blogroll-630-christmas-edition"
 summary: "Only 178 days till Christmas! With 2009 halfway gone now, I thought you'd want to know...."
 categories:
   - "Aion"
@@ -15,6 +16,19 @@ categories:
   - "Star Trek"
   - "Vanguard"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2009/08/10/daily-blogroll-810-thank-god-its-monday-edition/"
+    title: "Daily Blogroll 8/10 -- Thank God it's Monday edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/daddygirl.jpg"
+  - url: "/2009/05/15/daily-blogroll-515-endelig-fredag-edition/"
+    title: "Daily Blogroll 5/15 -- Endelig Fredag edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/clangreenscaledragon.jpg"
+  - url: "/2009/07/23/daily-blogroll-723-aftermath-edition/"
+    title: "Daily Blogroll 7/23 -- Aftermath edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/sb_client-2009-07-23-07-34-50-3.jpg"
+  - url: "/2009/09/17/daily-blogroll-917-kanye-edition/"
+    title: "Daily Blogroll 9/17 - Kanye edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/kanye.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/TS3-2009-06-30-08-10-20-98.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/TS3-2009-06-30-08-10-20-98.jpg"
 ---

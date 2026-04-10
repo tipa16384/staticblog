@@ -3,6 +3,7 @@ date: '2011-01-10T07:54:52-05:00'
 draft: false
 title: "Rift Beta 4: In Search of... a Spec."
 author: "Tipa"
+disqusIdentifier: "2011/01/10/rift-beta-4-in-search-of-a-spec"
 summary: "[..."
 categories:
   - "MMORPG"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Beta"
   - "Closed Beta"
+relatedPosts:
+  - url: "/2010/12/24/rift-3rd-beta-event-sealing-the-rift/"
+    title: 'Rift: 3rd beta event, "Sealing the Rift"'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/rift3-480x186.jpg"
+  - url: "/2010/12/15/next-rift-beta-event-guardians-of-the-vigil/"
+    title: "Next Rift Beta event: Guardians of the Vigil"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/headline-480x186.jpg"
+  - url: "/2009/04/22/free-realms-nda-drops/"
+    title: "Free Realms NDA drops!"
+    thumbnailImage: ""
+  - url: "/2009/03/05/how-are-you-enjoying-the-spellborn-closed-beta/"
+    title: "How are you enjoying the Spellborn closed beta?"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/rift-2011-01-09-16-45-28-62-480x384.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/rift-2011-01-09-16-45-28-62-480x384.jpg"
 ---

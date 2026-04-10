@@ -3,6 +3,7 @@ date: '2022-08-08T15:12:57-05:00'
 draft: false
 title: "Fast and Furious 2099 -- an AI written final chapter to the F&F franchise."
 author: "Tipa"
+disqusIdentifier: "2022/08/08/fast-and-furious-2099"
 summary: "OpenAI's GPT-3 writes the final chapter in the Fast and Furious saga -- Fast and Furious 2099."
 categories:
   - "General"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Craiyon"
   - "Gpt-3"
+relatedPosts:
+  - url: "/2022/08/30/blaugust-theme-week-lessons-learned/"
+    title: "Blaugust theme week: Lessons learned"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-30-23.00.58-35mm-long-range-photograph-of-a-woman-warrior-reading-a-book-while-sitting-against-a-sleeping-green-dragon-near-a-mountain-lake-pastel-colors-peacef.png"
+  - url: "/2022/08/26/1926-the-golden-age-of-aviation/"
+    title: "1926: The Golden Age of Aviation"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/goldenage26.png"
+  - url: "/2022/08/25/25-cents-the-age-of-the-arcade/"
+    title: "25 Cents: The Age of the Arcade"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-17-23.27.24-synthwave-a-wombat-dressed-in-a-pink-blazer-playing-an-arcade-machine-in-a-video-arcade.-the-picture-is-lit-only-by-the-glow-of-the-arcade-machines.-l.png"
+  - url: "/2022/08/21/21-reactions-chemical-chaos/"
+    title: "21 Reactions: Chemical Chaos"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-13-21.11.32-a-beaker-containing-multicolored-chemicals.-musical-notes-are-coming-out-of-the-mouth-of-the-beaker.-in-the-style-of-a-textbook-illustration..png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/craiyon_150855_An_astronaut_in_a_sports_convertible_on_the_Moon.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/craiyon_150855_An_astronaut_in_a_sports_convertible_on_the_Moon.png"
 ---

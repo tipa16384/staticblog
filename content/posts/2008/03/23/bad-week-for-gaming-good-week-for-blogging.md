@@ -3,6 +3,7 @@ date: '2008-03-23T20:54:39-05:00'
 draft: false
 title: "Bad week for gaming, good week for blogging"
 author: "Tipa"
+disqusIdentifier: "2008/03/23/bad-week-for-gaming-good-week-for-blogging"
 summary: "I haven't done even a tenth of the gaming I usually do in a given week. Between my sister Hillary getting hitched in Boston; my..."
 categories:
   - "EverQuest"
@@ -10,6 +11,19 @@ categories:
   - "My Work"
   - "Rock Band"
   - "Vanguard"
+relatedPosts:
+  - url: "/2008/01/09/eq2-rock-band-goong-xbox-ps3-potbs-and-stuff/"
+    title: "EQ2, Rock Band, Goong, Xbox, PS3, PotBS, and stuff."
+    thumbnailImage: ""
+  - url: "/2008/01/29/short-updates-rock-band-vanguard-and-pirates-of-the-burning-sea/"
+    title: "Short updates: Rock Band, Vanguard and Pirates of the Burning Sea"
+    thumbnailImage: ""
+  - url: "/2008/02/05/eq2-et-al-top-10-questions-answered/"
+    title: "EQ2 (et al): Top 10 questions answered"
+    thumbnailImage: ""
+  - url: "/2008/01/28/weekend-gaming-of-veeshans-peak-twins-and-things-that-go-bump-in-the-night/"
+    title: "Weekend Gaming: Of Veeshan's Peak, Twins, and Things that Go Bump in the Night"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/everquest2-2008-01-26-02-12-16-22.jpg"
 ---
 I haven't done even a tenth of the gaming I usually do in a given week. Between my sister Hillary getting hitched in Boston; my...
 <!--more-->

@@ -3,11 +3,25 @@ date: '2013-02-13T08:37:30-05:00'
 draft: false
 title: "Game Log: EQ2, DCUO"
 author: "Tipa"
+disqusIdentifier: "2013/02/13/game-log-eq2-dcuo"
 summary: "Doctor Psycho, I don't think you're even a real doctor. But yeah, I can see that that would be a tough name to grow up..."
 categories:
   - "DC Universe Online"
   - "EverQuest"
   - "MMORPG"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2022/07/30/ship-of-heroes-housing-beta-2/"
+    title: "Ship of Heroes: Housing Beta #2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/1-20220730211912_1.jpg"
+  - url: "/2021/08/07/mmos-on-the-bubble/"
+    title: "MMOs on the Bubble"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/STP61286.jpg"
+  - url: "/2021/07/22/new-world-fomo-or-fotm/"
+    title: "New World: FOMO or FOTM?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/GameClient-2014-12-06-11-09-05-59.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/DCGame-2013-02-12-20-24-58-85-480x300.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/DCGame-2013-02-12-20-24-58-85-480x300.jpg"
 ---

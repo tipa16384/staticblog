@@ -3,6 +3,7 @@ date: '2022-12-20T08:21:19-05:00'
 draft: false
 title: "Advent of Code Day 19 -- Not Enough Minerals"
 author: "Tipa"
+disqusIdentifier: "2022/12/20/advent-of-code-day-19-not-enough-minerals"
 summary: "Okay, this one took a long time. I knew what to do, but what to do was super slow."
 categories:
   - "Advent of Code"
@@ -12,6 +13,19 @@ tags:
   - "Memoization"
   - "Python"
   - "Robots"
+relatedPosts:
+  - url: "/2022/12/14/advent-of-code-day-14-regolith-reservoir/"
+    title: "Advent of Code Day 14 -- Regolith Reservoir"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-14-23.21.55-A-woman-wearing-a-Christmas-hat-caught-in-a-cave-with-sand-pouring-down-from-an-opening-in-the-ceiling-by-Bob-Eggleton-detailed-and-intricate.png"
+  - url: "/2022/12/24/advent-of-code-day-24-blizzard-basin/"
+    title: "Advent of Code Day 24 -- Blizzard Basin"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-24-15.36.17-a-hundred-Christmas-elves-in-a-blizzard-by-Bob-Eggleton-detailed-and-intricate.png"
+  - url: "/2023/12/05/advent-of-code-day-5-if-you-give-a-seed-a-fertilizer/"
+    title: "Advent of Code Day 5 -- If You Give A Seed A Fertilizer"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_A_Christmas_elf_tending_a_wide_variety_of_bizarre_looki_61e5db45-06f1-482c-9242-78720532164f.png"
+  - url: "/2023/12/03/advent-of-code-day-3-gear-ratios/"
+    title: "Advent of Code Day 3 -- Gear Ratios"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_A_Christmas_elf_working_on_a_giant_machine_with_many_ge_47e1029a-b055-4df9-99f0-1c55a64ca2e8.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-20-08.04.02-A-woman-wearing-a-Christmas-hat-directing-mining-robots-with-a-handheld-device-in-a-jungle-by-a-lake-by-Bob-Eggleton-detailed-and-intricate.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-20-08.04.02-A-woman-wearing-a-Christmas-hat-directing-mining-robots-with-a-handheld-device-in-a-jungle-by-a-lake-by-Bob-Eggleton-detailed-and-intricate.png"
 ---

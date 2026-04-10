@@ -3,10 +3,24 @@ date: '2008-01-07T08:59:52-05:00'
 draft: false
 title: "EQ2: Tier 2 done. Well, half done. And some other stuff."
 author: "Tipa"
+disqusIdentifier: "2008/01/07/eq2-tier-2-done-well-half-done-and-some-other-stuff"
 summary: "There's two raids in Tier 2, Venril Sathir and the Overking. So we killed Venril. He wasn't that hard; all you have to do is..."
 categories:
   - "EverQuest"
   - "MMORPG"
+relatedPosts:
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2024/10/21/evercraft-online-the-unholy-child-of-eq-and-minecraft/"
+    title: "EverCraft Online: The Unholy Child of EQ and MineCraft"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/evercraft-banner.png"
+  - url: "/2024/08/28/erenshor-everquest-for-soloers/"
+    title: "Erenshor -- EverQuest for soloers"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/erenshotheader.jpg"
+  - url: "/2024/05/04/everquest-ii-goes-retro-with-anashti-sul/"
+    title: "EverQuest II goes retro with Anashti Sul"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/anashtisul.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/everquest2-2008-01-03-23-13-06-63.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/everquest2-2008-01-03-23-13-06-63.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2022-12-16T23:17:07-05:00'
 draft: false
 title: "Advent of Code Day 16 -- Proboscidea Volcanium"
 author: "Tipa"
+disqusIdentifier: "2022/12/16/advent-of-code-day-16-proboscidea-volcanium"
 summary: "Trying to save elephants trapped in an erupting volcano? Sure. My solution worked for my input but not that of other people's, so let's try something a little different."
 categories:
   - "Advent of Code"
@@ -12,6 +13,19 @@ tags:
   - "Elephant"
   - "Gpt-3"
   - "Python"
+relatedPosts:
+  - url: "/2022/12/21/advent-of-code-day-21-monkey-math/"
+    title: "Advent of Code Day 21 -- Monkey Math"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-21-21.48.47-A-large-group-of-monkeys-shouting-at-a-woman-wearing-a-Christmas-stocking-cap-by-Bob-Eggleton-detailed-and-intricate.png"
+  - url: "/2022/12/17/advent-of-code-day-17-pyroclastic-flow/"
+    title: "Advent of Code Day 17 -- Pyroclastic Flow"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-17-22.26.37-An-elephant-wearing-a-Christmas-stocking-cap-looking-at-a-giant-statue-of-a-Tetris-game-in-a-cave-lit-with-lava-by-Bob-Eggleton-detailed-and-intrica.png"
+  - url: "/2022/12/04/advent-of-code-day-4-camp-cleanup/"
+    title: "Advent of Code Day 4 -- Camp Cleanup"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-04-18.27.11-Several-Christmas-elves-doing-chores-around-a-campsite-in-the-jungle-painted-by-Bob-Eggleton-detailed-and-intricate.png"
+  - url: "/2024/12/07/advent-of-code-2024-the-first-week/"
+    title: "Advent of Code 2024: The First Week"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/DALL·E-2024-12-07-11.54.46-A-Tolkien-inspired-scene-depicting-graceful-elves-in-a-Tolkien-inspired-setting-repairing-a-rope-bridge-over-a-serene-river-surrounded-by-lush-vibra.webp"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-16-23.05.05-A-publicity-photo-of-Jack-Bauer-from-_24_-leading-an-elephant-through-a-lava-tube-lit-up-with-the-red-glow-of-molten-magma.-Tubes-and-pipes-line-the-l.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-16-23.05.05-A-publicity-photo-of-Jack-Bauer-from-_24_-leading-an-elephant-through-a-lava-tube-lit-up-with-the-red-glow-of-molten-magma.-Tubes-and-pipes-line-the-l.png"
 ---

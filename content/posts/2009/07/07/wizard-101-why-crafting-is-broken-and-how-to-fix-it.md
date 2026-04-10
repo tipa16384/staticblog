@@ -3,6 +3,7 @@ date: '2009-07-07T00:40:39-05:00'
 draft: false
 title: "Wizard 101: Why crafting is broken, and how to fix it"
 author: "Tipa"
+disqusIdentifier: "2009/07/07/wizard-101-why-crafting-is-broken-and-how-to-fix-it"
 summary: "With the Grizzleheim expansion, KingsIsle also brought crafting to the world of Wizard 101. The crafting system chosen is the most ... um ... unique(?)..."
 categories:
   - "MMORPG"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Crafting"
   - "Grizzleheim"
+relatedPosts:
+  - url: "/2009/07/02/wizard-101-first-night-in-grizzleheim-crafting-secrets/"
+    title: "Wizard 101: First Night in Grizzleheim & Crafting Secrets"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/WizardGraphicalClient-2009-07-02-07-16-47-37.jpg"
+  - url: "/2009/08/11/wizard101-i-met-harry-potter-in-grizzleheim/"
+    title: "Wizard101: I met Harry Potter in Grizzleheim!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/WizardGraphicalClient-2009-08-11-22-55-19-88.jpg"
+  - url: "/2009/06/30/wizard-101-grizzleheim-goes-live-july-1/"
+    title: "Wizard 101: Grizzleheim goes live July 1!"
+    thumbnailImage: ""
+  - url: "/2009/06/22/wizard-101-grizzleheim/"
+    title: "Wizard 101: Grizzleheim"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/WizardGraphicalClient-2009-06-21-20-49-59-56.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/w101station.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/w101station.jpg"
 ---

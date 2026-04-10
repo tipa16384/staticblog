@@ -3,6 +3,7 @@ date: '2025-08-06T19:44:35-05:00'
 draft: false
 title: "La Brute: Battles Royale and Warring Guilds"
 author: "Tipa"
+disqusIdentifier: "2025/08/06/la-brute-battles-royale-and-warring-guilds"
 summary: "Beneath this seeming auto battler is a surprisingly deep strategy game..."
 categories:
   - "Blaugust"
@@ -11,6 +12,19 @@ categories:
   - "Other Games"
 tags:
   - "My Brute"
+relatedPosts:
+  - url: "/2024/08/17/la-brute-you-should-totally-join-my-clan/"
+    title: "La Brute: You should totally join my clan"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/labrute.png"
+  - url: "/2009/06/11/dont-bring-a-knife-to-a-hammer-fight-jack-sparrow/"
+    title: "Don't bring a knife to a HAMMER fight, Jack Sparrow!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/fullscreen-capture-6112009-72334-am.jpg"
+  - url: "/2025/09/01/august-blogging-from-2005-to-today/"
+    title: "August Blogging from 2005 to today"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/raspy-blogging.png"
+  - url: "/2025/08/31/the-vectrex-is-coming-back-in-pog-form/"
+    title: "The Vectrex is coming back... in pog form!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/vectrexmini.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/LaBrute.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/LaBrute.png"
 ---

@@ -3,12 +3,26 @@ date: '2012-10-12T06:21:15-05:00'
 draft: false
 title: "Game Log: Pirate101, FTL"
 author: "Tipa"
+disqusIdentifier: "2012/10/12/game-log-pirate101-ftl"
 summary: "I met up with Friendly Thomas and Eccentric Austin Ornsley last night for a little soiree on the decks of Austin's galleon. On the POOP..."
 categories:
   - "FTL"
   - "MMORPG"
   - "Other Games"
   - "Pirate101"
+relatedPosts:
+  - url: "/2012/10/20/game-log-pirate101-diablo3/"
+    title: "Game Log: Pirate101, Diablo3"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-19-22-31-46-93-480x384.jpg"
+  - url: "/2012/10/11/game-log-pirate101-torchlight-2/"
+    title: "Game Log: Pirate101, Torchlight 2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-10-21-01-42-45-480x360.jpg"
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2012/11/22/wizard101-pirate101-free-stuff/"
+    title: "Wizard101 & Pirate101 Free Stuff!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/11/Pirate-2012-11-22-22-15-34-33-480x360.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-11-21-04-39-43-480x269.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-11-21-04-39-43-480x269.jpg"
 ---

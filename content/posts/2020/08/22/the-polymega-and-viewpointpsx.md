@@ -3,6 +3,7 @@ date: '2020-08-22T14:49:33-05:00'
 draft: false
 title: "The Polymega and Viewpoint(PSX)"
 author: "Tipa"
+disqusIdentifier: "2020/08/22/the-polymega-and-viewpointpsx"
 summary: "I was so excited when I saw a video on the Polymega this morning. The Polymega is a sort of uber-emulator console that can take..."
 categories:
   - "Emulators"
@@ -13,6 +14,19 @@ tags:
   - "Emulator"
   - "Girls Screaming in Techno"
   - "PSX"
+relatedPosts:
+  - url: "/2020/05/08/project64-and-beetle-adventure-racing/"
+    title: "Project64 and Beetle Adventure Racing"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/Project64-2020-05-08-07-01-57-40.jpg"
+  - url: "/2022/07/04/dark-stone-retroarch-and-steam/"
+    title: "Dark Stone, Retroarch, and Steam."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/IMG_2596-scaled.jpg"
+  - url: "/2014/06/15/steam-game-of-the-week-little-racers-street/"
+    title: "Steam Game of the Week: Little Racers STREET"
+    thumbnailImage: "https://lh5.googleusercontent.com/-rccMy-gwepE/U51_Un5JBnI/AAAAAAAAvF0/T9hgf1q6JMs/w741-h593-no/LittleRacersStreet+2014-06-15+07-11-12-06.jpg"
+  - url: "/2024/06/09/retro-haul-tactics-and-sea-monkeys/"
+    title: "Retro Haul: Tactics and Sea Monkeys"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/06/IMG_4308.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/psxfin-2020-08-22-13-21-45-19.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/psxfin-2020-08-22-13-21-45-19.jpg"
 ---

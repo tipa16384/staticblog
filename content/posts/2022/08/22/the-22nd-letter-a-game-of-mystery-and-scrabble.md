@@ -3,6 +3,7 @@ date: '2022-08-22T07:00:00-05:00'
 draft: false
 title: "\"The 22nd Letter\": A Game of Mystery and Scrabble"
 author: "Tipa"
+disqusIdentifier: "2022/08/22/the-22nd-letter-a-game-of-mystery-and-scrabble"
 summary: "The 22nd Letter is a game of mystery and Scrabble. As you play the game, you'll gradually uncover the story of \"V\", a man who disappeared during a Scrabble tournament long ago. Can you solve the mystery?"
 categories:
   - "Blaugust"
@@ -13,6 +14,19 @@ tags:
   - "Gpt-3"
   - "Scrabble"
   - "Wombats"
+relatedPosts:
+  - url: "/2022/08/23/23-fathoms-a-cold-war-era-submarine-simulator/"
+    title: "23 Fathoms: A Cold War Era Submarine Simulator"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/smallsub.png"
+  - url: "/2022/08/21/21-reactions-chemical-chaos/"
+    title: "21 Reactions: Chemical Chaos"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-13-21.11.32-a-beaker-containing-multicolored-chemicals.-musical-notes-are-coming-out-of-the-mouth-of-the-beaker.-in-the-style-of-a-textbook-illustration..png"
+  - url: "/2022/09/01/32-bullets-new-first-person-shooter-game/"
+    title: 'Creating "32 Bullets" -- an AI adventure.'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/32bulletsbanner.png"
+  - url: "/2022/08/31/blaugust-hath-31-days/"
+    title: "Blaugust Hath 31 Days"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-24-22.46.10-a-young-woman-fighting-a-monster-with-a-rune-carved-sword.-She-is-surrounded-by-a-dark-forest-and-the-full-moon-is-shining-overhead-in-the-style-of-.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/22ndletter.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/22ndletter.png"
 ---

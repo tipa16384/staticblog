@@ -3,6 +3,7 @@ date: '2021-10-10T10:01:10-05:00'
 draft: false
 title: "Game Night: JotL \"The Heist\" and \"The Message\""
 author: "Tipa"
+disqusIdentifier: "2021/10/10/game-night-jotl-the-heist-and-the-message"
 summary: "Two short scenarios for last night's Jaws of the Lion campaign: First was \"The Heist\", where we investigate a sewer branch that led directly beneath..."
 categories:
   - "Game Night"
@@ -11,6 +12,19 @@ categories:
   - "Tabletop Games"
 tags:
   - "Jaws of the Lion"
+relatedPosts:
+  - url: "/2022/07/19/gloomhaven-jaws-of-the-lion-finished/"
+    title: "Gloomhaven Jaws of the Lion: Finished."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/jotlbox.png"
+  - url: "/2020/11/23/game-night-jaws-of-the-lion/"
+    title: "Game Night: Jaws of the Lion"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/11/2-IMG_2014.jpg"
+  - url: "/2020/10/16/game-night-gloomhaven-jaws-of-the-lion-a-ritual-in-stone/"
+    title: "Game Night: Gloomhaven, Jaws of the Lion, A Ritual in Stone"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/1-IMG_1959.jpg"
+  - url: "/2020/09/11/game-night-jaws-of-the-lion-the-black-ship/"
+    title: "Game Night: Jaws of the Lion, the Black Ship"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/1-IMG_1908.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/1-IMG_2350.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/1-IMG_2350.jpg"
 ---

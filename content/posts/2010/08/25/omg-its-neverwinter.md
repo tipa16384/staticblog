@@ -3,6 +3,7 @@ date: '2010-08-25T07:10:07-05:00'
 draft: false
 title: "OMG! It's Neverwinter!"
 author: "Tipa"
+disqusIdentifier: "2010/08/25/omg-its-neverwinter"
 summary: "I find, these days, that I don't make that much of a distinction between online RPGs -- even Massive ones -- and offline, single player..."
 categories:
   - "MMORPG"
@@ -11,6 +12,19 @@ categories:
 tags:
   - "Champions Online"
   - "Cryptic"
+relatedPosts:
+  - url: "/2010/11/18/star-trek-online-the-enterprise-pack-and-genesis/"
+    title: "Star Trek Online: The Enterprise Pack (and Genesis)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/GameClient-2010-11-18-06-25-23-18-480x383.jpg"
+  - url: "/2021/08/07/mmos-on-the-bubble/"
+    title: "MMOs on the Bubble"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/STP61286.jpg"
+  - url: "/2021/09/26/ship-of-heroes-mission-beta-feedback/"
+    title: "Ship of Heroes: Mission Beta Feedback"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/shipoffools-redsigilbase.jpg"
+  - url: "/2021/08/22/ship-of-heroes-superheroes-in-spaaaaaace/"
+    title: "Ship of Heroes: Superheroes IN SPAAAAAACE!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/shipoffools-1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/Fullscreen-capture-8252010-74125-AM.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/Fullscreen-capture-8252010-74125-AM.jpg"
 ---

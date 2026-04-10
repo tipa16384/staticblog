@@ -3,6 +3,7 @@ date: '2009-07-15T07:34:12-05:00'
 draft: false
 title: "Daily Blogroll 7/15 -- Same quests, different day edition"
 author: "Tipa"
+disqusIdentifier: "2009/07/15/daily-blogroll-715-same-quests-different-day-edition"
 summary: "Welcome to another daily blogroll!..."
 categories:
   - "Daily Blogroll"
@@ -11,6 +12,19 @@ categories:
   - "Shards of Dalaya"
   - "Vanguard"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2009/06/01/daily-blogroll-61-almost-summer-edition/"
+    title: "Daily Blogroll 6/1 -- Almost Summer edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/dungeonparty.jpg"
+  - url: "/2009/04/19/web-log-419/"
+    title: "Web log 4/19"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/marleybonepokemon.jpg"
+  - url: "/2011/05/12/semi-annual-blogroll-sheep-may-safely-graze-edition/"
+    title: "Semi-Annual Blogroll: Sheep may safely graze edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/05/sheep2.png"
+  - url: "/2010/11/30/daily-blogroll-1130-worst-case-scenario-edition/"
+    title: "Daily Blogroll, 11/30 -- Worst Case Scenario edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/vgclient-2010-11-29-20-32-30-42.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/aim3d.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/aim3d.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2020-12-14T07:22:29-05:00'
 draft: false
 title: "Persona 4 Golden: The Story Thus Far"
 author: "Tipa"
+disqusIdentifier: "2020/12/14/persona-4-golden-the-story-thus-far"
 summary: "In a more consistent world, I'd have played Persona 4 before I played Persona 5. Not because the plots or characters of the two games..."
 categories:
   - "CRPG"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Persona"
   - "RPG"
+relatedPosts:
+  - url: "/2024/01/18/granblue-fantasy-relink-demo/"
+    title: "Granblue Fantasy: Relink (DEMO)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/Granblue-Fantasy_-Relink-Demo_20240117201543-scaled.jpg"
+  - url: "/2021/08/03/ff1-continues-a-witch-a-dwarf-and-a-king-walk-into-a-bar/"
+    title: "FF1 Continues: A Witch, A Dwarf, and a King walk into a bar..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/laliho.png"
+  - url: "/2020/12/28/persona-4-golden-finished/"
+    title: "Persona 4 Golden: Finished!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/20201227203256_1.jpg"
+  - url: "/2020/12/08/too-many-games-in-my-queue/"
+    title: "Too Many Games in my Queue"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/2020120808035600-67D01338887DAC4477826B5EA75BFB74.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/20201209215453_1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/20201209215453_1.jpg"
 ---

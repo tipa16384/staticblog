@@ -3,9 +3,23 @@ date: '2008-02-25T15:35:14-05:00'
 draft: false
 title: "Brief look: Marvel Ultimate Alliance"
 author: "Tipa"
+disqusIdentifier: "2008/02/25/brief-look-marvel-ultimate-alliance"
 summary: "I had nothing better to do last night, so I popped Marvel Ultimate Alliance, a game that came with the Xbox 360, in last night..."
 categories:
   - "Other Games"
+relatedPosts:
+  - url: "/2025/08/06/la-brute-battles-royale-and-warring-guilds/"
+    title: "La Brute: Battles Royale and Warring Guilds"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/LaBrute.png"
+  - url: "/2025/07/10/frosthaven-scenario-14-jagged-shoals/"
+    title: "Frosthaven Scenario 14: Jagged Shoals"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/07/IMG_5225-scaled.jpg"
+  - url: "/2024/11/21/dragon-age-the-veilguard-finished/"
+    title: "Dragon Age: the Veilguard finished"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/banner2.png"
+  - url: "/2024/11/09/dragon-age-the-veilguard-is-not-the-game-you-think-it-is/"
+    title: "Dragon Age: The Veilguard is not the game you think it is"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/davg-banner.png"
 ---
 I had nothing better to do last night, so I popped Marvel Ultimate Alliance, a game that came with the Xbox 360, in last night...
 <!--more-->

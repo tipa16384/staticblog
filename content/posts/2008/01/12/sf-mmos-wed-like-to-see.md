@@ -3,10 +3,24 @@ date: '2008-01-12T14:01:09-05:00'
 draft: false
 title: "SF MMOs we'd like to see..."
 author: "Tipa"
+disqusIdentifier: "2008/01/12/sf-mmos-wed-like-to-see"
 summary: "When Wired ran a story headlined \"Apple Plotting an Avon Power Play\", all I could think was, \"Damn that Avon! Which side is he ON?\"...."
 categories:
   - "General"
   - "Sci Fi"
+relatedPosts:
+  - url: "/2015/09/13/beam-me-up/"
+    title: "Beam me up..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/09/1-Star-Trek-Me-1.jpg"
+  - url: "/2011/07/31/space-battleship-yamato-the-movie/"
+    title: "Space Battleship Yamato (the movie)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/07/wmplayer-2011-07-31-08-54-13-39-480x320.jpg"
+  - url: "/2008/07/22/save-the-middleman/"
+    title: "Save the Middleman!"
+    thumbnailImage: ""
+  - url: "/2008/07/09/the-middleblog/"
+    title: "The Middleblog"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/avon.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/avon.jpg"
 ---

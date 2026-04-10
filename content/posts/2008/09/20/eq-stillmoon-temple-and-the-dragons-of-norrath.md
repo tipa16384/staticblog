@@ -3,6 +3,7 @@ date: '2008-09-20T03:03:15-05:00'
 draft: false
 title: "EQ: Stillmoon Temple and the Dragons of Norrath"
 author: "Tipa"
+disqusIdentifier: "2008/09/20/eq-stillmoon-temple-and-the-dragons-of-norrath"
 summary: "It was another light night, but we had a cleric, warrior, ranger and enchanter and that was enough to make a group. But where?..."
 categories:
   - "EverQuest"
@@ -11,6 +12,19 @@ categories:
 tags:
   - "Dragons of Norrath"
   - "Stillmoon Temple"
+relatedPosts:
+  - url: "/2008/09/27/eq-the-lurkers-of-lavaspinners-lair-more/"
+    title: "EQ: The Lurkers of Lavaspinner's Lair & more"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/eqgame-2008-09-26-19-45-56-08.jpg"
+  - url: "/2020/05/13/everquest-bones-everywhere/"
+    title: "EverQuest: Bones Everywhere."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/eqgame-2020-05-13-06-57-41-85.jpg"
+  - url: "/2009/06/16/welcome-to-mayong-everquests-5150-server/"
+    title: "Welcome to Mayong, EverQuest's 51/50 server"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/mayong.jpg"
+  - url: "/2009/04/17/happy-10th-birthday-everquest/"
+    title: "Happy 10th Birthday, EverQuest!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/eq10-2.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/eqgame-2008-09-19-20-32-11-82.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/eqgame-2008-09-19-20-32-11-82.jpg"
 ---

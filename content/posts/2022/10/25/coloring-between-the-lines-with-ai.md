@@ -3,6 +3,7 @@ date: '2022-10-25T00:29:53-05:00'
 draft: false
 title: "Coloring between the lines... with AI"
 author: "Tipa"
+disqusIdentifier: "2022/10/25/coloring-between-the-lines-with-ai"
 summary: "A million or so years ago, I worked for Sony New Technologies, writing system software and applications for their Magic Link handheld computer, which ran..."
 categories:
   - "OpenAI"
@@ -13,6 +14,19 @@ tags:
   - "Magic Link"
   - "Petalica Paint"
   - "Sony New Technologies"
+relatedPosts:
+  - url: "/2022/12/04/advent-of-code-day-4-camp-cleanup/"
+    title: "Advent of Code Day 4 -- Camp Cleanup"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-04-18.27.11-Several-Christmas-elves-doing-chores-around-a-campsite-in-the-jungle-painted-by-Bob-Eggleton-detailed-and-intricate.png"
+  - url: "/2022/12/03/advent-of-code-day-3-rucksack-reorganization/"
+    title: "Advent of Code Day 3 -- Rucksack Reorganization"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/aoc2022.3.jpg"
+  - url: "/2022/12/03/advent-of-code-2022-day-2-rock-paper-scissors/"
+    title: "Advent of Code 2022 Day 2 -- Rock Paper Scissors"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/Two_elves_playing_rock_paper_scissors_in_an_abandoned_jungle_village__by_Bob_Eggleton__Detailed_and__Seed-6967716_Steps-175_Guidance-7.5.jpeg"
+  - url: "/2022/11/29/crypto-crypto-what-will-you-do/"
+    title: "Crypto, Crypto, what will you do?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/11/1-A_puppy_surrounded_by_stacks_of_Bitcoin__Visual_Novel_Seed-2422298_Steps-50_Guidance-7.5.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/10/1-SonyMagicBagCoverColorized.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/10/1-SonyMagicBagCoverColorized.jpg"
 ---

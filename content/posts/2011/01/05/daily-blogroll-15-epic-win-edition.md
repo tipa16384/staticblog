@@ -3,6 +3,7 @@ date: '2011-01-05T06:00:33-05:00'
 draft: false
 title: "Daily Blogroll 1/5 - Epic Win edition"
 author: "Tipa"
+disqusIdentifier: "2011/01/05/daily-blogroll-15-epic-win-edition"
 summary: "[..."
 categories:
   - "Allods Online"
@@ -10,6 +11,19 @@ categories:
   - "Rift"
   - "Star Trek"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2011/01/01/daily-blogroll-1111-happy-new-year-edition/"
+    title: "Daily Blogroll 1/1/11 -- Happy New Year edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/rift-2010-12-31-16-51-43-97-480x384.jpg"
+  - url: "/2011/01/27/daily-blogroll-127-inevitable-backlash-edition/"
+    title: "Daily Blogroll 1/27 -- Inevitable Backlash edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/riftblade.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/chrome-2010-10-31-09-17-11-35-480x304.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/chrome-2010-10-31-09-17-11-35-480x304.jpg"
 ---

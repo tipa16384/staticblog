@@ -3,9 +3,23 @@ date: '2005-12-06T00:00:00-05:00'
 draft: false
 title: "Shaking Hands with Aliens"
 author: "Tipa"
+disqusIdentifier: "2005/12/06/shaking-hands-with-aliens"
 summary: "So you're meeting some Japanese friends for the first time. And you want to make a good impression and show you are aware of other..."
 categories:
   - "Sci Fi"
+relatedPosts:
+  - url: "/2026/01/17/starfleet-academy-your-billionaire-future/"
+    title: "Starfleet Academy: Your Billionaire Future"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/starfleetacademy.png"
+  - url: "/2024/09/27/game-night-in-too-deep/"
+    title: "Game Night: In Too Deep"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/intoodeepbanner.png"
+  - url: "/2022/09/20/review-braking-day-by-adam-oyebanji/"
+    title: "Review: Braking Day by Adam Oyebanji"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/brakingday.png"
+  - url: "/2015/09/13/beam-me-up/"
+    title: "Beam me up..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/09/1-Star-Trek-Me-1.jpg"
 ---
 So you're meeting some Japanese friends for the first time. And you want to make a good impression and show you are aware of other...
 <!--more-->

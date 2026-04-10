@@ -3,10 +3,24 @@ date: '2023-08-07T07:00:00-05:00'
 draft: false
 title: "The Legend of Windfyre"
 author: "Tipa"
+disqusIdentifier: "2023/08/07/the-legend-of-windfyre"
 summary: "I'm off to New Hampshire for the day, so here's a story about Windfyre, the dragon that lives in New Hampshire's White Mountains."
 categories:
   - "Blaugust"
   - "Blaugust 2023"
+relatedPosts:
+  - url: "/2023/08/31/the-final-days-of-blaugust/"
+    title: "The final days of Blaugust"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/solongblaugust.png"
+  - url: "/2023/08/30/what-makes-an-mmo-an-mmo-2/"
+    title: "What makes an MMO, an MMO?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/notanmmo.png"
+  - url: "/2023/08/29/loot-pinatas-how-much-are-you-worth/"
+    title: "Loot Piñatas: How much are you worth?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/moneybags.jpg"
+  - url: "/2023/08/28/retro-world-expo-scorecard/"
+    title: "Retro World Expo Scorecard"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/sailormoonpikachu.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/DALL·E-2023-08-06-08.08.31-A-childrens-story-illustration-of-the-dragon-that-lives-in-the-White-Mountains-whose-breath-makes-blizzards.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/DALL·E-2023-08-06-08.08.31-A-childrens-story-illustration-of-the-dragon-that-lives-in-the-White-Mountains-whose-breath-makes-blizzards.png"
 ---

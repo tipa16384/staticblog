@@ -3,10 +3,24 @@ date: '2014-12-23T01:46:50-05:00'
 draft: false
 title: "Gauntlet: Throwing Down."
 author: "Tipa"
+disqusIdentifier: "2014/12/23/i-thought-i-would-just-dive-into-gauntlet-in-normal-mode-i-was-okay-at-this-in-the-arcades-thirty"
 summary: "I thought I would just dive into Gauntlet in \"Normal\" mode. I was okay at this, in the arcades, thirty years ago. Nothing much has..."
 categories:
   - "Gauntlet"
   - "Other Games"
+relatedPosts:
+  - url: "/2025/08/06/la-brute-battles-royale-and-warring-guilds/"
+    title: "La Brute: Battles Royale and Warring Guilds"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/LaBrute.png"
+  - url: "/2025/07/10/frosthaven-scenario-14-jagged-shoals/"
+    title: "Frosthaven Scenario 14: Jagged Shoals"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/07/IMG_5225-scaled.jpg"
+  - url: "/2024/11/21/dragon-age-the-veilguard-finished/"
+    title: "Dragon Age: the Veilguard finished"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/banner2.png"
+  - url: "/2024/11/09/dragon-age-the-veilguard-is-not-the-game-you-think-it-is/"
+    title: "Dragon Age: The Veilguard is not the game you think it is"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/davg-banner.png"
 coverImage: "https://lh5.googleusercontent.com/-0LIR8Q5SDMU/VJjHY70V3HI/AAAAAAAA9AA/ehkCV7swjo8/w506-h750/gauntlet%2B2014-12-22%2B20-22-37-85.jpg"
 thumbnailImage: "https://lh5.googleusercontent.com/-0LIR8Q5SDMU/VJjHY70V3HI/AAAAAAAA9AA/ehkCV7swjo8/w506-h750/gauntlet%2B2014-12-22%2B20-22-37-85.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2010-03-01T08:37:41-05:00'
 draft: false
 title: "Weekend Gaming: EVE, EQ2, STO, DDO, Dragonica Online"
 author: "Tipa"
+disqusIdentifier: "2010/03/01/weekend-gaming-eve-eq2-sto-ddo-dragonica-online"
 summary: "I've come to realize, over the years, that I really suck at MMOs. Easily distracted and easily bored, the sort of long-term, intense concentration that..."
 categories:
   - "Dragonica Online"
@@ -12,6 +13,19 @@ categories:
   - "MMORPG"
   - "Star Trek"
   - "Wizard101"
+relatedPosts:
+  - url: "/2009/09/17/daily-blogroll-917-kanye-edition/"
+    title: "Daily Blogroll 9/17 - Kanye edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/kanye.jpg"
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2010/03/24/lfg-looking-for-game-decision-time/"
+    title: "LFG (Looking For Game); decision time."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/03/dndclient-2010-03-23-22-23-09-47.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/03/GameClient-2010-02-28-18-44-20-73.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/03/GameClient-2010-02-28-18-44-20-73.jpg"
 ---

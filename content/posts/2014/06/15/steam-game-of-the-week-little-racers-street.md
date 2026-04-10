@@ -3,6 +3,7 @@ date: '2014-06-15T07:11:22-05:00'
 draft: false
 title: "Steam Game of the Week: Little Racers STREET"
 author: "Tipa"
+disqusIdentifier: "2014/06/15/steam-game-of-the-week-little-racers-street"
 summary: "Every couple of weeks I buy something cheap and fun on Steam. Transistor a few weeks ago, Mirror's Edge the week before last, Injustice: Gods..."
 categories:
   - "Other Games"
@@ -10,6 +11,19 @@ tags:
   - "Arcade"
   - "Racing"
   - "Top Down"
+relatedPosts:
+  - url: "/2021/09/23/gti-racing-when-physical-media-isnt-i/"
+    title: "GTI Racer: When Physical Media... isn't."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/itsalie.png"
+  - url: "/2020/08/22/the-polymega-and-viewpointpsx/"
+    title: "The Polymega and Viewpoint(PSX)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/psxfin-2020-08-22-13-21-45-19.jpg"
+  - url: "/2025/08/06/la-brute-battles-royale-and-warring-guilds/"
+    title: "La Brute: Battles Royale and Warring Guilds"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/LaBrute.png"
+  - url: "/2025/07/10/frosthaven-scenario-14-jagged-shoals/"
+    title: "Frosthaven Scenario 14: Jagged Shoals"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/07/IMG_5225-scaled.jpg"
 coverImage: "https://lh5.googleusercontent.com/-rccMy-gwepE/U51_Un5JBnI/AAAAAAAAvF0/T9hgf1q6JMs/w741-h593-no/LittleRacersStreet+2014-06-15+07-11-12-06.jpg"
 thumbnailImage: "https://lh5.googleusercontent.com/-rccMy-gwepE/U51_Un5JBnI/AAAAAAAAvF0/T9hgf1q6JMs/w741-h593-no/LittleRacersStreet+2014-06-15+07-11-12-06.jpg"
 ---

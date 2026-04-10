@@ -3,6 +3,7 @@ date: '2021-10-03T13:11:58-05:00'
 draft: false
 title: "Stranger of Paradise: Final Fantasy Origins"
 author: "Tipa"
+disqusIdentifier: "2021/10/03/stranger-of-paradise-final-fantasy-origins"
 summary: "Some call me a Warrior of Light. Some call me a renegade. Some call me when Chaos rears its corrupted head. But you can call..."
 categories:
   - "Console Game"
@@ -14,6 +15,19 @@ categories:
 tags:
   - "Chaos"
   - "Garland"
+relatedPosts:
+  - url: "/2021/09/13/quick-look-persona-5-strikers/"
+    title: "Quick Look: Persona 5 Strikers"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/2021082320223000-1ED6A785ADE38F04450C188FF9531338.jpg"
+  - url: "/2021/09/06/panzer-dragoon-the-remake/"
+    title: "Panzer Dragoon: The Remake"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/1-Panzer-Dragoon_-Remake_20210831205643.jpg"
+  - url: "/2021/09/16/eqoa-desperately-seeking-skandalf/"
+    title: "EQOA: Desperately Seeking Skandalf"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/gsdx_20210916212834.png"
+  - url: "/2024/03/30/retro-game-haul-march-30-2024/"
+    title: "Retro Game Haul: March 30, 2024"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/IMG_4228.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/stp_logo-2x-dxMtgRSFN.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/stp_logo-2x-dxMtgRSFN.png"
 ---

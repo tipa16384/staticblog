@@ -3,6 +3,7 @@ date: '2010-10-25T07:22:01-05:00'
 draft: false
 title: "Star Trek Online: S02E07 \"Spin the Wheel\" (spoilers)"
 author: "Tipa"
+disqusIdentifier: "2010/10/25/star-trek-online-s02e07-spin-the-wheel-spoilers"
 summary: "[..."
 categories:
   - "MMORPG"
@@ -14,6 +15,19 @@ tags:
   - "Leeta"
   - "Spin the Wheel"
   - "Weekly Episode"
+relatedPosts:
+  - url: "/2010/10/16/star-trek-online-skirmish-spoilers/"
+    title: "Star Trek Online: Skirmish (spoilers)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/GameClient-2010-10-16-14-50-16-71-480x303.jpg"
+  - url: "/2010/11/14/star-trek-online-s2e5-night-of-the-comet-spoilers/"
+    title: 'Star Trek Online: S2E5 "Night of the Comet" (spoilers)'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/GameClient-2010-11-13-14-19-17-77-480x324.jpg"
+  - url: "/2010/11/07/star-trek-online-s2e4-everything-old-is-new-again/"
+    title: 'Star Trek Online: S2E4 "Everything Old is New Again"'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/GameClient-2010-11-06-14-02-09-96-480x383.jpg"
+  - url: "/2010/11/05/star-trek-online-what-lies-beneath/"
+    title: "Star Trek Online: What Lies Beneath"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/GameClient-2010-10-30-14-15-57-85-480x385.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/GameClient-2010-10-23-13-45-12-59-480x305.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/GameClient-2010-10-23-13-45-12-59-480x305.jpg"
 ---

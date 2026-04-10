@@ -3,9 +3,23 @@ date: '2015-05-16T02:28:53-05:00'
 draft: false
 title: "Second Hyperlapse test."
 author: "Tipa"
+disqusIdentifier: "2015/05/16/second-hyperlapse-test-ive-been-waiting-for-this-to-come-out-for-months-it-really-does-make-sped"
 summary: "Second Hyperlapse test. I've been waiting for this to come out for months. It really does make sped-up bike video look almost watchable, though, ironically,..."
 categories:
   - "General"
+relatedPosts:
+  - url: "/2025/11/01/quick-reviews/"
+    title: "Quick Reviews"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/winterburrow.png"
+  - url: "/2025/08/07/soda-can-tabs-for-charity-really/"
+    title: "Soda can tabs for charity? REALLY?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5304-scaled.jpeg"
+  - url: "/2024/12/17/billionaire-rapture/"
+    title: "Billionaire Rapture"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/DALL·E-2024-12-17-00.14.48-A-surreal-science-fiction-book-cover-for-a-short-story-titled-Billionaire-Rapture.-The-scene-depicts-a-futuristic-dramatic-setting-in-space-and-on-.webp"
+  - url: "/2024/04/16/that-is-not-a-sandworm-in-your-driveway/"
+    title: "That is not a sandworm in your driveway"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/sandwormindriveway.png"
 coverImage: "https://lh4.googleusercontent.com/proxy/AYM6iZW-1RO6_KVq24Uu7dO_cQ87KgIE7KOwfT6umakDWG7a3NqI-hgCgOtjnjBwLcvOi791m_59Ay_DzWfqP0Ktdvk=w506-h284-n"
 thumbnailImage: "https://lh4.googleusercontent.com/proxy/AYM6iZW-1RO6_KVq24Uu7dO_cQ87KgIE7KOwfT6umakDWG7a3NqI-hgCgOtjnjBwLcvOi791m_59Ay_DzWfqP0Ktdvk=w506-h284-n"
 ---

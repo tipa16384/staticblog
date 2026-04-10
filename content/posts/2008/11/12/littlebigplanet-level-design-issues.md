@@ -3,10 +3,24 @@ date: '2008-11-12T13:13:41-05:00'
 draft: false
 title: "LittleBigPlanet level design issues"
 author: "Tipa"
+disqusIdentifier: "2008/11/12/littlebigplanet-level-design-issues"
 summary: "I don't have any pictures, but maybe I'll get some later...."
 categories:
   - "Littlebigplanet"
   - "Other Games"
+relatedPosts:
+  - url: "/2008/11/10/wizard-friends-and-littlebigplanet-mazes/"
+    title: "Wizard Friends and LittleBigPlanet Mazes"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-10-00-53-52-28.jpg"
+  - url: "/2008/11/07/thursday-gaming-lbp-eq2-and-w101-again/"
+    title: "Thursday gaming: LBP, EQ2 and W101... again."
+    thumbnailImage: ""
+  - url: "/2008/11/03/playing-second-life/"
+    title: "Playing Second Life"
+    thumbnailImage: ""
+  - url: "/2008/11/03/littlebigplanet-dippy-birds-and-rocket-sleds/"
+    title: "LittleBigPlanet: Dippy Birds and Rocket Sleds"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/stp61427.jpg"
 ---
 I don't have any pictures, but maybe I'll get some later....
 <!--more-->

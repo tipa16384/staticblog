@@ -3,11 +3,25 @@ date: '2023-10-16T07:00:00-05:00'
 draft: false
 title: "Baldur's Gate 3: Finished!"
 author: "Tipa"
+disqusIdentifier: "2023/10/16/baldurs-gate-3-finished"
 summary: "There will be spoilers below."
 categories:
   - "Baldur's Gate 3"
   - "Dungeons & Dragons"
   - "PS5"
+relatedPosts:
+  - url: "/2023/10/07/baldurs-gate-3-are-we-the-baddies/"
+    title: "Baldur's Gate 3: Are We the Baddies?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/Screenshot-2023-10-07-103249.png"
+  - url: "/2023/10/06/baldurs-gate-3-back-on-track/"
+    title: "Baldur's Gate 3: Back on Track"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/Screenshot-2023-10-06-073659.png"
+  - url: "/2023/10/04/baldurs-gate-its-been-a-long-act-2/"
+    title: "Baldur's Gate: It's been a long Act 2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/daveinvestmentbanker.png"
+  - url: "/2023/10/25/baldurs-gate-3-guilty/"
+    title: "Baldur's Gate 3: Guilty"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/snapedit_1698202481176.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/scritches1.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/scritches1.png"
 ---

@@ -3,6 +3,7 @@ date: '2014-12-21T00:53:40-05:00'
 draft: false
 title: "Could Crushbone's Revenge be finished?"
 author: "Tipa"
+disqusIdentifier: "2014/12/21/could-crushbones-revenge-be-finished"
 summary: "Now, this IS relevant to EverQuest. I think I'm just about finished with Crushbone's Revenge, the sort of sequel to Tempest in a Freepot. You're..."
 categories:
   - "MMORPG"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Crushbone"
   - "Foundry"
+relatedPosts:
+  - url: "/2014/12/29/it-was-suggested-that-these-days-it-might-not-be-a-bad-idea-to-make-a-little-video-about-your-new/"
+    title: "Crushbone's Revenge video trailer!"
+    thumbnailImage: ""
+  - url: "/2014/12/26/crushbone-revenges-v1-2-patch-notes/"
+    title: "Crushbone Revenge's v1.2 patch notes"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2014/12/EverQuest2-2014-12-26-22-50-08-68-480x320.jpg"
+  - url: "/2014/12/23/hey-hey-magical-sleigh-i-didnt-get-this-last-year-because-i-was-saving-up-for-the-frost-mimic/"
+    title: "Crushbone's Revenge's first day live..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2014/12/GameClient-2014-12-23-08-53-53-31-480x321.jpg"
+  - url: "/2014/12/17/crushbones-revenge-almost-finished/"
+    title: "Crushbone's Revenge almost finished."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2014/12/GameClient-2014-12-17-08-13-42-49-480x300.jpg"
 ---
 Now, this IS relevant to EverQuest. I think I'm just about finished with Crushbone's Revenge, the sort of sequel to Tempest in a Freepot. You're...
 <!--more-->

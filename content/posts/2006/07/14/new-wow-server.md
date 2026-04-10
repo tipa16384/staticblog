@@ -3,9 +3,23 @@ date: '2006-07-14T00:00:00-05:00'
 draft: false
 title: "New WoW Server"
 author: "Tipa"
+disqusIdentifier: "2006/07/14/new-wow-server"
 summary: "I said I wouldn't play World of Warcraft again until they made a new Pacific Time Roleplay server... and a friend wrote me to tell..."
 categories:
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2023/08/16/a-tribute-to-creators/"
+    title: "From Hydaelyn to Veeshan: A Tribute to Creators"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/hydaelyn.webp"
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2022/08/22/the-5-best-mmos-to-play-in-2022/"
+    title: "The 5 Best MMOs to Play in 2022"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-22-13.05.37-3d-digital-art-of-Tweedle-Dee-and-Tweedle-Dum-wearing-pots-and-pans-standing-in-Duskwood-in-World-of-Warcraft.png"
+  - url: "/2021/10/05/new-world-kochaja-nas-w-polsce/"
+    title: "New World: Kochają nas w Polsce!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/poland.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/images/yenna.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/images/yenna.jpg"
 ---

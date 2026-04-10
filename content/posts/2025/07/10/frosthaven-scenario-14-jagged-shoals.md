@@ -3,6 +3,7 @@ date: '2025-07-10T08:01:31-05:00'
 draft: false
 title: "Frosthaven Scenario 14: Jagged Shoals"
 author: "Tipa"
+disqusIdentifier: "2025/07/10/frosthaven-scenario-14-jagged-shoals"
 summary: "They say that a pig can consume a body in eight minutes. What about ten pigs? That are also fish somehow?"
 categories:
   - "Frosthaven"
@@ -11,6 +12,19 @@ categories:
   - "Other Games"
 tags:
   - "Jagged Shoals"
+relatedPosts:
+  - url: "/2026/02/10/frosthaven-9-glowing-catacombs/"
+    title: "Frosthaven #9: Glowing Catacombs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/1-IMG_5665-scaled.jpg"
+  - url: "/2025/08/26/frosthaven-scenario-10-crystal-enclosure/"
+    title: "Frosthaven Scenario #10: Crystal Enclosure"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5344-scaled.jpg"
+  - url: "/2025/06/24/frosthaven-7-the-edge-of-the-world/"
+    title: "Frosthaven #7: The Edge of the World"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/IMG_5196-1-scaled.jpg"
+  - url: "/2025/06/10/frosthaven-heart-of-ice-scenario-4/"
+    title: "Frosthaven: Heart of Ice (Scenario 4)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/IMG_5180-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/07/IMG_5225-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/07/IMG_5225-scaled.jpg"
 ---

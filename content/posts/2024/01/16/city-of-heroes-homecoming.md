@@ -3,6 +3,7 @@ date: '2024-01-16T07:19:55-05:00'
 draft: false
 title: "City of Heroes: Homecoming..."
 author: "Tipa"
+disqusIdentifier: "2024/01/16/city-of-heroes-homecoming"
 summary: "It's probably been 15 years since I last played City of Heroes... and now it's come back. Should I?"
 categories:
   - "City of Heroes"
@@ -11,6 +12,19 @@ categories:
 tags:
   - "Homecoming"
   - "The Amoy Tiger"
+relatedPosts:
+  - url: "/2007/12/01/cox-madame-scurry-ms-narusegawa-and-the-amoy-tiger-villains-and-heroes/"
+    title: "CoX: Madame Scurry, Ms. Narusegawa, and the Amoy Tiger -- Villains and Heroes"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/cityofheroes-2007-12-01-12-05-32-84.jpg"
+  - url: "/2022/07/30/ship-of-heroes-housing-beta-2/"
+    title: "Ship of Heroes: Housing Beta #2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/1-20220730211912_1.jpg"
+  - url: "/2021/08/18/developer-appreciation-cryptic-studios/"
+    title: "Developer Appreciation: Cryptic Studios"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/cityofheroes-2007-12-01-12-05-32-84.jpg"
+  - url: "/2021/08/07/mmos-on-the-bubble/"
+    title: "MMOs on the Bubble"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/STP61286.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/cohhclogo.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/cohhclogo.png"
 ---

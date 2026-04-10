@@ -3,12 +3,26 @@ date: '2012-10-20T07:18:51-05:00'
 draft: false
 title: "Game Log: Pirate101, Diablo3"
 author: "Tipa"
+disqusIdentifier: "2012/10/20/game-log-pirate101-diablo3"
 summary: "From the moment I first saw them, I've been blown away by Pirate101's cinematics. These aren't 3D rendered with lots of dramatic camera angles and..."
 categories:
   - "Diablo 3"
   - "MMORPG"
   - "Other Games"
   - "Pirate101"
+relatedPosts:
+  - url: "/2012/10/11/game-log-pirate101-torchlight-2/"
+    title: "Game Log: Pirate101, Torchlight 2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-10-21-01-42-45-480x360.jpg"
+  - url: "/2012/10/12/game-log-pirate101-ftl/"
+    title: "Game Log: Pirate101, FTL"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-11-21-04-39-43-480x269.jpg"
+  - url: "/2013/01/14/d3-youve-defeated-diablo-iii/"
+    title: "D3: You've Defeated Diablo III"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/01/Diablo-III-2013-01-13-23-13-32-63-480x298.jpg"
+  - url: "/2012/10/18/game-log-guild-wars-2-diablo-3/"
+    title: "Game Log: Guild Wars 2, Diablo 3"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Gw2-2012-10-18-23-44-12-32-480x269.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-19-22-31-46-93-480x384.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-19-22-31-46-93-480x384.jpg"
 ---

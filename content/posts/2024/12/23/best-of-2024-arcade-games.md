@@ -3,6 +3,7 @@ date: '2024-12-23T08:00:00-05:00'
 draft: false
 title: "Best of 2024: Arcade Games"
 author: "Tipa"
+disqusIdentifier: "2024/12/23/best-of-2024-arcade-games"
 summary: "I played dozens of games in 2024. Trying to distill them down to \"the best\" is hard. First up: arcade games."
 categories:
   - "Arcade Game"
@@ -13,6 +14,19 @@ tags:
   - "John Wick"
   - "Parappa the Rapper"
   - "Sly Cooper"
+relatedPosts:
+  - url: "/2024/01/31/palworld-vandal-hearts-hons-vr-lenses/"
+    title: "Palworld, Vandal Hearts, Hons VR Lenses"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/zoe.png"
+  - url: "/2023/08/24/staying-motivated-for-retro-world-expo-2023/"
+    title: "Staying Motivated for Retro World Expo 2023"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/retroworldexpo.jpg"
+  - url: "/2025/01/05/best-board-games-of-2024/"
+    title: "Best Board Games of 2024!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/bestboardgamebanner.png"
+  - url: "/2024/12/27/the-best-puzzle-games-of-2024/"
+    title: "The Best Puzzle Games of 2024"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/puzzlegamesbanner.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/tipachu_banner_image_for_an_article_about_video_gaming_with_t_c476c7e5-25b3-4de2-a318-2a5b0f6e20cf_0.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/tipachu_banner_image_for_an_article_about_video_gaming_with_t_c476c7e5-25b3-4de2-a318-2a5b0f6e20cf_0.png"
 ---

@@ -3,6 +3,7 @@ date: '2025-07-01T08:00:00-05:00'
 draft: false
 title: "Palworld Does What Nintendon't. Again."
 author: "Tipa"
+disqusIdentifier: "2025/07/01/palworld-does-what-nintendont-again"
 summary: "Palworld's new update does more than let your Pals become their true selves. There's also fishing. And, almost forgot, a portal to the world of Terraria!"
 categories:
   - "Open World RPG"
@@ -10,6 +11,19 @@ categories:
   - "Survival"
 tags:
   - "Terraria"
+relatedPosts:
+  - url: "/2024/01/31/palworld-vandal-hearts-hons-vr-lenses/"
+    title: "Palworld, Vandal Hearts, Hons VR Lenses"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/zoe.png"
+  - url: "/2025/01/02/best-of-2024-survival-crafting-games/"
+    title: "Best of 2024: Survival Crafting Games"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/survivalbanner.png"
+  - url: "/2024/02/18/palworld-is-a-thing-that-happened-i-guess/"
+    title: "Palworld is a thing that happened, I guess"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/02/swifty.png"
+  - url: "/2024/08/27/twitch-drops-why/"
+    title: "Twitch Drops: Why?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/1-Palworld-Screenshot-2024.08.26-07.46.02.07.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/drbrawngenderclinic.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/drbrawngenderclinic.png"
 ---

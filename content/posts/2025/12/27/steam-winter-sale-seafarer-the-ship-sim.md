@@ -3,12 +3,26 @@ date: '2025-12-27T13:14:25-05:00'
 draft: false
 title: "Steam Winter Sale: Seafarer, the Ship Sim"
 author: "Tipa"
+disqusIdentifier: "2025/12/27/steam-winter-sale-seafarer-the-ship-sim"
 summary: "Dive into the world of commercial shipping as you patrol the seas and learn to love ISO 668 cargo containers."
 categories:
   - "Steam Games"
 tags:
   - "Seafarer"
   - "Simulation Game"
+relatedPosts:
+  - url: "/2026/02/28/steam-next-fest-mmo98-and-data-center/"
+    title: "Steam Next Fest: MMO98 and Data Center"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/20240116_2110116464139906798923568.webp"
+  - url: "/2026/02/06/i-know-what-i-did-last-weekend-7/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/1-20260205205317_1.jpg"
+  - url: "/2024/12/24/the-best-simulation-city-builder-games-of-2024/"
+    title: "The Best Simulation/City Builder Games of 2024"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/simgames.png"
+  - url: "/2024/06/25/its-not-writers-block-its-distraction/"
+    title: "It's not writer's block, it's distraction"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/06/distracted.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/1-20251226095656_1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/1-20251226095656_1.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2021-01-12T19:04:28-05:00'
 draft: false
 title: "Does DCUO on the Switch make any sense?"
 author: "Tipa"
+disqusIdentifier: "2021/01/12/does-dcuo-on-the-switch-make-any-sense"
 summary: "When you REALLY want to play DCUO, but all you have is the Switch..."
 categories:
   - "MMORPG"
@@ -14,6 +15,19 @@ tags:
   - "DC Universe Online"
   - "PC"
   - "Steam"
+relatedPosts:
+  - url: "/2021/07/23/dcuo-reboots-itself-with-house-of-legends/"
+    title: "DCUO Reboots itself with House of Legends"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/batman-joker-collaborations_auto_x2.jpg"
+  - url: "/2020/05/07/mmo-updates-crowfall-everquest-chocobos-mystery-dungeon-dcuo/"
+    title: "MMO updates: Crowfall, EverQuest, Chocobo's Mystery Dungeon, DCUO"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/CrowfallClient-2020-05-07-07-19-12-64-1024x576.jpg"
+  - url: "/2021/07/27/dcuo-new-player-experience/"
+    title: "DCUO: New Player Experience"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/1-20210725214657_1.jpg"
+  - url: "/2021/03/31/valheim-friends-in-the-afterlife/"
+    title: "Valheim: Friends in the Afterlife"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/03/10-20210329072158_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/01/2021011212024200-57B4628D2267231D57E0FC1078C0596D.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/01/2021011212024200-57B4628D2267231D57E0FC1078C0596D.jpg"
 ---

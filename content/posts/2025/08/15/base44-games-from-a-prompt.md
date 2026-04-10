@@ -3,6 +3,7 @@ date: '2025-08-15T16:00:59-05:00'
 draft: false
 title: "Base44: Games from a Prompt"
 author: "Tipa"
+disqusIdentifier: "2025/08/15/base44-games-from-a-prompt"
 summary: "Yes, I'm going to talk about AI-created games here. Feel free to go off on me IN THE COMMENTS :-)"
 categories:
   - "Blaugust"
@@ -12,6 +13,19 @@ tags:
   - "Base44"
   - "Blue Oyster Cult"
   - "ChatGPT"
+relatedPosts:
+  - url: "/2023/11/29/heroquest-lair-of-the-orc-warlord/"
+    title: "HeroQuest: Lair of the Orc Warlord"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/b34850e8-93d7-41d7-afdc-eec711923a98.webp"
+  - url: "/2023/08/25/one-does-not-simply-walk-into-ba-sing-se/"
+    title: "One does not simply walk into Ba Sing Se!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/frodoavatar.png"
+  - url: "/2023/08/14/my-non-controversial-take-on-the-ai-revolution/"
+    title: "My Non-Controversial Take on the AI Revolution"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/revolution.png"
+  - url: "/2022/03/11/7drl-2022-day-5-im-damaged-and-i-like-it/"
+    title: "7DRL 2022 Day 5: I'm Damaged, and I Like It"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/ezgif.com-gif-maker-5.gif"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/pendeenpoint.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/pendeenpoint.png"
 ---

@@ -3,6 +3,7 @@ date: '2009-06-09T19:12:26-05:00'
 draft: false
 title: "Shiren the Wanderer 3 coming next year for the Wii"
 author: "Tipa"
+disqusIdentifier: "2009/06/09/shiren-the-wanderer-3-coming-next-year-for-the-wii"
 summary: "[..."
 categories:
   - "Other Games"
@@ -11,6 +12,19 @@ tags:
   - "Rogue-Like"
   - "Shiren the Wanderer"
   - "Wii"
+relatedPosts:
+  - url: "/2021/11/01/quick-look-unexplored-2/"
+    title: "Quick Look: Unexplored 2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/mainmenu.png"
+  - url: "/2020/10/27/rogue-the-original-rogue-like/"
+    title: "Rogue -- the original rogue-like"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/roguebanner.jpg"
+  - url: "/2008/11/21/the-xbox-nxe/"
+    title: "The Xbox NXE"
+    thumbnailImage: ""
+  - url: "/2022/03/07/7drl-2022-day-2-dungeon-room/"
+    title: "7DRL 2022 Day 2: Dungeon Room"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/ezgif.com-gif-maker-2.gif"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/fullscreen-capture-692009-74630-pm.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/fullscreen-capture-692009-74630-pm.jpg"
 ---

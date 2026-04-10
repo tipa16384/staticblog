@@ -3,6 +3,7 @@ date: '2022-08-24T07:00:00-05:00'
 draft: false
 title: "24/7: Attention, Undead Shoppers edition."
 author: "Tipa"
+disqusIdentifier: "2022/08/24/24-7-attention-undead-shoppers-edition"
 summary: "Do you have what it takes to keep the undead under control? Find out in 24/7, a challenging and exciting first-person shooter with a horror twist. Patrol the mall at night and keep the creatures of the night in check. Use a variety of different weapons and tools to help you in your task. Can you survive until dawn?"
 categories:
   - "Blaugust"
@@ -15,6 +16,19 @@ tags:
   - "Gpt-3"
   - "Mall"
   - "Security Guards"
+relatedPosts:
+  - url: "/2022/09/01/32-bullets-new-first-person-shooter-game/"
+    title: 'Creating "32 Bullets" -- an AI adventure.'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/32bulletsbanner.png"
+  - url: "/2022/08/15/the-15th-element-a-squad-based-shooter-with-puzzle-elements/"
+    title: "The 15th Element: A Squad-Based Shooter With Puzzle Elements"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/15thelementtop.png"
+  - url: "/2022/07/31/welcome-to-blaugust-2022-31-game-ideas-from-ai/"
+    title: "Welcome to Blaugust 2022: 31 game ideas from AI"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/blaugust2022.webp"
+  - url: "/2022/08/31/blaugust-hath-31-days/"
+    title: "Blaugust Hath 31 Days"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-24-22.46.10-a-young-woman-fighting-a-monster-with-a-rune-carved-sword.-She-is-surrounded-by-a-dark-forest-and-the-full-moon-is-shining-overhead-in-the-style-of-.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-16-19.33.49-A-photograph-of-a-security-guard-in-a-blue-uniform-watching-zombie-shoppers-walking-through-a-dark-mall-lit-with-a-glowing-mist-1977-film-Alien..png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-16-19.33.49-A-photograph-of-a-security-guard-in-a-blue-uniform-watching-zombie-shoppers-walking-through-a-dark-mall-lit-with-a-glowing-mist-1977-film-Alien..png"
 ---

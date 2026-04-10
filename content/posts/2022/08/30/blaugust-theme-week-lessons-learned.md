@@ -3,6 +3,7 @@ date: '2022-08-30T23:51:54-05:00'
 draft: false
 title: "Blaugust theme week: Lessons learned"
 author: "Tipa"
+disqusIdentifier: "2022/08/30/blaugust-theme-week-lessons-learned"
 summary: "I spent the 31 days of Blaugust working to see if I could get AI to show some creativity in game design, and if I..."
 categories:
   - "Blaugust"
@@ -14,6 +15,19 @@ tags:
   - "Dall-E 2"
   - "Gpt-3"
   - "Tiddlywinks"
+relatedPosts:
+  - url: "/2022/07/31/welcome-to-blaugust-2022-31-game-ideas-from-ai/"
+    title: "Welcome to Blaugust 2022: 31 game ideas from AI"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/blaugust2022.webp"
+  - url: "/2022/08/26/1926-the-golden-age-of-aviation/"
+    title: "1926: The Golden Age of Aviation"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/goldenage26.png"
+  - url: "/2022/08/25/25-cents-the-age-of-the-arcade/"
+    title: "25 Cents: The Age of the Arcade"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-17-23.27.24-synthwave-a-wombat-dressed-in-a-pink-blazer-playing-an-arcade-machine-in-a-video-arcade.-the-picture-is-lit-only-by-the-glow-of-the-arcade-machines.-l.png"
+  - url: "/2022/08/21/21-reactions-chemical-chaos/"
+    title: "21 Reactions: Chemical Chaos"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-13-21.11.32-a-beaker-containing-multicolored-chemicals.-musical-notes-are-coming-out-of-the-mouth-of-the-beaker.-in-the-style-of-a-textbook-illustration..png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-30-23.00.58-35mm-long-range-photograph-of-a-woman-warrior-reading-a-book-while-sitting-against-a-sleeping-green-dragon-near-a-mountain-lake-pastel-colors-peacef.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-30-23.00.58-35mm-long-range-photograph-of-a-woman-warrior-reading-a-book-while-sitting-against-a-sleeping-green-dragon-near-a-mountain-lake-pastel-colors-peacef.png"
 ---

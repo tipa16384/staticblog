@@ -3,6 +3,7 @@ date: '2020-10-29T07:34:04-05:00'
 draft: false
 title: "Game Night: Heart of Crown"
 author: "Tipa"
+disqusIdentifier: "2020/10/29/game-night-heart-of-crown"
 summary: "I'd forgotten we'd discussed changing game night from Thursday to Wednesday and only remembered when my daughter showed up on the doorstep, ready to game...."
 categories:
   - "Card Games"
@@ -12,6 +13,19 @@ tags:
   - "Card Game"
   - "Dominion"
   - "Heart of Crown"
+relatedPosts:
+  - url: "/2021/08/06/terraforming-mars-ares-expedition-review/"
+    title: "Terraforming Mars: Ares Expedition Review"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/fbbf63001a2354f8bc6e89c58b4a21f1_original.png"
+  - url: "/2012/02/11/sto-the-2800-episode-1-second-wave/"
+    title: 'STO: "The 2800" episode 1 -- Second Wave'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/02/GameClient-2012-02-11-13-28-15-41-480x208.jpg"
+  - url: "/2023/12/07/advent-of-code-day-7-camel-cards/"
+    title: "Advent of Code Day 7 -- Camel Cards"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-07-21.36.26-In-a-desert-setting-a-Christmas-elf-mom-and-a-repair-person-in-a-safety-vest-and-hard-hat-are-riding-camels.-Both-characters-are-holding-a-hand-of-pl.png"
+  - url: "/2022/08/06/the-six-cats-of-madame-miracle/"
+    title: "The Six Cats of Madame Miracle"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/sixcats.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/1-IMG_1972.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/1-IMG_1972.jpg"
 ---

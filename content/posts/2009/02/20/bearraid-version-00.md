@@ -3,10 +3,24 @@ date: '2009-02-20T08:37:56-05:00'
 draft: false
 title: "#bearraid, version 0.0"
 author: "Tipa"
+disqusIdentifier: "2009/02/20/bearraid-version-00"
 summary: "I was just sitting around, waiting for a spot on the Trakanon raid to open, and I got to thinking, hmm... I should write that..."
 categories:
   - "General"
   - "MMORPG"
+relatedPosts:
+  - url: "/2012/10/08/pirate101-yo-ho-ho-a-pirates-life-for-me/"
+    title: "Pirate101: Yo ho ho, a Pirate's Life for Me"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-08-22-32-11-71-480x269.jpg"
+  - url: "/2010/11/24/thoughts-on-elitism-and-speed-runs-or-my-dinner-with-yhrall/"
+    title: "Thoughts on Elitism and Speed Runs, or, My Dinner with Thrall"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/lotroclient-2010-11-24-00-25-18-91-480x385.jpg"
+  - url: "/2010/10/21/how-i-killed-mmos-can-ffxiv-get-them-a-rez/"
+    title: "How I Killed MMOs (can FFXIV get them a rez?)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/secretworld1-480x270.jpg"
+  - url: "/2009/04/28/daily-blogroll-428-hug-squeeze-edition/"
+    title: "Daily Blogroll 4/28 -- Hug & Squeeze Edition"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/bear.gif"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/bear.gif"
 ---

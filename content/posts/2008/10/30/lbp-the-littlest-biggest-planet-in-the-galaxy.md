@@ -3,12 +3,26 @@ date: '2008-10-30T12:26:15-05:00'
 draft: false
 title: "LBP: The Littlest, Biggest Planet in the galaxy."
 author: "Tipa"
+disqusIdentifier: "2008/10/30/lbp-the-littlest-biggest-planet-in-the-galaxy"
 summary: "Last night was a LittleBigPlanet night. I didn't know that it was going to be a LBP night, but when I sat down to play,..."
 categories:
   - "Littlebigplanet"
   - "Other Games"
 tags:
   - "PS3"
+relatedPosts:
+  - url: "/2008/09/19/ps3-littlebig-planet-in-stores-october-21/"
+    title: "PS3: LittleBig Planet in stores October 21"
+    thumbnailImage: ""
+  - url: "/2008/07/07/ps3-valkyrie-chronicles/"
+    title: "PS3: Valkyrie Chronicles"
+    thumbnailImage: ""
+  - url: "/2008/06/30/slave-to-marketing/"
+    title: "Slave to marketing."
+    thumbnailImage: ""
+  - url: "/2024/11/27/odin-sphere-two-dimensions-is-more-than-enough/"
+    title: "Odin Sphere: Two dimensions is more than enough"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/odinsphere.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/stp61416.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/stp61416.jpg"
 ---

@@ -3,12 +3,26 @@ date: '2009-04-07T07:43:45-05:00'
 draft: false
 title: "Lord of the Rings Online: Crafting the Hard Way"
 author: "Tipa"
+disqusIdentifier: "2009/04/07/lord-of-the-rings-online-crafting-the-hard-way"
 summary: "It's been bugging me for awhile that my Woodworker, Eraindiel, never mastered apprentice woodworking. She just leveled out of the area too soon, and needed..."
 categories:
   - "Lord of the Rings"
   - "MMORPG"
 tags:
   - "Crafting"
+relatedPosts:
+  - url: "/2020/08/18/does-crafting-have-any-place-in-modern-mmos/"
+    title: "Does Crafting have any place in modern MMOs?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-EverQuest2-2020-08-18-18-11-08-10.jpg"
+  - url: "/2009/08/07/wizard101-is-that-a-crafting-station-or-an-atm/"
+    title: "Wizard101: Is that a crafting station or an ATM?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/WizardGraphicalClient-2009-08-07-01-35-22-19.jpg"
+  - url: "/2009/07/07/wizard-101-kingsisle-responds-to-crafting-and-boss-fight-issues/"
+    title: "Wizard 101: KingsIsle responds to crafting and boss fight issues"
+    thumbnailImage: ""
+  - url: "/2009/07/07/wizard-101-why-crafting-is-broken-and-how-to-fix-it/"
+    title: "Wizard 101: Why crafting is broken, and how to fix it"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/w101station.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/lotroclient-2009-04-07-07-56-58-24.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/lotroclient-2009-04-07-07-56-58-24.jpg"
 ---

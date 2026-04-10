@@ -3,12 +3,26 @@ date: '2010-11-27T01:05:18-05:00'
 draft: false
 title: "Daily Blogroll: Black Friday Edition"
 author: "Tipa"
+disqusIdentifier: "2010/11/27/daily-blogroll-black-friday-edition"
 summary: "[..."
 categories:
   - "Daily Blogroll"
   - "EverQuest"
   - "MMORPG"
   - "Neopets"
+relatedPosts:
+  - url: "/2008/04/09/neopia-world-and-why-im-not-excited-about-free-realms/"
+    title: "Neopia World, and why I'm not excited about Free Realms"
+    thumbnailImage: ""
+  - url: "/2011/10/26/daily-blogroll-oct-26-pandamonium-edition/"
+    title: "Daily Blogroll Oct 26: Pandamonium edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/pandamonium.png"
+  - url: "/2011/10/21/daily-blogroll-oct-21-tanks-for-the-memories-edition/"
+    title: "Daily Blogroll Oct 21: Tanks for the Memories edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/dndclient-2011-10-20-21-19-18-63-480x352.jpg"
+  - url: "/2011/05/13/daily-blogroll-513-truth-in-advertising-edition/"
+    title: "Daily Blogroll 5/13: Truth in Advertising Edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/05/Fullscreen-capture-5112011-61851-AM-480x308.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/GameClient-2010-11-25-22-16-43-8-480x263.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/GameClient-2010-11-25-22-16-43-8-480x263.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2009-03-24T07:59:49-05:00'
 draft: false
 title: "Chronicles of Spellborn: Grouped!"
 author: "Tipa"
+disqusIdentifier: "2009/03/24/chronicles-of-spellborn-grouped"
 summary: "The Chronicles of Spellborn is a game you can solo, start to end, never having to group. But while it's possible, it's not a really..."
 categories:
   - "Chronicles of Spellborn"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Aldenvault"
   - "Hawksmouth"
+relatedPosts:
+  - url: "/2009/01/03/the-many-worlds-of-chronicles-of-spellborn/"
+    title: "The many worlds of Chronicles of Spellborn"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/01/sbcomic.jpg"
+  - url: "/2008/11/01/spellborn-soundscape/"
+    title: "Spellborn soundscape"
+    thumbnailImage: ""
+  - url: "/2015/07/02/some-trufen-managed-to-re/"
+    title: "Spellborn... reborn?"
+    thumbnailImage: "https://lh6.googleusercontent.com/proxy/vBKKuw4kyr3h6Ct92g-leX2lvulYLG8VtWObZxpRG3wNupQeekWxqKtqcOypKIB_CMp9gMCmeDHiXRs9qUjB7Q=w506-h284-n"
+  - url: "/2010/08/19/chronicles-of-spellborn-anatomy-of-a-failure/"
+    title: "Chronicles of Spellborn: Anatomy of a Failure"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/sb_client-2010-08-18-19-49-21-19-480x270.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/sb_client-2009-03-23-22-45-18-95.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/sb_client-2009-03-23-22-45-18-95.jpg"
 ---

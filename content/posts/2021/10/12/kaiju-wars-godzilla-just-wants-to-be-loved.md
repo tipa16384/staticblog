@@ -3,12 +3,26 @@ date: '2021-10-12T23:28:10-05:00'
 draft: false
 title: "Kaiju Wars: Godzilla just wants to be loved!"
 author: "Tipa"
+disqusIdentifier: "2021/10/12/kaiju-wars-godzilla-just-wants-to-be-loved"
 summary: "Foolish Mortal Games' new monster battler pits you and your hapless military against giant, unstoppable beasts. Can Major Danger and kaiju scientist Dr. Wagner help..."
 categories:
   - "Kaiju Wars"
   - "Tactical RPG"
 tags:
   - "Steam"
+relatedPosts:
+  - url: "/2021/11/02/quick-look-pawnbarian/"
+    title: "Quick Look: Pawnbarian"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/20211102204800_1.jpg"
+  - url: "/2021/10/24/dungeon-encounters-finished-and-finished/"
+    title: "Dungeon Encounters: Finished and finished."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/DUNGEON-ENCOUNTERS_20211024130131-scaled.jpg"
+  - url: "/2020/12/21/quick-takes-unsung-story-tale-of-the-guardian/"
+    title: "Quick Takes: Unsung Story, Tale of the Guardian"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/20201219085246_1.jpg"
+  - url: "/2025/10/20/steam-next-fested/"
+    title: "Steam Next Fested"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/steamnextfest.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/1-20211012222357_1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/1-20211012222357_1.jpg"
 ---

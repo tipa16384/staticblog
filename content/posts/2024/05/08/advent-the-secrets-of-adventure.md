@@ -3,6 +3,7 @@ date: '2024-05-08T07:00:00-05:00'
 draft: false
 title: "ADVENT: The Secrets of Adventure"
 author: "Tipa"
+disqusIdentifier: "2024/05/08/advent-the-secrets-of-adventure"
 summary: "What you need to know before you begin to play Crowther and Woods' \"Colossal Cave Adventure\"."
 categories:
   - "Adventure"
@@ -10,6 +11,19 @@ tags:
   - "Colossal Cave"
   - "Colossal Cave Adventure"
   - "RPG"
+relatedPosts:
+  - url: "/2024/05/12/advent-colossal-cave-3d/"
+    title: "ADVENT: Colossal Cave 3D"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/cc-troll2.png"
+  - url: "/2024/05/09/advent-twisty-passages-all-alike/"
+    title: "ADVENT: Twisty Passages, All Alike"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/cc-pirate.png"
+  - url: "/2024/03/30/retro-game-haul-march-30-2024/"
+    title: "Retro Game Haul: March 30, 2024"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/IMG_4228.jpg"
+  - url: "/2024/12/28/the-best-of-2024-adventure-games/"
+    title: "The Best of 2024: Adventure Games"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/adventurebanner.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/cca-banner2.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/cca-banner2.png"
 ---

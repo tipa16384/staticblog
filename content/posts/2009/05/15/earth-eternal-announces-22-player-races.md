@@ -3,10 +3,24 @@ date: '2009-05-15T10:00:41-05:00'
 draft: false
 title: "Earth Eternal announces *22* player races"
 author: "Tipa"
+disqusIdentifier: "2009/05/15/earth-eternal-announces-22-player-races"
 summary: "The distinguished Senior Partners...."
 categories:
   - "Earth Eternal"
   - "MMORPG"
+relatedPosts:
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2010/04/23/assault-on-the-in-box-friday-edition/"
+    title: "Assault on the In Box, Friday edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/eqgame-2010-04-10-20-48-38-69.jpg"
+  - url: "/2009/10/09/daily-blogroll-1010-short-week-edition/"
+    title: "Daily Blogroll 10/10: Short Week edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/fox1-480x252.jpg"
+  - url: "/2009/10/07/earth-eternal-open-beta-opening-early-for-closed-beta-testers/"
+    title: "Earth Eternal open beta opening early for closed beta testers"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/wolfram-and-hart.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/wolfram-and-hart.jpg"
 ---

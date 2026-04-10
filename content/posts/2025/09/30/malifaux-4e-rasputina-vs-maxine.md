@@ -3,6 +3,7 @@ date: '2025-09-30T08:27:00-05:00'
 draft: false
 title: "Malifaux 4e: Rasputina vs Maxine"
 author: "Tipa"
+disqusIdentifier: "2025/09/30/malifaux-4e-rasputina-vs-maxine"
 summary: "\"What do you mean, I can destroy your ice pillars?\" The Arcanists face off against the Explorer Society in a match nobody saw coming."
 categories:
   - "Malifaux"
@@ -11,6 +12,19 @@ tags:
   - "Maxine"
   - "Rasputina"
   - "The Battle Standard"
+relatedPosts:
+  - url: "/2026/02/01/captaincon-2026-masters-of-malifaux/"
+    title: "CaptainCon 2026: Masters of Malifaux"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/CC_Logo_Red.webp"
+  - url: "/2025/06/07/malifaux-4e-december-meets-the-family/"
+    title: "Malifaux 4e: December Meets the Family"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/perdita.png"
+  - url: "/2025/01/29/malifaux-booty-plunder/"
+    title: "Malifaux: Booty &amp; Plunder"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/bootyplunder.png"
+  - url: "/2025/04/30/malifaux-4th-edition-mei-feng-vs-captain-zipp/"
+    title: "Malifaux 4th Edition: Mei Feng vs Captain Zipp"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/04/newcrew4ebanner.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/rasp2vsmax2.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/rasp2vsmax2.png"
 ---

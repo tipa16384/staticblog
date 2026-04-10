@@ -3,10 +3,24 @@ date: '2009-10-07T23:02:13-05:00'
 draft: false
 title: "Earth Eternal open beta opening early for closed beta testers"
 author: "Tipa"
+disqusIdentifier: "2009/10/07/earth-eternal-open-beta-opening-early-for-closed-beta-testers"
 summary: "Um, title kinda says it all. But to repeat -- the new, free, browser-based, anthropomorphic MMO from Sparkplay has just finished up its closed beta..."
 categories:
   - "Earth Eternal"
   - "MMORPG"
+relatedPosts:
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2010/04/23/assault-on-the-in-box-friday-edition/"
+    title: "Assault on the In Box, Friday edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/eqgame-2010-04-10-20-48-38-69.jpg"
+  - url: "/2009/10/09/daily-blogroll-1010-short-week-edition/"
+    title: "Daily Blogroll 10/10: Short Week edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/fox1-480x252.jpg"
+  - url: "/2009/09/28/weekend-gaming-3/"
+    title: "Weekend Gaming"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/ExeFile-2009-09-27-21-46-57-10.jpg"
 ---
 Um, title kinda says it all. But to repeat -- the new, free, browser-based, anthropomorphic MMO from Sparkplay has just finished up its closed beta...
 <!--more-->

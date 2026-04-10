@@ -3,6 +3,7 @@ date: '2021-08-28T17:16:55-05:00'
 draft: false
 title: "Townscaper 1.0 and 3D Printing"
 author: "Tipa"
+disqusIdentifier: "2021/08/28/townscaper-1-0-and-3d-printing"
 summary: "Townscaper has left early access and hit app stores all around the world with the peaceful grooves of Swedish seaside villages...."
 categories:
   - "3D Printing"
@@ -13,6 +14,19 @@ tags:
   - "Blaugust"
   - "Fusion 360"
   - "Steam"
+relatedPosts:
+  - url: "/2021/08/22/ff3-complete/"
+    title: "FF3 Complete!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210821223214_1.jpg"
+  - url: "/2021/08/17/ff3-making-myself-cod-worthy/"
+    title: "FF3 -- Making Myself CoD-Worthy"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/20210817213623_1.jpg"
+  - url: "/2021/08/17/ff3-eureka-and-the-cloud-of-darkness/"
+    title: "FF3 -- Eureka, and the Cloud of Darkness"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/20210816230414_1.jpg"
+  - url: "/2021/08/15/ff3-all-u-can-eat-gysahl-greens/"
+    title: "FF3 -- All-U-Can-Eat Gysahl Greens"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210814221925_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210828092303_1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210828092303_1.jpg"
 ---

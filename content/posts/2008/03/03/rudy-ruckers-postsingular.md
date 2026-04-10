@@ -3,9 +3,23 @@ date: '2008-03-03T08:57:01-05:00'
 draft: false
 title: "Rudy Rucker's \"Postsingular\""
 author: "Tipa"
+disqusIdentifier: "2008/03/03/rudy-ruckers-postsingular"
 summary: "What has Portal got to do with Postsingular, anyway?..."
 categories:
   - "Sci Fi"
+relatedPosts:
+  - url: "/2026/01/17/starfleet-academy-your-billionaire-future/"
+    title: "Starfleet Academy: Your Billionaire Future"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/starfleetacademy.png"
+  - url: "/2024/09/27/game-night-in-too-deep/"
+    title: "Game Night: In Too Deep"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/intoodeepbanner.png"
+  - url: "/2022/09/20/review-braking-day-by-adam-oyebanji/"
+    title: "Review: Braking Day by Adam Oyebanji"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/brakingday.png"
+  - url: "/2015/09/13/beam-me-up/"
+    title: "Beam me up..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/09/1-Star-Trek-Me-1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/03/hl2-2008-03-02-14-30-36-87.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/03/hl2-2008-03-02-14-30-36-87.jpg"
 ---

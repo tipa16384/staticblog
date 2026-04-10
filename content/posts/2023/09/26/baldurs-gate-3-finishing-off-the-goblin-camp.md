@@ -3,6 +3,7 @@ date: '2023-09-26T08:24:01-05:00'
 draft: false
 title: "Baldur's Gate 3: Finishing off  the Goblin Camp"
 author: "Tipa"
+disqusIdentifier: "2023/09/26/baldurs-gate-3-finishing-off-the-goblin-camp"
 summary: "Jump magic, jump."
 categories:
   - "Baldur's Gate 3"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Goblin Camp"
   - "The Labyrinth"
+relatedPosts:
+  - url: "/2009/02/19/the-clandestine-norrathdragonspyre-connection/"
+    title: "The clandestine Norrath/Dragonspyre connection"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/veeshansymbol.jpg"
+  - url: "/2023/10/16/baldurs-gate-3-finished/"
+    title: "Baldur's Gate 3: Finished!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/scritches1.png"
+  - url: "/2023/10/09/starfield-vs-baldurs-gate-3/"
+    title: "Starfield vs. Baldur's Gate 3"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/sfvsbg3.png"
+  - url: "/2023/10/07/baldurs-gate-3-are-we-the-baddies/"
+    title: "Baldur's Gate 3: Are We the Baddies?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/Screenshot-2023-10-07-103249.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/jumpmagicjump.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/jumpmagicjump.png"
 ---

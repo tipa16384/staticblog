@@ -3,10 +3,24 @@ date: '2010-07-22T22:20:29-05:00'
 draft: false
 title: "Recettear: An Item Shop's Tale"
 author: "Tipa"
+disqusIdentifier: "2010/07/22/recettear-an-item-shops-tale"
 summary: "[..."
 categories:
   - "Other Games"
   - "Recettear"
+relatedPosts:
+  - url: "/2010/09/12/recettear-decorating-yr-itemme-shoppe/"
+    title: "Recettear: Decorating y'r Itemme Shoppe."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/recettear-2010-09-12-08-43-01-82-480x384.jpg"
+  - url: "/2010/08/12/item-shop-rpg-recettear-gets-publisher-price/"
+    title: 'Item shop RPG "Recettear" gets publisher, price'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/stardock.jpg"
+  - url: "/2025/08/06/la-brute-battles-royale-and-warring-guilds/"
+    title: "La Brute: Battles Royale and Warring Guilds"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/LaBrute.png"
+  - url: "/2025/07/10/frosthaven-scenario-14-jagged-shoals/"
+    title: "Frosthaven Scenario 14: Jagged Shoals"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/07/IMG_5225-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/recettear-2010-07-21-22-10-45-78-480x360.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/recettear-2010-07-21-22-10-45-78-480x360.jpg"
 ---

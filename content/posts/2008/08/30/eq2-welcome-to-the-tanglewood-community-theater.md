@@ -3,6 +3,7 @@ date: '2008-08-30T11:10:11-05:00'
 draft: false
 title: "EQ2: Welcome to the Tanglewood Community Theater"
 author: "Tipa"
+disqusIdentifier: "2008/08/30/eq2-welcome-to-the-tanglewood-community-theater"
 summary: "My sister Hillary and her husband just bought a condo in Boston. They were supposed to move in weeks ago, but the workmen just haven't..."
 categories:
   - "EverQuest"
@@ -12,6 +13,19 @@ tags:
   - "Norrathian Home Show"
   - "Stargrace"
   - "Tanglewood Community Theater"
+relatedPosts:
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2024/10/21/evercraft-online-the-unholy-child-of-eq-and-minecraft/"
+    title: "EverCraft Online: The Unholy Child of EQ and MineCraft"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/evercraft-banner.png"
+  - url: "/2024/08/28/erenshor-everquest-for-soloers/"
+    title: "Erenshor -- EverQuest for soloers"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/erenshotheader.jpg"
+  - url: "/2024/05/04/everquest-ii-goes-retro-with-anashti-sul/"
+    title: "EverQuest II goes retro with Anashti Sul"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/anashtisul.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/everquest2-2008-08-29-18-50-09-92.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/everquest2-2008-08-29-18-50-09-92.jpg"
 ---

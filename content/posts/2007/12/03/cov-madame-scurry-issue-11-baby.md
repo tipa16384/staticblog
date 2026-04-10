@@ -3,6 +3,7 @@ date: '2007-12-03T12:59:08-05:00'
 draft: false
 title: "CoV: Madame Scurry, Issue 11 baby"
 author: "Tipa"
+disqusIdentifier: "2007/12/03/cov-madame-scurry-issue-11-baby"
 summary: "While browsing Massively and reading the excellent article about the recent City of Herollians Meet and Greet, I saw they mentioned \"Willpower\" and \"Dual Blades\"..."
 categories:
   - "City of Heroes"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Issue 11"
   - "Madame Scurry"
+relatedPosts:
+  - url: "/2007/12/02/cov-madame-scurry-is-dead/"
+    title: "CoV: Madame Scurry is DEAD."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/coh1.jpg"
+  - url: "/2007/12/01/cox-madame-scurry-ms-narusegawa-and-the-amoy-tiger-villains-and-heroes/"
+    title: "CoX: Madame Scurry, Ms. Narusegawa, and the Amoy Tiger -- Villains and Heroes"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/cityofheroes-2007-12-01-12-05-32-84.jpg"
+  - url: "/2024/01/16/city-of-heroes-homecoming/"
+    title: "City of Heroes: Homecoming..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/cohhclogo.png"
+  - url: "/2022/07/30/ship-of-heroes-housing-beta-2/"
+    title: "Ship of Heroes: Housing Beta #2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/1-20220730211912_1.jpg"
 ---
 While browsing Massively and reading the excellent article about the recent City of Herollians Meet and Greet, I saw they mentioned "Willpower" and "Dual Blades"...
 <!--more-->

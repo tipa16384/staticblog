@@ -3,6 +3,7 @@ date: '2024-11-27T14:04:28-05:00'
 draft: false
 title: "Odin Sphere: Two dimensions is more than enough"
 author: "Tipa"
+disqusIdentifier: "2024/11/27/odin-sphere-two-dimensions-is-more-than-enough"
 summary: "It's a 2D side-scrolling action RPG about a brave Valkyrie and her overbearing father, Odin."
 categories:
   - "Action Adventure Games"
@@ -14,6 +15,19 @@ tags:
   - "Atlus"
   - "Odin Sphere"
   - "PS3"
+relatedPosts:
+  - url: "/2023/07/01/white-knight-chronicles-best-rpg-i-never-heard-of/"
+    title: "White Knight Chronicles -- best RPG I never heard of?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/07/1-chronicles-fantasy-fighting-knight-wallpaper-1910b83d718a7dab6617b89fb0d126ed.jpg"
+  - url: "/2024/09/28/champions-return-to-arms-finished/"
+    title: "Champions: Return to Arms finished!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/cazicthule.png"
+  - url: "/2008/12/12/playstation-3-home-beta/"
+    title: "Playstation 3 Home beta"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/stp61605-1.jpg"
+  - url: "/2008/10/30/lbp-the-littlest-biggest-planet-in-the-galaxy/"
+    title: "LBP: The Littlest, Biggest Planet in the galaxy."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/stp61416.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/odinsphere.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/odinsphere.png"
 ---

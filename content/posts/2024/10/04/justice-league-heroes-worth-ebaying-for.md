@@ -3,6 +3,7 @@ date: '2024-10-04T08:00:00-05:00'
 draft: false
 title: "Justice League Heroes: Worth eBaying for?"
 author: "Tipa"
+disqusIdentifier: "2024/10/04/justice-league-heroes-worth-ebaying-for"
 summary: "Loved Champions of Norrath and Return to Arms. Snowblind's next game was Justice League Heroes. Can it be just as good? Better?"
 categories:
   - "Action RPG"
@@ -12,6 +13,19 @@ categories:
 tags:
   - "Justice League Heroes"
   - "Snowblind Studios"
+relatedPosts:
+  - url: "/2024/10/07/the-lord-of-the-rings-war-in-the-north/"
+    title: "The Lord of the Rings: War in the North"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/20241006100304_1.jpg"
+  - url: "/2024/11/27/odin-sphere-two-dimensions-is-more-than-enough/"
+    title: "Odin Sphere: Two dimensions is more than enough"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/odinsphere.png"
+  - url: "/2024/09/28/champions-return-to-arms-finished/"
+    title: "Champions: Return to Arms finished!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/cazicthule.png"
+  - url: "/2026/02/17/the-fellowship-of-the-ring-ps2/"
+    title: "The Fellowship of the Ring (PS2)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/The-Lord-of-the-Rings-The-Fellowship-of-the-Ring_SLUS-20520_20260217075358.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/1-Justice-League-Heroes_SLUS-21304_20241003205806.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/1-Justice-League-Heroes_SLUS-21304_20241003205806.jpg"
 ---

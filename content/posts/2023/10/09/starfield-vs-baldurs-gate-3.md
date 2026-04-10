@@ -3,6 +3,7 @@ date: '2023-10-09T07:46:14-05:00'
 draft: false
 title: "Starfield vs. Baldur's Gate 3"
 author: "Tipa"
+disqusIdentifier: "2023/10/09/starfield-vs-baldurs-gate-3"
 summary: "I played Baldur's Gate 3 while my partner played Starfield. Which of us had the most fun?"
 categories:
   - "Baldur's Gate 3"
@@ -13,6 +14,19 @@ tags:
   - "Gale"
   - "Lae'zal"
   - "Shadowheart"
+relatedPosts:
+  - url: "/2023/09/21/baldurs-gate-3-embracing-evil/"
+    title: "Baldur's Gate 3: Embracing Evil"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/astarion.png"
+  - url: "/2023/10/16/baldurs-gate-3-finished/"
+    title: "Baldur's Gate 3: Finished!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/scritches1.png"
+  - url: "/2023/10/07/baldurs-gate-3-are-we-the-baddies/"
+    title: "Baldur's Gate 3: Are We the Baddies?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/Screenshot-2023-10-07-103249.png"
+  - url: "/2023/10/06/baldurs-gate-3-back-on-track/"
+    title: "Baldur's Gate 3: Back on Track"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/Screenshot-2023-10-06-073659.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/sfvsbg3.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/sfvsbg3.png"
 ---

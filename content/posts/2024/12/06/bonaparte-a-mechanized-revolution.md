@@ -3,6 +3,7 @@ date: '2024-12-06T08:00:00-05:00'
 draft: false
 title: "Bonaparte: A Mechanized Revolution"
 author: "Tipa"
+disqusIdentifier: "2024/12/06/bonaparte-a-mechanized-revolution"
 summary: "Take one French Revolution, subtract Napoleon, add a couple relatives you never heard about, and toss in a few giant mechs..."
 categories:
   - "Isometric Tactical Strategy"
@@ -15,6 +16,19 @@ tags:
   - "Girls Screaming in French"
   - "Spiders"
   - "Studio Imugi"
+relatedPosts:
+  - url: "/2024/10/01/those-who-rule-new-demo/"
+    title: "Those Who Rule: new demo!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/thosewhorulebanner.png"
+  - url: "/2022/07/25/those-who-rule-chapter-1/"
+    title: "Those Who Rule: Chapter 1"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/20220725222601_1.jpg"
+  - url: "/2021/07/20/rise-eterna/"
+    title: "Rise Eterna"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/2021051618021700-BA2A6D95681540D14D17CA98DC5AFB99.jpg"
+  - url: "/2020/09/21/banner-of-the-maid-final-thoughts/"
+    title: "Banner of the Maid: Final Thoughts"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/2020092017453800-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/Bonaparte-keyart-1080p.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/Bonaparte-keyart-1080p.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2023-08-17T07:00:00-05:00'
 draft: false
 title: "The Games that Defined Me, Part 2 -- Arcade"
 author: "Tipa"
+disqusIdentifier: "2023/08/17/the-games-that-defined-me-part-2-arcade"
 summary: "In the 80s, I went to the arcade two or three times a week. I took my love of arcade games to home consoles."
 categories:
   - "Arcade Game"
@@ -16,6 +17,19 @@ tags:
   - "Viewpoint"
   - "Wing Commander"
   - "Xevious"
+relatedPosts:
+  - url: "/2023/08/05/adventures-in-bad-game-development/"
+    title: "Adventures in Bad Game Development"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/DALL·E-2023-08-04-23.05.25-classic-video-game-box-art-of-a-space-ship-shooting-a-centipede-with-asteroids-in-the-sky.png"
+  - url: "/2025/12/25/its-a-vectrex-christmas-miracle/"
+    title: "It's a Vectrex Christmas Miracle!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/IMG_5584-scaled.jpg"
+  - url: "/2024/12/30/best-of-2024-single-player-rpgs/"
+    title: "Best of 2024: Single-Player RPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/bestrpgbanner.png"
+  - url: "/2024/12/01/star-wars-outlaws-just-you-and-your-cat-against-the-galaxy/"
+    title: 'Star Wars: Outlaws. Just you and your "cat" against the galaxy.'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/outlawsbanner.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/startrek.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/startrek.png"
 ---

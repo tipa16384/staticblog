@@ -3,6 +3,7 @@ date: '2021-10-18T08:24:56-05:00'
 draft: false
 title: "Dungeon Encounters: For Those Who Skip Cutscenes"
 author: "Tipa"
+disqusIdentifier: "2021/10/18/dungeon-encounters-for-those-who-skip-cutscenes"
 summary: "DM: You see an encounter before you Party: I don't recognize this one. Hmmm. Okay, everyone, brace up, we're heading in! DM: It is a..."
 categories:
   - "Dungeon Encounters"
@@ -11,6 +12,19 @@ categories:
   - "Tactical RPG"
 tags:
   - "Square-Enix"
+relatedPosts:
+  - url: "/2021/10/24/dungeon-encounters-finished-and-finished/"
+    title: "Dungeon Encounters: Finished and finished."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/DUNGEON-ENCOUNTERS_20211024130131-scaled.jpg"
+  - url: "/2021/11/02/quick-look-pawnbarian/"
+    title: "Quick Look: Pawnbarian"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/20211102204800_1.jpg"
+  - url: "/2026/03/25/preview-topdeck-automat/"
+    title: "Preview: Topdeck Automat"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-24-220403.png"
+  - url: "/2025/08/14/micro-hero-hercules/"
+    title: "Micro Hero: Hercules"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5324-EDIT-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/DUNGEON-ENCOUNTERS_20211016205159-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/DUNGEON-ENCOUNTERS_20211016205159-scaled.jpg"
 ---

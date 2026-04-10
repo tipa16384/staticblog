@@ -3,6 +3,7 @@ date: '2021-08-23T23:14:30-05:00'
 draft: false
 title: "This Post Isn't About Mini Rogue"
 author: "Tipa"
+disqusIdentifier: "2021/08/23/this-post-isnt-about-tiny-rogue"
 summary: "It could be. I've been playing a lot of it. But, it isn't...."
 categories:
   - "Blaugust"
@@ -12,6 +13,19 @@ tags:
   - "Blaugust"
   - "Blogging"
   - "Mini Rogue"
+relatedPosts:
+  - url: "/2021/08/24/stalking-my-sister/"
+    title: "Stalking My Sister"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210824215934_1.jpg"
+  - url: "/2022/07/31/welcome-to-blaugust-2022-31-game-ideas-from-ai/"
+    title: "Welcome to Blaugust 2022: 31 game ideas from AI"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/blaugust2022.webp"
+  - url: "/2021/08/19/game-night-jotl-the-gauntlet/"
+    title: 'Game Night: JotL "The Gauntlet"'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-IMG_2293-001.jpg"
+  - url: "/2021/08/30/tipa-v-internet-part-ii/"
+    title: "Tipa v Internet: Part II"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/MADV114_DESIGNERDATA-PC-30-23.09.150.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-IMG_2295.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-IMG_2295.jpg"
 ---

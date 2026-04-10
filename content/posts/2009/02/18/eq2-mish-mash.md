@@ -3,6 +3,7 @@ date: '2009-02-18T07:58:18-05:00'
 draft: false
 title: "EQ2 Mish-mash!"
 author: "Tipa"
+disqusIdentifier: "2009/02/18/eq2-mish-mash"
 summary: "Lots of updates to progressin EverQuest II and, unfortunately, not a lot of time to write about them, so here goes...."
 categories:
   - "EverQuest"
@@ -11,6 +12,19 @@ tags:
   - "Erollisi Day"
   - "Missing Mask"
   - "Return of the Light"
+relatedPosts:
+  - url: "/2009/02/11/eq2-two-girls-ready-for-love/"
+    title: "EQ2: Two girls ready for LOVE!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/everquest2-2009-02-11-01-05-41-95.jpg"
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2024/10/21/evercraft-online-the-unholy-child-of-eq-and-minecraft/"
+    title: "EverCraft Online: The Unholy Child of EQ and MineCraft"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/evercraft-banner.png"
+  - url: "/2024/08/28/erenshor-everquest-for-soloers/"
+    title: "Erenshor -- EverQuest for soloers"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/erenshotheader.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/outfits.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/outfits.jpg"
 ---

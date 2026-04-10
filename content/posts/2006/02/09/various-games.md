@@ -3,11 +3,25 @@ date: '2006-02-09T00:00:00-05:00'
 draft: false
 title: "Various Games"
 author: "Tipa"
+disqusIdentifier: "2006/02/09/various-games"
 summary: "Nationstates is a weird little game. Although they don't call me a dictator, everything I decide is passed, so what's the difference? I am dismissing..."
 categories:
   - "EverQuest"
   - "MMORPG"
   - "Nationstates"
+relatedPosts:
+  - url: "/2006/04/12/nationstates-progress/"
+    title: "NationStates progress"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/images/dryroot.png"
+  - url: "/2006/01/19/dryroot-joins-the-ddr/"
+    title: "Dryroot Joins the DDR"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/images/dryroot.jpg"
+  - url: "/2006/01/17/dryroot/"
+    title: "Dryroot"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/images/dryroot.jpg"
+  - url: "/2006/01/16/nationstates-update/"
+    title: "Nationstates Update"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/images/dryroot.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/images/dryroot.jpg"
 ---

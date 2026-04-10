@@ -3,6 +3,7 @@ date: '2009-08-21T07:47:11-05:00'
 draft: false
 title: "Daily Blogroll 8/21 - Gloomshine Edition"
 author: "Tipa"
+disqusIdentifier: "2009/08/21/daily-blogroll-821-gloomshine-edition"
 summary: "Is Gatheryn in open beta or not? Massively says not yet, but following Merry and Pippin's example, I showed up where I wasn't invited because..."
 categories:
   - "Aion"
@@ -12,6 +13,19 @@ categories:
   - "Gatheryn"
   - "MMORPG"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/08/10/daily-blogroll-810-thank-god-its-monday-edition/"
+    title: "Daily Blogroll 8/10 -- Thank God it's Monday edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/daddygirl.jpg"
+  - url: "/2009/06/24/daily-blogroll-624-i-love-allergies-edition/"
+    title: "Daily Blogroll 6/24 -- I Love Allergies edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/aion-2009-06-21-16-27-52-78.jpg"
+  - url: "/2009/08/13/daily-blogroll-813-gyrating-goo-edition/"
+    title: "Daily Blogroll 8/13: Gyrating Goo edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/181914a4c5ed9798708c0fb8240c540a.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/Gatheryn-2009-08-20-18-51-17-34.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/Gatheryn-2009-08-20-18-51-17-34.jpg"
 ---

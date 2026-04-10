@@ -3,6 +3,7 @@ date: '2009-08-27T07:51:35-05:00'
 draft: false
 title: "Daily Blogroll 8/27 -- Curioser and curioser edition"
 author: "Tipa"
+disqusIdentifier: "2009/08/27/daily-blogroll-827-curioser-and-curioser-edition"
 summary: "Started on the second tier of Grizzleheim last night. The Virgil Roughlands (level 25+) are a pretty significant step up from Svarstaad Pass. Even two..."
 categories:
   - "Age of Conan"
@@ -12,6 +13,19 @@ categories:
   - "MMORPG"
   - "Wizard101"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/10/09/daily-blogroll-1010-short-week-edition/"
+    title: "Daily Blogroll 10/10: Short Week edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/fox1-480x252.jpg"
+  - url: "/2009/09/03/daily-blogroll-93-sushi-day-edition/"
+    title: "Daily Blogroll 9/3 - Sushi day edition!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/Fullscreen-capture-932009-75844-AM.jpg"
+  - url: "/2009/08/10/daily-blogroll-810-thank-god-its-monday-edition/"
+    title: "Daily Blogroll 8/10 -- Thank God it's Monday edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/daddygirl.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/w101alice.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/w101alice.jpg"
 ---

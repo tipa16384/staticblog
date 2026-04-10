@@ -3,6 +3,7 @@ date: '2009-04-22T07:48:04-05:00'
 draft: false
 title: "Web Log 4/22 -- Earth Day edition"
 author: "Tipa"
+disqusIdentifier: "2009/04/22/web-log-422-earth-day-edition"
 summary: "Day 2 of the Wizard 101 Name the Turtles contest! My site stats show that well over a THOUSAND wizards have come to this site..."
 categories:
   - "Age of Conan"
@@ -12,6 +13,19 @@ categories:
   - "MMORPG"
   - "Wizard101"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2011/10/21/daily-blogroll-oct-21-tanks-for-the-memories-edition/"
+    title: "Daily Blogroll Oct 21: Tanks for the Memories edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/dndclient-2011-10-20-21-19-18-63-480x352.jpg"
+  - url: "/2009/05/29/daily-blogroll-529-reasons-to-be-cheerful-pt-iii/"
+    title: "Daily Blogroll 5/29 -- Reasons to be Cheerful, Pt III"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/everquest2-2009-05-17-07-38-31-44.jpg"
+  - url: "/2009/05/08/daily-blogroll-58-darkfail-edition/"
+    title: "Daily Blogroll 5/8 -- Darkfail edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/darkfall.jpg"
+  - url: "/2009/05/26/daily-blogroll-526-back-to-the-grind-edition/"
+    title: "Daily Blogroll 5/26 -- Back to the Grind edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/mabinogibanner.jpg"
 ---
 Day 2 of the Wizard 101 Name the Turtles contest! My site stats show that well over a THOUSAND wizards have come to this site...
 <!--more-->

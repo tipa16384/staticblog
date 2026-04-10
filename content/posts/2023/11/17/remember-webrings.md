@@ -3,11 +3,19 @@ date: '2023-11-17T22:54:01-05:00'
 draft: false
 title: "Remember Webrings?"
 author: "Tipa"
+disqusIdentifier: "2023/11/17/remember-webrings"
 summary: "Webrings were like... guilds, but for blogs."
 categories:
   - "Web Logging"
 tags:
   - "Web Ring"
+relatedPosts:
+  - url: "/2011/10/10/daily-blogroll-oct-10-columbus-day-edition/"
+    title: "Daily Blogroll Oct 10: Columbus Day edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/glitch.png"
+  - url: "/2009/04/16/web-logging/"
+    title: "Web Logging!"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/tipachu_a_thumbnail_image_for_a_webring_that_covers_gaming_blog_5b3eac4f-e005-496a-84b7-10034f7501b6-1.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/tipachu_a_thumbnail_image_for_a_webring_that_covers_gaming_blog_5b3eac4f-e005-496a-84b7-10034f7501b6-1.png"
 ---

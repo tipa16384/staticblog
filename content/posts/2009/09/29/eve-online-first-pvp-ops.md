@@ -3,10 +3,24 @@ date: '2009-09-29T22:46:06-05:00'
 draft: false
 title: "EVE Online: First PvP ops"
 author: "Tipa"
+disqusIdentifier: "2009/09/29/eve-online-first-pvp-ops"
 summary: "My luck held out, and I flew the Gun of Happiness, my PvP-fitted cruiser, back home. Everyone else in our null-sec adventure -- on our..."
 categories:
   - "EVE Online"
   - "MMORPG"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2021/07/22/new-world-fomo-or-fotm/"
+    title: "New World: FOMO or FOTM?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/GameClient-2014-12-06-11-09-05-59.jpg"
+  - url: "/2011/10/11/daily-blogroll-oct-11-cant-break-the-nda-edition/"
+    title: "Daily Blogroll Oct 11: Can't break the NDA edition."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/starwarsguys.jpg"
+  - url: "/2011/02/22/the-inertia-of-eve-online-and-everquest-ii/"
+    title: "The Inertia of EVE Online and EverQuest II"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/ExeFile-2011-02-22-01-04-00-67-480x384.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/ExeFile-2009-09-29-22-42-41-66.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/ExeFile-2009-09-29-22-42-41-66.jpg"
 ---

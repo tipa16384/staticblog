@@ -3,9 +3,23 @@ date: '2006-09-14T00:13:43-05:00'
 draft: false
 title: "R.I.P. Rio Karma"
 author: "Tipa"
+disqusIdentifier: "2006/09/14/rip-rio-karma"
 summary: "I promise, I'll get back to fun EQ2 (and EQ1!) stuff soon. Just... well, I usually prepare and write the blog entries on Baphomet, whom..."
 categories:
   - "General"
+relatedPosts:
+  - url: "/2025/11/01/quick-reviews/"
+    title: "Quick Reviews"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/winterburrow.png"
+  - url: "/2025/08/07/soda-can-tabs-for-charity-really/"
+    title: "Soda can tabs for charity? REALLY?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5304-scaled.jpeg"
+  - url: "/2024/12/17/billionaire-rapture/"
+    title: "Billionaire Rapture"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/DALL·E-2024-12-17-00.14.48-A-surreal-science-fiction-book-cover-for-a-short-story-titled-Billionaire-Rapture.-The-scene-depicts-a-futuristic-dramatic-setting-in-space-and-on-.webp"
+  - url: "/2024/04/16/that-is-not-a-sandworm-in-your-driveway/"
+    title: "That is not a sandworm in your driveway"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/sandwormindriveway.png"
 coverImage: "http://images.google.com/images?q=tbn:4fC6Y_h_k7AzXM:http://images.21cn.com/2003/12/04/1432516.jpg"
 thumbnailImage: "http://images.google.com/images?q=tbn:4fC6Y_h_k7AzXM:http://images.21cn.com/2003/12/04/1432516.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2011-01-10T23:50:12-05:00'
 draft: false
 title: "Fortune League, or, Wall Street Raiders"
 author: "Tipa"
+disqusIdentifier: "2011/01/10/fortune-league-or-wall-street-raiders"
 summary: "[..."
 categories:
   - "EverQuest"
@@ -10,6 +11,19 @@ categories:
   - "MMORPG"
 tags:
   - "Fortune League"
+relatedPosts:
+  - url: "/2011/02/13/eq2-how-to-win-at-fortune-league/"
+    title: "EQ2: How to win at Fortune League"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/Fullscreen-capture-2132011-120658-PM-480x423.jpg"
+  - url: "/2013/09/10/omg-r-u-still-around/"
+    title: "OMG, R U STILL AROUND?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/09/GameClient-2013-09-02-20-38-42-058-480x384.jpg"
+  - url: "/2011/05/13/daily-blogroll-513-truth-in-advertising-edition/"
+    title: "Daily Blogroll 5/13: Truth in Advertising Edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/05/Fullscreen-capture-5112011-61851-AM-480x308.jpg"
+  - url: "/2011/03/10/eq2-fortune-league-winner/"
+    title: "EQ2 Fortune League: #WINNER"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/EverQuest2-2011-03-10-18-19-16-87-480x480.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/Fullscreen-capture-1102011-100610-PM-456x480.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/Fullscreen-capture-1102011-100610-PM-456x480.jpg"
 ---

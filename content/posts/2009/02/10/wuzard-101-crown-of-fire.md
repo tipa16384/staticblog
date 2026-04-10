@@ -3,6 +3,7 @@ date: '2009-02-10T08:32:31-05:00'
 draft: false
 title: "Wizard 101: Crown of Fire"
 author: "Tipa"
+disqusIdentifier: "2009/02/10/wuzard-101-crown-of-fire"
 summary: "Malistaire death number one, and counting. Killing Malistaire with the quest to kill him might actually just give you his robe; last night, Thomas got..."
 categories:
   - "MMORPG"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Dragonspyre"
   - "Malistaire"
+relatedPosts:
+  - url: "/2009/03/28/wizard-101-so-malistaire-we-meet-again/"
+    title: "Wizard 101: So, Malistaire. We meet again."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-28-00-49-38-56.jpg"
+  - url: "/2009/03/18/wizard-101-father-drakes-tower-2/"
+    title: "Wizard 101: Father Drake's Tower"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-14-20-02-42-60.jpg"
+  - url: "/2009/03/05/wizard-101-opening-silver-chests/"
+    title: "Wizard 101: Opening Silver Chests"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-04-19-57-11-59.jpg"
+  - url: "/2009/02/17/bringing-balance-to-wizard-101/"
+    title: "Bringing Balance to Wizard 101"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/wizardgraphicalclient-2009-02-15-17-47-59-88.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/wizardgraphicalclient-2009-02-07-10-21-36-72.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/wizardgraphicalclient-2009-02-07-10-21-36-72.jpg"
 ---

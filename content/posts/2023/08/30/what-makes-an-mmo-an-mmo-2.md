@@ -3,11 +3,25 @@ date: '2023-08-30T07:00:00-05:00'
 draft: false
 title: "What makes an MMO, an MMO?"
 author: "Tipa"
+disqusIdentifier: "2023/08/30/what-makes-an-mmo-an-mmo-2"
 summary: "Is \"I know one when I see one\" enough?"
 categories:
   - "Blaugust"
   - "Blaugust 2023"
   - "MMORPG"
+relatedPosts:
+  - url: "/2023/08/29/loot-pinatas-how-much-are-you-worth/"
+    title: "Loot Piñatas: How much are you worth?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/moneybags.jpg"
+  - url: "/2023/08/31/the-final-days-of-blaugust/"
+    title: "The final days of Blaugust"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/solongblaugust.png"
+  - url: "/2023/08/28/retro-world-expo-scorecard/"
+    title: "Retro World Expo Scorecard"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/sailormoonpikachu.png"
+  - url: "/2023/08/27/blaugust-week-5-lessons-learned/"
+    title: "Blaugust Week 5: Lessons Learned"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/lessonslearned.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/notanmmo.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/notanmmo.png"
 ---

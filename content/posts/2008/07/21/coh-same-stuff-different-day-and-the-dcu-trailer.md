@@ -3,6 +3,7 @@ date: '2008-07-21T10:53:38-05:00'
 draft: false
 title: "CoH: Same stuff, different day, and the DCU trailer."
 author: "Tipa"
+disqusIdentifier: "2008/07/21/coh-same-stuff-different-day-and-the-dcu-trailer"
 summary: "I tend to play City of Heroes/Villains in spurts. Months will go buy without anything, and then I'll play for eight hours straight...."
 categories:
   - "City of Heroes"
@@ -10,6 +11,19 @@ categories:
   - "MMORPG"
 tags:
   - "Wonder Woman"
+relatedPosts:
+  - url: "/2023/01/27/no-kidding-i-bought-and-sold-an-nft/"
+    title: "No kidding: I bought (and sold) an NFT."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/01/futurestatewonderwoman1.jpg"
+  - url: "/2021/11/12/im-a-little-obsessed-with-this-ai-portrait-generator/"
+    title: "I'm a little obsessed with this AI portrait generator"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/shehulk.jpg"
+  - url: "/2024/01/16/city-of-heroes-homecoming/"
+    title: "City of Heroes: Homecoming..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/cohhclogo.png"
+  - url: "/2022/07/30/ship-of-heroes-housing-beta-2/"
+    title: "Ship of Heroes: Housing Beta #2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/1-20220730211912_1.jpg"
 ---
 I tend to play City of Heroes/Villains in spurts. Months will go buy without anything, and then I'll play for eight hours straight....
 <!--more-->

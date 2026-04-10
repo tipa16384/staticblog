@@ -3,6 +3,7 @@ date: '2024-07-08T07:00:00-05:00'
 draft: false
 title: "Backlog Report: Star Trek Conquest"
 author: "Tipa"
+disqusIdentifier: "2024/07/08/backlog-report-star-trek-conquest"
 summary: "I promised myself I would work through my PS2 game backlog by playing every game at least a couple hours. First up: Star Trek Conquest."
 categories:
   - "4X"
@@ -11,6 +12,19 @@ categories:
 tags:
   - "PCSX2"
   - "PS2"
+relatedPosts:
+  - url: "/2021/09/16/eqoa-desperately-seeking-skandalf/"
+    title: "EQOA: Desperately Seeking Skandalf"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/gsdx_20210916212834.png"
+  - url: "/2020/05/01/champions-of-norrath-playthrough-chapter-1-kelethin/"
+    title: "Champions of Norrath playthrough: Act 1, Kelethin"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/pcsx2-2020-04-30-07-01-16-71-1024x769.jpg"
+  - url: "/2024/06/09/retro-haul-tactics-and-sea-monkeys/"
+    title: "Retro Haul: Tactics and Sea Monkeys"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/06/IMG_4308.jpg"
+  - url: "/2020/05/05/champions-of-norrath-playthrough-act-4-5-the-plane-of-hate/"
+    title: "Champions of Norrath playthrough Act 4 & 5: The Plane of Hate"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/1-pcsx2-2020-05-02-22-45-12-17-1024x574.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/07/Star-Trek-Conquest_SLUS-21630_20240707230409.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/07/Star-Trek-Conquest_SLUS-21630_20240707230409.jpg"
 ---

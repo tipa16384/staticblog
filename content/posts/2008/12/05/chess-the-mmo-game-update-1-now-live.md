@@ -3,12 +3,26 @@ date: '2008-12-05T00:58:34-05:00'
 draft: false
 title: "Chess: The MMO game update 1 now live"
 author: "Tipa"
+disqusIdentifier: "2008/12/05/chess-the-mmo-game-update-1-now-live"
 summary: "We here at West Karana Games Inc. have been blown away by the positive response to our new Chess MMO. Taking a game from tabletop..."
 categories:
   - "Chess the MMORPG"
   - "Humor"
   - "MMORPG"
   - "Tactical RPG"
+relatedPosts:
+  - url: "/2021/11/02/quick-look-pawnbarian/"
+    title: "Quick Look: Pawnbarian"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/20211102204800_1.jpg"
+  - url: "/2024/08/19/weekend-gaming-ship-of-heroes-persona-5-tactica-giants-citizen-kabuto/"
+    title: "Weekend Gaming: Ship of Heroes, Persona 5 Tactica, Giants Citizen Kabuto"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/1-20240819074418_1.jpg"
+  - url: "/2022/07/18/ogre-battle-blaugust-steam-deck-v-rising-and-guild-wars-2/"
+    title: "Ogre Battle, Blaugust, Steam Deck, V Rising, and Guild Wars 2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/ogrebbbllll.png"
+  - url: "/2012/12/25/happy-holidays/"
+    title: "Happy Holidays!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/12/eqchristmas-386x480.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/chessmmo.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/chessmmo.jpg"
 ---

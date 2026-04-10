@@ -3,6 +3,7 @@ date: '2023-08-26T07:00:00-05:00'
 draft: false
 title: "Quick Take: Death's Door"
 author: "Tipa"
+disqusIdentifier: "2023/08/26/quick-take-deaths-door"
 summary: "You're a Reaper, a crow searching for souls to power the whole soul-taking operation in his souls-like with a sense of humor."
 categories:
   - "Blaugust"
@@ -12,6 +13,19 @@ tags:
   - "Crow"
   - "Reaper"
   - "Souls-Like"
+relatedPosts:
+  - url: "/2022/06/21/elden-ring-aftermath/"
+    title: "Elden Ring: Aftermath"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/06/1-ELDEN-RING™_20220620153851.jpg"
+  - url: "/2022/05/30/what-if-elden-but-ring/"
+    title: "What if Elden, but Ring?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/05/ELDEN-RING™_20220529120543-scaled.jpg"
+  - url: "/2022/03/28/salt-sanctuary-when-watching-elden-ring-isnt-enough/"
+    title: "Salt & Sanctuary: When Watching Elden Ring Isn't Enough"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/Salt-and-Sanctuary_20220328070627-scaled.jpg"
+  - url: "/2023/08/31/the-final-days-of-blaugust/"
+    title: "The final days of Blaugust"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/solongblaugust.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/snapedit_1693017882163.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/snapedit_1693017882163.png"
 ---

@@ -3,6 +3,7 @@ date: '2020-05-08T11:39:04-05:00'
 draft: false
 title: "Project64 and Beetle Adventure Racing"
 author: "Tipa"
+disqusIdentifier: "2020/05/08/project64-and-beetle-adventure-racing"
 summary: "It's 1999, my old broken down Super Beetle is sitting in the driveway, probably waiting on another rebuilt part for its underpowered engine, and Volkswagen..."
 categories:
   - "Emulators"
@@ -14,6 +15,19 @@ tags:
   - "Nintendo 64"
   - "Project64"
   - "Volkswagen"
+relatedPosts:
+  - url: "/2021/09/23/gti-racing-when-physical-media-isnt-i/"
+    title: "GTI Racer: When Physical Media... isn't."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/itsalie.png"
+  - url: "/2020/08/22/the-polymega-and-viewpointpsx/"
+    title: "The Polymega and Viewpoint(PSX)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/psxfin-2020-08-22-13-21-45-19.jpg"
+  - url: "/2022/07/24/ogre-battle-64-i-am-a-person-of-lordly-caliber/"
+    title: "Ogre Battle 64: I am a Person of Lordly Caliber"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/danika.png"
+  - url: "/2022/07/12/streaming-from-the-nintendo-64/"
+    title: "Streaming from the Nintendo 64"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/vlcsnap-2022-07-12-07h06m02s617.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/Project64-2020-05-08-07-01-57-40.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/Project64-2020-05-08-07-01-57-40.jpg"
 ---

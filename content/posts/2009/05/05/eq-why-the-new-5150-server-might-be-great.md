@@ -3,12 +3,26 @@ date: '2009-05-05T08:12:45-05:00'
 draft: false
 title: "EQ: Why the new 51/50 server might be great"
 author: "Tipa"
+disqusIdentifier: "2009/05/05/eq-why-the-new-5150-server-might-be-great"
 summary: "Every time I get an urge to play an explorer MMO, I fire up EverQuest, log in to my rogue, the original Tipa Tanglewood, put..."
 categories:
   - "EverQuest"
   - "MMORPG"
 tags:
   - "51/50"
+relatedPosts:
+  - url: "/2009/06/16/welcome-to-mayong-everquests-5150-server/"
+    title: "Welcome to Mayong, EverQuest's 51/50 server"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/mayong.jpg"
+  - url: "/2009/05/02/its-official-the-new-everquest-server-is-chosen-plus-eq3-rumors/"
+    title: "It's official, the new EverQuest server is chosen, plus EQ3 rumors?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/neriak5150.jpg"
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2024/10/21/evercraft-online-the-unholy-child-of-eq-and-minecraft/"
+    title: "EverCraft Online: The Unholy Child of EQ and MineCraft"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/evercraft-banner.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/eqgame-2009-05-01-22-46-48-02.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/eqgame-2009-05-01-22-46-48-02.jpg"
 ---

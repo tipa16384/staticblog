@@ -3,6 +3,7 @@ date: '2020-08-21T08:18:40-05:00'
 draft: false
 title: "Blaugust #21: There Are No New Ideas"
 author: "Tipa"
+disqusIdentifier: "2020/08/21/blaugust-21-there-are-no-new-ideas"
 summary: "My son hates old movies, old songs, old anything. If it's over ten years old, he'll refuse to have anything to do with it --..."
 categories:
   - "Blaugust"
@@ -12,6 +13,19 @@ tags:
   - "Dune"
   - "Girls Screaming in British"
   - "Tell Me of Your Homeworld Usul"
+relatedPosts:
+  - url: "/2025/08/02/dune-awakening-fishing-for-sandtrout/"
+    title: "Dune Awakening: Fishing for Sandtrout"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/fishingforsandtrout.png"
+  - url: "/2025/06/25/dune-awakening-walking-without-rhythm/"
+    title: "Dune Awakening: Walking Without Rhythm"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/walk.png"
+  - url: "/2025/09/22/dune-awakening-apotheosis/"
+    title: "Dune Awakening: Apotheosis"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/1-20250920233213_1.jpg"
+  - url: "/2022/08/06/the-six-cats-of-madame-miracle/"
+    title: "The Six Cats of Madame Miracle"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/sixcats.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/seamonsters.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/seamonsters.jpg"
 ---

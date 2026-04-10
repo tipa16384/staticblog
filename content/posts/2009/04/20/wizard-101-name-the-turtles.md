@@ -3,6 +3,7 @@ date: '2009-04-20T10:00:15-05:00'
 draft: false
 title: "Wizard 101: Name the Turtles!"
 author: "Tipa"
+disqusIdentifier: "2009/04/20/wizard-101-name-the-turtles"
 summary: "[..."
 categories:
   - "MMORPG"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Contest"
   - "Name the Turtles"
+relatedPosts:
+  - url: "/2011/03/30/wizard101-its-mount-week/"
+    title: "Wizard101: It's MOUNT WEEK!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/mantaray.gif"
+  - url: "/2009/07/22/wizard-101-comic-contest/"
+    title: "Wizard 101 Comic Contest"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/w101comic4isaiah.jpg"
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2012/11/22/wizard101-pirate101-free-stuff/"
+    title: "Wizard101 & Pirate101 Free Stuff!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/11/Pirate-2012-11-22-22-15-34-33-480x360.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/builderturtle.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/builderturtle.jpg"
 ---

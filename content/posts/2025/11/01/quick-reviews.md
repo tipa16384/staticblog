@@ -3,9 +3,23 @@ date: '2025-11-01T08:00:00-05:00'
 draft: false
 title: "Quick Reviews"
 author: "Tipa"
+disqusIdentifier: "2025/11/01/quick-reviews"
 summary: "A little bit about games I've played recently, including Winter Burrow, Death by Scrolling, Alabaster Dawn, Solasta II, Mario Kart World and Pokemon Legends Z-A."
 categories:
   - "General"
+relatedPosts:
+  - url: "/2025/08/07/soda-can-tabs-for-charity-really/"
+    title: "Soda can tabs for charity? REALLY?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5304-scaled.jpeg"
+  - url: "/2024/12/17/billionaire-rapture/"
+    title: "Billionaire Rapture"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/DALL·E-2024-12-17-00.14.48-A-surreal-science-fiction-book-cover-for-a-short-story-titled-Billionaire-Rapture.-The-scene-depicts-a-futuristic-dramatic-setting-in-space-and-on-.webp"
+  - url: "/2024/04/16/that-is-not-a-sandworm-in-your-driveway/"
+    title: "That is not a sandworm in your driveway"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/sandwormindriveway.png"
+  - url: "/2023/12/26/goodbye-lannister/"
+    title: "Goodbye, Lannister"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/IMG_9234.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/winterburrow.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/winterburrow.png"
 ---

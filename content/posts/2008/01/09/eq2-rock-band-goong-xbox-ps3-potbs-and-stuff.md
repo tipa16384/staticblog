@@ -3,6 +3,7 @@ date: '2008-01-09T13:05:57-05:00'
 draft: false
 title: "EQ2, Rock Band, Goong, Xbox, PS3, PotBS, and stuff."
 author: "Tipa"
+disqusIdentifier: "2008/01/09/eq2-rock-band-goong-xbox-ps3-potbs-and-stuff"
 summary: "Huh. I wonder if I spend too much time gaming?..."
 categories:
   - "EverQuest"
@@ -12,6 +13,19 @@ categories:
   - "Rock Band"
   - "Vanguard"
   - "Warhammer: Age of Reckoning"
+relatedPosts:
+  - url: "/2009/05/19/daily-blogroll-519-black-lung-edition/"
+    title: "Daily Blogroll 5/19 -- Black Lung edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/exefile-2009-05-18-23-31-07-25.jpg"
+  - url: "/2008/12/24/a-look-back-at-2008/"
+    title: "A look back at 2008"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-30-22-10-50-69.jpg"
+  - url: "/2008/04/07/the-mmo-nostalgia-challenge/"
+    title: "The MMO Nostalgia Challenge"
+    thumbnailImage: ""
+  - url: "/2008/02/26/why-i-blog/"
+    title: "Why I Blog"
+    thumbnailImage: ""
 ---
 Huh. I wonder if I spend too much time gaming?...
 <!--more-->

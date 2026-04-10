@@ -3,12 +3,26 @@ date: '2009-04-20T06:13:19-05:00'
 draft: false
 title: "Web log 4/20 -- Special Contest Edition"
 author: "Tipa"
+disqusIdentifier: "2009/04/20/web-log-420-special-contest-edition"
 summary: "I am SO EXCITED today! Last week, KingsIsle, developers of the wonderful MMO, Wizard 101, asked if I would be interested in participating in a..."
 categories:
   - "Daily Blogroll"
   - "MMORPG"
   - "Sci Fi"
   - "Wizard101"
+relatedPosts:
+  - url: "/2009/05/15/wizard-101-arena-season-1-and-automagic/"
+    title: "Wizard 101: Arena Season 1 and Automagic"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/w101pvppreview.jpg"
+  - url: "/2009/05/07/wizard-101-housing-slump-what-housing-slump/"
+    title: "Wizard 101: Housing slump? What housing slump?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/wizardgraphicalclient-2009-05-06-20-24-33-56.jpg"
+  - url: "/2011/10/21/daily-blogroll-oct-21-tanks-for-the-memories-edition/"
+    title: "Daily Blogroll Oct 21: Tanks for the Memories edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/dndclient-2011-10-20-21-19-18-63-480x352.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/whatisawesome.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/whatisawesome.jpg"
 ---

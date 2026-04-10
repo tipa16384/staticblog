@@ -3,6 +3,7 @@ date: '2024-11-05T08:00:00-05:00'
 draft: false
 title: "Game Night: Tales from the Loop"
 author: "Tipa"
+disqusIdentifier: "2024/11/05/game-night-tales-from-the-loop"
 summary: "Goonies meets Stranger Things meets robots in a board game set in an alternate 80s Sweden, inspired by the art of Simon Stålenhag."
 categories:
   - "Game Night"
@@ -11,6 +12,19 @@ categories:
 tags:
   - "Simon Stålenhag"
   - "The Goonies"
+relatedPosts:
+  - url: "/2024/10/22/game-night-in-too-deep-terraforming-mars-what-comes-next/"
+    title: "Game Night: In Too Deep, Terraforming Mars, what comes next?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/intoodeep.png"
+  - url: "/2021/09/15/lets-go-looking-for-my-games/"
+    title: "Let's Go Looking For My Games"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/china-map.gif"
+  - url: "/2025/01/05/best-board-games-of-2024/"
+    title: "Best Board Games of 2024!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/bestboardgamebanner.png"
+  - url: "/2021/10/15/looking-for-mr-kickstarter/"
+    title: "Looking for Mr. Kickstarter"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/cologne.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/333_hlwF_jn4o-Dzc7qidX-0apq-1wvs.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/333_hlwF_jn4o-Dzc7qidX-0apq-1wvs.jpg"
 ---

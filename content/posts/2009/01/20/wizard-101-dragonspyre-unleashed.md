@@ -3,6 +3,7 @@ date: '2009-01-20T02:14:31-05:00'
 draft: false
 title: "Wizard 101: Dragonspyre Unleashed"
 author: "Tipa"
+disqusIdentifier: "2009/01/20/wizard-101-dragonspyre-unleashed"
 summary: "KingsIsle brought the servers down. When they came back up again, Bartleby had discovered he now knew the way to the world of Dragonspyre, the..."
 categories:
   - "MMORPG"
@@ -11,6 +12,19 @@ tags:
   - "Cyrus Drake"
   - "Dragonspyre"
   - "Malistaire"
+relatedPosts:
+  - url: "/2009/03/28/wizard-101-so-malistaire-we-meet-again/"
+    title: "Wizard 101: So, Malistaire. We meet again."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-28-00-49-38-56.jpg"
+  - url: "/2009/03/18/wizard-101-father-drakes-tower-2/"
+    title: "Wizard 101: Father Drake's Tower"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-14-20-02-42-60.jpg"
+  - url: "/2009/03/05/wizard-101-opening-silver-chests/"
+    title: "Wizard 101: Opening Silver Chests"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-04-19-57-11-59.jpg"
+  - url: "/2009/02/17/bringing-balance-to-wizard-101/"
+    title: "Bringing Balance to Wizard 101"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/wizardgraphicalclient-2009-02-15-17-47-59-88.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/01/wizardgraphicalclient-2009-01-20-00-56-49-11.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/01/wizardgraphicalclient-2009-01-20-00-56-49-11.jpg"
 ---

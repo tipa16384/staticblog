@@ -3,6 +3,7 @@ date: '2008-11-20T09:50:14-05:00'
 draft: false
 title: "EQ2: The Shadow Odyssey? It's like a really big book..."
 author: "Tipa"
+disqusIdentifier: "2008/11/20/eq2-the-shadow-odyssey-its-like-a-really-big-book"
 summary: "The Shadow Odyssey is like a really big book... but you only have summaries for each chapter, and you'll be having a test on it..."
 categories:
   - "EverQuest"
@@ -11,6 +12,19 @@ tags:
   - "Miragul's Phylactery"
   - "Moors of Ykesha"
   - "The Shadow Odyssey"
+relatedPosts:
+  - url: "/2008/11/21/eq2-crafting-an-alliance/"
+    title: "EQ2: Crafting an alliance"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/everquest2-2008-11-21-01-44-20-28.jpg"
+  - url: "/2008/11/19/eq2-the-shadow-odyssey-bare-beginnings/"
+    title: "EQ2: The Shadow Odyssey... bare beginnings"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/everquest2-2008-11-19-07-31-50-18.jpg"
+  - url: "/2008/11/18/eq2-game-update-50-patch-notes/"
+    title: "EQ2: Game Update 50 patch notes"
+    thumbnailImage: ""
+  - url: "/2008/10/07/eq2-the-return-of-anashti-sul/"
+    title: "EQ2: The return of Anashti Sul?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/everquest2-2008-10-06-22-41-21-45.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/everquest2-2008-11-20-07-35-41-71.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/everquest2-2008-11-20-07-35-41-71.jpg"
 ---

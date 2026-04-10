@@ -3,6 +3,7 @@ date: '2023-07-01T21:53:18-05:00'
 draft: false
 title: "White Knight Chronicles -- best RPG I never heard of?"
 author: "Tipa"
+disqusIdentifier: "2023/07/01/white-knight-chronicles-best-rpg-i-never-heard-of"
 summary: "White Knight Chronicles, a 2009 PS3 RPG exclusive, shut down its servers a decade ago, leaving it with only half a game. But that half a game is deeply customizable and surprisingly fun."
 categories:
   - "PS3"
@@ -10,6 +11,19 @@ categories:
   - "White Knight Chronicles"
 tags:
   - "PS3"
+relatedPosts:
+  - url: "/2024/11/27/odin-sphere-two-dimensions-is-more-than-enough/"
+    title: "Odin Sphere: Two dimensions is more than enough"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/odinsphere.png"
+  - url: "/2008/12/12/playstation-3-home-beta/"
+    title: "Playstation 3 Home beta"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/stp61605-1.jpg"
+  - url: "/2008/10/30/lbp-the-littlest-biggest-planet-in-the-galaxy/"
+    title: "LBP: The Littlest, Biggest Planet in the galaxy."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/stp61416.jpg"
+  - url: "/2008/09/19/ps3-littlebig-planet-in-stores-october-21/"
+    title: "PS3: LittleBig Planet in stores October 21"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/07/1-chronicles-fantasy-fighting-knight-wallpaper-1910b83d718a7dab6617b89fb0d126ed.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/07/1-chronicles-fantasy-fighting-knight-wallpaper-1910b83d718a7dab6617b89fb0d126ed.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2025-08-26T07:41:01-05:00'
 draft: false
 title: "Frosthaven Scenario #10: Crystal Enclosure"
 author: "Tipa"
+disqusIdentifier: "2025/08/26/frosthaven-scenario-10-crystal-enclosure"
 summary: "Where we run afoul of a Drinking Donkey and evil Ice Pillars."
 categories:
   - "Blaugust"
@@ -13,6 +14,19 @@ categories:
   - "Tabletop Games"
 tags:
   - "Crystal Enclosure"
+relatedPosts:
+  - url: "/2025/08/04/i-know-what-i-did-last-weekend-5/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/bewarethesandworm.png"
+  - url: "/2026/02/10/frosthaven-9-glowing-catacombs/"
+    title: "Frosthaven #9: Glowing Catacombs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/1-IMG_5665-scaled.jpg"
+  - url: "/2025/06/24/frosthaven-7-the-edge-of-the-world/"
+    title: "Frosthaven #7: The Edge of the World"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/IMG_5196-1-scaled.jpg"
+  - url: "/2025/06/10/frosthaven-heart-of-ice-scenario-4/"
+    title: "Frosthaven: Heart of Ice (Scenario 4)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/IMG_5180-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5344-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5344-scaled.jpg"
 ---

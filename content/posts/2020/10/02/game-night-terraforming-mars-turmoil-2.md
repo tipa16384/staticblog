@@ -3,12 +3,26 @@ date: '2020-10-02T07:54:13-05:00'
 draft: false
 title: "Game Night: Terraforming Mars (Turmoil #2)"
 author: "Tipa"
+disqusIdentifier: "2020/10/02/game-night-terraforming-mars-turmoil-2"
 summary: "Quick recap: Terraforming Mars is one of the most popular board games in the world right now, and has been for years. It's a game..."
 categories:
   - "3D Printing"
   - "Game Night"
   - "Tabletop Games"
   - "Terraforming Mars"
+relatedPosts:
+  - url: "/2022/07/19/gloomhaven-jaws-of-the-lion-finished/"
+    title: "Gloomhaven Jaws of the Lion: Finished."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/jotlbox.png"
+  - url: "/2024/10/22/game-night-in-too-deep-terraforming-mars-what-comes-next/"
+    title: "Game Night: In Too Deep, Terraforming Mars, what comes next?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/intoodeep.png"
+  - url: "/2024/04/12/is-terraforming-mars-too-good/"
+    title: "Is Terraforming Mars... too good?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/terraformingmarsbanner.jpg"
+  - url: "/2021/08/06/terraforming-mars-ares-expedition-review/"
+    title: "Terraforming Mars: Ares Expedition Review"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/fbbf63001a2354f8bc6e89c58b4a21f1_original.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/3-IMG_1937.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/3-IMG_1937.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2024-09-07T08:00:00-05:00'
 draft: false
 title: "Fall into Faux: The One Where I Win"
 author: "Tipa"
+disqusIdentifier: "2024/09/07/fall-into-faux-the-one-where-i-win"
 summary: "Mei Feng’s Foundry crew faces off against Molly’s undead in a battle for ballot boxes, with unexpected twists and tactical plays. Can I turn my crew’s mobility into victory?"
 categories:
   - "Malifaux"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Tactics"
   - "The Battle Standard"
+relatedPosts:
+  - url: "/2025/09/30/malifaux-4e-rasputina-vs-maxine/"
+    title: "Malifaux 4e: Rasputina vs Maxine"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/rasp2vsmax2.png"
+  - url: "/2025/04/30/malifaux-4th-edition-mei-feng-vs-captain-zipp/"
+    title: "Malifaux 4th Edition: Mei Feng vs Captain Zipp"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/04/newcrew4ebanner.png"
+  - url: "/2025/03/11/malifaux-new-crew-league-week-1/"
+    title: 'Malifaux: "New Crew" League, Week 1'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/newcrew1.png"
+  - url: "/2024/09/25/malifaux-the-scrappy-underdog/"
+    title: "Malifaux: The Scrappy Underdog"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/league3.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/1988-mei-feng.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/1988-mei-feng.jpg"
 ---

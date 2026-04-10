@@ -3,6 +3,7 @@ date: '2024-08-08T07:00:00-05:00'
 draft: false
 title: "Did a robot write this?"
 author: "Tipa"
+disqusIdentifier: "2024/08/08/did-a-robot-write-this"
 summary: "When it was revealed that more than one blog was relying upon AI-generated content, the blogosphere erupted in righteous indignation. Why?"
 categories:
   - "Blaugust"
@@ -10,6 +11,19 @@ categories:
   - "Generative AI"
 tags:
   - "Blogging"
+relatedPosts:
+  - url: "/2025/07/14/blaugust-kommt/"
+    title: "Blaugust kommt."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/07/blaugustbanner.png"
+  - url: "/2022/08/29/blaugust-2022-staying-unmotivated/"
+    title: "Blaugust 2022: Staying (un)Motivated"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-29-21.17.59-A-pen-and-ink-drawing-of-a-penguin-typing-on-a-computer-while-floating-on-an-ice-floe-in-the-middle-of-the-ocean..png"
+  - url: "/2022/07/31/welcome-to-blaugust-2022-31-game-ideas-from-ai/"
+    title: "Welcome to Blaugust 2022: 31 game ideas from AI"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/blaugust2022.webp"
+  - url: "/2021/10/07/he-thought-i-was-joking/"
+    title: "He thought I was joking."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/endgame_auto_x2_toned_light_ai.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/tipachu_synthwave_background_robot_typing_on_a_teletype_with__6eab107d-1c5c-4b6a-a133-4bab146eff78_0-1.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/tipachu_synthwave_background_robot_typing_on_a_teletype_with__6eab107d-1c5c-4b6a-a133-4bab146eff78_0-1.png"
 ---

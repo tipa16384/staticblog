@@ -3,6 +3,7 @@ date: '2022-08-22T13:19:07-05:00'
 draft: false
 title: "The 5 Best MMOs to Play in 2022"
 author: "Tipa"
+disqusIdentifier: "2022/08/22/the-5-best-mmos-to-play-in-2022"
 summary: "With so many MMOs on the market, it can be hard to decide which one is right for you. Here are the 5 best MMOs to play in 2022 to help you make your decision!"
 categories:
   - "Final Fantasy"
@@ -17,6 +18,19 @@ tags:
   - "Dall-E 2"
   - "MMORPG Challenge"
   - "Pandering"
+relatedPosts:
+  - url: "/2023/08/16/a-tribute-to-creators/"
+    title: "From Hydaelyn to Veeshan: A Tribute to Creators"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/hydaelyn.webp"
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2022/08/06/the-six-cats-of-madame-miracle/"
+    title: "The Six Cats of Madame Miracle"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/sixcats.png"
+  - url: "/2022/07/31/welcome-to-blaugust-2022-31-game-ideas-from-ai/"
+    title: "Welcome to Blaugust 2022: 31 game ideas from AI"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/blaugust2022.webp"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-22-13.05.37-3d-digital-art-of-Tweedle-Dee-and-Tweedle-Dum-wearing-pots-and-pans-standing-in-Duskwood-in-World-of-Warcraft.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-22-13.05.37-3d-digital-art-of-Tweedle-Dee-and-Tweedle-Dum-wearing-pots-and-pans-standing-in-Duskwood-in-World-of-Warcraft.png"
 ---

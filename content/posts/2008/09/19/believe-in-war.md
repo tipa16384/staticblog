@@ -3,11 +3,25 @@ date: '2008-09-19T08:00:28-05:00'
 draft: false
 title: "Straight Talk Warhammer: Believe in WAR"
 author: "Tipa"
+disqusIdentifier: "2008/09/19/believe-in-war"
 summary: "*Producer's note: Hey folks, just a head's up. I know a lot of you were looking forward to a full set of 100 editions of..."
 categories:
   - "MMORPG"
   - "Straight Talk Warhammer"
   - "Warhammer: Age of Reckoning"
+relatedPosts:
+  - url: "/2008/10/03/straight-talk-warhammer-the-archmage/"
+    title: "Straight Talk Warhammer: The Archmage"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/d2sorceress.jpg"
+  - url: "/2008/10/02/straight-talk-warhammer-the-ironbreaker/"
+    title: "Straight Talk Warhammer: The Ironbreaker"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-02-07-39-22-47.jpg"
+  - url: "/2008/10/01/straight-talk-warhammer-the-witch-hunter/"
+    title: "Straight Talk Warhammer: The Witch Hunter"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/witchhunter.jpg"
+  - url: "/2008/09/26/stw-off-the-bus/"
+    title: "STW: Off the bus."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/stw-offthebus.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/warhammerbox.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/warhammerbox.jpg"
 ---

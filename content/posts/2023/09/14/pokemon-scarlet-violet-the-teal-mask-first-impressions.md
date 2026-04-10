@@ -3,6 +3,7 @@ date: '2023-09-14T08:19:39-05:00'
 draft: false
 title: "Pokémon Scarlet/Violet: The Teal Mask first impressions"
 author: "Tipa"
+disqusIdentifier: "2023/09/14/pokemon-scarlet-violet-the-teal-mask-first-impressions"
 summary: "Anyone who doesn't think we will be catching these three legendary Pokémon at some point has clearly never played a Pokémon game."
 categories:
   - "Pokemon"
@@ -11,6 +12,19 @@ tags:
   - "Pokemon"
   - "The Hidden Treasure of Area Zero"
   - "The Teal Mask"
+relatedPosts:
+  - url: "/2023/09/18/teal-mask-was-it-worth-it/"
+    title: "The Teal Mask: Was it worth it?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/2023091520051500-B6CE40797459B0890BF7CEF68A4CE587.jpg"
+  - url: "/2023/09/15/the-teal-mask-the-loyal-three/"
+    title: "The Teal Mask: The Loyal Three"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/2023091423002200-B6CE40797459B0890BF7CEF68A4CE587.jpg"
+  - url: "/2024/01/13/pokemon-violet-mochi-mayhem/"
+    title: "Pokemon Violet: Mochi Mayhem"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/2024011219550300-B6CE40797459B0890BF7CEF68A4CE587.jpg"
+  - url: "/2025/12/15/i-know-what-i-did-last-weekend-6/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/IMG_5573-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/2023091322223400-B6CE40797459B0890BF7CEF68A4CE587.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/2023091322223400-B6CE40797459B0890BF7CEF68A4CE587.jpg"
 ---

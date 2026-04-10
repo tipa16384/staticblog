@@ -3,6 +3,7 @@ date: '2020-05-14T11:15:16-05:00'
 draft: false
 title: "World of Warships: Submarines Sail In"
 author: "Tipa"
+disqusIdentifier: "2020/05/14/world-of-warships-submarines-sail-in"
 summary: "\"Frankly, my dear, I don't give a damn about depth charges\"..."
 categories:
   - "MMORPG"
@@ -11,6 +12,19 @@ tags:
   - "Clark Gable"
   - "Run Silent Run Deep"
   - "Submarines"
+relatedPosts:
+  - url: "/2022/08/23/23-fathoms-a-cold-war-era-submarine-simulator/"
+    title: "23 Fathoms: A Cold War Era Submarine Simulator"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/smallsub.png"
+  - url: "/2020/04/22/world-of-weebships/"
+    title: "World of Warships is the perfect MMO for someone who just can't be bothered to care any more."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/04/WorldOfWarships64-2020-04-22-22-20-32-93.jpg"
+  - url: "/2015/11/22/a-member-of-the-second-league/"
+    title: "A Captain of the Second League"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/11/warships-second-league.jpg"
+  - url: "/2015/11/14/the-ijn-welcomes-you-to-tier-v/"
+    title: "The IJN Welcomes You to Tier V"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/11/worldofwarships-2015-11-14-10-43-27-25.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/runsilent.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/runsilent.png"
 ---

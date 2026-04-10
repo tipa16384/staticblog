@@ -3,6 +3,7 @@ date: '2022-12-17T23:06:06-05:00'
 draft: false
 title: "Advent of Code Day 17 -- Pyroclastic Flow"
 author: "Tipa"
+disqusIdentifier: "2022/12/17/advent-of-code-day-17-pyroclastic-flow"
 summary: "They say \"Pyroclastic Flow\", but it's really Tetris. Rock Tetris. With 100,000,000 pieces. Massive."
 categories:
   - "Advent of Code"
@@ -13,6 +14,19 @@ tags:
   - "Python"
   - "Tetris"
   - "Volcano"
+relatedPosts:
+  - url: "/2022/12/18/advent-of-code-day-18-boiling-boulders/"
+    title: "Advent of Code Day 18 -- Boiling Boulders"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-18-19.03.10-An-elephant-watching-a-flaming-meteor-crash-into-a-lake-by-Bob-Eggleton-detailed-and-intricate.png"
+  - url: "/2022/12/10/advent-of-code-day-10-cathode-ray-tube/"
+    title: "Advent of Code Day 10 -- Cathode-Ray Tube"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-10-19.36.37-A-woman-in-ragged-clothes-wearing-a-Christmas-hat-playing-a-video-game-in-the-jungle-by-Bob-Eggleton-detailed-and-intricate.png"
+  - url: "/2022/12/21/advent-of-code-day-21-monkey-math/"
+    title: "Advent of Code Day 21 -- Monkey Math"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-21-21.48.47-A-large-group-of-monkeys-shouting-at-a-woman-wearing-a-Christmas-stocking-cap-by-Bob-Eggleton-detailed-and-intricate.png"
+  - url: "/2022/12/16/advent-of-code-day-16-proboscidea-volcanium/"
+    title: "Advent of Code Day 16 -- Proboscidea Volcanium"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-16-23.05.05-A-publicity-photo-of-Jack-Bauer-from-_24_-leading-an-elephant-through-a-lava-tube-lit-up-with-the-red-glow-of-molten-magma.-Tubes-and-pipes-line-the-l.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-17-22.26.37-An-elephant-wearing-a-Christmas-stocking-cap-looking-at-a-giant-statue-of-a-Tetris-game-in-a-cave-lit-with-lava-by-Bob-Eggleton-detailed-and-intrica.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-17-22.26.37-An-elephant-wearing-a-Christmas-stocking-cap-looking-at-a-giant-statue-of-a-Tetris-game-in-a-cave-lit-with-lava-by-Bob-Eggleton-detailed-and-intrica.png"
 ---

@@ -3,9 +3,23 @@ date: '2008-01-11T14:14:13-05:00'
 draft: false
 title: "Finally DRM-free: John Cage's most famous opus, 4'33\""
 author: "Tipa"
+disqusIdentifier: "2008/01/11/finally-drm-free-john-cages-most-famous-opus-433"
 summary: "With the news that Sony BMG is dropping DRM from its music and as that final, disgraceful era comes to an end, it's time to..."
 categories:
   - "General"
+relatedPosts:
+  - url: "/2025/11/01/quick-reviews/"
+    title: "Quick Reviews"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/winterburrow.png"
+  - url: "/2025/08/07/soda-can-tabs-for-charity-really/"
+    title: "Soda can tabs for charity? REALLY?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5304-scaled.jpeg"
+  - url: "/2024/12/17/billionaire-rapture/"
+    title: "Billionaire Rapture"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/DALL·E-2024-12-17-00.14.48-A-surreal-science-fiction-book-cover-for-a-short-story-titled-Billionaire-Rapture.-The-scene-depicts-a-futuristic-dramatic-setting-in-space-and-on-.webp"
+  - url: "/2024/04/16/that-is-not-a-sandworm-in-your-driveway/"
+    title: "That is not a sandworm in your driveway"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/sandwormindriveway.png"
 ---
 With the news that Sony BMG is dropping DRM from its music and as that final, disgraceful era comes to an end, it's time to...
 <!--more-->

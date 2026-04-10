@@ -3,6 +3,7 @@ date: '2009-04-25T08:01:29-05:00'
 draft: false
 title: "Web Log 4/25"
 author: "Tipa"
+disqusIdentifier: "2009/04/25/web-log-425"
 summary: "Welcome to the weekend! It's fantastic weather, so gonna keep this short...."
 categories:
   - "Champions Online"
@@ -11,6 +12,19 @@ categories:
   - "Free Realms"
   - "Shards of Dalaya"
   - "Torchlight"
+relatedPosts:
+  - url: "/2009/05/08/daily-blogroll-58-darkfail-edition/"
+    title: "Daily Blogroll 5/8 -- Darkfail edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/darkfall.jpg"
+  - url: "/2009/08/04/daily-blogroll-84-lifetime-edition/"
+    title: "Daily Blogroll 8/4 -- Lifetime edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/lederhosenman.jpg"
+  - url: "/2009/08/10/daily-blogroll-810-thank-god-its-monday-edition/"
+    title: "Daily Blogroll 8/10 -- Thank God it's Monday edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/daddygirl.jpg"
+  - url: "/2009/05/19/daily-blogroll-519-black-lung-edition/"
+    title: "Daily Blogroll 5/19 -- Black Lung edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/exefile-2009-05-18-23-31-07-25.jpg"
 ---
 Welcome to the weekend! It's fantastic weather, so gonna keep this short....
 <!--more-->

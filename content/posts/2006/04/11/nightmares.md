@@ -3,10 +3,24 @@ date: '2006-04-11T00:00:00-05:00'
 draft: false
 title: "Nightmares"
 author: "Tipa"
+disqusIdentifier: "2006/04/11/nightmares"
 summary: "I have been playing too much Oblivion lately. And I didn't feed my cat last night before bed - he'd shared my chicken at supper,..."
 categories:
   - "General"
   - "Oblivion"
+relatedPosts:
+  - url: "/2006/04/26/academy-of-arcane-science/"
+    title: "Academy of Arcane Science"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/images/academy.jpg"
+  - url: "/2006/04/13/leyawiin-my-old-home-town/"
+    title: "Leyawiin, my old home town"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/images/knighterrant.jpg"
+  - url: "/2006/04/11/a-pressing-obliviation/"
+    title: "A Pressing Obliviation"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/images/ranger.jpg"
+  - url: "/2025/11/01/quick-reviews/"
+    title: "Quick Reviews"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/winterburrow.png"
 ---
 I have been playing too much Oblivion lately. And I didn't feed my cat last night before bed - he'd shared my chicken at supper,...
 <!--more-->

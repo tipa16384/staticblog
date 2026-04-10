@@ -3,6 +3,7 @@ date: '2009-07-31T07:59:32-05:00'
 draft: false
 title: "Daily Blogroll 7/31 -- For Shannon"
 author: "Tipa"
+disqusIdentifier: "2009/07/31/daily-blogroll-731-for-shannon"
 summary: "Sorry for the entire and almost complete lack of posts this week... family stuff. Guess I should have called it the \"WEEKLY Blogroll\"......."
 categories:
   - "Champions Online"
@@ -13,6 +14,19 @@ categories:
   - "Vanguard"
   - "Wizard101"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2009/07/20/daily-blogroll-720/"
+    title: "Daily Blogroll 7/20 - Much Ado about Nothing edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/LaTaleClient-2009-07-18-15-50-33-45.jpg"
+  - url: "/2009/08/10/daily-blogroll-810-thank-god-its-monday-edition/"
+    title: "Daily Blogroll 8/10 -- Thank God it's Monday edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/daddygirl.jpg"
+  - url: "/2009/07/23/daily-blogroll-723-aftermath-edition/"
+    title: "Daily Blogroll 7/23 -- Aftermath edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/sb_client-2009-07-23-07-34-50-3.jpg"
+  - url: "/2009/06/30/daily-blogroll-630-christmas-edition/"
+    title: "Daily Blogroll 6/30 - Christmas edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/TS3-2009-06-30-08-10-20-98.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/forzha.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/forzha.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2024-12-27T08:28:55-05:00'
 draft: false
 title: "The Best Puzzle Games of 2024"
 author: "Tipa"
+disqusIdentifier: "2024/12/27/the-best-puzzle-games-of-2024"
 summary: "These were the games that made me think this year."
 categories:
   - "Puzzle Games"
@@ -12,6 +13,19 @@ tags:
   - "Humanity"
   - "Sixty Four"
   - "Zachtronics"
+relatedPosts:
+  - url: "/2024/10/26/last-call-bbs-puzzle-games-for-the-retro-inclined/"
+    title: "Last Call BBS: Puzzle Games for the Retro-Inclined"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/2-20241026104137_1.jpg"
+  - url: "/2021/01/10/exapunks-finished-heres-my-solutions/"
+    title: "EXAPUNKS Finished! Here's my solutions..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/01/exaepilogue.jpg"
+  - url: "/2025/04/14/i-know-what-i-did-last-weekend-april-edition/"
+    title: "I Know What I Did Last Weekend (April edition)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/04/Blue-Prince_20250414075008-scaled.jpg"
+  - url: "/2025/02/18/wots-uh-the-deal/"
+    title: "Wot's... Uh the Deal?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/02/tipachu_A_scene_from_a_city_with_an_unpainted_metal_statue_of_1f26c4d5-89d9-43e1-98ae-b76a59f62d92_2.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/puzzlegamesbanner.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/puzzlegamesbanner.png"
 ---

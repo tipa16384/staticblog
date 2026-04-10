@@ -3,6 +3,7 @@ date: '2008-05-05T13:03:25-05:00'
 draft: false
 title: "Short Subjects: SF mini reviews"
 author: "Tipa"
+disqusIdentifier: "2008/05/05/short-subjects-sf-mini-reviews"
 summary: "Tor has been continuing their free release of books in electronic form, and I have been totally enjoying these free glimpses into new works, formatted..."
 categories:
   - "Sci Fi"
@@ -13,6 +14,19 @@ tags:
   - "Old Man's War"
   - "Robert Charles Wilson"
   - "The Spin"
+relatedPosts:
+  - url: "/2026/01/17/starfleet-academy-your-billionaire-future/"
+    title: "Starfleet Academy: Your Billionaire Future"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/starfleetacademy.png"
+  - url: "/2024/09/27/game-night-in-too-deep/"
+    title: "Game Night: In Too Deep"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/intoodeepbanner.png"
+  - url: "/2022/09/20/review-braking-day-by-adam-oyebanji/"
+    title: "Review: Braking Day by Adam Oyebanji"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/brakingday.png"
+  - url: "/2015/09/13/beam-me-up/"
+    title: "Beam me up..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/09/1-Star-Trek-Me-1.jpg"
 ---
 Tor has been continuing their free release of books in electronic form, and I have been totally enjoying these free glimpses into new works, formatted...
 <!--more-->

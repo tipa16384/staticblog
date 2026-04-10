@@ -3,11 +3,25 @@ date: '2025-10-29T07:00:00-05:00'
 draft: false
 title: "DragonStrike: The Aerial Combat Board Game"
 author: "Tipa"
+disqusIdentifier: "2025/10/29/dragonstrike-the-aerial-combat-board-game"
 summary: "With Amazon's \"New World\" MMO shuttering, can a simple board game provide a new home for its players?"
 categories:
   - "Tabletop Games"
 tags:
   - "Dragonstrike"
+relatedPosts:
+  - url: "/2025/12/09/dragonstrike-in-my-kitchen/"
+    title: "DragonStrike in my kitchen?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/1-IMG_5562-scaled.jpg"
+  - url: "/2024/08/03/more-confessions-of-a-kickstarter-superbacker/"
+    title: "More Confessions of a Kickstarter Superbacker"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/superbacker.png"
+  - url: "/2025/10/24/a-kolam-for-a-delivery-man/"
+    title: "A Kolam for a Delivery Man"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/kolam.png"
+  - url: "/2025/09/04/still-more-confessions-of-a-kickstarter-superbacker/"
+    title: "Still More Confessions of a Kickstarter Superbacker"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/superbacker.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/IMG_5465-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/IMG_5465-scaled.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2023-08-08T07:00:00-05:00'
 draft: false
 title: "Sam Portsmouth Bridges"
 author: "Tipa"
+disqusIdentifier: "2023/08/08/sam-portsmouth-bridges"
 summary: "I really don't know what else you would call a blog post on a gaming blog about bridges in Portsmouth, NH. It's introduction week, so get ready."
 categories:
   - "Blaugust"
@@ -15,6 +16,19 @@ tags:
   - "Portsmouth"
   - "Sam Porter Bridges"
   - "Sarah Mildred Long"
+relatedPosts:
+  - url: "/2020/08/19/blaugust-19-defend-your-life/"
+    title: "Blaugust #19: Defend Your Life"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/IMG_1538.jpg"
+  - url: "/2020/09/02/random-bits-of-real-life-1/"
+    title: "Random Bits of Real Life #1"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/1-IMG_1859.jpg"
+  - url: "/2022/12/09/advent-of-code-day-9-rope-bridge/"
+    title: "Advent of Code Day 9 -- Rope Bridge"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-09-21.18.23-Christmas-Elves-walking-on-a-tattered-rope-bridge-crossing-a-river-in-a-jungle-by-Bob-Eggleton-detailed-and-intricate.png"
+  - url: "/2023/08/31/the-final-days-of-blaugust/"
+    title: "The final days of Blaugust"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/solongblaugust.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/IMG_3945-EFFECTS-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/IMG_3945-EFFECTS-scaled.jpg"
 ---

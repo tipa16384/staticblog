@@ -3,6 +3,7 @@ date: '2007-12-28T12:35:20-05:00'
 draft: false
 title: "2007 in Review"
 author: "Tipa"
+disqusIdentifier: "2007/12/28/2007-in-review"
 summary: "2007 has been an amazingly full year, considering some of the major games we were hoping to play (Gods & Heroes, Age of Conan) were..."
 categories:
   - "EverQuest"
@@ -10,6 +11,19 @@ categories:
   - "MMORPG"
   - "Mythos"
   - "Star Trek"
+relatedPosts:
+  - url: "/2008/01/02/great-expectations-2008/"
+    title: "Great Expectations: 2008"
+    thumbnailImage: ""
+  - url: "/2009/05/08/daily-blogroll-58-darkfail-edition/"
+    title: "Daily Blogroll 5/8 -- Darkfail edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/darkfall.jpg"
+  - url: "/2009/04/24/web-log-424-friday-is-free-day-edition/"
+    title: "Web Log 4/24 -- Friday is Free Day edition"
+    thumbnailImage: "http://www.penny-arcade.com/images/2009/20090424.jpg"
+  - url: "/2008/04/07/the-mmo-nostalgia-challenge/"
+    title: "The MMO Nostalgia Challenge"
+    thumbnailImage: ""
 ---
 2007 has been an amazingly full year, considering some of the major games we were hoping to play (Gods & Heroes, Age of Conan) were...
 <!--more-->

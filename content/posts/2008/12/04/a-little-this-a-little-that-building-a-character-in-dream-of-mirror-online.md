@@ -3,10 +3,24 @@ date: '2008-12-04T09:24:01-05:00'
 draft: false
 title: "A little this, a little that: Building a character in Dream of Mirror Online"
 author: "Tipa"
+disqusIdentifier: "2008/12/04/a-little-this-a-little-that-building-a-character-in-dream-of-mirror-online"
 summary: "In Dream of Mirror Online -- DOMO -- there's no real need for alts because your character can change classes to any they have unlocked..."
 categories:
   - "Dream of Mirror Online"
   - "MMORPG"
+relatedPosts:
+  - url: "/2010/04/14/the-best-mmo-for-a-new-player/"
+    title: "The best MMO for a new player?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/options.jpg"
+  - url: "/2009/08/19/daily-blogroll-819-l2test-edition/"
+    title: "Daily Blogroll 8/19 - L2Test edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/ExeFile-2009-08-18-21-44-27-54.jpg"
+  - url: "/2009/05/04/daily-blogroll-54-dragon-claw-style-edition/"
+    title: "Daily Blogroll 5/4 -- Dragon Claw Style edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/dragonclawstyle1.jpg"
+  - url: "/2009/01/09/wizard-101-plague-oni-why-cant-i-quit-you/"
+    title: "Wizard 101: Plague Oni, why can't I quit you?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/01/wizardgraphicalclient-2009-01-08-21-18-59-29.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/domo-2008-12-02-20-11-55-66.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/domo-2008-12-02-20-11-55-66.jpg"
 ---

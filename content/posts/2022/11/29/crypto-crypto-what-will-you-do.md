@@ -3,6 +3,7 @@ date: '2022-11-29T16:32:32-05:00'
 draft: false
 title: "Crypto, Crypto, what will you do?"
 author: "Tipa"
+disqusIdentifier: "2022/11/29/crypto-crypto-what-will-you-do"
 summary: "This song tells the story of a pup named Crypto who dreams of becoming wealthy through trading on various cryptocurrency markets."
 categories:
   - "Blockchain"
@@ -12,6 +13,19 @@ tags:
   - "Crypto"
   - "Puppy"
   - "Song"
+relatedPosts:
+  - url: "/2021/11/18/im-just-here-to-bring-joy-and-melt-your-brain/"
+    title: "I'm just here to bring joy and melt your brain."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/genesisloot.jpg"
+  - url: "/2024/08/07/how-to-lose-2k-without-hardly-trying/"
+    title: "How to lose $2K without hardly trying"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/crypto_upscaled.jpg"
+  - url: "/2023/11/16/avalon-the-new-everything-mmo-that-you-can-make-at-home/"
+    title: "Avalon: the new everything MMO that you can make at home!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/next_static_media_Splash_Gradient.dd97fb8f.jpg"
+  - url: "/2022/04/08/how-much-is-that-star-trek-nft-in-the-window/"
+    title: "How Much is that Star Trek NFT in the Window?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/04/Screenshot-2022-04-08-184902.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/11/1-A_puppy_surrounded_by_stacks_of_Bitcoin__Visual_Novel_Seed-2422298_Steps-50_Guidance-7.5.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/11/1-A_puppy_surrounded_by_stacks_of_Bitcoin__Visual_Novel_Seed-2422298_Steps-50_Guidance-7.5.jpg"
 ---

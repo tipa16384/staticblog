@@ -3,6 +3,7 @@ date: '2009-06-18T07:49:05-05:00'
 draft: false
 title: "Daily Blogroll 6/18 -- Fun with your new Brad edition"
 author: "Tipa"
+disqusIdentifier: "2009/06/18/daily-blogroll-618-fun-with-your-new-brad-edition"
 summary: "A few days ago, the MMO blogging world burned with the news that rock star MMO developer turned lonely exile, Brad McQuaid, had returned from..."
 categories:
   - "Aion"
@@ -13,6 +14,19 @@ categories:
   - "Vanguard"
   - "Wizard101"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2009/08/10/daily-blogroll-810-thank-god-its-monday-edition/"
+    title: "Daily Blogroll 8/10 -- Thank God it's Monday edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/daddygirl.jpg"
+  - url: "/2009/07/23/daily-blogroll-723-aftermath-edition/"
+    title: "Daily Blogroll 7/23 -- Aftermath edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/sb_client-2009-07-23-07-34-50-3.jpg"
+  - url: "/2009/07/01/daily-blogroll-71-mmo-overload-edition/"
+    title: "Daily Blogroll 7/1 - MMO Overload edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/l2pmode.jpg"
+  - url: "/2009/09/23/daily-blogroll-923-all-queued-up-edition/"
+    title: "Daily Blogroll 9/23 - All Queued Up Edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/yankee.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/aion-2009-06-06-11-52-13-75.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/aion-2009-06-06-11-52-13-75.jpg"
 ---

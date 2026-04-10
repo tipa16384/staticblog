@@ -3,9 +3,23 @@ date: '2008-01-18T15:19:26-05:00'
 draft: false
 title: "Rock Band: Fixing the old 5 String"
 author: "Tipa"
+disqusIdentifier: "2008/01/18/rock-band-fixing-the-old-5-string"
 summary: "I mentioned a few weeks back that the guitar controller that came with Rock Band broke midway through our epic struggle with the Endless Set..."
 categories:
   - "Rock Band"
+relatedPosts:
+  - url: "/2008/09/12/guitar-hero-world-tour-set-list/"
+    title: "Guitar Hero World Tour set list!"
+    thumbnailImage: ""
+  - url: "/2008/08/06/rock-band-live-on-tour-with-real-instruments/"
+    title: "Rock Band Live! On Tour! With real instruments!"
+    thumbnailImage: ""
+  - url: "/2008/07/17/rock-band-2-controllers-blur-the-line-between-real-band-and-fake-band/"
+    title: "Rock Band 2 controllers blur the line between real band and fake band"
+    thumbnailImage: ""
+  - url: "/2008/07/14/sigh-rock-band-2-set-list/"
+    title: "Sigh. Rock Band 2 set list."
+    thumbnailImage: ""
 ---
 I mentioned a few weeks back that the guitar controller that came with Rock Band broke midway through our epic struggle with the Endless Set...
 <!--more-->

@@ -3,6 +3,7 @@ date: '2008-06-06T15:19:22-05:00'
 draft: false
 title: "Bloggers of ye elder games, WRU?"
 author: "Tipa"
+disqusIdentifier: "2008/06/06/bloggers-of-ye-elder-games-wru"
 summary: "I don't know how many people come looking for EverQuest blogs, but there are darn few in the blogosphere that actually cover events in EQ..."
 categories:
   - "Dark Ages of Camelot"
@@ -10,6 +11,19 @@ categories:
   - "Final Fantasy"
   - "MMORPG"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2007/12/21/mmo-mishmash/"
+    title: "MMO Mishmash"
+    thumbnailImage: ""
+  - url: "/2021/10/05/new-world-kochaja-nas-w-polsce/"
+    title: "New World: Kochają nas w Polsce!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/poland.jpg"
+  - url: "/2009/06/26/daily-blogroll-626-space-michael-edition/"
+    title: "Daily Blogroll 6/26 -- Space Michael edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/jackson.jpg"
 ---
 I don't know how many people come looking for EverQuest blogs, but there are darn few in the blogosphere that actually cover events in EQ...
 <!--more-->

@@ -3,11 +3,25 @@ date: '2020-05-21T11:48:21-05:00'
 draft: false
 title: "My Witcher"
 author: "Tipa"
+disqusIdentifier: "2020/05/21/my-witcher"
 summary: "EverQuest was down all yesterday, so I didn't have a chance to continue my doomed quest to finish my SK's bone mail armor. But that..."
 categories:
   - "Steam Games"
 tags:
   - "The Witcher"
+relatedPosts:
+  - url: "/2020/07/01/game-log-for-june/"
+    title: "Game Log for June"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/07/Chocobo’s-Mystery-Dungeon-EVERY-BUDDY_20200630210621.jpg"
+  - url: "/2020/05/19/am-i-witchy-enough-for-you/"
+    title: "Am I Witchy Enough For You?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/witcher.jpg"
+  - url: "/2026/03/28/blasts-from-the-past-is-it-the-90s-again/"
+    title: "Blasts from the Past: Is it the 90s again?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/elves-and-dinokun.jpg"
+  - url: "/2026/03/25/preview-topdeck-automat/"
+    title: "Preview: Topdeck Automat"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-24-220403.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/1-witcher3-2020-05-21-07-30-46-83.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/1-witcher3-2020-05-21-07-30-46-83.jpg"
 ---

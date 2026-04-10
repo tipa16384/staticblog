@@ -3,6 +3,7 @@ date: '2020-08-22T09:28:16-05:00'
 draft: false
 title: "I Jump on Bandwagons"
 author: "Tipa"
+disqusIdentifier: "2020/08/22/i-jump-on-bandwagons"
 summary: "There's a lot of issues I have with gaming. Lack of time, for one. I'd really like to have a lot more time for gaming,..."
 categories:
   - "PS4"
@@ -15,6 +16,19 @@ tags:
   - "Girls Screaming on Twitter"
   - "Othello"
   - "Twitter"
+relatedPosts:
+  - url: "/2020/05/07/mmo-updates-crowfall-everquest-chocobos-mystery-dungeon-dcuo/"
+    title: "MMO updates: Crowfall, EverQuest, Chocobo's Mystery Dungeon, DCUO"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/CrowfallClient-2020-05-07-07-19-12-64-1024x576.jpg"
+  - url: "/2020/07/01/game-log-for-june/"
+    title: "Game Log for June"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/07/Chocobo’s-Mystery-Dungeon-EVERY-BUDDY_20200630210621.jpg"
+  - url: "/2020/12/11/my-rpgs-of-2020/"
+    title: "My RPGs of 2020"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/Chocobos-Mystery-Dungeon-EVERY-BUDDY_20200506204657.jpg"
+  - url: "/2020/07/08/chocobos-mystery-dungeon-every-buddy-finished-sorta/"
+    title: "Chocobo's Mystery Dungeon: Every Buddy FINISHED! Sorta."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/07/Chocobo’s-Mystery-Dungeon-EVERY-BUDDY_20200707212923.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/Fall-Guys_-Ultimate-Knockout_20200821210108.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/Fall-Guys_-Ultimate-Knockout_20200821210108.jpg"
 ---

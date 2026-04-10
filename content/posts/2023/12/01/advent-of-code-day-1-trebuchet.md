@@ -3,6 +3,7 @@ date: '2023-12-01T08:03:44-05:00'
 draft: false
 title: "Advent of Code Day 1 -- Trebuchet?!"
 author: "Tipa"
+disqusIdentifier: "2023/12/01/advent-of-code-day-1-trebuchet"
 summary: "Elves can't fly, but maybe YOU can... with a little help from a friendly Christmas trebuchet..."
 categories:
   - "Advent of Code"
@@ -10,6 +11,19 @@ tags:
   - "Advent"
   - "Haskell"
   - "Trebuchet"
+relatedPosts:
+  - url: "/2023/12/03/advent-of-code-day-3-gear-ratios/"
+    title: "Advent of Code Day 3 -- Gear Ratios"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_A_Christmas_elf_working_on_a_giant_machine_with_many_ge_47e1029a-b055-4df9-99f0-1c55a64ca2e8.png"
+  - url: "/2024/12/07/advent-of-code-2024-the-first-week/"
+    title: "Advent of Code 2024: The First Week"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/DALL·E-2024-12-07-11.54.46-A-Tolkien-inspired-scene-depicting-graceful-elves-in-a-Tolkien-inspired-setting-repairing-a-rope-bridge-over-a-serene-river-surrounded-by-lush-vibra.webp"
+  - url: "/2023/12/04/advent-of-code-day-4-scratchcards/"
+    title: "Advent of Code Day 4 -- Scratchcards"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_A_Christmas_elf_sitting_on_a_giant_heap_of_scratch_off__6f747a63-e079-4e61-aea3-4d9d81e4b203.png"
+  - url: "/2023/12/02/advent-of-code-day-2-cube-conundrum/"
+    title: "Advent of Code Day 2 -- Cube Conundrum"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_A_Christmas_elf_on_the_tundra_surrounded_by_red_green_a_ad0ef918-2e5e-4cad-bb3a-4f76bd9b3c04.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_A_catapult_surrounded_by_Christmas_elves_af0eba66-cf81-40e8-8736-e61609b50fdd.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_A_catapult_surrounded_by_Christmas_elves_af0eba66-cf81-40e8-8736-e61609b50fdd.png"
 ---

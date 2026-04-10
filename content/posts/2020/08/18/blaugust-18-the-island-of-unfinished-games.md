@@ -3,6 +3,7 @@ date: '2020-08-18T07:39:34-05:00'
 draft: false
 title: "Blaugust #18: The Island of Unfinished Games"
 author: "Tipa"
+disqusIdentifier: "2020/08/18/blaugust-18-the-island-of-unfinished-games"
 summary: "Sorry, I just spent the last half hour looking for exactly the best song I remembered from Martin Mull which was... perfect for this writing..."
 categories:
   - "3D Printing"
@@ -14,6 +15,19 @@ tags:
   - "Chrono Trigger"
   - "Martin Mull"
   - "Perler"
+relatedPosts:
+  - url: "/2021/08/28/townscaper-1-0-and-3d-printing/"
+    title: "Townscaper 1.0 and 3D Printing"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210828092303_1.jpg"
+  - url: "/2021/08/19/game-night-jotl-the-gauntlet/"
+    title: 'Game Night: JotL "The Gauntlet"'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-IMG_2293-001.jpg"
+  - url: "/2021/08/22/ff3-complete/"
+    title: "FF3 Complete!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210821223214_1.jpg"
+  - url: "/2021/08/17/ff3-making-myself-cod-worthy/"
+    title: "FF3 -- Making Myself CoD-Worthy"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/20210817213623_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-IMG_1828.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-IMG_1828.jpg"
 ---

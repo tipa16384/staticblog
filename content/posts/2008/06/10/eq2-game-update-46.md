@@ -3,11 +3,25 @@ date: '2008-06-10T11:56:00-05:00'
 draft: false
 title: "EQ2 - Game Update #46"
 author: "Tipa"
+disqusIdentifier: "2008/06/10/eq2-game-update-46"
 summary: "I spent hours last night running around Norrath on Test, killing stuff and doing quests, just so I could write about the Void Storms coming..."
 categories:
   - "EverQuest"
   - "MMORPG"
   - "My Work"
+relatedPosts:
+  - url: "/2008/03/23/bad-week-for-gaming-good-week-for-blogging/"
+    title: "Bad week for gaming, good week for blogging"
+    thumbnailImage: ""
+  - url: "/2008/01/22/eq2-et-al-random-bits/"
+    title: "EQ2 (et al): Random Bits"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/everquest2-2008-01-22-07-10-48-92.jpg"
+  - url: "/2008/04/22/nope-i-cant-do-it/"
+    title: "Nope. I can't do it."
+    thumbnailImage: ""
+  - url: "/2008/07/02/mmo-gene-sequencer-momentum-builds/"
+    title: "MMO Gene Sequencer momentum builds..."
+    thumbnailImage: ""
 coverImage: "http://www.massively.com/media/2008/06/regatheringheader.jpg"
 thumbnailImage: "http://www.massively.com/media/2008/06/regatheringheader.jpg"
 ---

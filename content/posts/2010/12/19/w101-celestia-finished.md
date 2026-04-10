@@ -3,12 +3,26 @@ date: '2010-12-19T14:55:47-05:00'
 draft: false
 title: "W101: Celestia finished!"
 author: "Tipa"
+disqusIdentifier: "2010/12/19/w101-celestia-finished"
 summary: "[..."
 categories:
   - "MMORPG"
   - "Wizard101"
 tags:
   - "Celestia"
+relatedPosts:
+  - url: "/2010/12/24/wizard101-the-last-gift-of-the-giving-tree/"
+    title: "Wizard101: The last gift of the Giving Tree"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/WizardGraphicalClient-2010-12-24-08-35-39-45-480x360.jpg"
+  - url: "/2010/12/15/wizard101-level-58-and-i-feel-fine/"
+    title: "Wizard101: Level 58, and I Feel Fine."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/WizardGraphicalClient-2010-12-15-00-52-54-31-480x383.jpg"
+  - url: "/2010/11/12/wizard101-halfway-through-celestia/"
+    title: "Wizard101: Halfway through Celestia!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/WizardGraphicalClient-2010-11-12-07-33-23-75.jpg"
+  - url: "/2010/10/28/wizard101-diving-into-celestia/"
+    title: "Wizard101: Diving into Celestia!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/WizardGraphicalClient-2010-10-27-23-36-10-56-480x360.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/WizardGraphicalClient-2010-12-19-14-19-18-93-480x384.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/WizardGraphicalClient-2010-12-19-14-19-18-93-480x384.jpg"
 ---

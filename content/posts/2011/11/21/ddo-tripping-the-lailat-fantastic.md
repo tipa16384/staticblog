@@ -3,12 +3,26 @@ date: '2011-11-21T07:08:34-05:00'
 draft: false
 title: "DDO: Tripping the Lailat Fantastic"
 author: "Tipa"
+disqusIdentifier: "2011/11/21/ddo-tripping-the-lailat-fantastic"
 summary: "We've been on the rocks the last couple of weeks, progressionally-speaking. Gianthold Tor has given us an extended learning curve as we learn how to..."
 categories:
   - "Dungeons & Dragons Online"
   - "MMORPG"
 tags:
   - "Team Spode"
+relatedPosts:
+  - url: "/2012/04/06/ddo-web-of-chaos/"
+    title: "DDO: Web of Chaos"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/04/dndclient-2012-04-01-23-54-24-56-480x384.jpg"
+  - url: "/2012/01/30/ddo-doomsphere-the-dull/"
+    title: "DDO: Doomsphere the Dull"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/dndclient-2012-01-29-22-54-24-25-480x319.jpg"
+  - url: "/2012/01/16/ddo-inferno-of-the-damned/"
+    title: "DDO: Inferno of the Damned"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/dndclient-2012-01-15-23-39-49-21-480x384.jpg"
+  - url: "/2012/01/11/ddo-buying-time/"
+    title: "DDO: Buying Time"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/dndclient-2012-01-10-23-25-52-06-480x383.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/11/dndclient-2011-11-20-23-41-06-72-480x383.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/11/dndclient-2011-11-20-23-41-06-72-480x383.jpg"
 ---

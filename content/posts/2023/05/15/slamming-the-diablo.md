@@ -3,6 +3,7 @@ date: '2023-05-15T08:47:56-05:00'
 draft: false
 title: "Slamming the Diablo."
 author: "Tipa"
+disqusIdentifier: "2023/05/15/slamming-the-diablo"
 summary: "The Diablo series evolved from dungeon crawler to dungeon brawler. Diablo IV brings it one step further..."
 categories:
   - "Diablo"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Blizzard"
   - "Team Spode"
+relatedPosts:
+  - url: "/2022/06/26/v-rising-hitting-the-hemoglobin/"
+    title: "V Rising: Hitting the Hemoglobin"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/06/20220626091446_1.jpg"
+  - url: "/2022/12/24/advent-of-code-day-24-blizzard-basin/"
+    title: "Advent of Code Day 24 -- Blizzard Basin"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-24-15.36.17-a-hundred-Christmas-elves-in-a-blizzard-by-Bob-Eggleton-detailed-and-intricate.png"
+  - url: "/2010/09/03/a-parents-guide-to-mmo-gaming/"
+    title: "A Parent's Guide to MMO Gaming"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/worgen_1280x1024-225x225.jpg"
+  - url: "/2008/06/28/blizzard-announces-diablo-iii/"
+    title: "Blizzard announces Diablo III!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/diablo3.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/d4.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/d4.jpg"
 ---

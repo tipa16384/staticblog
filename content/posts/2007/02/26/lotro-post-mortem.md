@@ -3,10 +3,24 @@ date: '2007-02-26T11:13:38-05:00'
 draft: false
 title: "LoTRO Post Mortem"
 author: "Tipa"
+disqusIdentifier: "2007/02/26/lotro-post-mortem"
 summary: "Lord of the Rings Online is a casual MMO very much in the mold of World of Warcraft. After the stress test ended, I hoped..."
 categories:
   - "Lord of the Rings"
   - "MMORPG"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2020/08/27/blaugust-27-be-the-content-you-want-to-see/"
+    title: "Blaugust #27: Be the Content You Want to See"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/ClipartKey_519651.png"
+  - url: "/2011/10/10/daily-blogroll-oct-10-columbus-day-edition/"
+    title: "Daily Blogroll Oct 10: Columbus Day edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/glitch.png"
+  - url: "/2011/08/24/lotro-kill-the-dwaggin/"
+    title: "LotRO: Kill the Dwaggin"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/08/lotroclient-2011-08-24-01-05-21-21-480x433.jpg"
 ---
 Lord of the Rings Online is a casual MMO very much in the mold of World of Warcraft. After the stress test ended, I hoped...
 <!--more-->

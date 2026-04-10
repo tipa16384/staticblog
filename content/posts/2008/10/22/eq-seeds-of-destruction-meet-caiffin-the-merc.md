@@ -3,6 +3,7 @@ date: '2008-10-22T00:53:11-05:00'
 draft: false
 title: "EQ: Seeds of Destruction: Meet Caiffin, the Merc."
 author: "Tipa"
+disqusIdentifier: "2008/10/22/eq-seeds-of-destruction-meet-caiffin-the-merc"
 summary: "So this screen shot entirely contains my philosophy of life. I'm in this really stormy place, and I'm fighting for my life, but some souless..."
 categories:
   - "EverQuest"
@@ -11,6 +12,19 @@ categories:
 tags:
   - "Hirelings"
   - "Seeds of Destruction"
+relatedPosts:
+  - url: "/2008/10/21/eq-seeds-of-destruction-goes-live/"
+    title: "EQ: Seeds of Destruction goes live!"
+    thumbnailImage: ""
+  - url: "/2008/10/25/eq-the-bastion-of-thunder/"
+    title: "EQ: The Bastion of Thunder"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-25-07-09-32-24.jpg"
+  - url: "/2008/10/04/eq-nostalgia-enters-the-everlovin-plane-of-time/"
+    title: "EQ: Nostalgia enters the everlovin' PLANE of TIME."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/pot.jpg"
+  - url: "/2008/10/08/eq-oceangreen-hills-and-oceangreen-village/"
+    title: "EQ: Oceangreen Hills and Oceangreen Village"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-07-23-48-01-47.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-21-22-24-23-12.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-21-22-24-23-12.jpg"
 ---

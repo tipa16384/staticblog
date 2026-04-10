@@ -3,11 +3,25 @@ date: '2013-02-20T00:11:52-05:00'
 draft: false
 title: "Ballpoint Universe"
 author: "Tipa"
+disqusIdentifier: "2013/02/20/ballpoint-universe"
 summary: "Back when this was called College-Ruled Universe, it was one of the first games I helped fund through Kickstarter. It was a pleasant little R-Type-style..."
 categories:
   - "Ballpoint Universe"
   - "College-Ruled Universe"
   - "Kickstarter"
+relatedPosts:
+  - url: "/2012/04/05/kickstarter-focus-college-ruled-universe/"
+    title: "Kickstarter focus: College-Ruled Universe"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/04/collegeruled-480x360.jpg"
+  - url: "/2025/12/23/widgets-workshop-build-robots-better/"
+    title: "Widget's Workshop: Build Robots Better."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/IMG_5579-scaled.jpg"
+  - url: "/2025/11/04/backed-the-vectrex-mini/"
+    title: "Backed the Vectrex Mini"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/vectrexdemo-scaled.webp"
+  - url: "/2025/09/04/still-more-confessions-of-a-kickstarter-superbacker/"
+    title: "Still More Confessions of a Kickstarter Superbacker"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/superbacker.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/ballpoint2-70-2013-02-19-23-15-03-00-480x271.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/ballpoint2-70-2013-02-19-23-15-03-00-480x271.jpg"
 ---

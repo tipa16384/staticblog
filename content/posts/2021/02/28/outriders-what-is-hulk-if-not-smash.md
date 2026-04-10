@@ -3,6 +3,7 @@ date: '2021-02-28T09:35:15-05:00'
 draft: false
 title: "Outriders: What is Hulk if not smash?"
 author: "Tipa"
+disqusIdentifier: "2021/02/28/outriders-what-is-hulk-if-not-smash"
 summary: "Square Enix's new co-op third person shooter RPG, \"Outriders\", doesn't have anything to do with the Marvel heroes. Just, the last demo I played of..."
 categories:
   - "MMORPG"
@@ -11,6 +12,19 @@ categories:
   - "Shooter"
 tags:
   - "RPG"
+relatedPosts:
+  - url: "/2024/03/23/unicorn-overlord-whose-overlord-is-it-anyway/"
+    title: "Unicorn Overlord -- Whose Overlord Is It, Anyway?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/Unicorn-Overlord_20240322181915.jpg"
+  - url: "/2022/11/07/gotham-knights-the-best-superhero-game-youre-not-playing/"
+    title: "Gotham Knights - The Best Superhero Game You're Not Playing"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/11/DALL·E-2022-11-07-22.23.47-digital-art-city-scape-at-night.png"
+  - url: "/2022/06/21/elden-ring-aftermath/"
+    title: "Elden Ring: Aftermath"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/06/1-ELDEN-RING™_20220620153851.jpg"
+  - url: "/2022/06/19/elden-ring-elden-lord/"
+    title: "Elden Ring: Elden Lord"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/06/ELDEN-RING™_20220619115831-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/02/OUTRIDERS-DEMO_20210227201851-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/02/OUTRIDERS-DEMO_20210227201851-scaled.jpg"
 ---

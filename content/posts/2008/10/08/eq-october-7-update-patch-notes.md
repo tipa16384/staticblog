@@ -3,6 +3,7 @@ date: '2008-10-08T12:00:28-05:00'
 draft: false
 title: "EQ: October 7 update patch notes"
 author: "Tipa"
+disqusIdentifier: "2008/10/08/eq-october-7-update-patch-notes"
 summary: "Reader and guildmate Egat pointed out that not only EverQuest 2 patched yesterday -- so did its daddy, EverQuest. Here's the patch notes, along with..."
 categories:
   - "EverQuest"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "EverQuest"
   - "Patch"
+relatedPosts:
+  - url: "/2008/11/01/eq-nostalgia-enters-vex-thal/"
+    title: "EQ: Nostalgia enters Vex Thal!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/eqgame-2008-11-01-12-03-19-13.jpg"
+  - url: "/2008/10/25/eq-the-bastion-of-thunder/"
+    title: "EQ: The Bastion of Thunder"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-25-07-09-32-24.jpg"
+  - url: "/2008/10/08/eq-oceangreen-hills-and-oceangreen-village/"
+    title: "EQ: Oceangreen Hills and Oceangreen Village"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-07-23-48-01-47.jpg"
+  - url: "/2007/10/12/the-deep-ones/"
+    title: "The Deep Ones"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/10/goblin.jpg"
 ---
 Reader and guildmate Egat pointed out that not only EverQuest 2 patched yesterday -- so did its daddy, EverQuest. Here's the patch notes, along with...
 <!--more-->

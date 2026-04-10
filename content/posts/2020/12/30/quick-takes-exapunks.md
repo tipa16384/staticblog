@@ -3,6 +3,7 @@ date: '2020-12-30T09:05:06-05:00'
 draft: false
 title: "Quick Takes: Exapunks"
 author: "Tipa"
+disqusIdentifier: "2020/12/30/quick-takes-exapunks"
 summary: "Basically Cyberpunk 2077, except you never leave your bedroom."
 categories:
   - "Quick Takes"
@@ -13,6 +14,19 @@ tags:
   - "Puzzle"
   - "Steam"
   - "Zachtronics"
+relatedPosts:
+  - url: "/2021/01/10/exapunks-finished-heres-my-solutions/"
+    title: "EXAPUNKS Finished! Here's my solutions..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/01/exaepilogue.jpg"
+  - url: "/2024/10/26/last-call-bbs-puzzle-games-for-the-retro-inclined/"
+    title: "Last Call BBS: Puzzle Games for the Retro-Inclined"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/2-20241026104137_1.jpg"
+  - url: "/2020/12/08/too-many-games-in-my-queue/"
+    title: "Too Many Games in my Queue"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/2020120808035600-67D01338887DAC4477826B5EA75BFB74.jpg"
+  - url: "/2021/11/02/quick-look-pawnbarian/"
+    title: "Quick Look: Pawnbarian"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/20211102204800_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/20201230072838_1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/20201230072838_1.jpg"
 ---

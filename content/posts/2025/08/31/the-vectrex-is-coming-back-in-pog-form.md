@@ -3,6 +3,7 @@ date: '2025-08-31T21:02:05-05:00'
 draft: false
 title: "The Vectrex is coming back... in pog form!"
 author: "Tipa"
+disqusIdentifier: "2025/08/31/the-vectrex-is-coming-back-in-pog-form"
 summary: "Well, in mini form! It's true! Your chance to play Vectrex games as if you were twice as large as you are now is coming soon."
 categories:
   - "Blaugust"
@@ -15,6 +16,19 @@ tags:
   - "Melody Master"
   - "Spike"
   - "Vectrex Mini"
+relatedPosts:
+  - url: "/2025/11/04/backed-the-vectrex-mini/"
+    title: "Backed the Vectrex Mini"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/vectrexdemo-scaled.webp"
+  - url: "/2025/08/05/international-play-your-vectrex-day-is-november-1/"
+    title: "International Play Your Vectrex Day is November 1!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/vectrexbanner.png"
+  - url: "/2024/08/25/retro-world-expo-2024-adventure-awaits/"
+    title: "Retro World Expo 2024: Adventure Awaits"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/tipachu_Adventurers_including_a_sorceress_battle_a_giant_kaij_c266c206-cff4-4688-bc8f-5a805d60df73_2.png"
+  - url: "/2025/09/01/august-blogging-from-2005-to-today/"
+    title: "August Blogging from 2005 to today"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/raspy-blogging.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/vectrexmini.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/vectrexmini.png"
 ---

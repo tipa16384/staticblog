@@ -3,6 +3,7 @@ date: '2008-11-07T12:04:19-05:00'
 draft: false
 title: "Thursday gaming: LBP, EQ2 and W101... again."
 author: "Tipa"
+disqusIdentifier: "2008/11/07/thursday-gaming-lbp-eq2-and-w101-again"
 summary: "Wizard 101, why can't I quit you?..."
 categories:
   - "EverQuest"
@@ -11,6 +12,19 @@ categories:
   - "Nostalgia the Guild"
   - "Other Games"
   - "Wizard101"
+relatedPosts:
+  - url: "/2008/11/10/wizard-friends-and-littlebigplanet-mazes/"
+    title: "Wizard Friends and LittleBigPlanet Mazes"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-10-00-53-52-28.jpg"
+  - url: "/2008/12/24/a-look-back-at-2008/"
+    title: "A look back at 2008"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-30-22-10-50-69.jpg"
+  - url: "/2008/11/03/playing-second-life/"
+    title: "Playing Second Life"
+    thumbnailImage: ""
+  - url: "/2009/05/13/daily-blogroll-513-going-rogue-edition/"
+    title: "Daily Blogroll 5/13 -- Going Rogue edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/angelatheangelic.jpg"
 ---
 Wizard 101, why can't I quit you?...
 <!--more-->

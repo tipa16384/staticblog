@@ -3,6 +3,7 @@ date: '2008-09-17T07:34:09-05:00'
 draft: false
 title: "Wizard 101 slices repeat instance XP"
 author: "Tipa"
+disqusIdentifier: "2008/09/17/wizard-101-slices-repeat-instance-xp"
 summary: "What with open grouping and a broad kid appeal, Wizard 101 is a pretty friendly game. Jumping in to an instance to help a friend..."
 categories:
   - "MMORPG"
@@ -12,6 +13,19 @@ tags:
   - "Patch Notes"
   - "Sunken City"
   - "Wizard101"
+relatedPosts:
+  - url: "/2008/10/29/wizard-101-crimson-fields-and-sunken-city-again/"
+    title: "Wizard 101: Crimson Fields and Sunken City (again)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-28-01-24-41-16.jpg"
+  - url: "/2008/11/01/wizard-101-october-30-update-and-the-cave-of-sorrows/"
+    title: "Wizard 101: October 30 update and the Cave of Sorrows"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-01-08-29-11-18.jpg"
+  - url: "/2008/09/21/w101-the-chamber-of-fire-the-royal-hall-and-sunken-city/"
+    title: "W101: The Chamber of Fire, the Royal Hall and Sunken City"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/wizardgraphicalclient-2008-09-21-17-39-05-38.jpg"
+  - url: "/2008/09/07/w101-the-sunken-city/"
+    title: "W101: The Sunken City"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/wizardgraphicalclient-2008-09-07-02-12-18-82.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/wizardgraphicalclient-2008-09-17-06-55-45-50.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/wizardgraphicalclient-2008-09-17-06-55-45-50.jpg"
 ---

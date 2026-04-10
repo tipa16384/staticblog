@@ -3,10 +3,24 @@ date: '2008-02-16T14:11:24-05:00'
 draft: false
 title: "AoC: Conan Speaks"
 author: "Tipa"
+disqusIdentifier: "2008/02/16/aoc-conan-speaks"
 summary: "He is more a creature of sun and plains than a man whose shadow would ever darken a marble palace floor, unless he carried also..."
 categories:
   - "Age of Conan"
   - "MMORPG"
+relatedPosts:
+  - url: "/2011/10/21/daily-blogroll-oct-21-tanks-for-the-memories-edition/"
+    title: "Daily Blogroll Oct 21: Tanks for the Memories edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/dndclient-2011-10-20-21-19-18-63-480x352.jpg"
+  - url: "/2011/01/01/daily-blogroll-1111-happy-new-year-edition/"
+    title: "Daily Blogroll 1/1/11 -- Happy New Year edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/rift-2010-12-31-16-51-43-97-480x384.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2010/04/30/assault-on-the-inbox-weekly-marketing-e-mails/"
+    title: "Assault on the Inbox: Weekly marketing e-mails"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/GameClient-2010-04-19-23-13-13-21.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/02/cityofheroes-2008-02-08-19-31-01-74.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/02/cityofheroes-2008-02-08-19-31-01-74.jpg"
 ---

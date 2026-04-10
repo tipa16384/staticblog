@@ -3,12 +3,26 @@ date: '2009-04-23T08:32:13-05:00'
 draft: false
 title: "Free Realms: SOE discovers Technicolor"
 author: "Tipa"
+disqusIdentifier: "2009/04/23/free-realms-soe-discovers-technicolor"
 summary: "Time to put on your shades, spin the name wheels and step into your time machine, because it's 2004 and SOE has just released World..."
 categories:
   - "Free Realms"
   - "MMORPG"
 tags:
   - "Beta"
+relatedPosts:
+  - url: "/2009/04/22/free-realms-nda-drops/"
+    title: "Free Realms NDA drops!"
+    thumbnailImage: ""
+  - url: "/2021/08/22/ship-of-heroes-superheroes-in-spaaaaaace/"
+    title: "Ship of Heroes: Superheroes IN SPAAAAAACE!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/shipoffools-1.jpg"
+  - url: "/2011/01/10/rift-beta-4-in-search-of-a-spec/"
+    title: "Rift Beta 4: In Search of... a Spec."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/rift-2011-01-09-16-45-28-62-480x384.jpg"
+  - url: "/2010/12/24/rift-3rd-beta-event-sealing-the-rift/"
+    title: 'Rift: 3rd beta event, "Sealing the Rift"'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/rift3-480x186.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/fullscreen-capture-4152009-105546-pm.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/fullscreen-capture-4152009-105546-pm.jpg"
 ---

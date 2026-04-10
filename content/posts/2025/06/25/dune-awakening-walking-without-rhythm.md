@@ -3,6 +3,7 @@ date: '2025-06-25T08:30:29-05:00'
 draft: false
 title: "Dune Awakening: Walking Without Rhythm"
 author: "Tipa"
+disqusIdentifier: "2025/06/25/dune-awakening-walking-without-rhythm"
 summary: "Also: walking without WATER. Also: Why isn't there a \"walk without rhythm\" button? Also: What if I just have, like, natural rhythm? What do I do then?"
 categories:
   - "Dune Awakening"
@@ -11,6 +12,19 @@ tags:
   - "Dune"
   - "Harkonnen"
   - "Team Spode"
+relatedPosts:
+  - url: "/2025/12/15/i-know-what-i-did-last-weekend-6/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/IMG_5573-scaled.jpg"
+  - url: "/2025/09/22/dune-awakening-apotheosis/"
+    title: "Dune Awakening: Apotheosis"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/1-20250920233213_1.jpg"
+  - url: "/2025/09/17/dune-awakening-life-in-the-deep-desert/"
+    title: "Dune Awakening: Life in the Deep Desert"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/1-20250915204452_1.jpg"
+  - url: "/2025/09/09/dune-awakening-order-of-the-wombat-steps-out/"
+    title: "Dune Awakening: Order of the Wombat Steps Out"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/1-20250908074317_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/walk.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/walk.png"
 ---

@@ -3,6 +3,7 @@ date: '2022-11-21T11:26:25-05:00'
 draft: false
 title: "Dive into the world of Tactics Ogre with this remake of a classic"
 author: "Tipa"
+disqusIdentifier: "2022/11/21/dive-into-the-world-of-tactics-ogre-with-this-remake-of-a-classic"
 summary: "The original Tactics Ogre returns, updated and improved for a new generation. Any fan of tactical strategy games like Fire Emblem or Final Fantasy Tactics should really take a look at the game that inspired them all."
 categories:
   - "PS5"
@@ -13,6 +14,19 @@ tags:
   - "Final Fantasy Tactics"
   - "Fire Emblem"
   - "Tactics Ogre"
+relatedPosts:
+  - url: "/2024/03/23/unicorn-overlord-whose-overlord-is-it-anyway/"
+    title: "Unicorn Overlord -- Whose Overlord Is It, Anyway?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/Unicorn-Overlord_20240322181915.jpg"
+  - url: "/2023/11/10/knight-of-lodis-entering-the-crypt/"
+    title: "Knight of Lodis: Entering the Crypt"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/20231110_002228.png"
+  - url: "/2022/11/28/advent-of-code-2022-and-other-exciting-news-you-should-totally-read/"
+    title: "Advent of Code 2022 and other exciting news you should totally read!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/11/aoc-robot.jpg"
+  - url: "/2020/12/11/my-rpgs-of-2020/"
+    title: "My RPGs of 2020"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/Chocobos-Mystery-Dungeon-EVERY-BUDDY_20200506204657.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/11/1-Tactics-Ogre_-Reborn_20221121083341-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/11/1-Tactics-Ogre_-Reborn_20221121083341-scaled.jpg"
 ---

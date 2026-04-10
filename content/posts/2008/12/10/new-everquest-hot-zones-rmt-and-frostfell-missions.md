@@ -3,6 +3,7 @@ date: '2008-12-10T09:44:11-05:00'
 draft: false
 title: "New EverQuest hot zones. RMT, and Frostfell missions"
 author: "Tipa"
+disqusIdentifier: "2008/12/10/new-everquest-hot-zones-rmt-and-frostfell-missions"
 summary: "Much thanks to Danshir for reminding me last night that EverQuest has changed its list of hot zones, places that give extra adventure and AA..."
 categories:
   - "EverQuest"
@@ -12,6 +13,19 @@ tags:
   - "Frostfell"
   - "Hot Zones"
   - "RMT"
+relatedPosts:
+  - url: "/2008/08/23/eq-hot-zone-hoedown/"
+    title: "EQ: Hot zone hoedown"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/eqgame-2008-08-22-22-02-52-46.jpg"
+  - url: "/2008/12/16/eq2-when-giant-dogs-attack/"
+    title: "EQ2: When giant dogs attack!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/everquest2-2008-12-16-00-45-28-721.jpg"
+  - url: "/2008/12/15/eq2-the-icy-keep-of-lag/"
+    title: "EQ2: The Icy Keep ... of LAG."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/everquest2-2008-12-14-16-56-40-60.jpg"
+  - url: "/2008/12/15/eq-cide-edition-raticide-spearicide-gianticide/"
+    title: "EQ 'Cide edition: Raticide, Spearicide, Gianticide."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/eqgame-2008-12-12-20-34-02-6.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/eqgame-2008-12-10-08-05-08-12.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/eqgame-2008-12-10-08-05-08-12.jpg"
 ---

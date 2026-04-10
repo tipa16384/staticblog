@@ -3,6 +3,7 @@ date: '2023-11-29T07:00:00-05:00'
 draft: false
 title: "HeroQuest: Lair of the Orc Warlord"
 author: "Tipa"
+disqusIdentifier: "2023/11/29/heroquest-lair-of-the-orc-warlord"
 summary: "Being the third foray into the dungeon. Sir Ragnar seeks revenge and only our blades and his gold can supply it."
 categories:
   - "Game Night"
@@ -12,6 +13,19 @@ categories:
 tags:
   - "ChatGPT"
   - "Dall-E 2"
+relatedPosts:
+  - url: "/2024/06/12/heroquest-return-to-barak-tor/"
+    title: "HeroQuest: Return to Barak-Tor"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/06/return-14.png"
+  - url: "/2024/02/07/heroquest-a-race-against-time/"
+    title: "HeroQuest: A Race Against Time"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/02/DALL·E-2024-02-07-07.42.15-In-the-style-of-a-dynamic-and-colorful-comic-book-illustrate-a-scene-where-a-male-elf-rogue-with-androgynous-features-long-blonde-hair-and-pointed.webp"
+  - url: "/2025/08/15/base44-games-from-a-prompt/"
+    title: "Base44: Games from a Prompt"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/pendeenpoint.png"
+  - url: "/2024/05/17/midjourney-goes-web/"
+    title: "Midjourney goes Web"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/tipachu_cat_wearing_a_college_t-shirt_working_at_a_1970s-styl_dfd676f1-e727-4efc-89cf-0bcbc8ad125d_0.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/b34850e8-93d7-41d7-afdc-eec711923a98.webp"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/b34850e8-93d7-41d7-afdc-eec711923a98.webp"
 ---

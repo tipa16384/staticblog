@@ -3,6 +3,7 @@ date: '2021-10-11T21:08:02-05:00'
 draft: false
 title: "DCUO: The Legion of Doom invades Washington D.C."
 author: "Tipa"
+disqusIdentifier: "2021/10/11/dcuo-the-legion-of-doom-invades-washington-d-c"
 summary: "And they call DCUO an apolitical, fictional game. Also, Dimensional Ink to rebalance clamped stats to make super heroes (and super villains) super again...."
 categories:
   - "DC Universe Online"
@@ -11,6 +12,19 @@ tags:
   - "DC Universe Online"
   - "Episode 42"
   - "Legion of Doom"
+relatedPosts:
+  - url: "/2021/08/26/dcuo-house-of-legends-is-live/"
+    title: "DCUO: House of Legends is LIVE!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/avatarofmeta.jpg"
+  - url: "/2021/08/21/champions-online-vs-dcuo/"
+    title: "Champions Online vs DCUO"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/riddlers.jpg"
+  - url: "/2021/07/22/new-world-fomo-or-fotm/"
+    title: "New World: FOMO or FOTM?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/GameClient-2014-12-06-11-09-05-59.jpg"
+  - url: "/2021/07/27/dcuo-new-player-experience/"
+    title: "DCUO: New Player Experience"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/1-20210725214657_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/dcuodc.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/dcuodc.png"
 ---

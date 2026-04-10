@@ -3,6 +3,7 @@ date: '2009-04-18T06:17:29-05:00'
 draft: false
 title: "Web Log 4/18"
 author: "Tipa"
+disqusIdentifier: "2009/04/18/web-log-418"
 summary: "Interested in playing a little game called Free Realms? They're letting ANYONE in. They let ME in, right? If you haven't gotten a key, and..."
 categories:
   - "Daily Blogroll"
@@ -16,6 +17,19 @@ tags:
   - "Elves"
   - "Shadowbane"
   - "Xkcd"
+relatedPosts:
+  - url: "/2009/04/24/web-log-424-friday-is-free-day-edition/"
+    title: "Web Log 4/24 -- Friday is Free Day edition"
+    thumbnailImage: "http://www.penny-arcade.com/images/2009/20090424.jpg"
+  - url: "/2021/08/07/mmos-on-the-bubble/"
+    title: "MMOs on the Bubble"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/STP61286.jpg"
+  - url: "/2009/05/19/daily-blogroll-519-black-lung-edition/"
+    title: "Daily Blogroll 5/19 -- Black Lung edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/exefile-2009-05-18-23-31-07-25.jpg"
+  - url: "/2009/10/14/daily-blogroll-1014-puns-r-us-edition/"
+    title: "Daily Blogroll 10/14 - Puns R Us edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/eebark.png"
 ---
 Interested in playing a little game called Free Realms? They're letting ANYONE in. They let ME in, right? If you haven't gotten a key, and...
 <!--more-->

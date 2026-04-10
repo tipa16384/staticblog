@@ -3,11 +3,25 @@ date: '2009-04-13T18:10:49-05:00'
 draft: false
 title: "Shards of Dalaya blog: Dalayan Diary"
 author: "Tipa"
+disqusIdentifier: "2009/04/13/shards-of-dalaya-blog-dalayan-diary"
 summary: "I'd heard wonderful things about Shards of Dalaya, a game built on EverQuest's assets (and using the EverQuest client) but with a different plot, zone..."
 categories:
   - "EverQuest"
   - "MMORPG"
   - "Shards of Dalaya"
+relatedPosts:
+  - url: "/2009/07/15/daily-blogroll-715-same-quests-different-day-edition/"
+    title: "Daily Blogroll 7/15 -- Same quests, different day edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/aim3d.jpg"
+  - url: "/2009/06/01/daily-blogroll-61-almost-summer-edition/"
+    title: "Daily Blogroll 6/1 -- Almost Summer edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/dungeonparty.jpg"
+  - url: "/2009/04/19/web-log-419/"
+    title: "Web log 4/19"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/marleybonepokemon.jpg"
+  - url: "/2009/04/16/web-logging/"
+    title: "Web Logging!"
+    thumbnailImage: ""
 ---
 I'd heard wonderful things about Shards of Dalaya, a game built on EverQuest's assets (and using the EverQuest client) but with a different plot, zone...
 <!--more-->

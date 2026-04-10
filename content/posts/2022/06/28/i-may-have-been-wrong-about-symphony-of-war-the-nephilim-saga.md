@@ -3,6 +3,7 @@ date: '2022-06-28T08:36:57-05:00'
 draft: false
 title: "I may have been wrong about Symphony of War: The Nephilim Saga"
 author: "Tipa"
+disqusIdentifier: "2022/06/28/i-may-have-been-wrong-about-symphony-of-war-the-nephilim-saga"
 summary: "I wrote that this game was competently developed, but the plot was entirely vanilla. Then I played through more of the game. There are some..."
 categories:
   - "Steam Games"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Symphony of War"
   - "Tactics"
+relatedPosts:
+  - url: "/2022/07/02/symphony-of-war-done/"
+    title: "Symphony of War -- Done!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/20220702161823_1.jpg"
+  - url: "/2022/06/23/symphony-of-war-the-nephilim-saga/"
+    title: "Symphony of War: The Nephilim Saga"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/06/20220622113658_1.jpg"
+  - url: "/2022/07/24/ogre-battle-64-i-am-a-person-of-lordly-caliber/"
+    title: "Ogre Battle 64: I am a Person of Lordly Caliber"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/danika.png"
+  - url: "/2022/07/25/those-who-rule-chapter-1/"
+    title: "Those Who Rule: Chapter 1"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/20220725222601_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/06/1-20220627230027_1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/06/1-20220627230027_1.jpg"
 ---

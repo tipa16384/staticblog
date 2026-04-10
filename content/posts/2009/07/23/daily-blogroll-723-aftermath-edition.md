@@ -3,6 +3,7 @@ date: '2009-07-23T07:26:16-05:00'
 draft: false
 title: "Daily Blogroll 7/23 -- Aftermath edition"
 author: "Tipa"
+disqusIdentifier: "2009/07/23/daily-blogroll-723-aftermath-edition"
 summary: "Okay, THAT was a day of good discussion, so thanks, Wolfshead :) Why did I feel your \"first impressions\" article needed rebutting? Well, SOMEONE had..."
 categories:
   - "Aion"
@@ -14,6 +15,19 @@ categories:
   - "Vanguard"
   - "Wizard101"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2009/08/10/daily-blogroll-810-thank-god-its-monday-edition/"
+    title: "Daily Blogroll 8/10 -- Thank God it's Monday edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/daddygirl.jpg"
+  - url: "/2009/06/30/daily-blogroll-630-christmas-edition/"
+    title: "Daily Blogroll 6/30 - Christmas edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/TS3-2009-06-30-08-10-20-98.jpg"
+  - url: "/2008/12/24/a-look-back-at-2008/"
+    title: "A look back at 2008"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-30-22-10-50-69.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/sb_client-2009-07-23-07-34-50-3.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/sb_client-2009-07-23-07-34-50-3.jpg"
 ---

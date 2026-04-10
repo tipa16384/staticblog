@@ -3,6 +3,7 @@ date: '2024-04-01T07:46:41-05:00'
 draft: false
 title: "Dragon's Dogma 2: Battahl Bound"
 author: "Tipa"
+disqusIdentifier: "2024/04/01/dragons-dogma-2-battahl-bound"
 summary: "Nobody ever sleeps in Battahl."
 categories:
   - "Dragon's Dogma"
@@ -13,6 +14,19 @@ categories:
 tags:
   - "Battahl"
   - "Bestral"
+relatedPosts:
+  - url: "/2024/12/30/best-of-2024-single-player-rpgs/"
+    title: "Best of 2024: Single-Player RPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/bestrpgbanner.png"
+  - url: "/2024/03/25/dragons-dogma-ii-now-playing/"
+    title: "Dragon's Dogma II: Now Playing"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/dd2banner.png"
+  - url: "/2024/12/01/star-wars-outlaws-just-you-and-your-cat-against-the-galaxy/"
+    title: 'Star Wars: Outlaws. Just you and your "cat" against the galaxy.'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/outlawsbanner.png"
+  - url: "/2022/11/07/gotham-knights-the-best-superhero-game-youre-not-playing/"
+    title: "Gotham Knights - The Best Superhero Game You're Not Playing"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/11/DALL·E-2022-11-07-22.23.47-digital-art-city-scape-at-night.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/Dragons-Dogma-2_20240401072306-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/Dragons-Dogma-2_20240401072306-scaled.jpg"
 ---

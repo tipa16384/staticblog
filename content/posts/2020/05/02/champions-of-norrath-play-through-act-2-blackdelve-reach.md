@@ -3,6 +3,7 @@ date: '2020-05-02T15:59:42-05:00'
 draft: false
 title: "Champions of Norrath play through: Act 2, Blackdelve Reach"
 author: "Tipa"
+disqusIdentifier: "2020/05/02/champions-of-norrath-play-through-act-2-blackdelve-reach"
 summary: "We left off with King Leithkorias of Kelethin ordering us to follow the Black Scroll (a map that could not be understood by even the..."
 categories:
   - "Emulators"
@@ -11,6 +12,19 @@ tags:
   - "Champions of Norrath"
   - "Playthrough"
   - "PS2"
+relatedPosts:
+  - url: "/2020/05/05/champions-of-norrath-playthrough-act-4-5-the-plane-of-hate/"
+    title: "Champions of Norrath playthrough Act 4 & 5: The Plane of Hate"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/1-pcsx2-2020-05-02-22-45-12-17-1024x574.jpg"
+  - url: "/2020/05/03/champions-of-norrath-playthrough-act-3-pit-of-ill-omen/"
+    title: "Champions of Norrath playthrough, Act 3: Pit of Ill Omen"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/pcsx2-2020-05-02-19-09-25-62-1024x769.jpg"
+  - url: "/2020/05/01/champions-of-norrath-playthrough-chapter-1-kelethin/"
+    title: "Champions of Norrath playthrough: Act 1, Kelethin"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/pcsx2-2020-04-30-07-01-16-71-1024x769.jpg"
+  - url: "/2024/09/28/champions-return-to-arms-finished/"
+    title: "Champions: Return to Arms finished!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/cazicthule.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/1-pcsx2-2020-05-01-23-30-28-91-1024x570.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/1-pcsx2-2020-05-01-23-30-28-91-1024x570.jpg"
 ---

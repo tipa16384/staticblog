@@ -3,6 +3,7 @@ date: '2024-10-01T23:49:27-05:00'
 draft: false
 title: "Those Who Rule: new demo!"
 author: "Tipa"
+disqusIdentifier: "2024/10/01/those-who-rule-new-demo"
 summary: "Those crazy kids and their ruling! Story driven tactical RPG that punches well above its weight, you wouldn't know this was the work of a single developer."
 categories:
   - "Steam Games"
@@ -13,6 +14,19 @@ tags:
   - "Banner of the Maid"
   - "Girls Screaming in Chinese"
   - "Those Who Rule"
+relatedPosts:
+  - url: "/2022/07/25/those-who-rule-chapter-1/"
+    title: "Those Who Rule: Chapter 1"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/20220725222601_1.jpg"
+  - url: "/2020/09/21/banner-of-the-maid-final-thoughts/"
+    title: "Banner of the Maid: Final Thoughts"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/2020092017453800-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
+  - url: "/2020/08/19/banner-of-the-maid-doesnt-want-me-to-sleep/"
+    title: "Banner of the Maid doesn't want me to sleep."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/banner-of-the-maid-switch-hero.jpg"
+  - url: "/2020/12/11/my-rpgs-of-2020/"
+    title: "My RPGs of 2020"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/Chocobos-Mystery-Dungeon-EVERY-BUDDY_20200506204657.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/thosewhorulebanner.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/thosewhorulebanner.png"
 ---

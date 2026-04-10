@@ -3,12 +3,26 @@ date: '2009-05-22T06:44:26-05:00'
 draft: false
 title: "Atlus' NeoSteam: First Impressions"
 author: "Tipa"
+disqusIdentifier: "2009/05/22/atlus-neosteam-first-impressions"
 summary: "See, this is exactly why you can't do \"first impressions\" on an MMO. What does my couple hours of time in Atlus' newly relaunched MMO..."
 categories:
   - "MMORPG"
   - "Neo Steam"
 tags:
   - "First Impressions"
+relatedPosts:
+  - url: "/2009/06/16/a-first-look-at-aion-the-tower-of-eternity/"
+    title: "A first look at Aion: The Tower of Eternity"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/aionwings.jpg"
+  - url: "/2010/12/02/daily-blogroll-122-rift-tease-edition/"
+    title: "Daily Blogroll 12/2 -- Rift-tease Edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/ca23-full.jpg"
+  - url: "/2010/05/08/assault-on-the-inbox-may-7-2010/"
+    title: "Assault on the Inbox: May 7, 2010"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/stochair.jpg"
+  - url: "/2009/06/08/nightly-blogroll-though-amaryllis-dance-edition/"
+    title: "Nightly Blogroll -- Though Amaryllis dance edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/neosteambanner.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/neosteam-2009-05-22-07-08-27-43.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/neosteam-2009-05-22-07-08-27-43.jpg"
 ---

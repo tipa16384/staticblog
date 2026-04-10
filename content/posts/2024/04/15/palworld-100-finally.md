@@ -3,6 +3,7 @@ date: '2024-04-15T08:00:33-05:00'
 draft: false
 title: "Palworld @ 100%. Finally."
 author: "Tipa"
+disqusIdentifier: "2024/04/15/palworld-100-finally"
 summary: "Palworld, Palworld... I wish I knew how to quit you. Also: PvP?"
 categories:
   - "Open World RPG"
@@ -12,6 +13,19 @@ tags:
   - "Bellanoir Libero"
   - "PvP"
   - "Raiding"
+relatedPosts:
+  - url: "/2024/04/05/palworlds-first-raid-is-a-killer/"
+    title: "Palworld's First Raid is a Killer"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/bellenoir.png"
+  - url: "/2024/08/04/ultimate-victory-dominating-palworlds-challenging-endgame-raids/"
+    title: "Ultimate Victory: Dominating Palworld’s Challenging Endgame Raids"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/bellanoirultra.png"
+  - url: "/2024/08/16/could-this-be-the-end-of-palworld/"
+    title: "Could this be the end of Palworld?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/palworld-cheevs.png"
+  - url: "/2025/08/30/dune-awakening-we-finally-got-ganked/"
+    title: "Dune Awakening: We finally got ganked"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/20250830103401_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/BellanoirLibero.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/BellanoirLibero.jpg"
 ---

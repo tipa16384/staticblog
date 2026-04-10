@@ -3,6 +3,7 @@ date: '2024-08-19T08:36:30-05:00'
 draft: false
 title: "Weekend Gaming: Ship of Heroes, Persona 5 Tactica, Giants Citizen Kabuto"
 author: "Tipa"
+disqusIdentifier: "2024/08/19/weekend-gaming-ship-of-heroes-persona-5-tactica-giants-citizen-kabuto"
 summary: "And also that entire day playing Malifaux..."
 categories:
   - "Blaugust"
@@ -15,6 +16,19 @@ tags:
   - "Giants Citizen Kabuto"
   - "PCSX2"
   - "Persona"
+relatedPosts:
+  - url: "/2024/08/15/champions-return-to-arms/"
+    title: "Champions: Return to Arms"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/firiona.png"
+  - url: "/2021/11/22/gladius-day-6-ursula-decided-to-return-to-her-home-planet/"
+    title: "Gladius, day 6: Ursula decided to return to her home planet"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/gsdx_20211122204522.jpg"
+  - url: "/2021/11/14/gladius-day-3-hail-imperia/"
+    title: "Gladius, Day 3: Hail, Imperia"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/gsdx_20211113225044.jpg"
+  - url: "/2021/11/08/gladius-day-2/"
+    title: "Gladius, day 2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/gsdx_20211106224139.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/1-20240819074418_1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/1-20240819074418_1.jpg"
 ---

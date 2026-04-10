@@ -3,6 +3,7 @@ date: '2022-07-29T08:06:45-05:00'
 draft: false
 title: "Breaking the 4th Wall: A Mysterious Point-and-Click Adventure"
 author: "Tipa"
+disqusIdentifier: "2022/07/29/breaking-the-4th-wall-a-mysterious-point-and-click-adventure"
 summary: "I ran across this gem by accident, actually -- an AI told me about it...."
 categories:
   - "Adventure"
@@ -24,6 +25,19 @@ tags:
   - "Point and Click"
   - "Scott Pilgrim"
   - "Video Cameras"
+relatedPosts:
+  - url: "/2024/04/19/beyond-shadowgate-the-demo/"
+    title: "Beyond Shadowgate -- the Demo"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/thumb0-640x360-1.jpg"
+  - url: "/2022/08/06/the-six-cats-of-madame-miracle/"
+    title: "The Six Cats of Madame Miracle"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/sixcats.png"
+  - url: "/2022/08/18/brown-dust-did-you-mean-brave-nine/"
+    title: "Brown Dust? Did you mean Brave Nine?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/Screenshot_2022.08.18_08.42.35.827.png"
+  - url: "/2021/01/03/quick-takes-the-innsmouth-case/"
+    title: "Quick Takes: The Innsmouth Case"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/01/the-innsmouth-case-switch-hero-1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/Screenshot_2022.07.29_07.15.30.416.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/Screenshot_2022.07.29_07.15.30.416.png"
 ---

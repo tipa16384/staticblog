@@ -3,6 +3,7 @@ date: '2008-08-24T23:42:03-05:00'
 draft: false
 title: "Guild Wars -- Day 3"
 author: "Tipa"
+disqusIdentifier: "2008/08/24/guild-wars-day-3"
 summary: "Okay, this is skipping ahead a bit, but I'm so mad. I basically manage to single-handedly hold the Sunspears together after Spearmarshall Kosmir became demon-chow...."
 categories:
   - "Guild Wars"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Day 3"
   - "Nightfall"
+relatedPosts:
+  - url: "/2008/08/04/guild-wars-nightfall-day-1/"
+    title: "Guild Wars: Nightfall, Day 1"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/gw-2008-08-03-23-28-32-61.jpg"
+  - url: "/2025/12/15/i-know-what-i-did-last-weekend-6/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/IMG_5573-scaled.jpg"
+  - url: "/2025/06/02/gw2-shes-found-the-altar-to-balthazar/"
+    title: "GW2: She's Found the Altar to Balthazar"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/1-gw033.jpg"
+  - url: "/2025/05/30/amounting-to-something-in-guild-wars-2/"
+    title: "Amounting to something in Guild Wars 2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/1-gw031.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/gw-2008-08-24-21-15-40-74.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/gw-2008-08-24-21-15-40-74.jpg"
 ---

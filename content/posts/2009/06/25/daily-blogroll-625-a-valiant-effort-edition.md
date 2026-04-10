@@ -3,6 +3,7 @@ date: '2009-06-25T07:59:41-05:00'
 draft: false
 title: "Daily Blogroll 6/25 -- A Valiant Effort edition"
 author: "Tipa"
+disqusIdentifier: "2009/06/25/daily-blogroll-625-a-valiant-effort-edition"
 summary: "Hey, didja hear the news? Mark Jacobs is leaving Mythic and Mythic is being merged into Bioware! Jacobs was the public face of Mythic for..."
 categories:
   - "Age of Conan"
@@ -14,6 +15,19 @@ categories:
   - "MMORPG"
   - "Warhammer: Age of Reckoning"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2009/05/19/daily-blogroll-519-black-lung-edition/"
+    title: "Daily Blogroll 5/19 -- Black Lung edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/exefile-2009-05-18-23-31-07-25.jpg"
+  - url: "/2009/04/24/web-log-424-friday-is-free-day-edition/"
+    title: "Web Log 4/24 -- Friday is Free Day edition"
+    thumbnailImage: "http://www.penny-arcade.com/images/2009/20090424.jpg"
+  - url: "/2009/06/24/daily-blogroll-624-i-love-allergies-edition/"
+    title: "Daily Blogroll 6/24 -- I Love Allergies edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/aion-2009-06-21-16-27-52-78.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/valianteffort.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/valianteffort.jpg"
 ---

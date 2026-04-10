@@ -3,10 +3,24 @@ date: '2011-09-20T06:41:40-05:00'
 draft: false
 title: "DDO: Holding for Giants"
 author: "Tipa"
+disqusIdentifier: "2011/09/20/ddo-holding-for-giants"
 summary: "Giants, they are big. They are big and very powerful. They swing I-beams like 10' rods. They could and do crush the life from insects..."
 categories:
   - "Dungeons & Dragons Online"
   - "MMORPG"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2013/02/10/neverwinter-its-forgotten-realms-but-is-it-dd/"
+    title: "Neverwinter: It's Forgotten Realms, but is it D&D?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/GameClient-2013-02-10-08-38-10-48-480x342.jpg"
+  - url: "/2012/04/06/ddo-web-of-chaos/"
+    title: "DDO: Web of Chaos"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/04/dndclient-2012-04-01-23-54-24-56-480x384.jpg"
+  - url: "/2012/01/30/ddo-doomsphere-the-dull/"
+    title: "DDO: Doomsphere the Dull"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/dndclient-2012-01-29-22-54-24-25-480x319.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/09/dndclient-2011-09-18-22-36-28-03-480x384.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/09/dndclient-2011-09-18-22-36-28-03-480x384.jpg"
 ---

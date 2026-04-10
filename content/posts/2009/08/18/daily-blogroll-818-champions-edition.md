@@ -3,10 +3,24 @@ date: '2009-08-18T07:09:59-05:00'
 draft: false
 title: "Daily Blogroll 8/18: Champions Edition"
 author: "Tipa"
+disqusIdentifier: "2009/08/18/daily-blogroll-818-champions-edition"
 summary: "This week marks the start of the Champions Online open beta, the end of Aion's closed beta, the beginning of the Fallen Earth open beta,..."
 categories:
   - "Champions Online"
   - "MMORPG"
+relatedPosts:
+  - url: "/2021/09/26/ship-of-heroes-mission-beta-feedback/"
+    title: "Ship of Heroes: Mission Beta Feedback"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/shipoffools-redsigilbase.jpg"
+  - url: "/2011/01/12/daily-blogroll-112-snow-job-edition/"
+    title: "Daily Blogroll 1/12 -- Snow Job edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/11111png.png"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2010/12/07/daily-blogroll-127-expansion-edition/"
+    title: "Daily Blogroll 12/7 -- Expansion edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/holmes.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/progress.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/progress.jpg"
 ---

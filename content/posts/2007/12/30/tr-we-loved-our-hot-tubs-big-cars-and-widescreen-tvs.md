@@ -3,10 +3,24 @@ date: '2007-12-30T12:30:03-05:00'
 draft: false
 title: "TR: We loved our hot tubs, big cars and widescreen TVs..."
 author: "Tipa"
+disqusIdentifier: "2007/12/30/tr-we-loved-our-hot-tubs-big-cars-and-widescreen-tvs"
 summary: "... and then the Bane came and those of us who escaped could only take what we could carry. And most of that was left..."
 categories:
   - "MMORPG"
   - "Tabula Rasa"
+relatedPosts:
+  - url: "/2011/01/27/daily-blogroll-127-inevitable-backlash-edition/"
+    title: "Daily Blogroll 1/27 -- Inevitable Backlash edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/riftblade.png"
+  - url: "/2011/01/01/daily-blogroll-1111-happy-new-year-edition/"
+    title: "Daily Blogroll 1/1/11 -- Happy New Year edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/rift-2010-12-31-16-51-43-97-480x384.jpg"
+  - url: "/2009/06/24/daily-blogroll-624-i-love-allergies-edition/"
+    title: "Daily Blogroll 6/24 -- I Love Allergies edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/aion-2009-06-21-16-27-52-78.jpg"
+  - url: "/2009/05/15/daily-blogroll-515-endelig-fredag-edition/"
+    title: "Daily Blogroll 5/15 -- Endelig Fredag edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/clangreenscaledragon.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/tabula_rasa-2007-12-30-09-17-08-46.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/tabula_rasa-2007-12-30-09-17-08-46.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2009-09-09T08:08:38-05:00'
 draft: false
 title: "Daily Blogroll 9/9/09 - Galaxy Express edition"
 author: "Tipa"
+disqusIdentifier: "2009/09/09/daily-blogroll-9909-galaxy-express-edition"
 summary: "That's like Galaxy Express 999, NOT the Futurama ship. That's Planet Express...."
 categories:
   - "Aion"
@@ -14,6 +15,19 @@ categories:
   - "Hello Kitty Online"
   - "MMORPG"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2009/09/01/daily-blogroll-91-hell-o-kiddie-edition/"
+    title: "Daily Blogroll 9/1 - Hell, O Kiddie edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/hko-2009-09-01-07-24-48-98.jpg"
+  - url: "/2009/09/17/daily-blogroll-917-kanye-edition/"
+    title: "Daily Blogroll 9/17 - Kanye edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/kanye.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/06/15/daily-blogroll-615-just-this-once-edition/"
+    title: "Daily Blogroll 6/15 -- Just This Once edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/WizardGraphicalClient-2009-06-15-07-54-00-91.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/hko-2009-09-08-21-52-33-20.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/hko-2009-09-08-21-52-33-20.jpg"
 ---

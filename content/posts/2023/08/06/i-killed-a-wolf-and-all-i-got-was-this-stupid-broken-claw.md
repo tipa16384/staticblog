@@ -3,12 +3,26 @@ date: '2023-08-06T07:00:00-05:00'
 draft: false
 title: "I killed a wolf and all I got was this stupid broken claw"
 author: "Tipa"
+disqusIdentifier: "2023/08/06/i-killed-a-wolf-and-all-i-got-was-this-stupid-broken-claw"
 summary: "Why do you have to kill a hundred deer to get one antler? There's got to be a better way."
 categories:
   - "Blaugust"
   - "Blaugust 2023"
   - "EverQuest"
   - "Palia"
+relatedPosts:
+  - url: "/2023/08/04/palia-first-impressions-a-promising-start-to-a-social-mmo-adventure/"
+    title: "Palia First Impressions: A Promising Start to a Social MMO Adventure"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/PALIA_Key_Art_Logo_1920x1080.jpg"
+  - url: "/2023/08/31/the-final-days-of-blaugust/"
+    title: "The final days of Blaugust"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/solongblaugust.png"
+  - url: "/2023/08/16/a-tribute-to-creators/"
+    title: "From Hydaelyn to Veeshan: A Tribute to Creators"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/hydaelyn.webp"
+  - url: "/2023/07/31/omg-its-that-time-again-already/"
+    title: "OMG it's that time again already!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/07/blaugust2023-logo-full.webp"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/DALL·E-2023-08-05-22.30.24-a-picture-of-a-wolf-sleeping-with-a-family-of-rabbits.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/DALL·E-2023-08-05-22.30.24-a-picture-of-a-wolf-sleeping-with-a-family-of-rabbits.png"
 ---

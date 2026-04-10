@@ -3,6 +3,7 @@ date: '2008-08-05T17:08:55-05:00'
 draft: false
 title: "HeroEngine licensed again, but where is Hero's Journey?"
 author: "Tipa"
+disqusIdentifier: "2008/08/05/heroengine-licensed-again-but-where-is-heros-journey"
 summary: "The number one, market leader middleware for MMO development? Unreal Engine? No, sorry, though I would have thought that. MMOs like DC Universe Online, Stargate..."
 categories:
   - "MMORPG"
@@ -11,6 +12,19 @@ tags:
   - "Heroengine"
   - "Hsc Labs"
   - "Simultronics"
+relatedPosts:
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2026/03/11/dune-awakening-finished-chapter-3/"
+    title: "Dune Awakening: Finished Chapter 3"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-11-073510.png"
+  - url: "/2026/02/04/erenshor-rising-shadows-launched/"
+    title: 'Erenshor "Rising Shadows" launched!'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/20260204080313_1.jpg"
+  - url: "/2026/01/24/dominus-automa-an-idle-mmo-for-busy-dads/"
+    title: "Dominus Automa: An Idle MMO for Busy Dads"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/dominusautoma.png"
 ---
 The number one, market leader middleware for MMO development? Unreal Engine? No, sorry, though I would have thought that. MMOs like DC Universe Online, Stargate...
 <!--more-->

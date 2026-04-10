@@ -3,6 +3,7 @@ date: '2008-08-25T01:54:55-05:00'
 draft: false
 title: "Weekend Gaming"
 author: "Tipa"
+disqusIdentifier: "2008/08/25/weekend-gaming-2"
 summary: "I didn't just play Guild Wars this weekend. I stopped into Wizard 101 a little, and, oh, finally got around to moving Dina from Befallen..."
 categories:
   - "EverQuest"
@@ -14,6 +15,19 @@ tags:
   - "Last.fm"
   - "Linkedin"
   - "Xfire"
+relatedPosts:
+  - url: "/2009/03/26/xfire-wordpress-plugin-first-release/"
+    title: "XFire Wordpress Plugin -- first release"
+    thumbnailImage: ""
+  - url: "/2020/08/02/blaugust-2-everything-you-like-is-bad-and-you-should-feel-bad/"
+    title: "Blaugust #2: Everything You Like is Bad (and you should feel bad)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/you-like-bad-stuff-and-you-should-feel-bad.jpg"
+  - url: "/2020/04/28/favorite-game-series-3-dragon-age/"
+    title: "Favorite Game Series #3: Dragon Age"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/04/DragonAgeInquisition-2014-11-23-19-25-40-81-1024x819.jpg"
+  - url: "/2010/10/12/social-game-review-lucky-train/"
+    title: "Social Game Review: Lucky Train"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/Fullscreen-capture-10102010-21334-PM-480x384.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/everquest2-2008-08-24-23-45-52-15.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/everquest2-2008-08-24-23-45-52-15.jpg"
 ---

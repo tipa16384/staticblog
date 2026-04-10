@@ -3,11 +3,25 @@ date: '2025-02-24T07:59:36-05:00'
 draft: false
 title: "Canvas: Game Night has been Framed"
 author: "Tipa"
+disqusIdentifier: "2025/02/24/canvas-game-night-has-been-framed"
 summary: "A timeless piece of art or a directionless collage of imagery that belongs on a refrigerator door?"
 categories:
   - "Game Night"
 tags:
   - "Canvas"
+relatedPosts:
+  - url: "/2026/03/04/frosthaven-104-ruins-of-the-solstice-and-heroquest-first-light-sound-the-hearthkin-horn/"
+    title: "Frosthaven #104: Ruins of the Solstice and HeroQuest First Light: Sound the Hearthkin Horn"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/IMG_5701-scaled.jpg"
+  - url: "/2026/02/15/heroquest-first-light-king-forgrins-trove/"
+    title: "HeroQuest First Light: King Forgrin's Trove"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/IMG_5672-scaled.jpg"
+  - url: "/2026/02/10/frosthaven-9-glowing-catacombs/"
+    title: "Frosthaven #9: Glowing Catacombs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/1-IMG_5665-scaled.jpg"
+  - url: "/2026/01/27/heroquest-first-light-tomb-of-the-fire-king/"
+    title: "HeroQuest First Light: Tomb of the Fire King"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/IMG_5629-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/02/1-IMG_5004.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/02/1-IMG_5004.jpg"
 ---

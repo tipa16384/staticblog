@@ -3,6 +3,7 @@ date: '2026-02-03T07:59:07-05:00'
 draft: false
 title: "The End of the Othello World Saga"
 author: "Tipa"
+disqusIdentifier: "2026/02/03/the-end-of-the-othello-world-saga"
 summary: "I humiliated the world's greatest Othello player -- Tamenori. And I feel pretty good about it."
 categories:
   - "Super Nintendo"
@@ -10,6 +11,19 @@ tags:
   - "Othello"
   - "othello world"
   - "super famicom"
+relatedPosts:
+  - url: "/2026/01/30/othello-world-i-killed-the-dragon/"
+    title: "Othello World: I Killed the Dragon"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/Screenshot-2026-01-29-21-40-06.png"
+  - url: "/2023/09/04/retro-world-find-othello-world/"
+    title: "Retro World Find: Othello World"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/Screenshot-2023-09-04-162409.png"
+  - url: "/2026/02/13/othello-trigger-for-the-gameboy-color/"
+    title: "Othello Trigger for the Gameboy Color"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/othellotrigger.png"
+  - url: "/2024/05/25/retro-game-haul-tron-deadly-discs-and-reversi/"
+    title: "Retro Game Haul: Tron Deadly Discs and Reversi"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/trondeadlydisks.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/Screenshot-2026-02-02-20-11-59.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/Screenshot-2026-02-02-20-11-59.png"
 ---

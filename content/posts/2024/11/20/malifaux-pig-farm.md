@@ -3,6 +3,7 @@ date: '2024-11-20T09:45:29-05:00'
 draft: false
 title: "Malifaux: Pig Farm"
 author: "Tipa"
+disqusIdentifier: "2024/11/20/malifaux-pig-farm"
 summary: "Pig Love was the name of the game in last night’s exciting match against the infamous Captain Zipp."
 categories:
   - "Malifaux"
@@ -12,6 +13,19 @@ tags:
   - "That'll Do"
   - "That's Some Pig"
   - "The Haven"
+relatedPosts:
+  - url: "/2025/03/19/malifaux-new-crew-two/"
+    title: "Malifaux: New Crew Two"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/newleague2.png"
+  - url: "/2025/01/29/malifaux-booty-plunder/"
+    title: "Malifaux: Booty &amp; Plunder"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/bootyplunder.png"
+  - url: "/2025/01/12/malifaux-the-littlest-capn/"
+    title: "Malifaux: The Littlest Cap'n"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/littlecaptainbanner.png"
+  - url: "/2024/12/05/malifaux-night-literally-hell/"
+    title: "Malifaux Night: Literally Hell"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/1-IMG_4886-001.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/IMG_4871-scaled.jpeg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/IMG_4871-scaled.jpeg"
 ---

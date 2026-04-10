@@ -3,10 +3,24 @@ date: '2012-12-13T08:12:31-05:00'
 draft: false
 title: "Kerbal Space Program: Marooned"
 author: "Tipa"
+disqusIdentifier: "2012/12/13/kerbal-space-program-marooned"
 summary: "There's this movie that used to come on TV occasionally when I was a kid called \"Marooned)\" -- stars Richard Crenna, Gene Hackman and other..."
 categories:
   - "Kerbal Space Program"
   - "Other Games"
+relatedPosts:
+  - url: "/2012/12/17/kerbal-space-program-to-the-mun-and-back/"
+    title: "Kerbal Space Program: To the Mun and Back"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/12/KSP-2012-12-15-20-20-53-10-480x343.jpg"
+  - url: "/2012/12/07/kerbal-space-program-lost-in-space/"
+    title: "Kerbal Space Program: Lost in Space"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/12/KSP-2012-12-06-23-46-17-22-480x300.jpg"
+  - url: "/2025/08/06/la-brute-battles-royale-and-warring-guilds/"
+    title: "La Brute: Battles Royale and Warring Guilds"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/LaBrute.png"
+  - url: "/2025/07/10/frosthaven-scenario-14-jagged-shoals/"
+    title: "Frosthaven Scenario 14: Jagged Shoals"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/07/IMG_5225-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/12/KSP-2012-12-12-22-48-07-28-480x342.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/12/KSP-2012-12-12-22-48-07-28-480x342.jpg"
 ---

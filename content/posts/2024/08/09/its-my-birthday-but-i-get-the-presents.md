@@ -3,6 +3,7 @@ date: '2024-08-09T07:30:00-05:00'
 draft: false
 title: "It's my birthday, but *I* get the presents!"
 author: "Tipa"
+disqusIdentifier: "2024/08/09/its-my-birthday-but-i-get-the-presents"
 summary: "My boyfriend knows exactly the kind of stuff I love, but you'd expect that. Read on for why all this stuff is SO FREAKIN' COOL."
 categories:
   - "Blaugust"
@@ -13,6 +14,19 @@ categories:
   - "Tabletop Games"
 tags:
   - "Gameboy"
+relatedPosts:
+  - url: "/2024/08/26/building-thunderjaw-day-1/"
+    title: "Building Thunderjaw — Day 1"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_0230.jpeg"
+  - url: "/2025/08/04/i-know-what-i-did-last-weekend-5/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/bewarethesandworm.png"
+  - url: "/2024/08/20/malifaux-league-champion/"
+    title: "Malifaux: League champion?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/malifaux-league-1.png"
+  - url: "/2024/08/18/my-first-malifaux-tournament/"
+    title: "My first Malifaux tournament!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/malifaux-wtf.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_4544-EDIT.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_4544-EDIT.jpg"
 ---

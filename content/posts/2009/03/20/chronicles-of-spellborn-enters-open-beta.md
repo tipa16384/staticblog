@@ -3,6 +3,7 @@ date: '2009-03-20T08:04:16-05:00'
 draft: false
 title: "Chronicles of Spellborn enters open beta!"
 author: "Tipa"
+disqusIdentifier: "2009/03/20/chronicles-of-spellborn-enters-open-beta"
 summary: "Announced today, and thanks to Tierrunner for catching this, the Acclaim hosted Chronicles of Spellborn is now in open beta. Also announced is their pricing..."
 categories:
   - "Chronicles of Spellborn"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Acclaim"
   - "Open Beta"
+relatedPosts:
+  - url: "/2010/08/19/chronicles-of-spellborn-anatomy-of-a-failure/"
+    title: "Chronicles of Spellborn: Anatomy of a Failure"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/sb_client-2010-08-18-19-49-21-19-480x270.jpg"
+  - url: "/2009/04/24/acclaim-bonus-coin-weekend-april-24-26/"
+    title: "Acclaim Bonus Coin Weekend April 24-26"
+    thumbnailImage: ""
+  - url: "/2009/03/20/spellborn-on-the-cheap-new-armors-dev-chat/"
+    title: "Spellborn on the cheap, new armors, dev chat"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/armor1.jpg"
+  - url: "/2009/03/16/chronicles-of-spellborn-the-skinshifter/"
+    title: "Chronicles of Spellborn -- the Skinshifter"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/sb_client-2009-03-14-13-56-36-85.jpg"
 ---
 Announced today, and thanks to Tierrunner for catching this, the Acclaim hosted Chronicles of Spellborn is now in open beta. Also announced is their pricing...
 <!--more-->

@@ -3,6 +3,7 @@ date: '2009-07-24T06:31:36-05:00'
 draft: false
 title: "Daily Blogroll 7/24 -- See You Next Wednesday edition"
 author: "Tipa"
+disqusIdentifier: "2009/07/24/daily-blogroll-724-see-you-next-wednesday-edition"
 summary: "Aside from just being a shout-out to John Landis fans, I will be away on family business all weekend, returning Tuesday. I don't know if..."
 categories:
   - "Aion"
@@ -11,6 +12,19 @@ categories:
   - "EverQuest"
   - "MMORPG"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/09/09/daily-blogroll-9909-galaxy-express-edition/"
+    title: "Daily Blogroll 9/9/09 - Galaxy Express edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/hko-2009-09-08-21-52-33-20.jpg"
+  - url: "/2009/08/12/daily-blogroll-812-dominix-edition/"
+    title: "Daily Blogroll 8/12 - Dominix edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/ExeFile-2009-08-11-22-18-43-82.jpg"
+  - url: "/2009/08/10/daily-blogroll-810-thank-god-its-monday-edition/"
+    title: "Daily Blogroll 8/10 -- Thank God it's Monday edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/daddygirl.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/EverQuest2-2009-07-23-23-33-35-79.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/EverQuest2-2009-07-23-23-33-35-79.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2026-01-05T08:56:39-05:00'
 draft: false
 title: "Holiday Grab Bag: Dune, Palworld, Quest 64"
 author: "Tipa"
+disqusIdentifier: "2026/01/05/holiday-grab-bag-dune-palworld-quest-64"
 summary: "We moved servers in Dune, killed a God pal in Palworld, and escaped the Blue Cave in Quest 64. Read on..."
 categories:
   - "Dune Awakening"
@@ -11,6 +12,19 @@ categories:
 tags:
   - "Analogue"
   - "Quest 64"
+relatedPosts:
+  - url: "/2026/01/11/quest-64-i-played-the-worst-rpg-on-the-nintendo-64/"
+    title: "Quest 64: I played the worst RPG on the Nintendo 64 -- and I liked it"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/Screenshot-2026-01-09-18-19-11.png"
+  - url: "/2025/12/15/i-know-what-i-did-last-weekend-6/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/IMG_5573-scaled.jpg"
+  - url: "/2025/11/26/analogue-3d-play-your-nintendo-64-games-again/"
+    title: "Analogue 3D: Play your Nintendo 64 games again"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/IMG_5508-scaled.jpg"
+  - url: "/2024/10/19/analogue-3d-if-i-were-to-get-one/"
+    title: "Analogue 3D: If I were to get one..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/analogue3d.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/1-20260104163451_1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/1-20260104163451_1.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2024-10-18T08:00:00-05:00'
 draft: false
 title: "Erenshor: The Shivering Steps"
 author: "Tipa"
+disqusIdentifier: "2024/10/18/erenshor-the-shivering-steps"
 summary: "Took me a minute and some leading hints but I finally worked my way through the Halloween content and killed all six bosses."
 categories:
   - "MMORPG"
@@ -11,6 +12,19 @@ categories:
 tags:
   - "Erenshor"
   - "Shivering Steps"
+relatedPosts:
+  - url: "/2024/08/28/erenshor-everquest-for-soloers/"
+    title: "Erenshor -- EverQuest for soloers"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/erenshotheader.jpg"
+  - url: "/2025/02/11/erenshor-oh-by-the-way-which-one-is-bink/"
+    title: "Erenshor: Oh, by the way, which one is Bink?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/02/1-20250210223651_1.jpg"
+  - url: "/2024/09/14/this-halloween-erenshor-gets-spooky/"
+    title: "This Halloween, Erenshor Gets Spooky!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/erenshotheader.jpg"
+  - url: "/2024/12/30/best-of-2024-single-player-rpgs/"
+    title: "Best of 2024: Single-Player RPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/bestrpgbanner.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/erenshor-shivering.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/erenshor-shivering.png"
 ---

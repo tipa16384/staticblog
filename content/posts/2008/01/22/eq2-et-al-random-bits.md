@@ -3,12 +3,26 @@ date: '2008-01-22T09:03:46-05:00'
 draft: false
 title: "EQ2 (et al): Random Bits"
 author: "Tipa"
+disqusIdentifier: "2008/01/22/eq2-et-al-random-bits"
 summary: "Kind of a mishmash post today. I start out with some EQ2, then move on to TV and lastly a little bit about work right..."
 categories:
   - "EverQuest"
   - "MMORPG"
   - "My Work"
   - "Sci Fi"
+relatedPosts:
+  - url: "/2006/04/20/van-goghs-quotwheatfieldquot/"
+    title: "Van Gogh&#039;s &quot;Wheatfield&quot;"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/images/wheatfield.jpg"
+  - url: "/2008/06/10/eq2-game-update-46/"
+    title: "EQ2 - Game Update #46"
+    thumbnailImage: "http://www.massively.com/media/2008/06/regatheringheader.jpg"
+  - url: "/2008/03/23/bad-week-for-gaming-good-week-for-blogging/"
+    title: "Bad week for gaming, good week for blogging"
+    thumbnailImage: ""
+  - url: "/2008/04/22/nope-i-cant-do-it/"
+    title: "Nope. I can't do it."
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/everquest2-2008-01-22-07-10-48-92.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/everquest2-2008-01-22-07-10-48-92.jpg"
 ---

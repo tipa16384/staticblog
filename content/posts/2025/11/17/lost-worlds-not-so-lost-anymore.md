@@ -3,6 +3,7 @@ date: '2025-11-17T14:35:36-05:00'
 draft: false
 title: "Lost Worlds: not so lost anymore?"
 author: "Tipa"
+disqusIdentifier: "2025/11/17/lost-worlds-not-so-lost-anymore"
 summary: "The \"Lost Worlds\" series of fantasy combat book games is being reprinted? Here in Connecticut? And I'm just finding out about this?"
 categories:
   - "Tabletop Games"
@@ -10,6 +11,19 @@ tags:
   - "Ace of Aces"
   - "Lost Worlds"
   - "Nova Game Designs"
+relatedPosts:
+  - url: "/2025/12/25/its-a-vectrex-christmas-miracle/"
+    title: "It's a Vectrex Christmas Miracle!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/IMG_5584-scaled.jpg"
+  - url: "/2026/03/08/malifaux-collete-du-bois-smuggler-vs-jakob-lynch-dark-bet/"
+    title: "Malifaux: Collete du Bois, Smuggler vs Jakob Lynch, Dark Bet"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/IMG_5713-scaled.jpg"
+  - url: "/2026/03/04/frosthaven-104-ruins-of-the-solstice-and-heroquest-first-light-sound-the-hearthkin-horn/"
+    title: "Frosthaven #104: Ruins of the Solstice and HeroQuest First Light: Sound the Hearthkin Horn"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/IMG_5701-scaled.jpg"
+  - url: "/2026/02/22/malifaux-at-twilight-colette-v-maxine/"
+    title: "Malifaux at Twilight: Colette v Maxine"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/1-IMG_5684-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/IMG_5485-EDIT-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/IMG_5485-EDIT-scaled.jpg"
 ---

@@ -3,9 +3,23 @@ date: '2009-04-25T09:00:12-05:00'
 draft: false
 title: "Star Trek Countdown: Taking the Science out of Science Fiction"
 author: "Tipa"
+disqusIdentifier: "2009/04/25/star-trek-countdown-taking-the-science-out-of-science-fiction"
 summary: "Anticipating the new Trek movie out next month, I picked up the prequel comics that set up the movie. Trek's good, right? Lots of real..."
 categories:
   - "Sci Fi"
+relatedPosts:
+  - url: "/2026/01/17/starfleet-academy-your-billionaire-future/"
+    title: "Starfleet Academy: Your Billionaire Future"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/starfleetacademy.png"
+  - url: "/2024/09/27/game-night-in-too-deep/"
+    title: "Game Night: In Too Deep"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/intoodeepbanner.png"
+  - url: "/2022/09/20/review-braking-day-by-adam-oyebanji/"
+    title: "Review: Braking Day by Adam Oyebanji"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/brakingday.png"
+  - url: "/2015/09/13/beam-me-up/"
+    title: "Beam me up..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/09/1-Star-Trek-Me-1.jpg"
 ---
 Anticipating the new Trek movie out next month, I picked up the prequel comics that set up the movie. Trek's good, right? Lots of real...
 <!--more-->

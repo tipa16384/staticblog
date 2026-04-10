@@ -3,6 +3,7 @@ date: '2023-08-11T07:00:00-05:00'
 draft: false
 title: "Only Mew can stop Mewtwo now..."
 author: "Tipa"
+disqusIdentifier: "2023/08/11/only-mew-can-stop-mewtwo-now"
 summary: "Mewtwo is coming to Pokemon Scarlet and Violet in a 7 star Tera raid. I've had exactly zero luck winning any 7 star raids so far. This time, I plan to be prepared."
 categories:
   - "Blaugust"
@@ -12,6 +13,19 @@ tags:
   - "Mew"
   - "Mewtwo"
   - "Pokemon"
+relatedPosts:
+  - url: "/2023/09/01/defeating-mewtwo-in-pokemon-scarlet-violet/"
+    title: "Defeating Mewtwo in Pokémon Scarlet/Violet"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/2023090118334300-B6CE40797459B0890BF7CEF68A4CE587.jpg"
+  - url: "/2023/08/28/retro-world-expo-scorecard/"
+    title: "Retro World Expo Scorecard"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/sailormoonpikachu.png"
+  - url: "/2023/08/03/not-taming-the-backlog/"
+    title: "(Not) Taming the Backlog"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/DALL·E-2023-08-02-23.10.21-A-dragon-wearing-glasses-surrounded-by-stacks-of-video-games.png"
+  - url: "/2025/12/15/i-know-what-i-did-last-weekend-6/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/IMG_5573-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/mewtoo.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/mewtoo.png"
 ---

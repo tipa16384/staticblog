@@ -3,6 +3,7 @@ date: '2024-08-26T07:00:00-05:00'
 draft: false
 title: "Building Thunderjaw — Day 1"
 author: "Tipa"
+disqusIdentifier: "2024/08/26/building-thunderjaw-day-1"
 summary: "My big birthday present this year was a LEGO Thunderjaw to go along with my LEGO Tallneck. It’s time to start putting it together."
 categories:
   - "Blaugust"
@@ -12,6 +13,19 @@ tags:
   - "Lego"
   - "Tallneck"
   - "Thunderjaw"
+relatedPosts:
+  - url: "/2024/01/07/lego-tallneck-lightailing-lighting-kit/"
+    title: "LEGO Tallneck + Lightailing lighting kit"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/etallneck.png"
+  - url: "/2024/09/29/lego-thunderjaw-finally-mostly-complete/"
+    title: "LEGO Thunderjaw: Finally mostly complete!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/thunderjaw-scaled.jpg"
+  - url: "/2024/09/09/weekend-gaming-janthir-wilds-return-to-arms-more-thunderjaw/"
+    title: "Weekend gaming: Janthir Wilds, Return to Arms, more Thunderjaw"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/gw2janthir.png"
+  - url: "/2024/11/23/lego-horizon-adventures/"
+    title: "LEGO Horizon Adventures"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/LEGO®-Horizon-Adventures™_20241122153718-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_0230.jpeg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_0230.jpeg"
 ---

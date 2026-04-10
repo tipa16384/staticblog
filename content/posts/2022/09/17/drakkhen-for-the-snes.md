@@ -3,6 +3,7 @@ date: '2022-09-17T15:53:34-05:00'
 draft: false
 title: "Drakkhen for the Super Nintendo: An Unexpected Gem"
 author: "Tipa"
+disqusIdentifier: "2022/09/17/drakkhen-for-the-snes"
 summary: "As I promised Terra in my last post, I would be playing Drakkhen for the Super Nintendo. It's 3D! It has dragons! You get to..."
 categories:
   - "Console Game"
@@ -14,6 +15,19 @@ tags:
   - "Drakkhen Ii"
   - "Kemco"
   - "Snes"
+relatedPosts:
+  - url: "/2022/09/13/retro-world-expo-2022-hartford-ct/"
+    title: "Retro World Expo 2022 -- Hartford, CT"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/1-IMG_2687.jpg"
+  - url: "/2020/10/17/ogre-battle-the-march-of-the-black-queen-how-to-win-the-game/"
+    title: "Ogre Battle: The March of the Black Queen: How to Win the Game."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-138.png"
+  - url: "/2020/10/14/ogre-battle-alignment-and-charisma/"
+    title: "Ogre Battle: Alignment and Charisma"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-068.png"
+  - url: "/2020/10/12/ogre-battle-the-tastiest-mermaids-are-the-ones-you-catch-yourself/"
+    title: "Ogre Battle: The Tastiest Mermaids are the Ones You Catch Yourself"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-010.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/drakkhentitle.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/drakkhentitle.png"
 ---

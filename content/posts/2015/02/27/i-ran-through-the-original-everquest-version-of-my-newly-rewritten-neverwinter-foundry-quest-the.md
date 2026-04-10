@@ -3,9 +3,23 @@ date: '2015-02-27T15:14:19-05:00'
 draft: false
 title: "I ran through the original EverQuest version of my newly rewritten Neverwinter foundry  quest, \"The ..."
 author: "Tipa"
+disqusIdentifier: "2015/02/27/i-ran-through-the-original-everquest-version-of-my-newly-rewritten-neverwinter-foundry-quest-the"
 summary: "I ran through the original EverQuest version of my newly rewritten Neverwinter foundry quest, \"The Crypt of Befallen\"... so if you wanna see what a..."
 categories:
   - "General"
+relatedPosts:
+  - url: "/2025/11/01/quick-reviews/"
+    title: "Quick Reviews"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/winterburrow.png"
+  - url: "/2025/08/07/soda-can-tabs-for-charity-really/"
+    title: "Soda can tabs for charity? REALLY?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5304-scaled.jpeg"
+  - url: "/2024/12/17/billionaire-rapture/"
+    title: "Billionaire Rapture"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/DALL·E-2024-12-17-00.14.48-A-surreal-science-fiction-book-cover-for-a-short-story-titled-Billionaire-Rapture.-The-scene-depicts-a-futuristic-dramatic-setting-in-space-and-on-.webp"
+  - url: "/2024/04/16/that-is-not-a-sandworm-in-your-driveway/"
+    title: "That is not a sandworm in your driveway"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/sandwormindriveway.png"
 coverImage: "https://lh3.googleusercontent.com/proxy/EJz6KtrPhYMQe_-l1BwVQpsLGWz0xk9vbjiF74UZzxeGR2UhiWg3pCPfnIBCpL25ZDA3EvgJl2StmBPTbm2EuQ=w506-h284-n"
 thumbnailImage: "https://lh3.googleusercontent.com/proxy/EJz6KtrPhYMQe_-l1BwVQpsLGWz0xk9vbjiF74UZzxeGR2UhiWg3pCPfnIBCpL25ZDA3EvgJl2StmBPTbm2EuQ=w506-h284-n"
 ---

@@ -3,6 +3,7 @@ date: '2025-11-14T08:30:27-05:00'
 draft: false
 title: "Octopath Traveler 0: You're the Octopath"
 author: "Tipa"
+disqusIdentifier: "2025/11/14/octopath-traveler-0-youre-the-octopath"
 summary: "In the third console release of the Octopath Traveler series, you become the hero who can rebuild your town."
 categories:
   - "Switch"
@@ -10,6 +11,19 @@ tags:
   - "Jrpg"
   - "Octopath Traveler"
   - "Octopath Traveler 0"
+relatedPosts:
+  - url: "/2020/12/11/my-rpgs-of-2020/"
+    title: "My RPGs of 2020"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/Chocobos-Mystery-Dungeon-EVERY-BUDDY_20200506204657.jpg"
+  - url: "/2020/04/29/octopath-traveler-is-octo-finished/"
+    title: "Octopath Traveler is Octo-Finished."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/04/2020042821590400-93C1C73A3BAF9123A15B9B24886B634B-1024x576.jpg"
+  - url: "/2020/04/21/ophilia-is-out-for-printing/"
+    title: "Ophilia is out for printing!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/04/OphiliaRendered.png"
+  - url: "/2023/08/03/not-taming-the-backlog/"
+    title: "(Not) Taming the Backlog"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/DALL·E-2023-08-02-23.10.21-A-dragon-wearing-glasses-surrounded-by-stacks-of-video-games.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/octopath0.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/octopath0.png"
 ---

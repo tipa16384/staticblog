@@ -3,12 +3,26 @@ date: '2025-10-24T07:07:44-05:00'
 draft: false
 title: "A Kolam for a Delivery Man"
 author: "Tipa"
+disqusIdentifier: "2025/10/24/a-kolam-for-a-delivery-man"
 summary: "Waiting for a package that never arrives? Maybe all you need is a little practical magic..."
 categories:
   - "Fiction"
 tags:
   - "Dragonstrike"
   - "UPS"
+relatedPosts:
+  - url: "/2025/12/09/dragonstrike-in-my-kitchen/"
+    title: "DragonStrike in my kitchen?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/1-IMG_5562-scaled.jpg"
+  - url: "/2025/10/29/dragonstrike-the-aerial-combat-board-game/"
+    title: "DragonStrike: The Aerial Combat Board Game"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/IMG_5465-scaled.jpg"
+  - url: "/2025/09/04/still-more-confessions-of-a-kickstarter-superbacker/"
+    title: "Still More Confessions of a Kickstarter Superbacker"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/superbacker.png"
+  - url: "/2024/08/03/more-confessions-of-a-kickstarter-superbacker/"
+    title: "More Confessions of a Kickstarter Superbacker"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/superbacker.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/kolam.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/kolam.png"
 ---

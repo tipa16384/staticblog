@@ -3,6 +3,7 @@ date: '2023-10-25T07:00:00-05:00'
 draft: false
 title: "Baldur's Gate 3: Guilty"
 author: "Tipa"
+disqusIdentifier: "2023/10/25/baldurs-gate-3-guilty"
 summary: "I said I wasn't going to replay Baldur's Gate 3, but then I went ahead and did. Am doing."
 categories:
   - "Baldur's Gate 3"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Act I"
   - "Bard"
+relatedPosts:
+  - url: "/2011/03/01/rift-synergies/"
+    title: "Rift: Synergies"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/rift-2011-03-01-07-36-26-62-480x384.jpg"
+  - url: "/2023/10/16/baldurs-gate-3-finished/"
+    title: "Baldur's Gate 3: Finished!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/scritches1.png"
+  - url: "/2023/10/07/baldurs-gate-3-are-we-the-baddies/"
+    title: "Baldur's Gate 3: Are We the Baddies?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/Screenshot-2023-10-07-103249.png"
+  - url: "/2023/10/06/baldurs-gate-3-back-on-track/"
+    title: "Baldur's Gate 3: Back on Track"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/Screenshot-2023-10-06-073659.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/snapedit_1698202481176.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/snapedit_1698202481176.png"
 ---

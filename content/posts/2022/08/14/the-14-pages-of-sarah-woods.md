@@ -3,6 +3,7 @@ date: '2022-08-14T07:00:00-05:00'
 draft: false
 title: "The 14 Pages of Sarah Woods"
 author: "Tipa"
+disqusIdentifier: "2022/08/14/the-14-pages-of-sarah-woods"
 summary: "The Number 14: A Touching Game with Excellent Writing and Interesting Characters"
 categories:
   - "Blaugust"
@@ -16,6 +17,19 @@ tags:
   - "Gpt-3"
   - "Laura Shigihara"
   - "Telltale Games"
+relatedPosts:
+  - url: "/2022/09/01/32-bullets-new-first-person-shooter-game/"
+    title: 'Creating "32 Bullets" -- an AI adventure.'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/32bulletsbanner.png"
+  - url: "/2022/08/31/blaugust-hath-31-days/"
+    title: "Blaugust Hath 31 Days"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-24-22.46.10-a-young-woman-fighting-a-monster-with-a-rune-carved-sword.-She-is-surrounded-by-a-dark-forest-and-the-full-moon-is-shining-overhead-in-the-style-of-.png"
+  - url: "/2022/08/30/blaugust-theme-week-lessons-learned/"
+    title: "Blaugust theme week: Lessons learned"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-30-23.00.58-35mm-long-range-photograph-of-a-woman-warrior-reading-a-book-while-sitting-against-a-sleeping-green-dragon-near-a-mountain-lake-pastel-colors-peacef.png"
+  - url: "/2022/08/30/the-golden-years-30-something/"
+    title: "The Golden Years: 30 Something"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-23-20.51.10-A-magazine-illustration-of-a-30-something-person-surrounded-by-icons-representing-lifes-challenges-work-family-hobbies-money-food-travel-and-.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-06-21.41.42-35mm-soft-focus-photograph-looking-over-the-shoulder-of-brown-haired-girl-wearing-a-red-scarf-as-she-sits-on-a-stone-in-a-forest-and-writes-the-number.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-06-21.41.42-35mm-soft-focus-photograph-looking-over-the-shoulder-of-brown-haired-girl-wearing-a-red-scarf-as-she-sits-on-a-stone-in-a-forest-and-writes-the-number.png"
 ---

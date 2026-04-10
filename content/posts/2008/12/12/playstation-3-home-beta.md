@@ -3,6 +3,7 @@ date: '2008-12-12T09:51:03-05:00'
 draft: false
 title: "Playstation 3 Home beta"
 author: "Tipa"
+disqusIdentifier: "2008/12/12/playstation-3-home-beta"
 summary: "Though it was up and down more than an acrophobic yo-yo last night, I had a few good chances to log into the new Playstation..."
 categories:
   - "General"
@@ -10,6 +11,19 @@ tags:
   - "Home"
   - "PS3"
   - "Valkyrie Chronicles"
+relatedPosts:
+  - url: "/2008/07/07/ps3-valkyrie-chronicles/"
+    title: "PS3: Valkyrie Chronicles"
+    thumbnailImage: ""
+  - url: "/2009/05/15/ps3-limited-edition-free-home-chamber-apartment/"
+    title: 'PS3: Limited edition free "Home" Chamber apartment'
+    thumbnailImage: ""
+  - url: "/2022/06/23/symphony-of-war-the-nephilim-saga/"
+    title: "Symphony of War: The Nephilim Saga"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/06/20220622113658_1.jpg"
+  - url: "/2024/11/27/odin-sphere-two-dimensions-is-more-than-enough/"
+    title: "Odin Sphere: Two dimensions is more than enough"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/odinsphere.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/stp61605-1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/stp61605-1.jpg"
 ---

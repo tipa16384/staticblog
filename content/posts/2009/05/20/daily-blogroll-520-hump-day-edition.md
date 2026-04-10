@@ -3,6 +3,7 @@ date: '2009-05-20T07:57:40-05:00'
 draft: false
 title: "Daily Blogroll 5/20 -- Hump Day edition!"
 author: "Tipa"
+disqusIdentifier: "2009/05/20/daily-blogroll-520-hump-day-edition"
 summary: "So I just applied to a corp in EVE Online. I have so many questions they can help me answer! Like, what's the command to..."
 categories:
   - "Daily Blogroll"
@@ -10,6 +11,19 @@ categories:
   - "MMORPG"
   - "Warhammer: Age of Reckoning"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2011/01/27/daily-blogroll-127-inevitable-backlash-edition/"
+    title: "Daily Blogroll 1/27 -- Inevitable Backlash edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/riftblade.png"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/08/12/daily-blogroll-812-dominix-edition/"
+    title: "Daily Blogroll 8/12 - Dominix edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/ExeFile-2009-08-11-22-18-43-82.jpg"
+  - url: "/2009/06/25/daily-blogroll-625-a-valiant-effort-edition/"
+    title: "Daily Blogroll 6/25 -- A Valiant Effort edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/valianteffort.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/plantsvsrmt.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/plantsvsrmt.jpg"
 ---

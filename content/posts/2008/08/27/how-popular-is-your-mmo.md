@@ -3,9 +3,23 @@ date: '2008-08-27T08:27:45-05:00'
 draft: false
 title: "How popular is your MMO?"
 author: "Tipa"
+disqusIdentifier: "2008/08/27/how-popular-is-your-mmo"
 summary: "Quick comparison of \"Hours Played\" from XFire for some MMOs, and a ballpark estimate of subscriber activity, given a baseline of five million active WoW..."
 categories:
   - "MMORPG"
+relatedPosts:
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2026/03/11/dune-awakening-finished-chapter-3/"
+    title: "Dune Awakening: Finished Chapter 3"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-11-073510.png"
+  - url: "/2026/02/04/erenshor-rising-shadows-launched/"
+    title: 'Erenshor "Rising Shadows" launched!'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/20260204080313_1.jpg"
+  - url: "/2026/01/24/dominus-automa-an-idle-mmo-for-busy-dads/"
+    title: "Dominus Automa: An Idle MMO for Busy Dads"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/dominusautoma.png"
 ---
 Quick comparison of "Hours Played" from XFire for some MMOs, and a ballpark estimate of subscriber activity, given a baseline of five million active WoW...
 <!--more-->

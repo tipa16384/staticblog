@@ -3,6 +3,7 @@ date: '2023-08-12T09:19:16-05:00'
 draft: false
 title: "A Cheater's Guide to Wordle, Waffle and Squaredle"
 author: "Tipa"
+disqusIdentifier: "2023/08/12/a-cheaters-guide-to-wordle-waffle-and-squaredle"
 summary: "There's a really good reason why I solve these daily puzzles in full view of my family, at the kitchen table, now. It's to stop me from cheating."
 categories:
   - "Blaugust"
@@ -12,6 +13,19 @@ tags:
   - "Squaredle"
   - "Waffle"
   - "Wordle"
+relatedPosts:
+  - url: "/2024/08/10/ai-has-transformed-the-way-i-code/"
+    title: "AI has transformed the way I code"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/copilot.png"
+  - url: "/2025/03/05/yes-the-first-cheat-code/"
+    title: '"YES", the first cheat code.'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/tipachu_Humorous_clip_art_of_a_dragon_looking_quizzically_at__7789a903-59ba-4366-b518-6ebc465ac59c_0.png"
+  - url: "/2023/08/31/the-final-days-of-blaugust/"
+    title: "The final days of Blaugust"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/solongblaugust.png"
+  - url: "/2023/08/30/what-makes-an-mmo-an-mmo-2/"
+    title: "What makes an MMO, an MMO?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/notanmmo.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/DALL·E-2023-08-12-09.16.41-clip-art-of-a-woman-solving-a-crossword-puzzle-that-is-drawn-on-a-chalkboard.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/DALL·E-2023-08-12-09.16.41-clip-art-of-a-woman-solving-a-crossword-puzzle-that-is-drawn-on-a-chalkboard.png"
 ---

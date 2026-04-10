@@ -3,12 +3,26 @@ date: '2009-03-25T07:23:34-05:00'
 draft: false
 title: "City of Heroes Architect: Killer Klowns"
 author: "Tipa"
+disqusIdentifier: "2009/03/25/city-of-heroes-architect-killer-klowns"
 summary: "Last night was one of those kinds of nights where you're trying to pass a kidney stone, drinking gallons and gallons of water, and you..."
 categories:
   - "City of Heroes"
   - "MMORPG"
 tags:
   - "Architect"
+relatedPosts:
+  - url: "/2009/03/19/city-of-heroes-architect-system-dont-you-know-that-youre-my-hero/"
+    title: "City of Heroes Architect system: Don't you know that you're my hero?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/cityofheroes-2009-03-19-07-56-46-51-480x359.jpg"
+  - url: "/2008/08/28/cox-issue-13-takes-a-page-out-of-eves-book/"
+    title: "CoX Issue 13 takes a page out of EVE's book"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/cityofheroes-2008-08-28-07-06-42-61.jpg"
+  - url: "/2024/01/16/city-of-heroes-homecoming/"
+    title: "City of Heroes: Homecoming..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/cohhclogo.png"
+  - url: "/2022/07/30/ship-of-heroes-housing-beta-2/"
+    title: "Ship of Heroes: Housing Beta #2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/1-20220730211912_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/cityofheroes-2009-03-24-22-57-35-03.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/cityofheroes-2009-03-24-22-57-35-03.jpg"
 ---

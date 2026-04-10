@@ -3,6 +3,7 @@ date: '2024-01-09T07:50:53-05:00'
 draft: false
 title: "HeroQuest: The Stone Hunter"
 author: "Tipa"
+disqusIdentifier: "2024/01/09/heroquest-the-stone-hunter"
 summary: "Taking the dwarf from solving crossword puzzles to kicking skellie butt."
 categories:
   - "Game Night"
@@ -11,6 +12,19 @@ categories:
 tags:
   - "Board Game"
   - "Dwarf"
+relatedPosts:
+  - url: "/2024/06/12/heroquest-return-to-barak-tor/"
+    title: "HeroQuest: Return to Barak-Tor"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/06/return-14.png"
+  - url: "/2024/01/23/heroquest-the-fire-mage/"
+    title: "HeroQuest: The Fire Mage"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/DALL·E-2024-01-22-22.36.44-A-vivid-and-dynamic-heroic-fantasy-battle-scene-not-in-the-form-of-miniatures.-It-features-a-Shaolin-Monk-bare-to-the-waist-and-wearing-a-red-sash-.png"
+  - url: "/2023/09/05/jurassic-world-the-legacy-of-isla-nublar-finished/"
+    title: "Jurassic World: The Legacy of Isla Nublar: Finished!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/jwfinished.png"
+  - url: "/2023/08/15/jurassic-world-the-legacy-of-isla-nublar/"
+    title: "Jurassic World: The Legacy of Isla Nublar"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/IMG_3952-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/tipachu_a_dwarf_warrior_in_shining_plate_armor_wielding_a_golde_41db7272-d75f-48c1-acc0-be33fa2fa3e5.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/tipachu_a_dwarf_warrior_in_shining_plate_armor_wielding_a_golde_41db7272-d75f-48c1-acc0-be33fa2fa3e5.png"
 ---

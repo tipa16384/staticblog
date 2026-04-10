@@ -3,6 +3,7 @@ date: '2021-08-03T23:17:26-05:00'
 draft: false
 title: "FF1 Continues: A Witch, A Dwarf, and a King walk into a bar..."
 author: "Tipa"
+disqusIdentifier: "2021/08/03/ff1-continues-a-witch-a-dwarf-and-a-king-walk-into-a-bar"
 summary: "I was just going to play Final Fantasy XIV long enough to get a picture with a dwarf to illustrate how Final Fantasy themes crop..."
 categories:
   - "Blaugust"
@@ -14,6 +15,19 @@ tags:
   - "Jrpg"
   - "RPG"
   - "Steam"
+relatedPosts:
+  - url: "/2021/08/17/ff3-eureka-and-the-cloud-of-darkness/"
+    title: "FF3 -- Eureka, and the Cloud of Darkness"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/20210816230414_1.jpg"
+  - url: "/2021/08/04/ff1-playthrough-pheasant-dreams/"
+    title: "FF1 Playthrough: Pheasant Dreams!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-lich.jpg"
+  - url: "/2021/08/01/ff1-garland-hero-of-the-empire/"
+    title: "FF1: Garland, Hero of the Empire!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-IMG_0131.jpg"
+  - url: "/2021/08/09/ff1-it-is-the-end-of-eternity/"
+    title: "FF1: It is the End of Eternity"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/20210809143848_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/laliho.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/laliho.png"
 ---

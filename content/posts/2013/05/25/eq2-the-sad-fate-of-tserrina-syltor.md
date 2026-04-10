@@ -3,10 +3,24 @@ date: '2013-05-25T11:19:48-05:00'
 draft: false
 title: "EQ2: The Sad Fate of Tserrina Syl'Tor"
 author: "Tipa"
+disqusIdentifier: "2013/05/25/eq2-the-sad-fate-of-tserrina-syltor"
 summary: "We had a bunch of people hanging out in the Lunar Wolves guild hall last night. We've been threatening to, someday, form a group and..."
 categories:
   - "EverQuest"
   - "MMORPG"
+relatedPosts:
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2024/10/21/evercraft-online-the-unholy-child-of-eq-and-minecraft/"
+    title: "EverCraft Online: The Unholy Child of EQ and MineCraft"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/evercraft-banner.png"
+  - url: "/2024/08/28/erenshor-everquest-for-soloers/"
+    title: "Erenshor -- EverQuest for soloers"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/erenshotheader.jpg"
+  - url: "/2024/05/04/everquest-ii-goes-retro-with-anashti-sul/"
+    title: "EverQuest II goes retro with Anashti Sul"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/anashtisul.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/05/eqgame-2013-05-25-09-30-02-82-480x343.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/05/eqgame-2013-05-25-09-30-02-82-480x343.jpg"
 ---

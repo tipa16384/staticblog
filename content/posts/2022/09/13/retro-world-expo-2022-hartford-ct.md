@@ -3,6 +3,7 @@ date: '2022-09-13T22:07:16-05:00'
 draft: false
 title: "Retro World Expo 2022 -- Hartford, CT"
 author: "Tipa"
+disqusIdentifier: "2022/09/13/retro-world-expo-2022-hartford-ct"
 summary: "Retro World Expo in Hartford came up light on Sega Saturn games, but I got a couple new games to try. Terra isn't a fan and is warning me away from Drakkhen for the SNES."
 categories:
   - "Gaming Convention"
@@ -13,6 +14,19 @@ tags:
   - "Gpt-3"
   - "Hartford"
   - "Terra"
+relatedPosts:
+  - url: "/2022/09/05/the-battle-for-lockes-heart-the-remake/"
+    title: "The Battle for Locke's Heart: The Remake"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-04-21.39.29-Digital-painting-of-a-tall-woman-with-green-hair-in-a-high-ponytail-a-long-blonde-woman-wearing-armor-a-man-in-blue-jeans-and-jacket-a-gentleman-ga.png"
+  - url: "/2022/09/04/how-i-used-ai-to-write-a-final-fantasy-vi-chatbot/"
+    title: "How I used AI to write a Final Fantasy VI chatbot"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-04-21.21.57-A-magazine-illustration-of-a-woman-with-dark-green-hair-in-a-high-ponytail-wearing-overalls-constructing-a-giant-mechanical-steampunk-chatbot-with-h.png"
+  - url: "/2022/09/17/drakkhen-for-the-snes/"
+    title: "Drakkhen for the Super Nintendo: An Unexpected Gem"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/drakkhentitle.png"
+  - url: "/2008/11/07/shop-smart-shop-s-mart-in-connecticut/"
+    title: "Shop smart, shop S-Mart, in Connecticut"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/1-IMG_2687.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/1-IMG_2687.jpg"
 ---

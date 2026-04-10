@@ -3,6 +3,7 @@ date: '2026-02-06T08:41:16-05:00'
 draft: false
 title: "I Know What I Did Last Weekend"
 author: "Tipa"
+disqusIdentifier: "2026/02/06/i-know-what-i-did-last-weekend-7"
 summary: "Another in the long series of quick bites of games I've played recently."
 categories:
   - "Dune Awakening"
@@ -13,6 +14,19 @@ tags:
   - "Dominus Automa"
   - "goblin vyke"
   - "Seafarer"
+relatedPosts:
+  - url: "/2026/01/24/dominus-automa-an-idle-mmo-for-busy-dads/"
+    title: "Dominus Automa: An Idle MMO for Busy Dads"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/dominusautoma.png"
+  - url: "/2025/12/27/steam-winter-sale-seafarer-the-ship-sim/"
+    title: "Steam Winter Sale: Seafarer, the Ship Sim"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/1-20251226095656_1.jpg"
+  - url: "/2025/11/12/you-had-one-job-dark-quest-4/"
+    title: "You had ONE JOB, Dark Quest 4!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/1-20250610202611_1.jpg"
+  - url: "/2026/02/04/erenshor-rising-shadows-launched/"
+    title: 'Erenshor "Rising Shadows" launched!'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/20260204080313_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/1-20260205205317_1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/1-20260205205317_1.jpg"
 ---

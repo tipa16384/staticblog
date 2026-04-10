@@ -3,6 +3,7 @@ date: '2011-10-12T05:00:25-05:00'
 draft: false
 title: "Daily Blogroll Oct 12: No time for heroes edition"
 author: "Tipa"
+disqusIdentifier: "2011/10/12/daily-blogroll-oct-12-no-time-for-heroes-edition"
 summary: "A few days ago I was trying to define what I thought of as an MMO. I started off thinking it was just a realtime,..."
 categories:
   - "Adventureville"
@@ -11,6 +12,19 @@ categories:
   - "MMORPG"
   - "Star Wars the Old Republic"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2011/10/21/daily-blogroll-oct-21-tanks-for-the-memories-edition/"
+    title: "Daily Blogroll Oct 21: Tanks for the Memories edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/dndclient-2011-10-20-21-19-18-63-480x352.jpg"
+  - url: "/2011/10/20/daily-blogroll-oct-19-time-enough-to-learn-to-swim-edition/"
+    title: "Daily Blogroll Oct 19: Time enough to learn to swim edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/02/ffxivgame-2011-10-18-19-43-58-81-480x234-1.jpg"
+  - url: "/2011/10/11/daily-blogroll-oct-11-cant-break-the-nda-edition/"
+    title: "Daily Blogroll Oct 11: Can't break the NDA edition."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/starwarsguys.jpg"
+  - url: "/2011/05/13/daily-blogroll-513-truth-in-advertising-edition/"
+    title: "Daily Blogroll 5/13: Truth in Advertising Edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/05/Fullscreen-capture-5112011-61851-AM-480x308.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/castleville.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/castleville.png"
 ---

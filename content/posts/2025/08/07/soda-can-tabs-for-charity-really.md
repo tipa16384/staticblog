@@ -3,12 +3,26 @@ date: '2025-08-07T10:02:34-05:00'
 draft: false
 title: "Soda can tabs for charity? REALLY?"
 author: "Tipa"
+disqusIdentifier: "2025/08/07/soda-can-tabs-for-charity-really"
 summary: "Feels like a scam, but apparently this is real. Stupid, but real."
 categories:
   - "Blaugust"
   - "Blaugust 2025"
   - "General"
   - "Real Life"
+relatedPosts:
+  - url: "/2022/08/25/blaugust-2022-introduce-yourself-week/"
+    title: "Blaugust 2022: Introduce Yourself week"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-25-07.44.15-an-illustration-of-a-female-hand-puppet-on-a-stage-in-front-of-a-crowd-of-people.-The-hand-puppet-is-wearing-a-fools-costume-and-has-a-microphone-in-.png"
+  - url: "/2024/08/31/my-california/"
+    title: "My California"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_4623-scaled.jpeg"
+  - url: "/2024/08/29/going-to-california/"
+    title: "Going to California"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_4594-scaled.jpeg"
+  - url: "/2024/08/05/not-gonna-lose-my-blog-again/"
+    title: "Not Gonna Lose My Blog: Backups Saved Me Once and Will Save Me Again"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/3-2-1-Backup-Rule.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5304-scaled.jpeg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5304-scaled.jpeg"
 ---

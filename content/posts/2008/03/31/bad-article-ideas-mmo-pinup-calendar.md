@@ -3,6 +3,7 @@ date: '2008-03-31T08:05:59-05:00'
 draft: false
 title: "Bad article ideas: MMO Pinup Calendar"
 author: "Tipa"
+disqusIdentifier: "2008/03/31/bad-article-ideas-mmo-pinup-calendar"
 summary: "It's been a little over a week since I started blogging over at Massively, and while I am really enjoying myself, I think I still..."
 categories:
   - "City of Heroes"
@@ -14,6 +15,19 @@ categories:
   - "Pirates of the Burning Sea"
   - "Vanguard"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2008/12/24/a-look-back-at-2008/"
+    title: "A look back at 2008"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-30-22-10-50-69.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2008/04/07/the-mmo-nostalgia-challenge/"
+    title: "The MMO Nostalgia Challenge"
+    thumbnailImage: ""
+  - url: "/2008/01/02/great-expectations-2008/"
+    title: "Great Expectations: 2008"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/03/cityofheroes-2008-03-31-00-51-43-33.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/03/cityofheroes-2008-03-31-00-51-43-33.jpg"
 ---

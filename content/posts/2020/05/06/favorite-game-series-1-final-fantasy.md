@@ -3,6 +3,7 @@ date: '2020-05-06T11:23:56-05:00'
 draft: false
 title: "Favorite Game Series #1: Final Fantasy"
 author: "Tipa"
+disqusIdentifier: "2020/05/06/favorite-game-series-1-final-fantasy"
 summary: "There's one game series that stands above all the others, to me. It's the game series that continually redefines itself in each new game and..."
 categories:
   - "Emulators"
@@ -11,6 +12,19 @@ tags:
   - "Favorite Game Series"
   - "Final Fantasy Tactics"
   - "Jrpg"
+relatedPosts:
+  - url: "/2021/08/01/ff1-garland-hero-of-the-empire/"
+    title: "FF1: Garland, Hero of the Empire!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-IMG_0131.jpg"
+  - url: "/2021/11/04/gladius-day-1-gladiators-at-large/"
+    title: "Gladius, Day 1: Gladiators at Large"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/gsdx_20211103184301.png"
+  - url: "/2025/10/19/final-fantasy-tactics-the-ivalice-chronicles-a-retrospective/"
+    title: "Final Fantasy Tactics: The Ivalice Chronicles, a retrospective"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles_20251018225944-scaled.jpg"
+  - url: "/2025/10/06/the-zen-of-final-fantasy-tactics/"
+    title: "The Zen of Final Fantasy Tactics"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles_20251005165514-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/FFFridge.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/FFFridge.png"
 ---

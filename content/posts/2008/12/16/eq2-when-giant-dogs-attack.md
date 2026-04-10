@@ -3,6 +3,7 @@ date: '2008-12-16T08:26:40-05:00'
 draft: false
 title: "EQ2: When giant dogs attack!"
 author: "Tipa"
+disqusIdentifier: "2008/12/16/eq2-when-giant-dogs-attack"
 summary: "I was trying to get a decent screen shot of my new Frostfell quest armor when Buddy brutally attacked! One of Dora's final tasks when..."
 categories:
   - "EverQuest"
@@ -11,6 +12,19 @@ categories:
 tags:
   - "Buddy"
   - "Frostfell"
+relatedPosts:
+  - url: "/2008/10/09/eq2-nostalgia-guild-hall-mania/"
+    title: "EQ2: Nostalgia Guild Hall mania!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/everquest2-2008-10-08-18-05-29-271.jpg"
+  - url: "/2008/12/15/eq2-the-icy-keep-of-lag/"
+    title: "EQ2: The Icy Keep ... of LAG."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/everquest2-2008-12-14-16-56-40-60.jpg"
+  - url: "/2008/12/15/eq-cide-edition-raticide-spearicide-gianticide/"
+    title: "EQ 'Cide edition: Raticide, Spearicide, Gianticide."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/eqgame-2008-12-12-20-34-02-6.jpg"
+  - url: "/2008/12/10/new-everquest-hot-zones-rmt-and-frostfell-missions/"
+    title: "New EverQuest hot zones. RMT, and Frostfell missions"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/eqgame-2008-12-10-08-05-08-12.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/everquest2-2008-12-16-00-45-28-721.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/everquest2-2008-12-16-00-45-28-721.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2009-04-23T07:11:26-05:00'
 draft: false
 title: "Web Log 4/23 -- Too Much News edition"
 author: "Tipa"
+disqusIdentifier: "2009/04/23/web-log-423-too-much-news-edition"
 summary: "Wednesday? Seriously? All these MMO companies, at the same time, said, we're gonna have some big news, and it's gonna come out on a Wednesday?..."
 categories:
   - "Chronicles of Spellborn"
@@ -14,6 +15,19 @@ categories:
   - "MMORPG"
   - "Wizard101"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2009/04/24/web-log-424-friday-is-free-day-edition/"
+    title: "Web Log 4/24 -- Friday is Free Day edition"
+    thumbnailImage: "http://www.penny-arcade.com/images/2009/20090424.jpg"
+  - url: "/2009/05/28/daily-blogroll-528-no-funny-name-episode/"
+    title: "Daily Blogroll 5/28 -- No funny name episode"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/makinghay.jpg"
+  - url: "/2009/05/06/daily-blogroll-56-tempests-and-teapots-edition/"
+    title: "Daily Blogroll 5/6 -- Tempests and Teapots edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/fullscreen-capture-562009-125235-am.jpg"
+  - url: "/2009/05/04/daily-blogroll-54-dragon-claw-style-edition/"
+    title: "Daily Blogroll 5/4 -- Dragon Claw Style edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/dragonclawstyle1.jpg"
 ---
 Wednesday? Seriously? All these MMO companies, at the same time, said, we're gonna have some big news, and it's gonna come out on a Wednesday?...
 <!--more-->

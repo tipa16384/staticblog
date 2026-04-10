@@ -3,9 +3,23 @@ date: '2008-03-21T11:04:34-05:00'
 draft: false
 title: "Temple of the Roguelike: How did I miss THIS?"
 author: "Tipa"
+disqusIdentifier: "2008/03/21/temple-of-the-roguelike-how-did-i-miss-this"
 summary: "Back in the early 80s, I was too totally proud of my roguelike, real-time dungeon crawl game imaginatively named TG (The Game, clever, huh?), which..."
 categories:
   - "Other Games"
+relatedPosts:
+  - url: "/2025/08/06/la-brute-battles-royale-and-warring-guilds/"
+    title: "La Brute: Battles Royale and Warring Guilds"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/LaBrute.png"
+  - url: "/2025/07/10/frosthaven-scenario-14-jagged-shoals/"
+    title: "Frosthaven Scenario 14: Jagged Shoals"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/07/IMG_5225-scaled.jpg"
+  - url: "/2024/11/21/dragon-age-the-veilguard-finished/"
+    title: "Dragon Age: the Veilguard finished"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/banner2.png"
+  - url: "/2024/11/09/dragon-age-the-veilguard-is-not-the-game-you-think-it-is/"
+    title: "Dragon Age: The Veilguard is not the game you think it is"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/davg-banner.png"
 ---
 Back in the early 80s, I was too totally proud of my roguelike, real-time dungeon crawl game imaginatively named TG (The Game, clever, huh?), which...
 <!--more-->

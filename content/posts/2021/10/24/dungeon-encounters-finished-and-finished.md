@@ -3,6 +3,7 @@ date: '2021-10-24T17:27:23-05:00'
 draft: false
 title: "Dungeon Encounters: Finished and finished."
 author: "Tipa"
+disqusIdentifier: "2021/10/24/dungeon-encounters-finished-and-finished"
 summary: "Everyone says that this game has no story and all the characters are the same and once you've played the first few levels, you've seen..."
 categories:
   - "Dungeon Encounters"
@@ -14,6 +15,19 @@ categories:
 tags:
   - "Square-Enix"
   - "Steam"
+relatedPosts:
+  - url: "/2021/10/18/dungeon-encounters-for-those-who-skip-cutscenes/"
+    title: "Dungeon Encounters: For Those Who Skip Cutscenes"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/DUNGEON-ENCOUNTERS_20211016205159-scaled.jpg"
+  - url: "/2021/07/23/dcuo-reboots-itself-with-house-of-legends/"
+    title: "DCUO Reboots itself with House of Legends"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/batman-joker-collaborations_auto_x2.jpg"
+  - url: "/2021/01/12/does-dcuo-on-the-switch-make-any-sense/"
+    title: "Does DCUO on the Switch make any sense?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/01/2021011212024200-57B4628D2267231D57E0FC1078C0596D.jpg"
+  - url: "/2021/11/02/quick-look-pawnbarian/"
+    title: "Quick Look: Pawnbarian"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/20211102204800_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/DUNGEON-ENCOUNTERS_20211024130131-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/DUNGEON-ENCOUNTERS_20211024130131-scaled.jpg"
 ---

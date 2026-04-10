@@ -3,6 +3,7 @@ date: '2008-11-08T08:41:02-05:00'
 draft: false
 title: "EQ: The Attack of the Killer Bees"
 author: "Tipa"
+disqusIdentifier: "2008/11/08/eq-the-attack-of-the-killer-bees"
 summary: "The plan was to go to some experience hot zone last night for Nostalgia's weekly meet-up. But Mantis decided to just farm some of the..."
 categories:
   - "EverQuest"
@@ -10,6 +11,19 @@ categories:
   - "Nostalgia the Guild"
 tags:
   - "Bastion of Thunder"
+relatedPosts:
+  - url: "/2008/10/25/eq-the-bastion-of-thunder/"
+    title: "EQ: The Bastion of Thunder"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-25-07-09-32-24.jpg"
+  - url: "/2020/05/13/everquest-bones-everywhere/"
+    title: "EverQuest: Bones Everywhere."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/eqgame-2020-05-13-06-57-41-85.jpg"
+  - url: "/2009/06/16/welcome-to-mayong-everquests-5150-server/"
+    title: "Welcome to Mayong, EverQuest's 51/50 server"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/mayong.jpg"
+  - url: "/2009/04/17/happy-10th-birthday-everquest/"
+    title: "Happy 10th Birthday, EverQuest!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/eq10-2.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/eqgame-2008-11-07-22-07-08-71.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/eqgame-2008-11-07-22-07-08-71.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2012-02-11T20:56:38-05:00'
 draft: false
 title: "STO: \"The 2800\" episode 1 -- Second Wave"
 author: "Tipa"
+disqusIdentifier: "2012/02/11/sto-the-2800-episode-1-second-wave"
 summary: "[..."
 categories:
   - "MMORPG"
@@ -14,6 +15,19 @@ tags:
   - "Federation News Service"
   - "Fns"
   - "Jem'hadar"
+relatedPosts:
+  - url: "/2012/02/06/star-trek-online-the-2800-return-this-weekend/"
+    title: "Star Trek Online: The 2800 Return this weekend"
+    thumbnailImage: ""
+  - url: "/2011/03/06/star-trek-online-fe305-cut-the-cord-spoilers/"
+    title: "Star Trek Online FE305: Cutting the Cord (spoilers)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/GameClient-2011-03-05-13-52-30-97-480x324.jpg"
+  - url: "/2010/09/04/star-trek-online-out-in-the-cold-spoilers/"
+    title: "Star Trek Online: Out in the Cold (spoilers)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/GameClient-2010-09-04-14-10-31-72-480x269.jpg"
+  - url: "/2011/02/21/star-trek-online-fe303-frozen-spoilers/"
+    title: "Star Trek Online FE303: Frozen (Spoilers)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-19-13-57-38-51-480x326.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/02/GameClient-2012-02-11-13-28-15-41-480x208.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/02/GameClient-2012-02-11-13-28-15-41-480x208.jpg"
 ---

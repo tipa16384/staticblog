@@ -3,6 +3,7 @@ date: '2025-08-30T16:49:36-05:00'
 draft: false
 title: "Dune Awakening: We finally got ganked"
 author: "Tipa"
+disqusIdentifier: "2025/08/30/dune-awakening-we-finally-got-ganked"
 summary: "Dune: Awakening is a PvP game, and our base was in a PvP area, so it wasn't entirely unexpected..."
 categories:
   - "Blaugust"
@@ -11,6 +12,19 @@ categories:
   - "MMORPG"
 tags:
   - "PvP"
+relatedPosts:
+  - url: "/2025/08/17/dune-awakening-roc-music/"
+    title: "Dune: Awakening -- Roc Music"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/dunecarrier.png"
+  - url: "/2025/08/04/i-know-what-i-did-last-weekend-5/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/bewarethesandworm.png"
+  - url: "/2025/08/02/dune-awakening-fishing-for-sandtrout/"
+    title: "Dune Awakening: Fishing for Sandtrout"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/fishingforsandtrout.png"
+  - url: "/2025/08/29/i-guess-i-suck-at-this-whole-blaugust-thing/"
+    title: "I guess I suck at this whole Blaugust thing"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/arcaniststage.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/20250830103401_1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/20250830103401_1.jpg"
 ---

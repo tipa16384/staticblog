@@ -3,6 +3,7 @@ date: '2021-07-27T00:38:19-05:00'
 draft: false
 title: "DCUO: New Player Experience"
 author: "Tipa"
+disqusIdentifier: "2021/07/27/dcuo-new-player-experience"
 summary: "I like my main character, Teal Green, just fine. Well, most of the time. She started out as a hard light controller -- a deputy..."
 categories:
   - "MMORPG"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "DC Universe Online"
   - "Steam"
+relatedPosts:
+  - url: "/2021/07/23/dcuo-reboots-itself-with-house-of-legends/"
+    title: "DCUO Reboots itself with House of Legends"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/batman-joker-collaborations_auto_x2.jpg"
+  - url: "/2021/01/12/does-dcuo-on-the-switch-make-any-sense/"
+    title: "Does DCUO on the Switch make any sense?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/01/2021011212024200-57B4628D2267231D57E0FC1078C0596D.jpg"
+  - url: "/2021/03/31/valheim-friends-in-the-afterlife/"
+    title: "Valheim: Friends in the Afterlife"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/03/10-20210329072158_1.jpg"
+  - url: "/2021/08/26/dcuo-house-of-legends-is-live/"
+    title: "DCUO: House of Legends is LIVE!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/avatarofmeta.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/1-20210725214657_1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/1-20210725214657_1.jpg"
 ---

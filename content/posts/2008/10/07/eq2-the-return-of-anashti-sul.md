@@ -3,6 +3,7 @@ date: '2008-10-07T08:40:20-05:00'
 draft: false
 title: "EQ2: The return of Anashti Sul?"
 author: "Tipa"
+disqusIdentifier: "2008/10/07/eq2-the-return-of-anashti-sul"
 summary: "The EverQuest 2 GU48 world quest deals with, from the evil side, anyway, discovering who is responsible for the death of a Qeynosian Seeress who..."
 categories:
   - "EverQuest"
@@ -16,6 +17,19 @@ tags:
   - "Gu49"
   - "The Shadow Odyssey"
   - "The Void"
+relatedPosts:
+  - url: "/2008/10/07/eq2-gu49-live/"
+    title: "EQ2: GU49 live!"
+    thumbnailImage: ""
+  - url: "/2008/10/08/eq2-cloth-vests-mean-more-fashion-choices-for-casters/"
+    title: "EQ2: Cloth vests mean more fashion choices for casters"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/everquest2-2008-10-08-07-37-27-60.jpg"
+  - url: "/2008/09/17/eq2-gu-49-test-patch-notes-commentary/"
+    title: "EQ2: GU 49 Test patch notes commentary"
+    thumbnailImage: ""
+  - url: "/2008/09/22/eq2-najena-preview/"
+    title: "EQ2: Najena preview"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/ironforge.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/everquest2-2008-10-06-22-41-21-45.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/everquest2-2008-10-06-22-41-21-45.jpg"
 ---

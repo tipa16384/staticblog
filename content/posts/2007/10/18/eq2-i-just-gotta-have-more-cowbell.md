@@ -3,6 +3,7 @@ date: '2007-10-18T07:34:00-05:00'
 draft: false
 title: "EQ2: I just gotta have more cowbell"
 author: "Tipa"
+disqusIdentifier: "2007/10/18/eq2-i-just-gotta-have-more-cowbell"
 summary: "Very quick note on Live Update 39, will do more tonight......"
 categories:
   - "EverQuest"
@@ -15,6 +16,19 @@ tags:
   - "EverQuest II"
   - "Fear"
   - "Kunark"
+relatedPosts:
+  - url: "/2007/12/01/eq2-healing-the-crypt-of-agony/"
+    title: "EQ2: Healing the Crypt of Agony"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-01-01-47-14-26.jpg"
+  - url: "/2007/12/04/eq2-guild-drama-i-love-it/"
+    title: "EQ2: Guild drama -- I love it!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/8ac5382a5461aad117091694e4b83233.jpg"
+  - url: "/2024/05/04/everquest-ii-goes-retro-with-anashti-sul/"
+    title: "EverQuest II goes retro with Anashti Sul"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/anashtisul.jpg"
+  - url: "/2008/10/09/eq2-nostalgia-guild-hall-mania/"
+    title: "EQ2: Nostalgia Guild Hall mania!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/everquest2-2008-10-08-18-05-29-271.jpg"
 ---
 Very quick note on Live Update 39, will do more tonight......
 <!--more-->

@@ -3,6 +3,7 @@ date: '2021-08-12T23:42:37-05:00'
 draft: false
 title: "The Most Interesting MMO in the USA, Part Deux."
 author: "Tipa"
+disqusIdentifier: "2021/08/12/the-most-interesting-mmo-in-the-usa-part-deux"
 summary: "I've just spent the entire night with my hands deep in the guts of the Google Trends API and the Python package that calls it...."
 categories:
   - "Blaugust"
@@ -12,6 +13,19 @@ tags:
   - "Python"
   - "Pytrends"
   - "Runescape"
+relatedPosts:
+  - url: "/2021/08/11/the-most-interesting-game-of-all-time/"
+    title: "The Most Interesting Game of All Time!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/runescape-20-years.jpg"
+  - url: "/2021/08/13/okay-the-full-list-of-interesting-games/"
+    title: "Okay -- the FULL LIST of Interesting Games!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/supermechachampions.jpg"
+  - url: "/2021/09/01/resurrecting-west-karana/"
+    title: "Resurrecting West Karana"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/b0d5f94a61f128683568fec95571fa8e.jpg"
+  - url: "/2025/03/17/sword-for-hire-vertical-slice-vibe-coding/"
+    title: "Sword for Hire: Vertical Slice &amp; Vibe Coding"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/swordforhiremap.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/RuneScape_Android_Screen_4.0.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/RuneScape_Android_Screen_4.0.jpg"
 ---

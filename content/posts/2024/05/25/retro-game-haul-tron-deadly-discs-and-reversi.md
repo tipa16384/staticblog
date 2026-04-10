@@ -3,6 +3,7 @@ date: '2024-05-25T17:18:51-05:00'
 draft: false
 title: "Retro Game Haul: Tron Deadly Discs and Reversi"
 author: "Tipa"
+disqusIdentifier: "2024/05/25/retro-game-haul-tron-deadly-discs-and-reversi"
 summary: "The sale of the Intellivision brand to the Atari brand means it's finally legal for me to play Intellivision games after only 40 years."
 categories:
   - "Console Game"
@@ -15,6 +16,19 @@ tags:
   - "Othello"
   - "Retroarch"
   - "Tron"
+relatedPosts:
+  - url: "/2010/12/04/gimme-some-space-star-trek-online-pirate-galaxy-space-paranoids/"
+    title: "Gimme Some Space: Star Trek Online, Pirate Galaxy, Space Paranoids"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/GameClient-2010-12-03-23-16-18-04-480x384.jpg"
+  - url: "/2022/07/04/dark-stone-retroarch-and-steam/"
+    title: "Dark Stone, Retroarch, and Steam."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/IMG_2596-scaled.jpg"
+  - url: "/2024/03/30/retro-game-haul-march-30-2024/"
+    title: "Retro Game Haul: March 30, 2024"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/IMG_4228.jpg"
+  - url: "/2024/05/24/george-plimpton-has-risen-from-his-grave/"
+    title: "George Plimpton Has Risen from His Grave"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/plimpton.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/trondeadlydisks.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/trondeadlydisks.png"
 ---

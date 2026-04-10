@@ -3,6 +3,7 @@ date: '2010-04-23T06:50:30-05:00'
 draft: false
 title: "Assault on the In Box, Friday edition"
 author: "Tipa"
+disqusIdentifier: "2010/04/23/assault-on-the-in-box-friday-edition"
 summary: "Lots of people really do ask me what I DO in EverQuest? Truth be told, most of the time I am either working on my..."
 categories:
   - "Aion"
@@ -12,6 +13,19 @@ categories:
   - "EverQuest"
   - "MMORPG"
   - "Shin Megami Tensei"
+relatedPosts:
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/10/09/daily-blogroll-1010-short-week-edition/"
+    title: "Daily Blogroll 10/10: Short Week edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/fox1-480x252.jpg"
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2009/09/23/daily-blogroll-923-all-queued-up-edition/"
+    title: "Daily Blogroll 9/23 - All Queued Up Edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/yankee.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/eqgame-2010-04-10-20-48-38-69.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/eqgame-2010-04-10-20-48-38-69.jpg"
 ---

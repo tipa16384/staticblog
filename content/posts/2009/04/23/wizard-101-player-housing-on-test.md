@@ -3,6 +3,7 @@ date: '2009-04-23T01:24:47-05:00'
 draft: false
 title: "Wizard 101 Player Housing ON TEST!"
 author: "Tipa"
+disqusIdentifier: "2009/04/23/wizard-101-player-housing-on-test"
 summary: "Welcome to my island!..."
 categories:
   - "MMORPG"
@@ -11,6 +12,19 @@ tags:
   - "Marleybone"
   - "Player Housing"
   - "Wizard City"
+relatedPosts:
+  - url: "/2008/10/13/w101-halloween-in-wizard-city-and-october-patch-notes/"
+    title: "W101: Hallowe'en in Wizard City (and October patch notes)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-12-17-08-57-87.jpg"
+  - url: "/2009/06/30/exclusive-wizard-101-wallpaper/"
+    title: "*EXCLUSIVE* Wizard 101 wallpaper!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/wc_wallpaper_small.jpg"
+  - url: "/2009/06/04/catching-up-with-wizard-101/"
+    title: "Catching up with Wizard 101"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/wizardgraphicalclient-2009-06-04-20-24-30-91.jpg"
+  - url: "/2009/05/07/wizard-101-housing-slump-what-housing-slump/"
+    title: "Wizard 101: Housing slump? What housing slump?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/wizardgraphicalclient-2009-05-06-20-24-33-56.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/wizardgraphicalclient-2009-04-23-01-13-36-76.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/wizardgraphicalclient-2009-04-23-01-13-36-76.jpg"
 ---

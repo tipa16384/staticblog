@@ -3,12 +3,26 @@ date: '2009-09-21T07:01:27-05:00'
 draft: false
 title: "Quick Updates: Runes of Magic, EVE Online, EverQuest II"
 author: "Tipa"
+disqusIdentifier: "2009/09/21/quick-updates-runes-of-magic-eve-online-everquest-ii"
 summary: "I'm really enjoying Runes of Magic. When I first saw screenshots for the game a year and a half ago, I called it a WoW..."
 categories:
   - "EVE Online"
   - "EverQuest"
   - "MMORPG"
   - "Runes of Magic"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2010/05/08/assault-on-the-inbox-may-7-2010/"
+    title: "Assault on the Inbox: May 7, 2010"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/stochair.jpg"
+  - url: "/2009/09/17/daily-blogroll-917-kanye-edition/"
+    title: "Daily Blogroll 9/17 - Kanye edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/kanye.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/Client-2009-09-20-18-43-52-25.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/Client-2009-09-20-18-43-52-25.jpg"
 ---

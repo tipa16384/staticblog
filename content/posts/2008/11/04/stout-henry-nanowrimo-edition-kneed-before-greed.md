@@ -3,6 +3,7 @@ date: '2008-11-04T08:00:37-05:00'
 draft: false
 title: "Stout Henry, NaNoWriMo edition: Kneed Before Greed"
 author: "Tipa"
+disqusIdentifier: "2008/11/04/stout-henry-nanowrimo-edition-kneed-before-greed"
 summary: "In honor of my friends and fellow bloggers either taking part in the National Novel Writing Month (NaNoWriMo) or just writing for the pleasure of..."
 categories:
   - "Humor"
@@ -11,6 +12,19 @@ categories:
 tags:
   - "Kneed Before Greed"
   - "Stout Henry"
+relatedPosts:
+  - url: "/2008/10/17/the-death-of-stout-henry/"
+    title: "The Death of Stout Henry"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/gallows.jpg"
+  - url: "/2008/10/08/stout-henry-goes-to-war/"
+    title: "Stout Henry goes to war"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/vgclient-2008-10-07-20-41-55-41.jpg"
+  - url: "/2008/08/26/stout-henry-at-the-market/"
+    title: "Stout Henry at the Market"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/market2.jpg"
+  - url: "/2008/08/21/stout-henry/"
+    title: "Stout Henry"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/stouthenry.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/stouthenrynbg.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/stouthenrynbg.jpg"
 ---

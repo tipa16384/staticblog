@@ -3,6 +3,7 @@ date: '2024-08-17T07:00:00-05:00'
 draft: false
 title: "La Brute: You should totally join my clan"
 author: "Tipa"
+disqusIdentifier: "2024/08/17/la-brute-you-should-totally-join-my-clan"
 summary: "This game was super popular 15 years ago but you should play it now."
 categories:
   - "Blaugust"
@@ -11,6 +12,19 @@ categories:
   - "Other Games"
 tags:
   - "My Brute"
+relatedPosts:
+  - url: "/2025/08/06/la-brute-battles-royale-and-warring-guilds/"
+    title: "La Brute: Battles Royale and Warring Guilds"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/LaBrute.png"
+  - url: "/2009/06/11/dont-bring-a-knife-to-a-hammer-fight-jack-sparrow/"
+    title: "Don't bring a knife to a HAMMER fight, Jack Sparrow!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/fullscreen-capture-6112009-72334-am.jpg"
+  - url: "/2024/08/11/worshippers-of-cthulhu-the-demo/"
+    title: "Worshippers of Cthulhu: the Demo"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/cthulhu.png"
+  - url: "/2024/09/02/blaugust-2024-is-in-the-bag/"
+    title: "Blaugust 2024 is in the bag!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/07/blaugust-2024.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/labrute.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/labrute.png"
 ---

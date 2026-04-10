@@ -3,6 +3,7 @@ date: '2007-12-02T09:45:15-05:00'
 draft: false
 title: "Jethro Tull, Wallingford, CT - 12/1/07"
 author: "Tipa"
+disqusIdentifier: "2007/12/02/jethro-tull-wallingford-ct-12107"
 summary: "I have this weird idea that if I've ever driven somewhere once, I'll always be able to find my way there again, no maps needed...."
 categories:
   - "General"
@@ -12,6 +13,19 @@ tags:
   - "Ian Anderson"
   - "Jethro Tull"
   - "Locomotive Breath"
+relatedPosts:
+  - url: "/2007/11/30/tomorrow-i-must-remember-to-bring-the-aqualung/"
+    title: "Tomorrow: I must remember to bring the aqualung."
+    thumbnailImage: ""
+  - url: "/2025/11/01/quick-reviews/"
+    title: "Quick Reviews"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/winterburrow.png"
+  - url: "/2025/08/07/soda-can-tabs-for-charity-really/"
+    title: "Soda can tabs for charity? REALLY?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5304-scaled.jpeg"
+  - url: "/2024/12/17/billionaire-rapture/"
+    title: "Billionaire Rapture"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/DALL·E-2024-12-17-00.14.48-A-surreal-science-fiction-book-cover-for-a-short-story-titled-Billionaire-Rapture.-The-scene-depicts-a-futuristic-dramatic-setting-in-space-and-on-.webp"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/stp60784.JPG"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/stp60784.JPG"
 ---

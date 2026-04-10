@@ -3,6 +3,7 @@ date: '2009-04-17T05:53:24-05:00'
 draft: false
 title: "Weblog 4/17"
 author: "Tipa"
+disqusIdentifier: "2009/04/17/weblog-417"
 summary: "Play Wizard 101? Want a rare treasure card? Calamity Boompants will be on the Pixie realm, in Area 1, between 2 and 2:30 PM CST..."
 categories:
   - "Chronicles of Spellborn"
@@ -11,6 +12,19 @@ categories:
 tags:
   - "The Pirate Bay"
   - "Twitter"
+relatedPosts:
+  - url: "/2009/03/06/acclaim-spellborn-client-available-for-download/"
+    title: "Acclaim Spellborn client available for download"
+    thumbnailImage: ""
+  - url: "/2009/07/01/daily-blogroll-71-mmo-overload-edition/"
+    title: "Daily Blogroll 7/1 - MMO Overload edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/l2pmode.jpg"
+  - url: "/2023/08/02/speedrunning-the-apocalypse/"
+    title: "Speedrunning the Apocalypse"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/DALL·E-2023-08-01-22.15.05-1990s-era-CGI-render-of-a-wooly-mammoth-running-along-a-road-left-to-right-with-a-giant-fireball-destroying-Silicon-Valley-in-the-background.png"
+  - url: "/2022/09/26/my-one-sided-argument-with-raid-shadow-legends-marketing-department/"
+    title: "My One-Sided Argument with Raid: Shadow Legend's Marketing Department"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-26-18.24.24-digital-art-Raid-Shadow-Legends.png"
 ---
 Play Wizard 101? Want a rare treasure card? Calamity Boompants will be on the Pixie realm, in Area 1, between 2 and 2:30 PM CST...
 <!--more-->

@@ -3,6 +3,7 @@ date: '2008-11-20T01:14:40-05:00'
 draft: false
 title: "How far would I go to play Spellborn?"
 author: "Tipa"
+disqusIdentifier: "2008/11/20/how-far-would-i-go-to-play-spellborn"
 summary: "Would I order the mainland European version of the game from Amazon Europe? And pay extra for the collector's edition?..."
 categories:
   - "Chronicles of Spellborn"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Collector's Edition"
   - "The Chronicles of Spellborn"
+relatedPosts:
+  - url: "/2021/07/22/new-world-fomo-or-fotm/"
+    title: "New World: FOMO or FOTM?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/GameClient-2014-12-06-11-09-05-59.jpg"
+  - url: "/2008/07/23/spellborn-vs-runes-of-magic-cage-match/"
+    title: "Spellborn vs Runes of Magic CAGE MATCH"
+    thumbnailImage: ""
+  - url: "/2024/10/13/october-retro-finds/"
+    title: "October retro finds!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/IMG_4727-scaled.jpeg"
+  - url: "/2015/07/02/some-trufen-managed-to-re/"
+    title: "Spellborn... reborn?"
+    thumbnailImage: "https://lh6.googleusercontent.com/proxy/vBKKuw4kyr3h6Ct92g-leX2lvulYLG8VtWObZxpRG3wNupQeekWxqKtqcOypKIB_CMp9gMCmeDHiXRs9qUjB7Q=w506-h284-n"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/bestellung.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/bestellung.jpg"
 ---

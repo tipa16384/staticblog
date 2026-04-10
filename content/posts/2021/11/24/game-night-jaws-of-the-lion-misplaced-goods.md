@@ -3,6 +3,7 @@ date: '2021-11-24T10:25:52-05:00'
 draft: false
 title: "Game Night: Jaws of the Lion, \"Misplaced Goods\""
 author: "Tipa"
+disqusIdentifier: "2021/11/24/game-night-jaws-of-the-lion-misplaced-goods"
 summary: "Our Jaws of the Lion campaign continues. We're nearing the end, and all of our characters have gotten their late game power ups. We're clearing..."
 categories:
   - "Game Night"
@@ -12,6 +13,19 @@ tags:
   - "Jaws of the Lion"
   - "Misplaced Goods"
   - "Missing Goods"
+relatedPosts:
+  - url: "/2020/09/11/game-night-jaws-of-the-lion-the-black-ship/"
+    title: "Game Night: Jaws of the Lion, the Black Ship"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/1-IMG_1908.jpg"
+  - url: "/2020/08/14/game-night-gloomhaven-jaws-of-the-lion/"
+    title: "Game Night: Gloomhaven, Jaws of the Lion"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-IMG_1822.jpg"
+  - url: "/2022/07/19/gloomhaven-jaws-of-the-lion-finished/"
+    title: "Gloomhaven Jaws of the Lion: Finished."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/jotlbox.png"
+  - url: "/2021/10/10/game-night-jotl-the-heist-and-the-message/"
+    title: 'Game Night: JotL "The Heist" and "The Message"'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/1-IMG_2350.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/IMG_2383_resized.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/IMG_2383_resized.jpg"
 ---

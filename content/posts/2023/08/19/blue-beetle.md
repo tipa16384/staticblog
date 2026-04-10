@@ -3,6 +3,7 @@ date: '2023-08-19T07:00:00-05:00'
 draft: false
 title: "Blue Beetle"
 author: "Tipa"
+disqusIdentifier: "2023/08/19/blue-beetle"
 summary: "It's a superhero movie that says \"Family!\" more times than Dom Toretto on a bender. Worth your time?"
 categories:
   - "Blaugust"
@@ -11,6 +12,19 @@ categories:
   - "NFT"
 tags:
   - "Blue Beetle"
+relatedPosts:
+  - url: "/2023/02/10/if-a-buy-an-nft-that-art-is-mine-now-right/"
+    title: "If I buy an NFT, that art is mine now. Right?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/02/mylantern.png"
+  - url: "/2023/01/27/no-kidding-i-bought-and-sold-an-nft/"
+    title: "No kidding: I bought (and sold) an NFT."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/01/futurestatewonderwoman1.jpg"
+  - url: "/2024/07/13/blaugust-2024-and-dc-heroes-united/"
+    title: "Blaugust 2024 and DC Heroes United"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/07/dcunited.jpg"
+  - url: "/2023/08/31/the-final-days-of-blaugust/"
+    title: "The final days of Blaugust"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/solongblaugust.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/blue_beetle_movie_costume_concept_art.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/blue_beetle_movie_costume_concept_art.jpg"
 ---

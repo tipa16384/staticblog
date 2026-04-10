@@ -3,6 +3,7 @@ date: '2023-12-26T07:00:39-05:00'
 draft: false
 title: "Pokémon Advent Calendar 2023"
 author: "Tipa"
+disqusIdentifier: "2023/12/26/pokemon-advent-calendar-2023"
 summary: "I had fun with my little Pokémons this Advent season :-) Thanks to my love, Kasul, for all the brightness he brings to my life..."
 categories:
   - "General"
@@ -10,6 +11,19 @@ tags:
   - "Advent"
   - "Advent Calendar"
   - "Pokemon"
+relatedPosts:
+  - url: "/2025/12/15/i-know-what-i-did-last-weekend-6/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/IMG_5573-scaled.jpg"
+  - url: "/2025/11/21/pokemon-legends-z-a-rolls-credits/"
+    title: "Pokémon Legends: Z-A rolls credits"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/2025112021391100-D30A1E83A76029FCCC1E3AC4EF5B7C89L.jpg"
+  - url: "/2025/10/23/its-the-end-of-year-new-console-extravaganza/"
+    title: "It's the end of year, new console extravaganza"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/IMG_5433-EDIT-scaled.jpg"
+  - url: "/2025/10/01/i-cancelled-my-pokemon-tcg-pocket-premium-subscription/"
+    title: "I cancelled my Pokémon TCG Pocket premium subscription"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/IMG_5411.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/pokemonadventcalendar-1.webp"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/pokemonadventcalendar-1.webp"
 ---

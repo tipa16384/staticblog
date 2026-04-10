@@ -3,6 +3,7 @@ date: '2008-08-21T01:00:48-05:00'
 draft: false
 title: "Stout Henry"
 author: "Tipa"
+disqusIdentifier: "2008/08/21/stout-henry"
 summary: "This is a story about Stout Henry, an average citizen of an average land, doing the average things one might do, in a land far..."
 categories:
   - "Humor"
@@ -11,6 +12,19 @@ categories:
 tags:
   - "Not Funny"
   - "Stout Henry"
+relatedPosts:
+  - url: "/2008/08/26/stout-henry-at-the-market/"
+    title: "Stout Henry at the Market"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/market2.jpg"
+  - url: "/2008/11/04/stout-henry-nanowrimo-edition-kneed-before-greed/"
+    title: "Stout Henry, NaNoWriMo edition: Kneed Before Greed"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/stouthenrynbg.jpg"
+  - url: "/2008/10/17/the-death-of-stout-henry/"
+    title: "The Death of Stout Henry"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/gallows.jpg"
+  - url: "/2008/10/08/stout-henry-goes-to-war/"
+    title: "Stout Henry goes to war"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/vgclient-2008-10-07-20-41-55-41.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/stouthenry.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/stouthenry.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2010-07-02T06:52:02-05:00'
 draft: false
 title: "Assault on the Inbox: Independence Day Edition"
 author: "Tipa"
+disqusIdentifier: "2010/07/02/assault-on-the-inbox-independence-day-edition"
 summary: "Exciting MMO news lands in my inbox; I pass it along...."
 categories:
   - "Aion"
@@ -11,6 +12,19 @@ categories:
   - "MMORPG"
   - "Runes of Magic"
   - "Star Trek"
+relatedPosts:
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/09/17/daily-blogroll-917-kanye-edition/"
+    title: "Daily Blogroll 9/17 - Kanye edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/kanye.jpg"
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2010/05/08/assault-on-the-inbox-may-7-2010/"
+    title: "Assault on the Inbox: May 7, 2010"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/stochair.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/GameClient-2010-06-29-20-37-53-38.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/GameClient-2010-06-29-20-37-53-38.jpg"
 ---

@@ -3,11 +3,25 @@ date: '2010-04-15T06:38:07-05:00'
 draft: false
 title: "IP-based MMOs: Part 1 (of 5)"
 author: "Tipa"
+disqusIdentifier: "2010/04/15/ip-based-mmos-part-1-of-5"
 summary: "Basing your MMORPG on an existing property can be an easy way to get attention for your new game and tap into a base of..."
 categories:
   - "Age of Conan"
   - "Champions Online"
   - "MMORPG"
+relatedPosts:
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/08/27/daily-blogroll-827-curioser-and-curioser-edition/"
+    title: "Daily Blogroll 8/27 -- Curioser and curioser edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/w101alice.jpg"
+  - url: "/2009/05/19/daily-blogroll-519-black-lung-edition/"
+    title: "Daily Blogroll 5/19 -- Black Lung edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/exefile-2009-05-18-23-31-07-25.jpg"
+  - url: "/2009/04/27/web-log-427-the-calm-before-the-storm-edition/"
+    title: "Web log 4/27 -- the Calm Before the Storm edition"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/at_screenshot_04_tn-225x225.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/at_screenshot_04_tn-225x225.jpg"
 ---

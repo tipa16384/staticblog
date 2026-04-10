@@ -3,6 +3,7 @@ date: '2024-04-29T07:53:52-05:00'
 draft: false
 title: "The Nightmare of Druaga (PS2)"
 author: "Tipa"
+disqusIdentifier: "2024/04/29/the-nightmare-of-druaga-ps2"
 summary: "It's a roguelike, it's the next chapter in TWO long running game series... but is it any good?"
 categories:
   - "PS2"
@@ -12,6 +13,19 @@ tags:
   - "Mystery Dungeon"
   - "Rogue"
   - "The Nightmare of Druaga"
+relatedPosts:
+  - url: "/2024/08/13/breakhack-fight-die-repeat/"
+    title: "Breakhack: Fight, Die, Repeat"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/1-20240812215759_1.jpg"
+  - url: "/2023/08/09/games-that-defined-me-part-1/"
+    title: "Games That Defined Me (Part 1)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/gamesthatdefinedme.png"
+  - url: "/2021/11/01/quick-look-unexplored-2/"
+    title: "Quick Look: Unexplored 2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/mainmenu.png"
+  - url: "/2020/10/27/rogue-the-original-rogue-like/"
+    title: "Rogue -- the original rogue-like"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/roguebanner.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/Nightmare-of-Druaga_SLUS-21071_20240421183241.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/Nightmare-of-Druaga_SLUS-21071_20240421183241.jpg"
 ---

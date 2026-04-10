@@ -3,6 +3,7 @@ date: '2024-11-09T09:48:52-05:00'
 draft: false
 title: "Dragon Age: The Veilguard is not the game you think it is"
 author: "Tipa"
+disqusIdentifier: "2024/11/09/dragon-age-the-veilguard-is-not-the-game-you-think-it-is"
 summary: "But maybe the Dragon Age series has always been like this..."
 categories:
   - "Action RPG"
@@ -13,6 +14,19 @@ tags:
   - "Dragon Age"
   - "The Veilguard"
   - "Treasure"
+relatedPosts:
+  - url: "/2024/11/21/dragon-age-the-veilguard-finished/"
+    title: "Dragon Age: the Veilguard finished"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/banner2.png"
+  - url: "/2024/11/14/dragon-age-saboteur/"
+    title: "Dragon Age: Saboteur"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/1-20241113215345_1.jpg"
+  - url: "/2024/12/30/best-of-2024-single-player-rpgs/"
+    title: "Best of 2024: Single-Player RPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/bestrpgbanner.png"
+  - url: "/2010/09/07/dragon-age-awakening-good-but-bioware-good/"
+    title: "Dragon Age: Awakening. Good, but Bioware-good?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/DAOrigins-2010-09-05-14-28-18-23-480x385.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/davg-banner.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/davg-banner.png"
 ---

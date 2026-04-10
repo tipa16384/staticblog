@@ -3,6 +3,7 @@ date: '2011-01-14T06:00:42-05:00'
 draft: false
 title: "Daily Blogroll 1/14 -- Old Character's Home edition"
 author: "Tipa"
+disqusIdentifier: "2011/01/14/daily-blogroll-114-old-characters-home-edition"
 summary: "[..."
 categories:
   - "MMORPG"
@@ -10,6 +11,19 @@ categories:
   - "Star Trek"
   - "Wizard101"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2011/01/05/daily-blogroll-15-epic-win-edition/"
+    title: "Daily Blogroll 1/5 - Epic Win edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/chrome-2010-10-31-09-17-11-35-480x304.jpg"
+  - url: "/2010/12/29/daily-blogroll-1229-super-duper-edition/"
+    title: "Daily Blogroll 12/29: Super Duper edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/dcuo.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/openmike-480x270.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/openmike-480x270.png"
 ---

@@ -3,10 +3,24 @@ date: '2015-02-02T12:43:03-05:00'
 draft: false
 title: "Guild Wars 2: Team Spode invades GW2!"
 author: "Tipa"
+disqusIdentifier: "2015/02/02/guild-wars-2team-spode-took-its-first-steps-into-guild-wars-2-this-was-always-going-to-be-a-stretch"
 summary: "Guild Wars 2:..."
 categories:
   - "Guild Wars"
   - "MMORPG"
+relatedPosts:
+  - url: "/2025/12/15/i-know-what-i-did-last-weekend-6/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/IMG_5573-scaled.jpg"
+  - url: "/2025/06/02/gw2-shes-found-the-altar-to-balthazar/"
+    title: "GW2: She's Found the Altar to Balthazar"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/1-gw033.jpg"
+  - url: "/2025/05/30/amounting-to-something-in-guild-wars-2/"
+    title: "Amounting to something in Guild Wars 2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/1-gw031.jpg"
+  - url: "/2025/05/06/gw2-i-tamed-a-skyscale/"
+    title: "GW2: I TAMED A SKYSCALE!*"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/2-gw007.jpg"
 coverImage: "https://lh5.googleusercontent.com/-cgZacRu4B24/VM9t5GKw_gI/AAAAAAAA_qo/vI4SpqVmSXI/w506-h750/Gw2%2B2015-02-01%2B22-04-24-00.jpg"
 thumbnailImage: "https://lh5.googleusercontent.com/-cgZacRu4B24/VM9t5GKw_gI/AAAAAAAA_qo/vI4SpqVmSXI/w506-h750/Gw2%2B2015-02-01%2B22-04-24-00.jpg"
 ---

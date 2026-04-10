@@ -3,11 +3,25 @@ date: '2022-02-17T00:20:41-05:00'
 draft: false
 title: "7DRL: Building an Engine -- Refactoring"
 author: "Tipa"
+disqusIdentifier: "2022/02/17/7drl-building-an-engine-refactoring"
 summary: "I didn't make a lot of visible progress today, but I decided it was time to take a step back and do a vital step..."
 categories:
   - "7DRL"
 tags:
   - "Test Driven Development"
+relatedPosts:
+  - url: "/2025/03/10/how-to-fail-at-writing-a-game-in-7-days/"
+    title: "How To Fail at Writing A Game in 7 Days"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/gamedevadventure.png"
+  - url: "/2022/03/13/7drl-2022-retrospective/"
+    title: "7DRL 2022: Retrospective"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/1-Dream_TradingCard-4.jpg"
+  - url: "/2022/03/11/7drl-2022-day-5-im-damaged-and-i-like-it/"
+    title: "7DRL 2022 Day 5: I'm Damaged, and I Like It"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/ezgif.com-gif-maker-5.gif"
+  - url: "/2022/03/10/7drl-2022-day-4-tossing-and-turning/"
+    title: "7DRL 2022 Day 4: Tossing and Turning"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/yata-screenshot-2.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/02/screenshot-1.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/02/screenshot-1.png"
 ---

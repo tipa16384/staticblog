@@ -3,10 +3,24 @@ date: '2011-02-27T08:04:56-05:00'
 draft: false
 title: "Rift: Photobombing, public groups and Iron Tombs"
 author: "Tipa"
+disqusIdentifier: "2011/02/27/rift-photobombing-public-groups-and-iron-tombs"
 summary: "Sometimes people are waiting JUST off camera for you to hit that PRINT SCREEN button......"
 categories:
   - "MMORPG"
   - "Rift"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2021/07/22/new-world-fomo-or-fotm/"
+    title: "New World: FOMO or FOTM?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/GameClient-2014-12-06-11-09-05-59.jpg"
+  - url: "/2011/08/17/is-social-networking-killing-the-mmo-genre/"
+    title: "Is social networking killing the MMO genre?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/08/rift-2011-08-17-07-23-49-86.jpg"
+  - url: "/2011/06/20/rift-just-give-me-what-i-want/"
+    title: "Rift: Just give me what I want..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/06/rift-2011-06-17-21-26-16-90-480x480.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/rift-2011-02-26-23-32-21-71-480x383.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/rift-2011-02-26-23-32-21-71-480x383.jpg"
 ---

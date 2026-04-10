@@ -3,6 +3,7 @@ date: '2010-12-04T16:36:23-05:00'
 draft: false
 title: "Gimme Some Space: Star Trek Online, Pirate Galaxy, Space Paranoids"
 author: "Tipa"
+disqusIdentifier: "2010/12/04/gimme-some-space-star-trek-online-pirate-galaxy-space-paranoids"
 summary: "[..."
 categories:
   - "MMORPG"
@@ -12,6 +13,19 @@ tags:
   - "Pirate Galaxy"
   - "Space Paranoids"
   - "Tron"
+relatedPosts:
+  - url: "/2024/05/25/retro-game-haul-tron-deadly-discs-and-reversi/"
+    title: "Retro Game Haul: Tron Deadly Discs and Reversi"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/trondeadlydisks.png"
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2021/08/07/mmos-on-the-bubble/"
+    title: "MMOs on the Bubble"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/STP61286.jpg"
+  - url: "/2015/01/21/its-a-wonderful-world-we-live-in-where-we-can-have-a-videogame-show-people-at-a-conference-table-and/"
+    title: "STO: So what IS up with Seven's outfit?"
+    thumbnailImage: "https://lh5.googleusercontent.com/-x_3CTf8XGQQ/VL-k4hqvRnI/AAAAAAAA_HU/BYQoFrOHSRk/w506-h750/GameClient%2B2015-01-20%2B23-20-41-18.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/GameClient-2010-12-03-23-16-18-04-480x384.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/GameClient-2010-12-03-23-16-18-04-480x384.jpg"
 ---

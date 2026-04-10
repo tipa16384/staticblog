@@ -3,6 +3,7 @@ date: '2024-08-12T07:00:00-05:00'
 draft: false
 title: "D&amp;D: I -- no, WE -- have a white dragon problem"
 author: "Tipa"
+disqusIdentifier: "2024/08/12/dd-i-no-we-have-a-white-dragon-problem"
 summary: "The problem is, we're about to battle the final boss battle of the Icespire campaign, but Cryovain refuses to come out of his dressing room."
 categories:
   - "3D Printing"
@@ -13,6 +14,19 @@ categories:
   - "Tabletop Games"
 tags:
   - "Dragons"
+relatedPosts:
+  - url: "/2024/08/14/painting-the-white-dragon/"
+    title: "Painting the White Dragon"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/dragoncura.png"
+  - url: "/2024/09/08/the-end-of-the-dragon-of-icespire-peak/"
+    title: "The End of the Dragon of Icespire Peak"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/1-IMG_4688.jpg"
+  - url: "/2020/09/25/the-deadliest-print/"
+    title: "The Deadliest Print"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/1-IMG_1927.jpg"
+  - url: "/2020/09/11/game-night-jaws-of-the-lion-the-black-ship/"
+    title: "Game Night: Jaws of the Lion, the Black Ship"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/1-IMG_1908.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_4558-EDIT-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_4558-EDIT-scaled.jpg"
 ---

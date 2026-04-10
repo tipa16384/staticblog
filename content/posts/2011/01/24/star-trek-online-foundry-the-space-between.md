@@ -3,6 +3,7 @@ date: '2011-01-24T00:35:48-05:00'
 draft: false
 title: "Star Trek Online Foundry: The Space Between"
 author: "Tipa"
+disqusIdentifier: "2011/01/24/star-trek-online-foundry-the-space-between"
 summary: "[..."
 categories:
   - "MMORPG"
@@ -11,6 +12,19 @@ tags:
   - "D'kyr"
   - "Foundry"
   - "The Space Between"
+relatedPosts:
+  - url: "/2015/01/04/played-party-crashers-st-huy4y2d5q-by-winin-first-star-trek-online-foundry-ive-played-in-years/"
+    title: 'Star Trek Online: "Party Crashers"'
+    thumbnailImage: "https://lh4.googleusercontent.com/-PQIrr6AqiIo/VKl2OTu8-DI/AAAAAAAA-J8/6okCJs_Fi3w/w506-h750/GameClient%2B2015-01-04%2B10-50-58-60.jpg"
+  - url: "/2020/08/13/blaugust-7-be-the-best-that-ever-was/"
+    title: "Blaugust #7: Be The Best that Ever Was"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/GameClient-2014-02-06-07-29-35-19.jpg"
+  - url: "/2020/08/12/blaugust-11-what-weve-lost-along-the-way/"
+    title: "Blaugust #11: What We've Lost Along the Way"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/googlere.png"
+  - url: "/2015/02/19/based-on-a-suggestion-last-week-in-the-forums-i-went-through-the-159-quests-that-we-have-reviewed/"
+    title: "Weekly Foundry Reviews -- February 18, 2015"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/GameClient-2011-01-23-21-43-08-75-480x383.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/GameClient-2011-01-23-21-43-08-75-480x383.jpg"
 ---

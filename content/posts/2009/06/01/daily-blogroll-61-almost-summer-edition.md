@@ -3,6 +3,7 @@ date: '2009-06-01T07:44:09-05:00'
 draft: false
 title: "Daily Blogroll 6/1 -- Almost Summer edition"
 author: "Tipa"
+disqusIdentifier: "2009/06/01/daily-blogroll-61-almost-summer-edition"
 summary: "Wow, June already. The year seems to be flying by so quickly. I saw \"Up\" over the weekend, kind of dark for a Disney/Pixar film,..."
 categories:
   - "Daily Blogroll"
@@ -12,6 +13,19 @@ categories:
   - "Shards of Dalaya"
   - "Vanguard"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2009/04/19/web-log-419/"
+    title: "Web log 4/19"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/marleybonepokemon.jpg"
+  - url: "/2009/07/15/daily-blogroll-715-same-quests-different-day-edition/"
+    title: "Daily Blogroll 7/15 -- Same quests, different day edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/aim3d.jpg"
+  - url: "/2011/05/12/semi-annual-blogroll-sheep-may-safely-graze-edition/"
+    title: "Semi-Annual Blogroll: Sheep may safely graze edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/05/sheep2.png"
+  - url: "/2009/08/10/daily-blogroll-810-thank-god-its-monday-edition/"
+    title: "Daily Blogroll 8/10 -- Thank God it's Monday edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/daddygirl.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/dungeonparty.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/dungeonparty.jpg"
 ---

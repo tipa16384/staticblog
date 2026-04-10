@@ -3,6 +3,7 @@ date: '2008-07-30T17:24:10-05:00'
 draft: false
 title: "Trying and failing to care about WoW-like MMOs."
 author: "Tipa"
+disqusIdentifier: "2008/07/30/trying-and-failing-to-care-about-wow-like-mmos"
 summary: "I've had my level 75 cleric on Luclin for about... four months now. The level cap on EverQuest is 80. There have been three expansions..."
 categories:
   - "EverQuest"
@@ -13,6 +14,19 @@ categories:
   - "Warhammer: Age of Reckoning"
   - "Wizard101"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2009/05/13/daily-blogroll-513-going-rogue-edition/"
+    title: "Daily Blogroll 5/13 -- Going Rogue edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/angelatheangelic.jpg"
+  - url: "/2009/05/06/daily-blogroll-56-tempests-and-teapots-edition/"
+    title: "Daily Blogroll 5/6 -- Tempests and Teapots edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/fullscreen-capture-562009-125235-am.jpg"
+  - url: "/2009/06/04/daily-blogroll-64-get-off-my-lawn-edition/"
+    title: "Daily Blogroll 6/4 -- Get off my lawn edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/retirement.jpg"
+  - url: "/2008/04/07/the-mmo-nostalgia-challenge/"
+    title: "The MMO Nostalgia Challenge"
+    thumbnailImage: ""
 ---
 I've had my level 75 cleric on Luclin for about... four months now. The level cap on EverQuest is 80. There have been three expansions...
 <!--more-->

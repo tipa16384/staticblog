@@ -3,6 +3,7 @@ date: '2022-07-09T11:52:15-05:00'
 draft: false
 title: "When to say goodbye to a game?"
 author: "Tipa"
+disqusIdentifier: "2022/07/09/when-to-say-goodbye-to-a-game"
 summary: "Some games will last forever, if you let them. You expect that in an MMO, but with mobile gacha games -- when do you just..."
 categories:
   - "Final Fantasy"
@@ -13,6 +14,19 @@ tags:
   - "Flight Rising"
   - "Idle Champions"
   - "Shadowverse"
+relatedPosts:
+  - url: "/2021/08/27/shadowverse-showdown/"
+    title: "Shadowverse Showdown!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/shadowverselogo.png"
+  - url: "/2025/10/01/i-cancelled-my-pokemon-tcg-pocket-premium-subscription/"
+    title: "I cancelled my Pokémon TCG Pocket premium subscription"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/IMG_5411.png"
+  - url: "/2022/09/26/my-one-sided-argument-with-raid-shadow-legends-marketing-department/"
+    title: "My One-Sided Argument with Raid: Shadow Legend's Marketing Department"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-26-18.24.24-digital-art-Raid-Shadow-Legends.png"
+  - url: "/2022/08/18/brown-dust-did-you-mean-brave-nine/"
+    title: "Brown Dust? Did you mean Brave Nine?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/Screenshot_2022.08.18_08.42.35.827.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/bogsneak.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/bogsneak.png"
 ---

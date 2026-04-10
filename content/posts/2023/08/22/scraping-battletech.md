@@ -3,6 +3,7 @@ date: '2023-08-22T07:00:00-05:00'
 draft: false
 title: "Scraping BattleTech"
 author: "Tipa"
+disqusIdentifier: "2023/08/22/scraping-battletech"
 summary: "What was that old saying? \"Information wants to be free\"?"
 categories:
   - "3D Printing"
@@ -12,6 +13,19 @@ tags:
   - "Battletech"
   - "Frostgrave"
   - "Warhammer"
+relatedPosts:
+  - url: "/2024/08/18/my-first-malifaux-tournament/"
+    title: "My first Malifaux tournament!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/malifaux-wtf.png"
+  - url: "/2024/06/26/origins-2024-recap/"
+    title: "Origins 2024 Recap"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/06/IMG_4347-scaled.jpg"
+  - url: "/2021/09/25/game-night-my-little-scythe-and-the-watson-game-topper/"
+    title: "Game Night: My Little Scythe and the Watson Game Topper"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/2-IMG_2337.jpg"
+  - url: "/2024/08/14/painting-the-white-dragon/"
+    title: "Painting the White Dragon"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/dragoncura.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/scapingbattletech.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/scapingbattletech.png"
 ---

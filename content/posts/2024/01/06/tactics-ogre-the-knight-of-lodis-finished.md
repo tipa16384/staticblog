@@ -3,6 +3,7 @@ date: '2024-01-06T11:38:00-05:00'
 draft: false
 title: "Tactics Ogre: The Knight of Lodis FINISHED!"
 author: "Tipa"
+disqusIdentifier: "2024/01/06/tactics-ogre-the-knight-of-lodis-finished"
 summary: "It's a tale of love, loss, betrayal, alliances, war, peace, redemption, and a young knight's journey to discover his place in the world."
 categories:
   - "Final Fantasy"
@@ -12,6 +13,19 @@ tags:
   - "Knight of Lodis"
   - "Ogre Battle"
   - "Tactics Ogre"
+relatedPosts:
+  - url: "/2023/11/10/knight-of-lodis-entering-the-crypt/"
+    title: "Knight of Lodis: Entering the Crypt"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/20231110_002228.png"
+  - url: "/2023/12/29/christmas-loot-knight-of-lodis-and-prince-of-zenobia/"
+    title: "Christmas Loot: Knight of Lodis and Prince of Zenobia"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/IMG_4125-scaled.jpg"
+  - url: "/2024/01/06/tactics-ogre-the-death-of-shaher/"
+    title: "Tactics Ogre: The Death of Shaher"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/tipachu_a_painting_of_a_fallen_angel_with_long_purple_hair_and__32101274-a286-4e13-aa66-f3f7b58ff6d6.png"
+  - url: "/2022/01/23/once-i-had-a-life-now-i-have-final-fantasy-tactics-advance/"
+    title: "Once, I had a life. Now, I have Final Fantasy Tactics Advance."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/01/Final-Fantasy-Tactics-Advanced-GBA-36.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/20240104_221426.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/20240104_221426.jpg"
 ---

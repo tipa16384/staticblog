@@ -3,6 +3,7 @@ date: '2025-10-06T08:12:32-05:00'
 draft: false
 title: "The Zen of Final Fantasy Tactics"
 author: "Tipa"
+disqusIdentifier: "2025/10/06/the-zen-of-final-fantasy-tactics"
 summary: "There's the recommended way to play Final Fantasy Tactics. And then there's the way I play it."
 categories:
   - "Final Fantasy"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Final Fantasy Tactics"
   - "The Ivalice Chronicles"
+relatedPosts:
+  - url: "/2025/10/19/final-fantasy-tactics-the-ivalice-chronicles-a-retrospective/"
+    title: "Final Fantasy Tactics: The Ivalice Chronicles, a retrospective"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles_20251018225944-scaled.jpg"
+  - url: "/2024/03/23/unicorn-overlord-whose-overlord-is-it-anyway/"
+    title: "Unicorn Overlord -- Whose Overlord Is It, Anyway?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/Unicorn-Overlord_20240322181915.jpg"
+  - url: "/2022/11/21/dive-into-the-world-of-tactics-ogre-with-this-remake-of-a-classic/"
+    title: "Dive into the world of Tactics Ogre with this remake of a classic"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/11/1-Tactics-Ogre_-Reborn_20221121083341-scaled.jpg"
+  - url: "/2020/05/06/favorite-game-series-1-final-fantasy/"
+    title: "Favorite Game Series #1: Final Fantasy"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/FFFridge.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles_20251005165514-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles_20251005165514-scaled.jpg"
 ---

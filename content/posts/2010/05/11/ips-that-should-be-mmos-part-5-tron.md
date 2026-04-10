@@ -3,9 +3,23 @@ date: '2010-05-11T06:20:43-05:00'
 draft: false
 title: "IPs that should be MMOs, part 5: Tron"
 author: "Tipa"
+disqusIdentifier: "2010/05/11/ips-that-should-be-mmos-part-5-tron"
 summary: "This is a softball pitch. Nice and slow and over home plate. Disney's 1982 masterpiece Tron is up for a sequel in December, Tron Legacy,..."
 categories:
   - "MMORPG"
+relatedPosts:
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2026/03/11/dune-awakening-finished-chapter-3/"
+    title: "Dune Awakening: Finished Chapter 3"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-11-073510.png"
+  - url: "/2026/02/04/erenshor-rising-shadows-launched/"
+    title: 'Erenshor "Rising Shadows" launched!'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/20260204080313_1.jpg"
+  - url: "/2026/01/24/dominus-automa-an-idle-mmo-for-busy-dads/"
+    title: "Dominus Automa: An Idle MMO for Busy Dads"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/dominusautoma.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/screenshot9-480x360.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/screenshot9-480x360.jpg"
 ---

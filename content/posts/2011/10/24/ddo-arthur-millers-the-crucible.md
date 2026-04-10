@@ -3,10 +3,24 @@ date: '2011-10-24T07:03:16-05:00'
 draft: false
 title: "DDO: Arthur Miller's \"The Crucible\""
 author: "Tipa"
+disqusIdentifier: "2011/10/24/ddo-arthur-millers-the-crucible"
 summary: "Once I understood the story behind \"The Crucible\", I knew what to do. Immediately upon entering the dungeon, I accused all my group mates of..."
 categories:
   - "Dungeons & Dragons Online"
   - "MMORPG"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2013/02/10/neverwinter-its-forgotten-realms-but-is-it-dd/"
+    title: "Neverwinter: It's Forgotten Realms, but is it D&D?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/GameClient-2013-02-10-08-38-10-48-480x342.jpg"
+  - url: "/2012/04/06/ddo-web-of-chaos/"
+    title: "DDO: Web of Chaos"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/04/dndclient-2012-04-01-23-54-24-56-480x384.jpg"
+  - url: "/2012/01/30/ddo-doomsphere-the-dull/"
+    title: "DDO: Doomsphere the Dull"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/dndclient-2012-01-29-22-54-24-25-480x319.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/dndclient-2011-10-23-23-33-41-65-480x384.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/dndclient-2011-10-23-23-33-41-65-480x384.jpg"
 ---

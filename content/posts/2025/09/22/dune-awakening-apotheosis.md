@@ -3,6 +3,7 @@ date: '2025-09-22T08:00:00-05:00'
 draft: false
 title: "Dune Awakening: Apotheosis"
 author: "Tipa"
+disqusIdentifier: "2025/09/22/dune-awakening-apotheosis"
 summary: "I had a vision of what life in the Deep Desert might be like, and it happened? Also, if Funcom names an expansion \"Apotheosis\", they owe me money."
 categories:
   - "Dune Awakening"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Team Spode"
   - "Tell Me of Your Homeworld Usul"
+relatedPosts:
+  - url: "/2025/08/02/dune-awakening-fishing-for-sandtrout/"
+    title: "Dune Awakening: Fishing for Sandtrout"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/fishingforsandtrout.png"
+  - url: "/2025/12/15/i-know-what-i-did-last-weekend-6/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/IMG_5573-scaled.jpg"
+  - url: "/2025/09/17/dune-awakening-life-in-the-deep-desert/"
+    title: "Dune Awakening: Life in the Deep Desert"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/1-20250915204452_1.jpg"
+  - url: "/2025/09/09/dune-awakening-order-of-the-wombat-steps-out/"
+    title: "Dune Awakening: Order of the Wombat Steps Out"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/1-20250908074317_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/1-20250920233213_1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/1-20250920233213_1.jpg"
 ---

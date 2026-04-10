@@ -3,6 +3,7 @@ date: '2021-07-22T21:16:15-05:00'
 draft: false
 title: "New World: FOMO or FOTM?"
 author: "Tipa"
+disqusIdentifier: "2021/07/22/new-world-fomo-or-fotm"
 summary: "Amazon's new MMO, \"New World\", comes out soon. Everyone is excited -- but I don't know if I'm ready for a new MMO commitment."
 categories:
   - "DC Universe Online"
@@ -21,6 +22,19 @@ tags:
   - "Fotm"
   - "Neverwinter Online"
   - "The Chronicles of Spellborn"
+relatedPosts:
+  - url: "/2021/08/07/mmos-on-the-bubble/"
+    title: "MMOs on the Bubble"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/STP61286.jpg"
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2020/04/30/favorite-game-series-2-everquest/"
+    title: "Favorite Game Series #2: EverQuest"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/04/pcsx2-2020-04-30-07-01-16-71-1024x769.jpg"
+  - url: "/2011/01/27/daily-blogroll-127-inevitable-backlash-edition/"
+    title: "Daily Blogroll 1/27 -- Inevitable Backlash edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/riftblade.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/GameClient-2014-12-06-11-09-05-59.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/GameClient-2014-12-06-11-09-05-59.jpg"
 ---

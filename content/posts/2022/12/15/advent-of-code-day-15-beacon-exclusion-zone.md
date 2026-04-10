@@ -3,12 +3,26 @@ date: '2022-12-15T15:01:04-05:00'
 draft: false
 title: "Advent of Code Day 15 -- Beacon Exclusion Zone"
 author: "Tipa"
+disqusIdentifier: "2022/12/15/advent-of-code-day-15-beacon-exclusion-zone"
 summary: "This is the kind of puzzle I hate. Puzzles where even the best approach seems to take forever and it's hard to wrap my head around the solution."
 categories:
   - "Advent of Code"
 tags:
   - "Advent"
   - "Python"
+relatedPosts:
+  - url: "/2023/12/05/advent-of-code-day-5-if-you-give-a-seed-a-fertilizer/"
+    title: "Advent of Code Day 5 -- If You Give A Seed A Fertilizer"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_A_Christmas_elf_tending_a_wide_variety_of_bizarre_looki_61e5db45-06f1-482c-9242-78720532164f.png"
+  - url: "/2023/12/03/advent-of-code-day-3-gear-ratios/"
+    title: "Advent of Code Day 3 -- Gear Ratios"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_A_Christmas_elf_working_on_a_giant_machine_with_many_ge_47e1029a-b055-4df9-99f0-1c55a64ca2e8.png"
+  - url: "/2022/12/25/advent-of-code-day-25-full-of-hot-air/"
+    title: "Advent of Code Day 25 -- Full of Hot Air"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-25-14.03.31-Christmas-elves-on-a-snowy-mountain-top-colorful-hot-air-balloons-in-the-sky-in-the-background-by-Bob-Eggleton-detailed-and-intricate.png"
+  - url: "/2022/12/23/advent-of-code-day-23-unstable-diffusion/"
+    title: "Advent of Code Day 23 -- Unstable Diffusion"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-23-21.02.08-Several-Christmas-elves-standing-in-a-grid-in-a-jungle-clearing-a-volcano-in-the-background-by-Bob-Eggleton-detailed-and-intricate.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-15-14.20.23-A-woman-in-a-Christmas-hat-looking-at-a-handheld-device.-Around-her-beeping-sensors-are-scanning-for-a-distress-beacon-by-Bob-Eggleton-detailed-and.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-15-14.20.23-A-woman-in-a-Christmas-hat-looking-at-a-handheld-device.-Around-her-beeping-sensors-are-scanning-for-a-distress-beacon-by-Bob-Eggleton-detailed-and.png"
 ---

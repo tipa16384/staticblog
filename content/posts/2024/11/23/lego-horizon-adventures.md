@@ -3,6 +3,7 @@ date: '2024-11-23T14:12:02-05:00'
 draft: false
 title: "LEGO Horizon Adventures"
 author: "Tipa"
+disqusIdentifier: "2024/11/23/lego-horizon-adventures"
 summary: "I hurried through Dragon Age: the Veilguard because I knew this was waiting for me to finish."
 categories:
   - "Action RPG"
@@ -10,6 +11,19 @@ categories:
   - "PS5"
 tags:
   - "Lego"
+relatedPosts:
+  - url: "/2024/09/29/lego-thunderjaw-finally-mostly-complete/"
+    title: "LEGO Thunderjaw: Finally mostly complete!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/thunderjaw-scaled.jpg"
+  - url: "/2024/09/09/weekend-gaming-janthir-wilds-return-to-arms-more-thunderjaw/"
+    title: "Weekend gaming: Janthir Wilds, Return to Arms, more Thunderjaw"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/gw2janthir.png"
+  - url: "/2024/08/26/building-thunderjaw-day-1/"
+    title: "Building Thunderjaw — Day 1"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_0230.jpeg"
+  - url: "/2024/01/07/lego-tallneck-lightailing-lighting-kit/"
+    title: "LEGO Tallneck + Lightailing lighting kit"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/etallneck.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/LEGO®-Horizon-Adventures™_20241122153718-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/LEGO®-Horizon-Adventures™_20241122153718-scaled.jpg"
 ---

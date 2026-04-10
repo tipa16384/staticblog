@@ -3,12 +3,26 @@ date: '2024-09-29T15:06:14-05:00'
 draft: false
 title: "LEGO Thunderjaw: Finally mostly complete!"
 author: "Tipa"
+disqusIdentifier: "2024/09/29/lego-thunderjaw-finally-mostly-complete"
 summary: "Don't look at it too hard, pieces will start falling off. In fact, don't even look at this PICTURE too long. Putting this together was a leeeeetle bit stressful."
 categories:
   - "Horizon Forbidden West"
 tags:
   - "Lego"
   - "Thunderjaw"
+relatedPosts:
+  - url: "/2024/09/09/weekend-gaming-janthir-wilds-return-to-arms-more-thunderjaw/"
+    title: "Weekend gaming: Janthir Wilds, Return to Arms, more Thunderjaw"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/gw2janthir.png"
+  - url: "/2024/08/26/building-thunderjaw-day-1/"
+    title: "Building Thunderjaw — Day 1"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_0230.jpeg"
+  - url: "/2024/11/23/lego-horizon-adventures/"
+    title: "LEGO Horizon Adventures"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/LEGO®-Horizon-Adventures™_20241122153718-scaled.jpg"
+  - url: "/2024/01/07/lego-tallneck-lightailing-lighting-kit/"
+    title: "LEGO Tallneck + Lightailing lighting kit"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/etallneck.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/thunderjaw-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/thunderjaw-scaled.jpg"
 ---

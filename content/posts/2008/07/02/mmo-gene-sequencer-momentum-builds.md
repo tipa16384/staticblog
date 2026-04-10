@@ -3,11 +3,25 @@ date: '2008-07-02T13:16:37-05:00'
 draft: false
 title: "MMO Gene Sequencer momentum builds..."
 author: "Tipa"
+disqusIdentifier: "2008/07/02/mmo-gene-sequencer-momentum-builds"
 summary: "Raph Koster today posted an article proposing that the reason people flock to games similar to ones they have already played is because they have..."
 categories:
   - "General"
   - "MMORPG"
   - "My Work"
+relatedPosts:
+  - url: "/2009/05/31/adventures-in-computer-science-monopoly-board-computer/"
+    title: "Adventures in Computer Science: Monopoly board computer"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/turingopoly.jpg"
+  - url: "/2009/03/26/xfire-wordpress-plugin-first-release/"
+    title: "XFire Wordpress Plugin -- first release"
+    thumbnailImage: ""
+  - url: "/2009/03/26/xfire-wordpress-widget/"
+    title: "XFire Wordpress Widget"
+    thumbnailImage: ""
+  - url: "/2008/10/07/how-to-tell-if-youre-a-coder-part-1/"
+    title: "How to tell if you're a coder, part 1."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/purbleplace-2008-10-07-07-24-01-91.jpg"
 ---
 Raph Koster today posted an article proposing that the reason people flock to games similar to ones they have already played is because they have...
 <!--more-->

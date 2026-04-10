@@ -3,6 +3,7 @@ date: '2009-04-21T08:07:47-05:00'
 draft: false
 title: "Web Log 4/21"
 author: "Tipa"
+disqusIdentifier: "2009/04/21/web-log-421"
 summary: "As near as I can tell, nearly 900 people came to this blog yesterday just to name the Marleybone builder turtle in Wizard 101. That's..."
 categories:
   - "City of Heroes"
@@ -14,6 +15,19 @@ categories:
   - "Star Trek"
   - "Warhammer: Age of Reckoning"
   - "Wizard101"
+relatedPosts:
+  - url: "/2009/05/06/daily-blogroll-56-tempests-and-teapots-edition/"
+    title: "Daily Blogroll 5/6 -- Tempests and Teapots edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/fullscreen-capture-562009-125235-am.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/05/19/daily-blogroll-519-black-lung-edition/"
+    title: "Daily Blogroll 5/19 -- Black Lung edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/exefile-2009-05-18-23-31-07-25.jpg"
+  - url: "/2009/05/08/daily-blogroll-58-darkfail-edition/"
+    title: "Daily Blogroll 5/8 -- Darkfail edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/darkfall.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/frstationaccess-480x64.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/frstationaccess-480x64.jpg"
 ---

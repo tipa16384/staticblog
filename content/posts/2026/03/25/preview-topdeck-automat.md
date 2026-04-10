@@ -3,6 +3,7 @@ date: '2026-03-25T10:00:00-05:00'
 draft: false
 title: "Preview: Topdeck Automat"
 author: "Tipa"
+disqusIdentifier: "2026/03/25/preview-topdeck-automat"
 summary: "A fun, quick engine building card battler that has you as a humble printer bot single-handedly battling an alien invasion. As one does."
 categories:
   - "Rogue-Likes"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Deckbuilding"
   - "topdeck automat"
+relatedPosts:
+  - url: "/2025/08/14/micro-hero-hercules/"
+    title: "Micro Hero: Hercules"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5324-EDIT-scaled.jpg"
+  - url: "/2020/05/29/game-night-game-of-thrones-the-card-game/"
+    title: "Game Night: Game of Thrones: the Card Game"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/lordsandladies.jpg"
+  - url: "/2024/08/13/breakhack-fight-die-repeat/"
+    title: "Breakhack: Fight, Die, Repeat"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/1-20240812215759_1.jpg"
+  - url: "/2021/11/02/quick-look-pawnbarian/"
+    title: "Quick Look: Pawnbarian"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/20211102204800_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-24-220403.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-24-220403.png"
 ---

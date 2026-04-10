@@ -3,6 +3,7 @@ date: '2021-09-08T08:01:16-05:00'
 draft: false
 title: "Chasing Dings! goes to West Karana"
 author: "Tipa"
+disqusIdentifier: "2021/09/08/chasing-dings-goes-to-west-karana"
 summary: "I was playing around and wrote a script last week that took an old backup of my previous blog, West Karana, and brought it to..."
 categories:
   - "Programming Language"
@@ -16,6 +17,19 @@ tags:
   - "SQL"
   - "West Karana"
   - "Wordpress"
+relatedPosts:
+  - url: "/2021/09/01/resurrecting-west-karana/"
+    title: "Resurrecting West Karana"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/b0d5f94a61f128683568fec95571fa8e.jpg"
+  - url: "/2025/10/16/taking-control-of-my-skeets-and-toots/"
+    title: "Taking Control of my Skeets and Toots"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/hq720.jpg"
+  - url: "/2024/12/07/advent-of-code-2024-the-first-week/"
+    title: "Advent of Code 2024: The First Week"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/DALL·E-2024-12-07-11.54.46-A-Tolkien-inspired-scene-depicting-graceful-elves-in-a-Tolkien-inspired-setting-repairing-a-rope-bridge-over-a-serene-river-surrounded-by-lush-vibra.webp"
+  - url: "/2022/12/09/advent-of-code-day-9-rope-bridge/"
+    title: "Advent of Code Day 9 -- Rope Bridge"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-09-21.18.23-Christmas-Elves-walking-on-a-tattered-rope-bridge-crossing-a-river-in-a-jungle-by-Bob-Eggleton-detailed-and-intricate.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/tara21.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/tara21.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2009-04-24T07:24:29-05:00'
 draft: false
 title: "Web Log 4/24 -- Friday is Free Day edition"
 author: "Tipa"
+disqusIdentifier: "2009/04/24/web-log-424-friday-is-free-day-edition"
 summary: "[..."
 categories:
   - "Chronicles of Spellborn"
@@ -19,6 +20,19 @@ categories:
   - "Warhammer: Age of Reckoning"
   - "Wizard101"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2009/05/08/daily-blogroll-58-darkfail-edition/"
+    title: "Daily Blogroll 5/8 -- Darkfail edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/darkfall.jpg"
+  - url: "/2009/05/06/daily-blogroll-56-tempests-and-teapots-edition/"
+    title: "Daily Blogroll 5/6 -- Tempests and Teapots edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/fullscreen-capture-562009-125235-am.jpg"
+  - url: "/2009/04/23/web-log-423-too-much-news-edition/"
+    title: "Web Log 4/23 -- Too Much News edition"
+    thumbnailImage: ""
+  - url: "/2009/05/19/daily-blogroll-519-black-lung-edition/"
+    title: "Daily Blogroll 5/19 -- Black Lung edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/exefile-2009-05-18-23-31-07-25.jpg"
 coverImage: "http://www.penny-arcade.com/images/2009/20090424.jpg"
 thumbnailImage: "http://www.penny-arcade.com/images/2009/20090424.jpg"
 ---

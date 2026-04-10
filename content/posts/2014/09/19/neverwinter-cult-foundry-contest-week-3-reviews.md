@@ -3,12 +3,26 @@ date: '2014-09-19T19:20:20-05:00'
 draft: false
 title: "Neverwinter: Cult Foundry Contest Week 3 Reviews"
 author: "Tipa"
+disqusIdentifier: "2014/09/19/neverwinter-cult-foundry-contest-week-3-reviews"
 summary: "Wow, week 3 already. It’s been a rollercoaster so far, but this week is special. We have missions by two of the foundry’s pro builders..."
 categories:
   - "MMORPG"
   - "Neverwinter"
 tags:
   - "Foundry"
+relatedPosts:
+  - url: "/2015/02/19/based-on-a-suggestion-last-week-in-the-forums-i-went-through-the-159-quests-that-we-have-reviewed/"
+    title: "Weekly Foundry Reviews -- February 18, 2015"
+    thumbnailImage: ""
+  - url: "/2015/02/12/weekly-foundry-quests-february-11-2015after-running-into-ian-darksword-entirely-by-accident-guard/"
+    title: "Weekly Foundry Quests -- February 11, 2015"
+    thumbnailImage: ""
+  - url: "/2015/02/05/well-this-week-the-foundry-wasnt-being-kind-to-us-first-i-and-later-kasul-couldnt-open-the-final/"
+    title: "Weekly Foundry Reviews -- February 5, 2015"
+    thumbnailImage: ""
+  - url: "/2015/02/01/first-floor-of-newfallen-to-80-i-deleted-the-old-story-and-the-old-maps-now-the-only-way-to-go-is/"
+    title: "Neverwinter: First floor of Newfallen to 80%!"
+    thumbnailImage: ""
 coverImage: "https://lh6.googleusercontent.com/-n_VLwusuGv8/VBu2YKwLu5I/AAAAAAAA2Tg/cecRl0Gh9T4/w745-h596-no/GameClient%2B2014-09-16%2B23-13-42-85.jpg"
 thumbnailImage: "https://lh6.googleusercontent.com/-n_VLwusuGv8/VBu2YKwLu5I/AAAAAAAA2Tg/cecRl0Gh9T4/w745-h596-no/GameClient%2B2014-09-16%2B23-13-42-85.jpg"
 ---

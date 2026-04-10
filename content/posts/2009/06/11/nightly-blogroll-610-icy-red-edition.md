@@ -3,6 +3,7 @@ date: '2009-06-11T00:14:37-05:00'
 draft: false
 title: "Nightly Blogroll 6/10 -- Icy Red edition"
 author: "Tipa"
+disqusIdentifier: "2009/06/11/nightly-blogroll-610-icy-red-edition"
 summary: "Yeah, I know it's not a HUGE stretch to announce that Velious will be EverQuest II's next expansion when pictures of dragon-turtles pulling ice barges..."
 categories:
   - "Daily Blogroll"
@@ -10,6 +11,19 @@ categories:
   - "Lord of the Rings"
   - "MMORPG"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2010/11/30/daily-blogroll-1130-worst-case-scenario-edition/"
+    title: "Daily Blogroll, 11/30 -- Worst Case Scenario edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/vgclient-2010-11-29-20-32-30-42.jpg"
+  - url: "/2009/09/10/daily-blogroll-910/"
+    title: "Daily Blogroll 9/10 - Launch Madness edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/EverQuest2-2009-09-09-22-49-15-60.jpg"
+  - url: "/2009/09/03/daily-blogroll-93-sushi-day-edition/"
+    title: "Daily Blogroll 9/3 - Sushi day edition!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/Fullscreen-capture-932009-75844-AM.jpg"
+  - url: "/2009/08/26/taglich-blogroll-26-8-auflage-sturm-und-drang/"
+    title: "Täglich Blogroll 26.8 - Auflage: Sturm und Drang"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/stargateworlds.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/coldain.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/coldain.jpg"
 ---

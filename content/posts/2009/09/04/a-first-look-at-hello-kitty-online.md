@@ -3,10 +3,24 @@ date: '2009-09-04T07:39:35-05:00'
 draft: false
 title: "A First Look at: Hello Kitty Online"
 author: "Tipa"
+disqusIdentifier: "2009/09/04/a-first-look-at-hello-kitty-online"
 summary: "Either the thought of playing in the world of Hello Kitty! makes you really excited, or you couldn't care less. Nothing in this \"first look\"..."
 categories:
   - "Hello Kitty Online"
   - "MMORPG"
+relatedPosts:
+  - url: "/2010/09/03/a-parents-guide-to-mmo-gaming/"
+    title: "A Parent's Guide to MMO Gaming"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/worgen_1280x1024-225x225.jpg"
+  - url: "/2010/04/16/ip-based-mmos-part-2-of-5/"
+    title: "IP-based MMOs Part 2 (of 5)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/07305s-225x225.jpg"
+  - url: "/2009/09/09/daily-blogroll-9909-galaxy-express-edition/"
+    title: "Daily Blogroll 9/9/09 - Galaxy Express edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/hko-2009-09-08-21-52-33-20.jpg"
+  - url: "/2009/09/04/gatheryn-star-trek-online-hello-kitty-online-infomegadump/"
+    title: "Gatheryn, Star Trek Online, Hello Kitty Online infomegadump"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/ws_concept2_1024x768-480x360.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/kitty.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/kitty.png"
 ---

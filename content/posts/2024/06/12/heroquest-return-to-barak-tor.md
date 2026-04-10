@@ -3,6 +3,7 @@ date: '2024-06-12T07:00:00-05:00'
 draft: false
 title: "HeroQuest: Return to Barak-Tor"
 author: "Tipa"
+disqusIdentifier: "2024/06/12/heroquest-return-to-barak-tor"
 summary: "It's the final quest of the starter campaign. How was it? Is this game even worth playing in 2024?"
 categories:
   - "Game Night"
@@ -15,6 +16,19 @@ tags:
   - "Elf"
   - "Monk"
   - "Rogue"
+relatedPosts:
+  - url: "/2024/01/23/heroquest-the-fire-mage/"
+    title: "HeroQuest: The Fire Mage"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/DALL·E-2024-01-22-22.36.44-A-vivid-and-dynamic-heroic-fantasy-battle-scene-not-in-the-form-of-miniatures.-It-features-a-Shaolin-Monk-bare-to-the-waist-and-wearing-a-red-sash-.png"
+  - url: "/2024/02/07/heroquest-a-race-against-time/"
+    title: "HeroQuest: A Race Against Time"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/02/DALL·E-2024-02-07-07.42.15-In-the-style-of-a-dynamic-and-colorful-comic-book-illustrate-a-scene-where-a-male-elf-rogue-with-androgynous-features-long-blonde-hair-and-pointed.webp"
+  - url: "/2024/01/14/heroquest-the-monks-and-the-rogues-step-up/"
+    title: "HeroQuest: The Monks and the Rogues step up"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/IMG_4162-scaled.jpg"
+  - url: "/2023/11/29/heroquest-lair-of-the-orc-warlord/"
+    title: "HeroQuest: Lair of the Orc Warlord"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/b34850e8-93d7-41d7-afdc-eec711923a98.webp"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/06/return-14.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/06/return-14.png"
 ---

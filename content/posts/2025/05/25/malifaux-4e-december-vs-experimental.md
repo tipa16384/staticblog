@@ -3,6 +3,7 @@ date: '2025-05-25T10:00:00-05:00'
 draft: false
 title: "Malifaux 4e: December vs Experimental"
 author: "Tipa"
+disqusIdentifier: "2025/05/25/malifaux-4e-december-vs-experimental"
 summary: "For just my second 4th edition game, my brave Rasputina (Abominable) faced the evil Dr. McMourning (Insanitary). We were at a fight and a hockey game broke out."
 categories:
   - "Malifaux"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "4th Edition"
   - "Pack Rat Gaming"
+relatedPosts:
+  - url: "/2026/02/01/captaincon-2026-masters-of-malifaux/"
+    title: "CaptainCon 2026: Masters of Malifaux"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/CC_Logo_Red.webp"
+  - url: "/2025/10/28/malifaux-4e-rasputina-vs-seamus/"
+    title: "Malifaux 4e: Rasputina vs Seamus"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/1-IMG_5451-scaled.jpg"
+  - url: "/2025/10/15/malifaux-lady-j-meets-the-cult-of-december/"
+    title: "Malifaux: Lady J meets the Cult of December"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/IMG_5423-scaled.jpg"
+  - url: "/2025/08/22/the-kind-of-malifaux-you-play-at-home/"
+    title: "The Kind of Malifaux You Play at Home"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5337-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/IMG_5155-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/IMG_5155-scaled.jpg"
 ---

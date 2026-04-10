@@ -3,10 +3,24 @@ date: '2009-11-21T10:05:59-05:00'
 draft: false
 title: "Dragon Age Origins: Review (no spoilers)"
 author: "Tipa"
+disqusIdentifier: "2009/11/21/dragon-age-origins-review-no-spoilers"
 summary: "My character getting the kill shot on the Archdemon. Not a spoiler -- no matter what you do, it's gonna be you vs the Archdemon..."
 categories:
   - "Dragon Age Origins"
   - "Other Games"
+relatedPosts:
+  - url: "/2024/11/21/dragon-age-the-veilguard-finished/"
+    title: "Dragon Age: the Veilguard finished"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/banner2.png"
+  - url: "/2024/11/09/dragon-age-the-veilguard-is-not-the-game-you-think-it-is/"
+    title: "Dragon Age: The Veilguard is not the game you think it is"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/davg-banner.png"
+  - url: "/2011/04/02/dragon-age-2-money-shot/"
+    title: "Dragon Age 2: Money shot"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/04/da23d-480x384.jpg"
+  - url: "/2011/03/12/dragon-age-2-a-kinder-gentler-dragon-age/"
+    title: "Dragon Age 2: A Kinder, Gentler Dragon Age"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/DragonAge2-2011-03-11-23-34-04-11-480x383.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/11/DAOrigins-2009-11-20-23-49-28-74.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/11/DAOrigins-2009-11-20-23-49-28-74.jpg"
 ---

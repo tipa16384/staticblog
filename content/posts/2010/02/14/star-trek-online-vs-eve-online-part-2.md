@@ -3,6 +3,7 @@ date: '2010-02-14T12:35:32-05:00'
 draft: false
 title: "Star Trek Online vs EVE Online, Part 2"
 author: "Tipa"
+disqusIdentifier: "2010/02/14/star-trek-online-vs-eve-online-part-2"
 summary: "In Part 1, the largely Andorian crew of the USS Alvarado, while exploring a newly-opened wormhole, found themselves trapped in the lawless domain of EVE..."
 categories:
   - "Comic"
@@ -10,6 +11,19 @@ categories:
   - "Humor"
   - "MMORPG"
   - "Star Trek"
+relatedPosts:
+  - url: "/2010/02/14/star-trek-online-vs-eve-online-part-4/"
+    title: "Star Trek Online vs EVE Online, Part 4"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/02/comic4.jpg"
+  - url: "/2010/02/14/star-trek-online-vs-eve-online-part-3/"
+    title: "Star Trek Online vs EVE Online: Part 3"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/02/comic3.jpg"
+  - url: "/2010/02/10/star-trek-online-vs-eve-online-part-1/"
+    title: "Star Trek Online vs EVE Online, part 1"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/02/comic.jpg"
+  - url: "/2009/05/04/star-trek-online-tactical-ops/"
+    title: "Star Trek Online -- Tactical Ops"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/stardatezero.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/02/comic2.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/02/comic2.jpg"
 ---

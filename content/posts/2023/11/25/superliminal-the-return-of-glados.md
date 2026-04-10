@@ -3,6 +3,7 @@ date: '2023-11-25T19:32:11-05:00'
 draft: false
 title: "Superliminal: The return of GLaDOS"
 author: "Tipa"
+disqusIdentifier: "2023/11/25/superliminal-the-return-of-glados"
 summary: "The snarky computer guiding you through Superliminal might not actually be Portal's GLaDOS. but they at least went to the same school."
 categories:
   - "PS5"
@@ -11,6 +12,19 @@ categories:
 tags:
   - "Portal"
   - "Superliminal"
+relatedPosts:
+  - url: "/2020/04/27/favorite-game-series-4-portal/"
+    title: "Favorite Game Series #4: Portal"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/04/turretandcube.png"
+  - url: "/2007/11/04/final-weighted-companion-cube-model/"
+    title: "Final Weighted Companion Cube model"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/11/wccscene1.jpg"
+  - url: "/2022/08/07/gpt-3-interviews-me-about-stray/"
+    title: "GPT-3 interviews me about Stray."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/Stray_20220806152752-scaled.jpg"
+  - url: "/2022/08/08/the-amazing-adventures-of-8-ball/"
+    title: "The Amazing Adventures of 8-Ball!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/TipaNina_A_tuxedo_cat_wearing_a_red_bowtie._He_is_standing_in_f_7f5ba02f-45ee-4c41-bf1c-71df9e5d3245.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/capsule_616x353.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/capsule_616x353.jpg"
 ---

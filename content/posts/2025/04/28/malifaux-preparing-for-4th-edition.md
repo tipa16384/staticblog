@@ -3,12 +3,26 @@ date: '2025-04-28T08:16:54-05:00'
 draft: false
 title: "Malifaux: Preparing for 4th Edition"
 author: "Tipa"
+disqusIdentifier: "2025/04/28/malifaux-preparing-for-4th-edition"
 summary: "I've spent the last couple of weeks trying to get a mostly new crew ready for 4th edition..."
 categories:
   - "Malifaux"
   - "Tabletop Games"
 tags:
   - "Sword for Hire"
+relatedPosts:
+  - url: "/2025/04/14/i-know-what-i-did-last-weekend-april-edition/"
+    title: "I Know What I Did Last Weekend (April edition)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/04/Blue-Prince_20250414075008-scaled.jpg"
+  - url: "/2025/03/03/tunnels-trolls-sword-for-hire/"
+    title: "Tunnels &amp; Trolls: Sword for Hire"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/ttbanner.png"
+  - url: "/2025/12/15/i-know-what-i-did-last-weekend-6/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/IMG_5573-scaled.jpg"
+  - url: "/2025/03/31/i-know-what-i-did-last-weekend-3/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/arcadeparadisebanner.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/04/IMG_5075-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/04/IMG_5075-scaled.jpg"
 ---

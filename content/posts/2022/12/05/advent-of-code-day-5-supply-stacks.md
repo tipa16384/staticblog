@@ -3,6 +3,7 @@ date: '2022-12-05T22:57:46-05:00'
 draft: false
 title: "Advent of Code Day 5 -- Supply Stacks"
 author: "Tipa"
+disqusIdentifier: "2022/12/05/advent-of-code-day-5-supply-stacks"
 summary: "The promised difficulty boost for Day 5 failed to materialize, instead being largely a puzzle about reading formatted input."
 categories:
   - "Advent of Code"
@@ -12,6 +13,19 @@ tags:
   - "Lua"
   - "Pico-8"
   - "Python"
+relatedPosts:
+  - url: "/2022/12/10/advent-of-code-day-10-cathode-ray-tube/"
+    title: "Advent of Code Day 10 -- Cathode-Ray Tube"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-10-19.36.37-A-woman-in-ragged-clothes-wearing-a-Christmas-hat-playing-a-video-game-in-the-jungle-by-Bob-Eggleton-detailed-and-intricate.png"
+  - url: "/2022/12/03/advent-of-code-day-3-rucksack-reorganization/"
+    title: "Advent of Code Day 3 -- Rucksack Reorganization"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/aoc2022.3.jpg"
+  - url: "/2022/12/01/advent-of-code-2022-day-1-calorie-counting/"
+    title: "Advent of Code 2022: Day 1 -- Calorie Counting"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/1-A_thousand_Tolkien_elves_with_pointy_ears_wearing_backpacks_full_of_snacks_trudging_through_a_tropic_Seed-4368197_Steps-100_Guidance-7.5.jpg"
+  - url: "/2023/11/30/advent-of-code-2023-day-0/"
+    title: "Advent of Code 2023 -- Day 0"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/DALL·E-2023-11-29-23.20.51-A-festive-and-imaginative-illustration-for-a-blog-post-combining-the-themes-of-Advent-of-Code-Python-programming-and-Christmas-in-a-16_10-aspect-ra.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-05-22.32.41-Several-Christmas-elves-unloading-crates-from-an-old-riverboat-painted-by-Bob-Eggleton-detailed-and-intricate.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-05-22.32.41-Several-Christmas-elves-unloading-crates-from-an-old-riverboat-painted-by-Bob-Eggleton-detailed-and-intricate.png"
 ---

@@ -3,6 +3,7 @@ date: '2022-12-28T20:38:48-05:00'
 draft: false
 title: "Skyrim, except it's a board game"
 author: "Tipa"
+disqusIdentifier: "2022/12/28/skyrim-except-its-a-board-game"
 summary: "We've been really enjoying this board game version of Skyrim the last couple of family game nights... but maybe it is a little TOO faithful to the videogame?"
 categories:
   - "Game Night"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Bethesda"
   - "Skyrim"
+relatedPosts:
+  - url: "/2023/02/04/i-was-trapped-in-a-closet-and-forced-to-play-skyrim/"
+    title: "I Was Trapped in a Closet and Forced to Play Skyrim"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/02/skyrim.png"
+  - url: "/2024/01/09/heroquest-the-stone-hunter/"
+    title: "HeroQuest: The Stone Hunter"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/tipachu_a_dwarf_warrior_in_shining_plate_armor_wielding_a_golde_41db7272-d75f-48c1-acc0-be33fa2fa3e5.png"
+  - url: "/2023/09/24/dd-session-1-the-lost-mine-of-phandelver/"
+    title: "D&D Session 1: The Lost Mine of Phandelver"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/Phandelverobservers.webp"
+  - url: "/2023/01/23/the-order-of-the-stick-the-dungeon-of-dorukan/"
+    title: "The Order of the Stick: The Dungeon of Dorukan"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/01/pic169316.webp"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/pic7203331.webp"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/pic7203331.webp"
 ---

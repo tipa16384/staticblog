@@ -3,11 +3,25 @@ date: '2007-01-05T14:29:30-05:00'
 draft: false
 title: "When We Return: Television's Finest (Part 1)"
 author: "Tipa"
+disqusIdentifier: "2007/01/05/when-we-return-televisions-finest-part-1"
 summary: "It's a new year and time for all the shows that left us hanging last year to finally get around to rescuing us from that..."
 categories:
   - "Battlestar Galactica"
   - "Doctor Who"
   - "Sci Fi"
+relatedPosts:
+  - url: "/2008/04/20/battlestar-galactica-the-ties-that-bind/"
+    title: "Battlestar Galactica - the Ties that Bind"
+    thumbnailImage: ""
+  - url: "/2008/04/06/doctor-who-partners-in-crime/"
+    title: "Doctor Who: Partners in Crime"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/04/drwho.jpg"
+  - url: "/2007/03/07/battlestar-galactica-frame-by-frame/"
+    title: "Battlestar Galactica, frame by frame"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/03/bg1.jpg"
+  - url: "/2006/09/06/battlestar-galactica-webisodes/"
+    title: "Battlestar Galactica Webisodes"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/09/katie.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/01/avatar.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/01/avatar.jpg"
 ---

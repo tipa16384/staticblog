@@ -3,10 +3,24 @@ date: '2008-01-30T09:01:00-05:00'
 draft: false
 title: "A Glance at Pirates of the Burning Sea"
 author: "Tipa"
+disqusIdentifier: "2008/01/30/a-glance-at-pirates-of-the-burning-sea"
 summary: "When I got home last night, my son was all smiles and grins. He'd finally passed the test of skill needed to join a prestigious..."
 categories:
   - "MMORPG"
   - "Pirates of the Burning Sea"
+relatedPosts:
+  - url: "/2011/01/12/daily-blogroll-112-snow-job-edition/"
+    title: "Daily Blogroll 1/12 -- Snow Job edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/11111png.png"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2010/12/01/daily-blogroll-121-dress-like-a-pirate-edition/"
+    title: "Daily Blogroll, 12/1 -- Dress Like a Pirate Edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/potbs-2010-11-30-19-08-45-94.jpg"
+  - url: "/2010/11/30/daily-blogroll-1130-worst-case-scenario-edition/"
+    title: "Daily Blogroll, 11/30 -- Worst Case Scenario edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/vgclient-2010-11-29-20-32-30-42.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/potbs-2008-01-30-01-24-42-83.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/potbs-2008-01-30-01-24-42-83.jpg"
 ---

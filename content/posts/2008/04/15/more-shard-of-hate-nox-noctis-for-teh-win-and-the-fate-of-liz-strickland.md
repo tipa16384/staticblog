@@ -3,12 +3,26 @@ date: '2008-04-15T07:31:47-05:00'
 draft: false
 title: "More Shard of Hate, Nox Noctis for teh win, and the fate of Liz Strickland"
 author: "Tipa"
+disqusIdentifier: "2008/04/15/more-shard-of-hate-nox-noctis-for-teh-win-and-the-fate-of-liz-strickland"
 summary: "After we cleared Protector's Realm tonight, we said, hey, what the heck, let's pop over to the Shard of Hate and see what we can..."
 categories:
   - "EverQuest"
   - "MMORPG"
   - "Pirates of the Burning Sea"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2010/11/30/daily-blogroll-1130-worst-case-scenario-edition/"
+    title: "Daily Blogroll, 11/30 -- Worst Case Scenario edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/vgclient-2010-11-29-20-32-30-42.jpg"
+  - url: "/2008/12/24/a-look-back-at-2008/"
+    title: "A look back at 2008"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-30-22-10-50-69.jpg"
+  - url: "/2008/04/07/the-mmo-nostalgia-challenge/"
+    title: "The MMO Nostalgia Challenge"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/04/noxnocti.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/04/noxnocti.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2020-08-24T20:34:45-05:00'
 draft: false
 title: "Blaugust #24: It's All About the Eyeballs"
 author: "Tipa"
+disqusIdentifier: "2020/08/24/blaugust-24-its-all-about-the-eyeballs"
 summary: "\"Content creation\" -- it's one of those words like \"influencer\" or \"social media\" that seem vague but have come to have very specific definitions in..."
 categories:
   - "Blaugust"
@@ -12,6 +13,19 @@ tags:
   - "Pong"
   - "Spacewar"
   - "Tennis for Two"
+relatedPosts:
+  - url: "/2024/01/27/vectrex-the-console-you-really-wanted/"
+    title: "Vectrex: The Console You Really Wanted"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/vectrexheader.png"
+  - url: "/2025/09/01/august-blogging-from-2005-to-today/"
+    title: "August Blogging from 2005 to today"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/raspy-blogging.png"
+  - url: "/2025/08/31/the-vectrex-is-coming-back-in-pog-form/"
+    title: "The Vectrex is coming back... in pog form!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/vectrexmini.png"
+  - url: "/2025/08/30/dune-awakening-we-finally-got-ganked/"
+    title: "Dune Awakening: We finally got ganked"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/20250830103401_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-phrenology.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-phrenology.jpg"
 ---

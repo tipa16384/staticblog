@@ -3,6 +3,7 @@ date: '2020-05-10T03:35:23-05:00'
 draft: false
 title: "Game Log: EQOA, DCUO, EverQuest, PCSX2"
 author: "Tipa"
+disqusIdentifier: "2020/05/10/game-log-eqoa-dcuo-everquest-pcsx2"
 summary: "We've been getting into EverQuest a little here, and some perfect storm of the new version of the best PS2 emulator out there, PCSX2, EverQuest..."
 categories:
   - "Emulators"
@@ -14,6 +15,19 @@ tags:
   - "Everquest Online Adventures"
   - "PCSX2"
   - "Project1999"
+relatedPosts:
+  - url: "/2020/05/01/champions-of-norrath-playthrough-chapter-1-kelethin/"
+    title: "Champions of Norrath playthrough: Act 1, Kelethin"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/pcsx2-2020-04-30-07-01-16-71-1024x769.jpg"
+  - url: "/2012/01/05/eq-project1999/"
+    title: "EQ: Project1999"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/eqgame-2012-01-05-01-52-01-40-480x357.jpg"
+  - url: "/2021/11/22/gladius-day-6-ursula-decided-to-return-to-her-home-planet/"
+    title: "Gladius, day 6: Ursula decided to return to her home planet"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/gsdx_20211122204522.jpg"
+  - url: "/2021/11/14/gladius-day-3-hail-imperia/"
+    title: "Gladius, Day 3: Hail, Imperia"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/gsdx_20211113225044.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/pcsx2-2020-05-09-20-55-21-56.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/pcsx2-2020-05-09-20-55-21-56.jpg"
 ---

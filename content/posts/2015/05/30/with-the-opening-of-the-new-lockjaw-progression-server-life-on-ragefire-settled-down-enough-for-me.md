@@ -3,10 +3,24 @@ date: '2015-05-30T01:41:49-05:00'
 draft: false
 title: "Ma, A Moss Snake Kicked Me!"
 author: "Tipa"
+disqusIdentifier: "2015/05/30/with-the-opening-of-the-new-lockjaw-progression-server-life-on-ragefire-settled-down-enough-for-me"
 summary: "With the opening of the new Lockjaw progression server, life on Ragefire settled down enough for me to log in at prime time, and even..."
 categories:
   - "EverQuest"
   - "MMORPG"
+relatedPosts:
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2024/10/21/evercraft-online-the-unholy-child-of-eq-and-minecraft/"
+    title: "EverCraft Online: The Unholy Child of EQ and MineCraft"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/evercraft-banner.png"
+  - url: "/2024/08/28/erenshor-everquest-for-soloers/"
+    title: "Erenshor -- EverQuest for soloers"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/erenshotheader.jpg"
+  - url: "/2024/05/04/everquest-ii-goes-retro-with-anashti-sul/"
+    title: "EverQuest II goes retro with Anashti Sul"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/anashtisul.jpg"
 coverImage: "https://lh3.googleusercontent.com/-s2oOmJJEcIc/VWkVXLq2qLI/AAAAAAABJRs/_YmGZ6q5Af8/w506-h750/eqgame%2B2015-05-29%2B21-34-35-17.jpg"
 thumbnailImage: "https://lh3.googleusercontent.com/-s2oOmJJEcIc/VWkVXLq2qLI/AAAAAAABJRs/_YmGZ6q5Af8/w506-h750/eqgame%2B2015-05-29%2B21-34-35-17.jpg"
 ---

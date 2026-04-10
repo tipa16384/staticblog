@@ -3,6 +3,7 @@ date: '2022-05-02T08:59:24-05:00'
 draft: false
 title: "Restarting in Valheim"
 author: "Tipa"
+disqusIdentifier: "2022/05/02/restarting-in-valheim"
 summary: "Those \"in the know\" remember how much I'm struggling in Bloodborne and Elden Ring, even as I finish up the last of the main campaigns..."
 categories:
   - "Other Games"
@@ -13,6 +14,19 @@ tags:
   - "RPG"
   - "Steam"
   - "Team Spode"
+relatedPosts:
+  - url: "/2022/06/26/v-rising-hitting-the-hemoglobin/"
+    title: "V Rising: Hitting the Hemoglobin"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/06/20220626091446_1.jpg"
+  - url: "/2021/04/02/valheim-national-no-more-bosses-day/"
+    title: "Valheim: National No More Bosses Day"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/04/20210401223728_1.jpg"
+  - url: "/2021/03/31/valheim-friends-in-the-afterlife/"
+    title: "Valheim: Friends in the Afterlife"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/03/10-20210329072158_1.jpg"
+  - url: "/2023/11/27/baldurs-gate-3-the-second-playthrough/"
+    title: "Baldur's Gate 3: the Second Playthrough"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/snapedit_1701088982383.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/05/20220429225417_1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/05/20220429225417_1.jpg"
 ---

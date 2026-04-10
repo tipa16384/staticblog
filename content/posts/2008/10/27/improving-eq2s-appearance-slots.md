@@ -3,6 +3,7 @@ date: '2008-10-27T13:03:29-05:00'
 draft: false
 title: "Improving EQ2's Appearance slots"
 author: "Tipa"
+disqusIdentifier: "2008/10/27/improving-eq2s-appearance-slots"
 summary: "EverQuest 2 allows you to do amazing things with interior decorating, one of the few, if not the only, MMO, that allows you so much..."
 categories:
   - "EverQuest"
@@ -11,6 +12,19 @@ tags:
   - "Appearance"
   - "Appearance Armor"
   - "Interior Decoration"
+relatedPosts:
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2024/10/21/evercraft-online-the-unholy-child-of-eq-and-minecraft/"
+    title: "EverCraft Online: The Unholy Child of EQ and MineCraft"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/evercraft-banner.png"
+  - url: "/2024/08/28/erenshor-everquest-for-soloers/"
+    title: "Erenshor -- EverQuest for soloers"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/erenshotheader.jpg"
+  - url: "/2024/05/04/everquest-ii-goes-retro-with-anashti-sul/"
+    title: "EverQuest II goes retro with Anashti Sul"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/anashtisul.jpg"
 ---
 EverQuest 2 allows you to do amazing things with interior decorating, one of the few, if not the only, MMO, that allows you so much...
 <!--more-->

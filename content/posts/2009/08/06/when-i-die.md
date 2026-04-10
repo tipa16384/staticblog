@@ -3,6 +3,7 @@ date: '2009-08-06T07:23:17-05:00'
 draft: false
 title: "When I die...."
 author: "Tipa"
+disqusIdentifier: "2009/08/06/when-i-die"
 summary: "When I die, I don't want my last thought to be, \"Why oh WHY didn't I grind out another thousand AAs when I had the..."
 categories:
   - "EVE Online"
@@ -10,6 +11,19 @@ categories:
   - "MMORPG"
   - "Wizard101"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/09/01/daily-blogroll-91-hell-o-kiddie-edition/"
+    title: "Daily Blogroll 9/1 - Hell, O Kiddie edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/hko-2009-09-01-07-24-48-98.jpg"
+  - url: "/2009/08/10/daily-blogroll-810-thank-god-its-monday-edition/"
+    title: "Daily Blogroll 8/10 -- Thank God it's Monday edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/daddygirl.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/eqgame-2009-08-05-19-48-14-80.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/eqgame-2009-08-05-19-48-14-80.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2010-04-30T07:07:40-05:00'
 draft: false
 title: "Assault on the Inbox: Weekly marketing e-mails"
 author: "Tipa"
+disqusIdentifier: "2010/04/30/assault-on-the-inbox-weekly-marketing-e-mails"
 summary: "What wonders does the in box of mystery hold for us today?..."
 categories:
   - "Age of Conan"
@@ -13,6 +14,19 @@ categories:
   - "Shin Megami Tensei"
   - "Star Trek"
   - "Wizard101"
+relatedPosts:
+  - url: "/2011/01/01/daily-blogroll-1111-happy-new-year-edition/"
+    title: "Daily Blogroll 1/1/11 -- Happy New Year edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/rift-2010-12-31-16-51-43-97-480x384.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/09/17/daily-blogroll-917-kanye-edition/"
+    title: "Daily Blogroll 9/17 - Kanye edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/kanye.jpg"
+  - url: "/2009/08/04/daily-blogroll-84-lifetime-edition/"
+    title: "Daily Blogroll 8/4 -- Lifetime edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/lederhosenman.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/GameClient-2010-04-19-23-13-13-21.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/GameClient-2010-04-19-23-13-13-21.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2022-12-01T23:39:10-05:00'
 draft: false
 title: "Advent of Code 2022: Day 1 -- Calorie Counting"
 author: "Tipa"
+disqusIdentifier: "2022/12/01/advent-of-code-2022-day-1-calorie-counting"
 summary: "I am committing myself this year to solving every puzzle in the Advent of Code, an annual coding competition taking place over the Advent season..."
 categories:
   - "Advent of Code"
@@ -14,6 +15,19 @@ tags:
   - "Java"
   - "Lua"
   - "Python"
+relatedPosts:
+  - url: "/2022/12/10/advent-of-code-day-10-cathode-ray-tube/"
+    title: "Advent of Code Day 10 -- Cathode-Ray Tube"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-10-19.36.37-A-woman-in-ragged-clothes-wearing-a-Christmas-hat-playing-a-video-game-in-the-jungle-by-Bob-Eggleton-detailed-and-intricate.png"
+  - url: "/2022/12/05/advent-of-code-day-5-supply-stacks/"
+    title: "Advent of Code Day 5 -- Supply Stacks"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-05-22.32.41-Several-Christmas-elves-unloading-crates-from-an-old-riverboat-painted-by-Bob-Eggleton-detailed-and-intricate.png"
+  - url: "/2022/12/03/advent-of-code-2022-day-2-rock-paper-scissors/"
+    title: "Advent of Code 2022 Day 2 -- Rock Paper Scissors"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/Two_elves_playing_rock_paper_scissors_in_an_abandoned_jungle_village__by_Bob_Eggleton__Detailed_and__Seed-6967716_Steps-175_Guidance-7.5.jpeg"
+  - url: "/2022/12/11/advent-of-code-day-11-monkey-in-the-middle/"
+    title: "Advent of Code Day 11 -- Monkey in the Middle"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-11-16.50.33-A-woman-wearing-a-Christmas-hat-staring-at-a-monkey-in-a-jungle-by-Bob-Eggleton-detailed-and-intricate.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/1-A_thousand_Tolkien_elves_with_pointy_ears_wearing_backpacks_full_of_snacks_trudging_through_a_tropic_Seed-4368197_Steps-100_Guidance-7.5.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/1-A_thousand_Tolkien_elves_with_pointy_ears_wearing_backpacks_full_of_snacks_trudging_through_a_tropic_Seed-4368197_Steps-100_Guidance-7.5.jpg"
 ---

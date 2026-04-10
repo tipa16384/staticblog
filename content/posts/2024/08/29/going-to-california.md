@@ -3,6 +3,7 @@ date: '2024-08-29T23:19:09-05:00'
 draft: false
 title: "Going to California"
 author: "Tipa"
+disqusIdentifier: "2024/08/29/going-to-california"
 summary: "I took a chance on a big jet plane, don’t let anyone tell you that they’re all the same."
 categories:
   - "Blaugust"
@@ -12,6 +13,19 @@ tags:
   - "California"
   - "Marina"
   - "Monterey"
+relatedPosts:
+  - url: "/2024/09/03/my-california-lick-observatory/"
+    title: "My California: Lick Observatory"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/IMG_4669-scaled.jpeg"
+  - url: "/2010/08/29/star-trek-online-cold-call-spoilers/"
+    title: "Star Trek Online: Cold Call (spoilers)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-28-14-15-48-16-480x327.jpg"
+  - url: "/2024/08/31/my-california/"
+    title: "My California"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_4623-scaled.jpeg"
+  - url: "/2024/08/05/not-gonna-lose-my-blog-again/"
+    title: "Not Gonna Lose My Blog: Backups Saved Me Once and Will Save Me Again"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/3-2-1-Backup-Rule.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_4594-scaled.jpeg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_4594-scaled.jpeg"
 ---

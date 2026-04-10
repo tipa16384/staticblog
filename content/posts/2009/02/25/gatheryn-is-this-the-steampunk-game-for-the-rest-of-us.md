@@ -3,10 +3,24 @@ date: '2009-02-25T08:14:39-05:00'
 draft: false
 title: "Gatheryn -- is this the Steampunk game for the rest of us?"
 author: "Tipa"
+disqusIdentifier: "2009/02/25/gatheryn-is-this-the-steampunk-game-for-the-rest-of-us"
 summary: "Yesterday I wrote about \"Neo Steam\", which brings a decidedly Eastern, hardcore PvP, flair to that eternal conflict between technology and magic and the mystical..."
 categories:
   - "Gatheryn"
   - "MMORPG"
+relatedPosts:
+  - url: "/2010/12/02/daily-blogroll-122-rift-tease-edition/"
+    title: "Daily Blogroll 12/2 -- Rift-tease Edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/ca23-full.jpg"
+  - url: "/2009/09/28/weekend-gaming-3/"
+    title: "Weekend Gaming"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/ExeFile-2009-09-27-21-46-57-10.jpg"
+  - url: "/2009/09/26/checking-back-with-gatheryn/"
+    title: "Checking back with Gatheryn"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/Gatheryn-2009-09-26-10-32-14-59.jpg"
+  - url: "/2009/09/04/gatheryn-star-trek-online-hello-kitty-online-infomegadump/"
+    title: "Gatheryn, Star Trek Online, Hello Kitty Online infomegadump"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/ws_concept2_1024x768-480x360.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/3063585635_cbdd296fff_o.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/3063585635_cbdd296fff_o.jpg"
 ---

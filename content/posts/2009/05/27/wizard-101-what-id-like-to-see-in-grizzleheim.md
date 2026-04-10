@@ -3,12 +3,26 @@ date: '2009-05-27T07:39:03-05:00'
 draft: false
 title: "Wizard 101: What I'd like to see in Grizzleheim"
 author: "Tipa"
+disqusIdentifier: "2009/05/27/wizard-101-what-id-like-to-see-in-grizzleheim"
 summary: "Wizard 101's sixth world, Grizzleheim, has been announced, and it already looks like it will be a real departure from the other worlds of the..."
 categories:
   - "MMORPG"
   - "Wizard101"
 tags:
   - "Grizzleheim"
+relatedPosts:
+  - url: "/2009/08/11/wizard101-i-met-harry-potter-in-grizzleheim/"
+    title: "Wizard101: I met Harry Potter in Grizzleheim!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/WizardGraphicalClient-2009-08-11-22-55-19-88.jpg"
+  - url: "/2009/07/07/wizard-101-why-crafting-is-broken-and-how-to-fix-it/"
+    title: "Wizard 101: Why crafting is broken, and how to fix it"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/w101station.jpg"
+  - url: "/2009/07/02/wizard-101-first-night-in-grizzleheim-crafting-secrets/"
+    title: "Wizard 101: First Night in Grizzleheim & Crafting Secrets"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/WizardGraphicalClient-2009-07-02-07-16-47-37.jpg"
+  - url: "/2009/06/30/wizard-101-grizzleheim-goes-live-july-1/"
+    title: "Wizard 101: Grizzleheim goes live July 1!"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/wizardgraphicalclient-2009-05-27-07-51-54-11.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/wizardgraphicalclient-2009-05-27-07-51-54-11.jpg"
 ---

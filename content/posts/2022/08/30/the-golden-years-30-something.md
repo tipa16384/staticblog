@@ -3,6 +3,7 @@ date: '2022-08-30T07:00:00-05:00'
 draft: false
 title: "The Golden Years: 30 Something"
 author: "Tipa"
+disqusIdentifier: "2022/08/30/the-golden-years-30-something"
 summary: "The Golden Years: 30 Something is a life simulation game that highlights the importance of balancing work, life, and everything in between. The game features multiple different endings depending on the choices you make throughout the game."
 categories:
   - "Blaugust"
@@ -12,6 +13,19 @@ tags:
   - "Dall-E 2"
   - "Gpt-3"
   - "Simulation Game"
+relatedPosts:
+  - url: "/2022/08/26/1926-the-golden-age-of-aviation/"
+    title: "1926: The Golden Age of Aviation"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/goldenage26.png"
+  - url: "/2022/08/23/23-fathoms-a-cold-war-era-submarine-simulator/"
+    title: "23 Fathoms: A Cold War Era Submarine Simulator"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/smallsub.png"
+  - url: "/2022/09/01/32-bullets-new-first-person-shooter-game/"
+    title: 'Creating "32 Bullets" -- an AI adventure.'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/32bulletsbanner.png"
+  - url: "/2022/08/31/blaugust-hath-31-days/"
+    title: "Blaugust Hath 31 Days"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-24-22.46.10-a-young-woman-fighting-a-monster-with-a-rune-carved-sword.-She-is-surrounded-by-a-dark-forest-and-the-full-moon-is-shining-overhead-in-the-style-of-.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-23-20.51.10-A-magazine-illustration-of-a-30-something-person-surrounded-by-icons-representing-lifes-challenges-work-family-hobbies-money-food-travel-and-.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-23-20.51.10-A-magazine-illustration-of-a-30-something-person-surrounded-by-icons-representing-lifes-challenges-work-family-hobbies-money-food-travel-and-.png"
 ---

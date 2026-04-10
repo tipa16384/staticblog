@@ -3,6 +3,7 @@ date: '2023-08-15T07:00:00-05:00'
 draft: false
 title: "Jurassic World: The Legacy of Isla Nublar"
 author: "Tipa"
+disqusIdentifier: "2023/08/15/jurassic-world-the-legacy-of-isla-nublar"
 summary: "Today is the day we evacuated Isla Nublar. But, the adventure isn't yet over."
 categories:
   - "Blaugust"
@@ -12,6 +13,19 @@ tags:
   - "Board Game"
   - "Jurassic Park"
   - "Legacy"
+relatedPosts:
+  - url: "/2023/09/05/jurassic-world-the-legacy-of-isla-nublar-finished/"
+    title: "Jurassic World: The Legacy of Isla Nublar: Finished!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/jwfinished.png"
+  - url: "/2024/01/09/heroquest-the-stone-hunter/"
+    title: "HeroQuest: The Stone Hunter"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/tipachu_a_dwarf_warrior_in_shining_plate_armor_wielding_a_golde_41db7272-d75f-48c1-acc0-be33fa2fa3e5.png"
+  - url: "/2008/11/03/littlebigplanet-dippy-birds-and-rocket-sleds/"
+    title: "LittleBigPlanet: Dippy Birds and Rocket Sleds"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/stp61427.jpg"
+  - url: "/2023/09/04/retro-world-find-othello-world/"
+    title: "Retro World Find: Othello World"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/Screenshot-2023-09-04-162409.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/IMG_3952-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/IMG_3952-scaled.jpg"
 ---

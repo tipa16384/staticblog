@@ -3,6 +3,7 @@ date: '2022-05-30T23:44:51-05:00'
 draft: false
 title: "What if Elden, but Ring?"
 author: "Tipa"
+disqusIdentifier: "2022/05/30/what-if-elden-but-ring"
 summary: "I am on the final boss fight for Elden Ring, learning how to get good enough against Radagon to still have enough resources left over..."
 categories:
   - "Elden Ring"
@@ -12,6 +13,19 @@ tags:
   - "Dark Souls"
   - "RPG"
   - "Souls-Like"
+relatedPosts:
+  - url: "/2022/06/21/elden-ring-aftermath/"
+    title: "Elden Ring: Aftermath"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/06/1-ELDEN-RING™_20220620153851.jpg"
+  - url: "/2022/06/19/elden-ring-elden-lord/"
+    title: "Elden Ring: Elden Lord"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/06/ELDEN-RING™_20220619115831-scaled.jpg"
+  - url: "/2024/03/23/unicorn-overlord-whose-overlord-is-it-anyway/"
+    title: "Unicorn Overlord -- Whose Overlord Is It, Anyway?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/Unicorn-Overlord_20240322181915.jpg"
+  - url: "/2022/11/07/gotham-knights-the-best-superhero-game-youre-not-playing/"
+    title: "Gotham Knights - The Best Superhero Game You're Not Playing"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/11/DALL·E-2022-11-07-22.23.47-digital-art-city-scape-at-night.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/05/ELDEN-RING™_20220529120543-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/05/ELDEN-RING™_20220529120543-scaled.jpg"
 ---

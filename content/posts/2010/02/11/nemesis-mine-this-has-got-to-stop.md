@@ -3,10 +3,24 @@ date: '2010-02-11T18:12:29-05:00'
 draft: false
 title: "Nemesis Mine: This has got to stop."
 author: "Tipa"
+disqusIdentifier: "2010/02/11/nemesis-mine-this-has-got-to-stop"
 summary: "It's not that I don't agree with everything Syp of Bio Break says, or stands for. Well, I DON'T agree, but it isn't JUST that...."
 categories:
   - "General"
   - "Humor"
+relatedPosts:
+  - url: "/2024/12/17/billionaire-rapture/"
+    title: "Billionaire Rapture"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/DALL·E-2024-12-17-00.14.48-A-surreal-science-fiction-book-cover-for-a-short-story-titled-Billionaire-Rapture.-The-scene-depicts-a-futuristic-dramatic-setting-in-space-and-on-.webp"
+  - url: "/2012/11/30/adventures-in-monopoly-kickstarter/"
+    title: "Adventures in Monopoly: Kickstarter"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/11/aimkick.png"
+  - url: "/2011/01/04/1-hour-review-of-your-life/"
+    title: "1 Hour Review of: Your Life"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/baby.jpg"
+  - url: "/2010/12/20/yummy/"
+    title: "Yummy!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/Fullscreen-capture-12202010-101059-AM.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/02/syp.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/02/syp.png"
 ---

@@ -3,6 +3,7 @@ date: '2010-11-03T23:08:34-05:00'
 draft: false
 title: "Is your teenager a Minecraft addict?"
 author: "Tipa"
+disqusIdentifier: "2010/11/03/is-your-teenager-a-minecraft-addict"
 summary: "[..."
 categories:
   - "Minecraft"
@@ -12,6 +13,19 @@ tags:
   - "Hell"
   - "Mines"
   - "The Nether"
+relatedPosts:
+  - url: "/2009/04/27/chronicles-of-spellborn-returning-to-parliament/"
+    title: "Chronicles of Spellborn: Returning to Parliament"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/sb_client-2009-04-26-20-09-32-00.jpg"
+  - url: "/2024/11/04/malifaux-ing-in-massacusetts/"
+    title: "Malifaux-ing in Massachusetts"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/carverbanner.png"
+  - url: "/2024/09/14/this-halloween-erenshor-gets-spooky/"
+    title: "This Halloween, Erenshor Gets Spooky!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/erenshotheader.jpg"
+  - url: "/2008/11/14/wizard-101-i-am-finally-free/"
+    title: "Wizard 101: I am finally free."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-13-23-45-43-45.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/javaw-2010-11-03-20-09-47-09-480x376.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/javaw-2010-11-03-20-09-47-09-480x376.jpg"
 ---

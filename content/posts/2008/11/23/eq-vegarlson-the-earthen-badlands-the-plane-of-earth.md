@@ -3,6 +3,7 @@ date: '2008-11-23T00:05:03-05:00'
 draft: false
 title: "EQ: Vegarlson, the Earthen Badlands (the Plane of Earth)"
 author: "Tipa"
+disqusIdentifier: "2008/11/23/eq-vegarlson-the-earthen-badlands-the-plane-of-earth"
 summary: "Of the four elemental planes, the plane of earth is the most unusual and certainly the scariest. Strange, silent, deadly creatures lurk everywhere; some burrow..."
 categories:
   - "EverQuest"
@@ -13,6 +14,19 @@ tags:
   - "Prismatic Basilisk"
   - "The Living Earth"
   - "Vegarlson"
+relatedPosts:
+  - url: "/2020/05/13/everquest-bones-everywhere/"
+    title: "EverQuest: Bones Everywhere."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/eqgame-2020-05-13-06-57-41-85.jpg"
+  - url: "/2009/06/16/welcome-to-mayong-everquests-5150-server/"
+    title: "Welcome to Mayong, EverQuest's 51/50 server"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/mayong.jpg"
+  - url: "/2009/04/17/happy-10th-birthday-everquest/"
+    title: "Happy 10th Birthday, EverQuest!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/eq10-2.jpg"
+  - url: "/2009/04/05/eq2-epic-encounter-in-my-bedroom/"
+    title: "EQ2: Epic encounter in my bedroom"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/everquest2-2009-04-04-21-58-41-05.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/eqgame-2008-11-21-18-57-24-07.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/eqgame-2008-11-21-18-57-24-07.jpg"
 ---

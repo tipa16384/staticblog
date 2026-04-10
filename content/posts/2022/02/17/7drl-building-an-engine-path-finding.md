@@ -3,12 +3,26 @@ date: '2022-02-17T23:30:32-05:00'
 draft: false
 title: "7DRL: Building an Engine -- Path Finding"
 author: "Tipa"
+disqusIdentifier: "2022/02/17/7drl-building-an-engine-path-finding"
 summary: "Path finding is central to all rogue-likes. If an enemy can't find you, they can't fight you... and that wouldn't be any fun. Tonight, I..."
 categories:
   - "7DRL"
 tags:
   - "A*"
   - "Dijkstra"
+relatedPosts:
+  - url: "/2023/12/17/advent-of-code-day-17-clumsy-crucible/"
+    title: "Advent of Code Day 17 -- Clumsy Crucible"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-17-16.23.47-Illustration-for-an-Advent-of-Code-puzzle-with-a-16-10-aspect-ratio.-The-scene-is-a-birds-eye-view-of-Gear-Island-half-empty-and-half-a-bustling-fac.png"
+  - url: "/2022/12/24/advent-of-code-day-24-blizzard-basin/"
+    title: "Advent of Code Day 24 -- Blizzard Basin"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-24-15.36.17-a-hundred-Christmas-elves-in-a-blizzard-by-Bob-Eggleton-detailed-and-intricate.png"
+  - url: "/2022/12/15/advent-of-code-day-12-hill-climbing-algorithm/"
+    title: "Advent of Code Day 12 -- Hill Climbing Algorithm"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-15-17.06.41-A-woman-in-a-Christmas-cap-hiking-up-a-steep-wandering-path-to-the-top-of-a-hill-over-looking-a-jungle-river-by-Bob-Eggleton-detailed-and-intricate.png"
+  - url: "/2025/03/10/how-to-fail-at-writing-a-game-in-7-days/"
+    title: "How To Fail at Writing A Game in 7 Days"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/gamedevadventure.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/02/screenshot-2.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/02/screenshot-2.png"
 ---

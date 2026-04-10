@@ -3,6 +3,7 @@ date: '2023-02-14T19:51:46-05:00'
 draft: false
 title: "Cyberpunk 2077 vs Sword Art Online: Fatal Bullet"
 author: "Tipa"
+disqusIdentifier: "2023/02/14/cyberpunk-2077-vs-sword-art-online-fatal-bullet"
 summary: "When anyone thinks of gun-centric shooter RPGs, they naturally think first of Cyberpunk 2077 and Sword Art Online: Fatal Bullet. Which is the best bang for your bullet?"
 categories:
   - "Cyberpunk 2077"
@@ -12,6 +13,19 @@ tags:
   - "RPG"
   - "Shooter"
   - "Sword Art Online"
+relatedPosts:
+  - url: "/2022/08/05/steve-the-fifth-horseman-of-the-apocalypse/"
+    title: "Steve, the Fifth Horseman of the Apocalypse"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/DALL·E-2022-07-30-11.32.58-A-photograph-of-a-colorfully-dressed-clown-named-Steve-sitting-on-a-horse-that-has-fiery-eyes.-They-are-standing-on-a-hill.-Behind-them-on-the-hori.png"
+  - url: "/2024/05/08/advent-the-secrets-of-adventure/"
+    title: "ADVENT: The Secrets of Adventure"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/cca-banner2.png"
+  - url: "/2024/03/25/dragons-dogma-ii-now-playing/"
+    title: "Dragon's Dogma II: Now Playing"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/dd2banner.png"
+  - url: "/2024/03/23/unicorn-overlord-whose-overlord-is-it-anyway/"
+    title: "Unicorn Overlord -- Whose Overlord Is It, Anyway?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/Unicorn-Overlord_20240322181915.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/02/jvsk.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/02/jvsk.png"
 ---

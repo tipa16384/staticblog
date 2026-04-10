@@ -3,6 +3,7 @@ date: '2020-12-23T10:18:48-05:00'
 draft: false
 title: "Two Weeks with Fitness Boxing 2 for the Switch"
 author: "Tipa"
+disqusIdentifier: "2020/12/23/two-weeks-with-fitness-boxing-2-for-the-switch"
 summary: "A decent light workout for those who enjoy rhythm games, but it won't teach you much about boxing."
 categories:
   - "Nintendo Switch"
@@ -11,6 +12,19 @@ categories:
 tags:
   - "Exercise"
   - "Fitness Boxing 2"
+relatedPosts:
+  - url: "/2020/12/08/too-many-games-in-my-queue/"
+    title: "Too Many Games in my Queue"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/2020120808035600-67D01338887DAC4477826B5EA75BFB74.jpg"
+  - url: "/2021/09/13/quick-look-persona-5-strikers/"
+    title: "Quick Look: Persona 5 Strikers"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/2021082320223000-1ED6A785ADE38F04450C188FF9531338.jpg"
+  - url: "/2021/07/20/rise-eterna/"
+    title: "Rise Eterna"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/2021051618021700-BA2A6D95681540D14D17CA98DC5AFB99.jpg"
+  - url: "/2021/01/12/does-dcuo-on-the-switch-make-any-sense/"
+    title: "Does DCUO on the Switch make any sense?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/01/2021011212024200-57B4628D2267231D57E0FC1078C0596D.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/2020122308294700-50311348FAD42346F7EA7100A31B9680.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/2020122308294700-50311348FAD42346F7EA7100A31B9680.jpg"
 ---

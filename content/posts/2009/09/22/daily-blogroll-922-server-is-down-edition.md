@@ -3,6 +3,7 @@ date: '2009-09-22T05:00:27-05:00'
 draft: false
 title: "Daily Blogroll 9/22 - Server is Down edition"
 author: "Tipa"
+disqusIdentifier: "2009/09/22/daily-blogroll-922-server-is-down-edition"
 summary: "Aion launched yesterday for pre-orders. Cownose got in. Petter had the five hour queue (and he's under deadline!) Heartless_ isn't playing, but loves him some..."
 categories:
   - "Aion"
@@ -11,6 +12,19 @@ categories:
   - "MMORPG"
   - "Wizard101"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/09/10/daily-blogroll-910/"
+    title: "Daily Blogroll 9/10 - Launch Madness edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/EverQuest2-2009-09-09-22-49-15-60.jpg"
+  - url: "/2009/09/03/daily-blogroll-93-sushi-day-edition/"
+    title: "Daily Blogroll 9/3 - Sushi day edition!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/Fullscreen-capture-932009-75844-AM.jpg"
+  - url: "/2009/08/10/daily-blogroll-810-thank-god-its-monday-edition/"
+    title: "Daily Blogroll 8/10 -- Thank God it's Monday edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/daddygirl.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/woofwoof.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/woofwoof.jpg"
 ---

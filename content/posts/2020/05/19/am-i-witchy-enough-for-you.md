@@ -3,6 +3,7 @@ date: '2020-05-19T11:06:56-05:00'
 draft: false
 title: "Am I Witchy Enough For You?"
 author: "Tipa"
+disqusIdentifier: "2020/05/19/am-i-witchy-enough-for-you"
 summary: "Since I finished Octopath Traveler a few weeks ago, I've been looking for another really decent RPG in which to lose myself. My boyfriend had..."
 categories:
   - "EverQuest"
@@ -16,6 +17,19 @@ tags:
   - "Octopath Traveler"
   - "Switch Tax"
   - "The Witcher"
+relatedPosts:
+  - url: "/2020/12/11/my-rpgs-of-2020/"
+    title: "My RPGs of 2020"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/Chocobos-Mystery-Dungeon-EVERY-BUDDY_20200506204657.jpg"
+  - url: "/2020/07/01/game-log-for-june/"
+    title: "Game Log for June"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/07/Chocobo’s-Mystery-Dungeon-EVERY-BUDDY_20200630210621.jpg"
+  - url: "/2020/05/25/octomini-project-day-1-minis-arrive/"
+    title: "Octomini Project Day 1: Minis Arrive"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/1-both.jpg"
+  - url: "/2020/05/14/i-got-my-minis-now-octopath-traveler-is-with-me-forever/"
+    title: "I got my minis: Now Octopath Traveler is with me forever."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/minis-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/witcher.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/witcher.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2010-12-21T12:20:15-05:00'
 draft: false
 title: "DDO: The Wight at the End of the Tunnel"
 author: "Tipa"
+disqusIdentifier: "2010/12/21/ddo-the-wight-at-the-end-of-the-tunnel"
 summary: "[..."
 categories:
   - "Dungeons & Dragons Online"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Delera"
   - "Delera's Tomb"
+relatedPosts:
+  - url: "/2010/12/13/ddo-getting-the-wight-out/"
+    title: "DDO: Getting the Wight Out"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/dndclient-2010-12-12-23-23-11-03-480x300.jpg"
+  - url: "/2010/11/29/ddo-all-the-wight-moves/"
+    title: "DDO: All the Wight Moves"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/dndclient-2010-11-28-23-54-41-89-480x384.jpg"
+  - url: "/2010/12/06/ddo-taking-a-wight-at-the-ghast-station/"
+    title: "DDO: Taking a Wight at the Ghast Station"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/dndclient-2010-12-05-00-36-35-01-480x384.jpg"
+  - url: "/2010/11/22/ddo-searingly-expensive-heights/"
+    title: "DDO: Searing(ly expensive) Heights"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/dndclient-2010-11-21-22-54-21-20-480x384.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/dndclient-2010-12-19-22-54-51-00-480x383.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/dndclient-2010-12-19-22-54-51-00-480x383.jpg"
 ---

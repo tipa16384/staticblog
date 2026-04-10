@@ -3,6 +3,7 @@ date: '2026-01-01T10:35:23-05:00'
 draft: false
 title: "2025, a Year in Pictures"
 author: "Tipa"
+disqusIdentifier: "2026/01/01/2025-a-year-in-pictures"
 summary: "Remembering 2025 through the pictures and screenshots I took throughout the year. There's a lot."
 categories:
   - "Blaugust 2025"
@@ -10,6 +11,19 @@ categories:
   - "Tabletop Games"
 tags:
   - "Team Spode"
+relatedPosts:
+  - url: "/2025/08/17/dune-awakening-roc-music/"
+    title: "Dune: Awakening -- Roc Music"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/dunecarrier.png"
+  - url: "/2025/08/02/dune-awakening-fishing-for-sandtrout/"
+    title: "Dune Awakening: Fishing for Sandtrout"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/fishingforsandtrout.png"
+  - url: "/2025/08/29/i-guess-i-suck-at-this-whole-blaugust-thing/"
+    title: "I guess I suck at this whole Blaugust thing"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/arcaniststage.png"
+  - url: "/2025/08/22/the-kind-of-malifaux-you-play-at-home/"
+    title: "The Kind of Malifaux You Play at Home"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5337-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/1-2025-Collage.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/1-2025-Collage.jpg"
 ---

@@ -3,9 +3,20 @@ date: '2024-09-04T07:00:00-05:00'
 draft: false
 title: "The Transgressive Charm of Um Jammer Lammy"
 author: "Tipa"
+disqusIdentifier: "2024/09/04/the-transgressive-charm-of-um-jammer-lammy"
 summary: "All \"Jammer\" Lammy wants to do is rock. The only thing stopping her is... everything."
 categories:
   - "Rhythm Games"
+relatedPosts:
+  - url: "/2024/07/09/backlog-report-is-it-worth-buying-a-ps3-to-play-mad-maestro/"
+    title: "Backlog Report: Is it worth buying a PS3 to play Mad Maestro?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/07/Screenshot-2024-07-08-212742.png"
+  - url: "/2022/08/21/21-reactions-chemical-chaos/"
+    title: "21 Reactions: Chemical Chaos"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-13-21.11.32-a-beaker-containing-multicolored-chemicals.-musical-notes-are-coming-out-of-the-mouth-of-the-beaker.-in-the-style-of-a-textbook-illustration..png"
+  - url: "/2020/12/23/two-weeks-with-fitness-boxing-2-for-the-switch/"
+    title: "Two Weeks with Fitness Boxing 2 for the Switch"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/2020122308294700-50311348FAD42346F7EA7100A31B9680.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/umjammer-240903-213013.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/umjammer-240903-213013.png"
 ---

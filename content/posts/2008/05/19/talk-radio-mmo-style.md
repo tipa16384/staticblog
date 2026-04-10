@@ -3,10 +3,24 @@ date: '2008-05-19T11:41:47-05:00'
 draft: false
 title: "Talk Radio -- MMO style"
 author: "Tipa"
+disqusIdentifier: "2008/05/19/talk-radio-mmo-style"
 summary: "Sitting here listening to call in shows on NPR (\"On Point\") and thinking about podcasting. For all that it's a 21st century, Internet-age technology, podcasting..."
 categories:
   - "Age of Conan"
   - "MMORPG"
+relatedPosts:
+  - url: "/2011/10/21/daily-blogroll-oct-21-tanks-for-the-memories-edition/"
+    title: "Daily Blogroll Oct 21: Tanks for the Memories edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/dndclient-2011-10-20-21-19-18-63-480x352.jpg"
+  - url: "/2011/01/01/daily-blogroll-1111-happy-new-year-edition/"
+    title: "Daily Blogroll 1/1/11 -- Happy New Year edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/rift-2010-12-31-16-51-43-97-480x384.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2010/04/30/assault-on-the-inbox-weekly-marketing-e-mails/"
+    title: "Assault on the Inbox: Weekly marketing e-mails"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/GameClient-2010-04-19-23-13-13-21.jpg"
 ---
 Sitting here listening to call in shows on NPR ("On Point") and thinking about podcasting. For all that it's a 21st century, Internet-age technology, podcasting...
 <!--more-->

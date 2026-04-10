@@ -3,6 +3,7 @@ date: '2008-10-22T12:14:46-05:00'
 draft: false
 title: "How to start an EverQuest blog."
 author: "Tipa"
+disqusIdentifier: "2008/10/22/how-to-start-an-everquest-blog"
 summary: "1) Be an EverQuest player of any level, experience, anything. This is the tough step...."
 categories:
   - "EverQuest"
@@ -16,6 +17,19 @@ tags:
   - "WRU Bloggers"
   - "You Can Blog"
   - "You Can Do It"
+relatedPosts:
+  - url: "/2008/10/04/eq-do-you-play-everquest-and-also-blog-about-it/"
+    title: "EQ: Do you PLAY EverQuest and also BLOG about it?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-04-08-59-37-85.jpg"
+  - url: "/2022/08/29/blaugust-2022-staying-unmotivated/"
+    title: "Blaugust 2022: Staying (un)Motivated"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-29-21.17.59-A-pen-and-ink-drawing-of-a-penguin-typing-on-a-computer-while-floating-on-an-ice-floe-in-the-middle-of-the-ocean..png"
+  - url: "/2025/10/16/taking-control-of-my-skeets-and-toots/"
+    title: "Taking Control of my Skeets and Toots"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/hq720.jpg"
+  - url: "/2021/09/08/chasing-dings-goes-to-west-karana/"
+    title: "Chasing Dings! goes to West Karana"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/tara21.jpg"
 ---
 1) Be an EverQuest player of any level, experience, anything. This is the tough step....
 <!--more-->

@@ -3,6 +3,7 @@ date: '2007-12-04T08:46:09-05:00'
 draft: false
 title: "EQ2: Guild drama -- I love it!"
 author: "Tipa"
+disqusIdentifier: "2007/12/04/eq2-guild-drama-i-love-it"
 summary: "I accidentally deleted the pictures I had while cleaning out my Fraps folder. So instead, I have this one of Dera at level fifteen or..."
 categories:
   - "EverQuest"
@@ -11,6 +12,19 @@ tags:
   - "Dera"
   - "Drama"
   - "Kunark"
+relatedPosts:
+  - url: "/2007/12/01/eq2-healing-the-crypt-of-agony/"
+    title: "EQ2: Healing the Crypt of Agony"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-01-01-47-14-26.jpg"
+  - url: "/2007/10/18/eq2-i-just-gotta-have-more-cowbell/"
+    title: "EQ2: I just gotta have more cowbell"
+    thumbnailImage: ""
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2024/10/21/evercraft-online-the-unholy-child-of-eq-and-minecraft/"
+    title: "EverCraft Online: The Unholy Child of EQ and MineCraft"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/evercraft-banner.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/8ac5382a5461aad117091694e4b83233.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/8ac5382a5461aad117091694e4b83233.jpg"
 ---

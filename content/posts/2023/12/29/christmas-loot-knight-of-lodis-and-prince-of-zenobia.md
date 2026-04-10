@@ -3,6 +3,7 @@ date: '2023-12-29T09:10:47-05:00'
 draft: false
 title: "Christmas Loot: Knight of Lodis and Prince of Zenobia"
 author: "Tipa"
+disqusIdentifier: "2023/12/29/christmas-loot-knight-of-lodis-and-prince-of-zenobia"
 summary: "For Christmas, I got two more entries in the Tactics Ogre/Ogre Battle series... one I have played before, and the other is going to need some work to be able to play... and understand."
 categories:
   - "Pokemon"
@@ -12,6 +13,19 @@ tags:
   - "Gameboy Advance"
   - "Ogre Battle"
   - "Tactics Ogre"
+relatedPosts:
+  - url: "/2024/01/06/tactics-ogre-the-knight-of-lodis-finished/"
+    title: "Tactics Ogre: The Knight of Lodis FINISHED!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/20240104_221426.jpg"
+  - url: "/2023/11/10/knight-of-lodis-entering-the-crypt/"
+    title: "Knight of Lodis: Entering the Crypt"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/20231110_002228.png"
+  - url: "/2024/03/23/unicorn-overlord-whose-overlord-is-it-anyway/"
+    title: "Unicorn Overlord -- Whose Overlord Is It, Anyway?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/Unicorn-Overlord_20240322181915.jpg"
+  - url: "/2022/01/23/once-i-had-a-life-now-i-have-final-fantasy-tactics-advance/"
+    title: "Once, I had a life. Now, I have Final Fantasy Tactics Advance."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/01/Final-Fantasy-Tactics-Advanced-GBA-36.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/IMG_4125-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/IMG_4125-scaled.jpg"
 ---

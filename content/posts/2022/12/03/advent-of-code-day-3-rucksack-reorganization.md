@@ -3,6 +3,7 @@ date: '2022-12-03T20:59:41-05:00'
 draft: false
 title: "Advent of Code Day 3 -- Rucksack Reorganization"
 author: "Tipa"
+disqusIdentifier: "2022/12/03/advent-of-code-day-3-rucksack-reorganization"
 summary: "I did this puzzle last night while writing the post about Day 2. This time I'm not in quite so much of a rush. Weekends...."
 categories:
   - "Advent of Code"
@@ -13,6 +14,19 @@ tags:
   - "Lua"
   - "Pico-8"
   - "Python"
+relatedPosts:
+  - url: "/2022/12/10/advent-of-code-day-10-cathode-ray-tube/"
+    title: "Advent of Code Day 10 -- Cathode-Ray Tube"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-10-19.36.37-A-woman-in-ragged-clothes-wearing-a-Christmas-hat-playing-a-video-game-in-the-jungle-by-Bob-Eggleton-detailed-and-intricate.png"
+  - url: "/2022/12/05/advent-of-code-day-5-supply-stacks/"
+    title: "Advent of Code Day 5 -- Supply Stacks"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-05-22.32.41-Several-Christmas-elves-unloading-crates-from-an-old-riverboat-painted-by-Bob-Eggleton-detailed-and-intricate.png"
+  - url: "/2022/12/11/advent-of-code-day-11-monkey-in-the-middle/"
+    title: "Advent of Code Day 11 -- Monkey in the Middle"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-11-16.50.33-A-woman-wearing-a-Christmas-hat-staring-at-a-monkey-in-a-jungle-by-Bob-Eggleton-detailed-and-intricate.png"
+  - url: "/2022/12/04/advent-of-code-day-4-camp-cleanup/"
+    title: "Advent of Code Day 4 -- Camp Cleanup"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-04-18.27.11-Several-Christmas-elves-doing-chores-around-a-campsite-in-the-jungle-painted-by-Bob-Eggleton-detailed-and-intricate.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/aoc2022.3.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/aoc2022.3.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2010-10-11T06:44:58-05:00'
 draft: false
 title: "DDO Weekly Recap: Tangleroot Gorge"
 author: "Tipa"
+disqusIdentifier: "2010/10/11/ddo-weekly-recap-tangleroot-gorge"
 summary: "Whatever else you say about the game, one thing you have to admit -- Dungeons & Dragons Online has some really cool armor looks. My..."
 categories:
   - "Dungeons & Dragons Online"
@@ -14,6 +15,19 @@ tags:
   - "Spode"
   - "Tangleroot Gorge"
   - "Ulan"
+relatedPosts:
+  - url: "/2010/12/06/ddo-taking-a-wight-at-the-ghast-station/"
+    title: "DDO: Taking a Wight at the Ghast Station"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/dndclient-2010-12-05-00-36-35-01-480x384.jpg"
+  - url: "/2010/11/08/dungeons-dragons-online-endless-trials/"
+    title: "Dungeons & Dragons Online: Endless Trials"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/dndclient-2010-11-08-21-15-15-11-480x384.jpg"
+  - url: "/2023/09/12/looks-like-its-dd-time-again/"
+    title: "Looks like it's D&D time again"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/halforcclericcloseup.png"
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/dndclient-2010-10-11-00-07-07-80.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/dndclient-2010-10-11-00-07-07-80.jpg"
 ---

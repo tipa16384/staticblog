@@ -3,6 +3,7 @@ date: '2008-10-29T08:20:40-05:00'
 draft: false
 title: "Wizard 101: Crimson Fields and Sunken City (again)"
 author: "Tipa"
+disqusIdentifier: "2008/10/29/wizard-101-crimson-fields-and-sunken-city-again"
 summary: "Meet the War Oni, boss of Crimson Fields. I've been told Crimson Fields is the longest instance in Moo Shu, and so far it seems..."
 categories:
   - "MMORPG"
@@ -19,6 +20,19 @@ tags:
   - "W101"
   - "War Oni"
   - "Wizard101"
+relatedPosts:
+  - url: "/2008/10/27/wizard-101-hametsu-village/"
+    title: "Wizard 101: Hametsu Village"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-26-17-18-58-70.jpg"
+  - url: "/2008/11/01/wizard-101-october-30-update-and-the-cave-of-sorrows/"
+    title: "Wizard 101: October 30 update and the Cave of Sorrows"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-01-08-29-11-18.jpg"
+  - url: "/2008/09/17/wizard-101-slices-repeat-instance-xp/"
+    title: "Wizard 101 slices repeat instance XP"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/wizardgraphicalclient-2008-09-17-06-55-45-50.jpg"
+  - url: "/2008/11/03/wizard-101-shiritakai-temple-and-the-plague-oni/"
+    title: "Wizard 101: Shiritaki Temple and the Plague Oni"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-01-17-59-57-21.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-28-01-24-41-16.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-28-01-24-41-16.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2021-08-10T22:02:08-05:00'
 draft: false
 title: "My Board Game is on a Slow Boat from China"
 author: "Tipa"
+disqusIdentifier: "2021/08/10/my-board-game-is-on-a-slow-boat-from-china"
 summary: "It's just gotten worse with time. The Kickstarter you were so excited for funded! YAY! The creators are as excited as you are, and they..."
 categories:
   - "Blaugust"
@@ -13,6 +14,19 @@ tags:
   - "Blaugust"
   - "China"
   - "Swords of the Coin"
+relatedPosts:
+  - url: "/2021/10/15/looking-for-mr-kickstarter/"
+    title: "Looking for Mr. Kickstarter"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/cologne.jpg"
+  - url: "/2025/05/02/how-kickstarter-projects-are-handing-tariffs/"
+    title: "How Kickstarter Projects are Handling Tariffs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/evergiven.png"
+  - url: "/2021/09/15/lets-go-looking-for-my-games/"
+    title: "Let's Go Looking For My Games"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/china-map.gif"
+  - url: "/2021/08/24/stalking-my-sister/"
+    title: "Stalking My Sister"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210824215934_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/slowboat.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/slowboat.jpg"
 ---

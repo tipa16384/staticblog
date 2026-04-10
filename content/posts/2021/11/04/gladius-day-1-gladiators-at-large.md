@@ -3,6 +3,7 @@ date: '2021-11-04T08:06:56-05:00'
 draft: false
 title: "Gladius, Day 1: Gladiators at Large"
 author: "Tipa"
+disqusIdentifier: "2021/11/04/gladius-day-1-gladiators-at-large"
 summary: "Welcome to the start of my playthrough of LucasArts' \"Gladius\", a tactical arena fighting game for the PlayStation 2...."
 categories:
   - "Emulators"
@@ -14,6 +15,19 @@ tags:
   - "Lucasarts"
   - "PCSX2"
   - "Tactics"
+relatedPosts:
+  - url: "/2021/11/22/gladius-day-6-ursula-decided-to-return-to-her-home-planet/"
+    title: "Gladius, day 6: Ursula decided to return to her home planet"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/gsdx_20211122204522.jpg"
+  - url: "/2021/11/14/gladius-day-3-hail-imperia/"
+    title: "Gladius, Day 3: Hail, Imperia"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/gsdx_20211113225044.jpg"
+  - url: "/2021/11/08/gladius-day-2/"
+    title: "Gladius, day 2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/gsdx_20211106224139.jpg"
+  - url: "/2024/03/23/unicorn-overlord-whose-overlord-is-it-anyway/"
+    title: "Unicorn Overlord -- Whose Overlord Is It, Anyway?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/Unicorn-Overlord_20240322181915.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/gsdx_20211103184301.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/gsdx_20211103184301.png"
 ---

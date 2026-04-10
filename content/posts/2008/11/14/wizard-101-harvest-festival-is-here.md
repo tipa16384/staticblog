@@ -3,6 +3,7 @@ date: '2008-11-14T12:00:03-05:00'
 draft: false
 title: "Wizard 101: Harvest Festival is here!"
 author: "Tipa"
+disqusIdentifier: "2008/11/14/wizard-101-harvest-festival-is-here"
 summary: "Halloween is gone from Wizard City at last, and hot on the heels of Spooky Bob comes Harvest Hannah with a whole new inventory of..."
 categories:
   - "MMORPG"
@@ -13,6 +14,19 @@ tags:
   - "Harvest Festival"
   - "Harvest Hannah"
   - "Wizard101"
+relatedPosts:
+  - url: "/2008/11/01/wizard-101-october-30-update-and-the-cave-of-sorrows/"
+    title: "Wizard 101: October 30 update and the Cave of Sorrows"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-01-08-29-11-18.jpg"
+  - url: "/2008/11/14/wizard-101-i-am-finally-free/"
+    title: "Wizard 101: I am finally free."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-13-23-45-43-45.jpg"
+  - url: "/2009/03/13/wizard-101-st-pattys-day-and-new-crowns-items/"
+    title: "Wizard 101: St. Patty's day -- and new Crowns items!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-34-54-60.jpg"
+  - url: "/2010/09/03/wizard101-getting-the-school-ready-for-celestia/"
+    title: "Wizard101: Getting the school ready for Celestia"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/WizardGraphicalClient-2010-09-02-20-49-06-61.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-14-07-10-01-56.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-14-07-10-01-56.jpg"
 ---

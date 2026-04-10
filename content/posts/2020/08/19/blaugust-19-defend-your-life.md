@@ -3,6 +3,7 @@ date: '2020-08-19T07:54:57-05:00'
 draft: false
 title: "Blaugust #19: Defend Your Life"
 author: "Tipa"
+disqusIdentifier: "2020/08/19/blaugust-19-defend-your-life"
 summary: "I'm not really sure how to respond to today's Blaugust Promptapalooza prompt, which is from Solarayo of Ace Asunder:..."
 categories:
   - "Blaugust"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Bridges"
   - "Kalimba"
+relatedPosts:
+  - url: "/2023/08/08/sam-portsmouth-bridges/"
+    title: "Sam Portsmouth Bridges"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/IMG_3945-EFFECTS-scaled.jpg"
+  - url: "/2020/09/02/random-bits-of-real-life-1/"
+    title: "Random Bits of Real Life #1"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/1-IMG_1859.jpg"
+  - url: "/2022/12/09/advent-of-code-day-9-rope-bridge/"
+    title: "Advent of Code Day 9 -- Rope Bridge"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-09-21.18.23-Christmas-Elves-walking-on-a-tattered-rope-bridge-crossing-a-river-in-a-jungle-by-Bob-Eggleton-detailed-and-intricate.png"
+  - url: "/2010/11/27/daily-blogroll-black-friday-edition/"
+    title: "Daily Blogroll: Black Friday Edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/GameClient-2010-11-25-22-16-43-8-480x263.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/IMG_1538.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/IMG_1538.jpg"
 ---

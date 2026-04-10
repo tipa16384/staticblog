@@ -3,9 +3,23 @@ date: '2006-06-12T00:00:00-05:00'
 draft: false
 title: "Undressed to Kill"
 author: "Tipa"
+disqusIdentifier: "2006/06/12/undressed-to-kill"
 summary: "For a gaming blog, I sure don't manage to write that much about gaming......"
 categories:
   - "My Work"
+relatedPosts:
+  - url: "/2010/02/15/java-test-ramping-up-for-7drl/"
+    title: "Java Test: Ramping up for 7DRL"
+    thumbnailImage: ""
+  - url: "/2009/05/31/adventures-in-computer-science-monopoly-board-computer/"
+    title: "Adventures in Computer Science: Monopoly board computer"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/turingopoly.jpg"
+  - url: "/2009/03/26/xfire-wordpress-plugin-first-release/"
+    title: "XFire Wordpress Plugin -- first release"
+    thumbnailImage: ""
+  - url: "/2009/03/26/xfire-wordpress-widget/"
+    title: "XFire Wordpress Widget"
+    thumbnailImage: ""
 ---
 For a gaming blog, I sure don't manage to write that much about gaming......
 <!--more-->

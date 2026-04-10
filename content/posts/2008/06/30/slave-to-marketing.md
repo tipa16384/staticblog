@@ -3,6 +3,7 @@ date: '2008-06-30T09:45:49-05:00'
 draft: false
 title: "Slave to marketing."
 author: "Tipa"
+disqusIdentifier: "2008/06/30/slave-to-marketing"
 summary: "I almost -- ALMOST -- bought Guitar Hero: Aerosmith this weekend, for the PS3. And I probably would have, if I'd gone there Sunday instead..."
 categories:
   - "Doctor Who"
@@ -13,6 +14,19 @@ tags:
   - "PS2"
   - "PS3"
   - "The Stolen Earth"
+relatedPosts:
+  - url: "/2008/06/30/rock-band-2-announced/"
+    title: "Rock Band 2 announced"
+    thumbnailImage: ""
+  - url: "/2008/06/29/guitar-hero-on-tour/"
+    title: "Guitar Hero: On Tour"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/guitarheroontour.jpg"
+  - url: "/2008/10/30/lbp-the-littlest-biggest-planet-in-the-galaxy/"
+    title: "LBP: The Littlest, Biggest Planet in the galaxy."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/stp61416.jpg"
+  - url: "/2008/09/19/ps3-littlebig-planet-in-stores-october-21/"
+    title: "PS3: LittleBig Planet in stores October 21"
+    thumbnailImage: ""
 ---
 I almost -- ALMOST -- bought Guitar Hero: Aerosmith this weekend, for the PS3. And I probably would have, if I'd gone there Sunday instead...
 <!--more-->

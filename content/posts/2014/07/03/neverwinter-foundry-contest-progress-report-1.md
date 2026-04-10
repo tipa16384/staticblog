@@ -3,12 +3,26 @@ date: '2014-07-03T07:30:30-05:00'
 draft: false
 title: "Neverwinter: Foundry Contest Progress Report #1"
 author: "Tipa"
+disqusIdentifier: "2014/07/03/neverwinter-foundry-contest-progress-report-1"
 summary: "Five days without Internet was tougher than I imagined. But it's back up now, just in time for the new Neverwinter foundry contest...."
 categories:
   - "MMORPG"
   - "Neverwinter"
 tags:
   - "Foundry"
+relatedPosts:
+  - url: "/2015/02/19/based-on-a-suggestion-last-week-in-the-forums-i-went-through-the-159-quests-that-we-have-reviewed/"
+    title: "Weekly Foundry Reviews -- February 18, 2015"
+    thumbnailImage: ""
+  - url: "/2015/02/12/weekly-foundry-quests-february-11-2015after-running-into-ian-darksword-entirely-by-accident-guard/"
+    title: "Weekly Foundry Quests -- February 11, 2015"
+    thumbnailImage: ""
+  - url: "/2015/02/05/well-this-week-the-foundry-wasnt-being-kind-to-us-first-i-and-later-kasul-couldnt-open-the-final/"
+    title: "Weekly Foundry Reviews -- February 5, 2015"
+    thumbnailImage: ""
+  - url: "/2015/02/01/first-floor-of-newfallen-to-80-i-deleted-the-old-story-and-the-old-maps-now-the-only-way-to-go-is/"
+    title: "Neverwinter: First floor of Newfallen to 80%!"
+    thumbnailImage: ""
 coverImage: "https://lh6.googleusercontent.com/-n88nN72SbkU/U7TY1hGOgeI/AAAAAAAAxLc/uzpKscWBoVU/w907-h686-no/GameClient+2014-07-03+00-15-06-46.jpg"
 thumbnailImage: "https://lh6.googleusercontent.com/-n88nN72SbkU/U7TY1hGOgeI/AAAAAAAAxLc/uzpKscWBoVU/w907-h686-no/GameClient+2014-07-03+00-15-06-46.jpg"
 ---

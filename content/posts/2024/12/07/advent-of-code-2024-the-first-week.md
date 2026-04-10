@@ -3,6 +3,7 @@ date: '2024-12-07T19:56:05-05:00'
 draft: false
 title: "Advent of Code 2024: The First Week"
 author: "Tipa"
+disqusIdentifier: "2024/12/07/advent-of-code-2024-the-first-week"
 summary: "AI has changed programming forever. It has changed Advent of Code and the way I work. What's life going to be like when AI can do my job, better than me?"
 categories:
   - "Advent of Code"
@@ -16,6 +17,19 @@ tags:
   - "Julia"
   - "Python"
   - "Rust"
+relatedPosts:
+  - url: "/2022/12/11/advent-of-code-day-11-monkey-in-the-middle/"
+    title: "Advent of Code Day 11 -- Monkey in the Middle"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-11-16.50.33-A-woman-wearing-a-Christmas-hat-staring-at-a-monkey-in-a-jungle-by-Bob-Eggleton-detailed-and-intricate.png"
+  - url: "/2023/12/04/advent-of-code-day-4-scratchcards/"
+    title: "Advent of Code Day 4 -- Scratchcards"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_A_Christmas_elf_sitting_on_a_giant_heap_of_scratch_off__6f747a63-e079-4e61-aea3-4d9d81e4b203.png"
+  - url: "/2022/12/09/advent-of-code-day-9-rope-bridge/"
+    title: "Advent of Code Day 9 -- Rope Bridge"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-09-21.18.23-Christmas-Elves-walking-on-a-tattered-rope-bridge-crossing-a-river-in-a-jungle-by-Bob-Eggleton-detailed-and-intricate.png"
+  - url: "/2022/12/04/advent-of-code-day-4-camp-cleanup/"
+    title: "Advent of Code Day 4 -- Camp Cleanup"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-04-18.27.11-Several-Christmas-elves-doing-chores-around-a-campsite-in-the-jungle-painted-by-Bob-Eggleton-detailed-and-intricate.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/DALL·E-2024-12-07-11.54.46-A-Tolkien-inspired-scene-depicting-graceful-elves-in-a-Tolkien-inspired-setting-repairing-a-rope-bridge-over-a-serene-river-surrounded-by-lush-vibra.webp"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/DALL·E-2024-12-07-11.54.46-A-Tolkien-inspired-scene-depicting-graceful-elves-in-a-Tolkien-inspired-setting-repairing-a-rope-bridge-over-a-serene-river-surrounded-by-lush-vibra.webp"
 ---

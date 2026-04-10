@@ -3,12 +3,26 @@ date: '2010-10-07T07:06:18-05:00'
 draft: false
 title: "Dungeons & Dragons Online: Adventure by the Bite"
 author: "Tipa"
+disqusIdentifier: "2010/10/07/dungeons-dragons-online-adventure-by-the-bite"
 summary: "There's a gulf between the MMOs I WANT to be playing -- such as EverQuest, where I currently have a max-level rogue -- and the..."
 categories:
   - "Dungeons & Dragons Online"
   - "EverQuest"
   - "MMORPG"
   - "Star Trek"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2010/10/29/halloween-around-the-multiverse/"
+    title: "Halloween around the multiverse...."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/STOPumpkin.jpg"
+  - url: "/2010/05/11/weekend-gaming-ddo-w101-eq-sto/"
+    title: "Weekend Gaming: DDO, W101, EQ, STO"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/dndclient-2010-05-09-00-32-14-90.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/dndclient-2010-10-06-23-21-52-93.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/dndclient-2010-10-06-23-21-52-93.jpg"
 ---

@@ -3,11 +3,25 @@ date: '2007-02-26T17:31:25-05:00'
 draft: false
 title: "LotRO vs Vanguard"
 author: "Tipa"
+disqusIdentifier: "2007/02/26/lotro-vs-vanguard"
 summary: "After a weekend on LotRO, a game I wasn't all that excited about, I wanted to play more. After a weekend playing Vanguard, a game..."
 categories:
   - "Lord of the Rings"
   - "MMORPG"
   - "Vanguard"
+relatedPosts:
+  - url: "/2010/11/30/daily-blogroll-1130-worst-case-scenario-edition/"
+    title: "Daily Blogroll, 11/30 -- Worst Case Scenario edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/vgclient-2010-11-29-20-32-30-42.jpg"
+  - url: "/2009/06/30/daily-blogroll-630-christmas-edition/"
+    title: "Daily Blogroll 6/30 - Christmas edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/TS3-2009-06-30-08-10-20-98.jpg"
+  - url: "/2009/05/15/daily-blogroll-515-endelig-fredag-edition/"
+    title: "Daily Blogroll 5/15 -- Endelig Fredag edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/clangreenscaledragon.jpg"
+  - url: "/2009/05/13/daily-blogroll-513-going-rogue-edition/"
+    title: "Daily Blogroll 5/13 -- Going Rogue edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/angelatheangelic.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/02/lotr-box.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/02/lotr-box.jpg"
 ---

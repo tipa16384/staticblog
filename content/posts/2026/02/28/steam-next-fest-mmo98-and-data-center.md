@@ -3,6 +3,7 @@ date: '2026-02-28T16:48:14-05:00'
 draft: false
 title: "Steam Next Fest: MMO98 and Data Center"
 author: "Tipa"
+disqusIdentifier: "2026/02/28/steam-next-fest-mmo98-and-data-center"
 summary: "These two games are related -- promise. Picture BTW is of the actual EverQuest server room."
 categories:
   - "Steam Games"
@@ -11,6 +12,19 @@ tags:
   - "mmo98"
   - "Simulation Game"
   - "Steam Next Fest"
+relatedPosts:
+  - url: "/2026/03/04/steam-next-fest-windrose-tides-of-blazefall-twilight-imperium-panzer-dragoon-zwei/"
+    title: "Steam Next Fest: Windrose, Tides of Blazefall, Twilight Imperium, Panzer Dragoon Zwei"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/1-20260301204409_1.jpg"
+  - url: "/2026/03/01/steam-next-fest-scriptorium-forbidden-solitaire-dont-panic-it-is-just-turbulence/"
+    title: "Steam Next Fest: Scriptorium, Forbidden Solitaire, Don't Panic! It is Just Turbulence"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot_20260301_164813_T.png"
+  - url: "/2026/02/27/steam-next-fest-underkeep-and-dverghold/"
+    title: "Steam Next Fest: Underkeep and Dverghold"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/20260225_232117.png"
+  - url: "/2025/02/25/steam-next-fest-day-1-the-weird-stuff/"
+    title: "Steam Next Fest: Day 1, the Weird Stuff"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/02/1-steam-next-fest.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/20240116_2110116464139906798923568.webp"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/20240116_2110116464139906798923568.webp"
 ---

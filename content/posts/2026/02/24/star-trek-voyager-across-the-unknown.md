@@ -3,6 +3,7 @@ date: '2026-02-24T09:00:00-05:00'
 draft: false
 title: "Star Trek Voyager -- Across the Unknown"
 author: "Tipa"
+disqusIdentifier: "2026/02/24/star-trek-voyager-across-the-unknown"
 summary: "If you need me, I'll be playing Wuthering Heights in the holodeck. Bring coffee."
 categories:
   - "RPG"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "across the unknown"
   - "star trek voyager"
+relatedPosts:
+  - url: "/2026/02/17/the-fellowship-of-the-ring-ps2/"
+    title: "The Fellowship of the Ring (PS2)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/The-Lord-of-the-Rings-The-Fellowship-of-the-Ring_SLUS-20520_20260217075358.png"
+  - url: "/2026/01/11/quest-64-i-played-the-worst-rpg-on-the-nintendo-64/"
+    title: "Quest 64: I played the worst RPG on the Nintendo 64 -- and I liked it"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/Screenshot-2026-01-09-18-19-11.png"
+  - url: "/2025/05/18/clair-obscur-expedition-33-1-3/"
+    title: "Clair Obscur: Expedition 33 1/3"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/1-Clair-Obscur_-Expedition-33_20250517165411-scaled.jpg"
+  - url: "/2025/05/05/blue-prince-welcome-to-the-gift-shop/"
+    title: "Blue Prince: Welcome to the Gift Shop"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/Blue-Prince_20250504155946-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/20260223070901_1-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/20260223070901_1-scaled.jpg"
 ---

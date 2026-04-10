@@ -3,10 +3,24 @@ date: '2008-01-24T15:11:37-05:00'
 draft: false
 title: "Rock Band: Real PvP vs Carebear PvP"
 author: "Tipa"
+disqusIdentifier: "2008/01/24/rock-band-real-pvp-vs-carebear-pvp"
 summary: "There's a lot of discussion about PvP in upcoming MMOs. How hardcore will it be, will it interest non-PvPers... It can. If the penalty for..."
 categories:
   - "MMORPG"
   - "Rock Band"
+relatedPosts:
+  - url: "/2008/03/23/bad-week-for-gaming-good-week-for-blogging/"
+    title: "Bad week for gaming, good week for blogging"
+    thumbnailImage: ""
+  - url: "/2008/02/05/eq2-et-al-top-10-questions-answered/"
+    title: "EQ2 (et al): Top 10 questions answered"
+    thumbnailImage: ""
+  - url: "/2008/01/29/short-updates-rock-band-vanguard-and-pirates-of-the-burning-sea/"
+    title: "Short updates: Rock Band, Vanguard and Pirates of the Burning Sea"
+    thumbnailImage: ""
+  - url: "/2008/01/28/weekend-gaming-of-veeshans-peak-twins-and-things-that-go-bump-in-the-night/"
+    title: "Weekend Gaming: Of Veeshan's Peak, Twins, and Things that Go Bump in the Night"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/everquest2-2008-01-26-02-12-16-22.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/test.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/test.jpg"
 ---

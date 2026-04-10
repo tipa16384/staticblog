@@ -3,6 +3,7 @@ date: '2023-12-16T10:54:05-05:00'
 draft: false
 title: "Advent of Code Day 16 -- The Floor Will Be Lava"
 author: "Tipa"
+disqusIdentifier: "2023/12/16/advent-of-code-day-16-the-floor-will-be-lava"
 summary: "/u/YellowZorro hasn't posted any more art, so back to Dall-E 3 renderings. Today, we get ready to MAKE SOME LAVA TO SAVE CHRISTMAS!"
 categories:
   - "Advent of Code"
@@ -12,6 +13,19 @@ tags:
   - "Lava"
   - "Mirrors"
   - "Reindeer"
+relatedPosts:
+  - url: "/2023/12/15/advent-of-code-day-15-lens-library/"
+    title: "Advent of Code Day 15 -- Lens Library"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/aoc2023-15.jpeg"
+  - url: "/2023/12/19/advent-of-code-day-18-lavaduct-lagoon/"
+    title: "Advent of Code Day 18 -- Lavaduct Lagoon"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-18-22.42.07-Illustration-for-an-Advent-of-Code-puzzle-with-a-16-10-aspect-ratio.-The-scene-shows-a-large-newly-constructed-lagoon-near-a-machine-parts-factory-on.png"
+  - url: "/2023/12/17/advent-of-code-day-17-clumsy-crucible/"
+    title: "Advent of Code Day 17 -- Clumsy Crucible"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-17-16.23.47-Illustration-for-an-Advent-of-Code-puzzle-with-a-16-10-aspect-ratio.-The-scene-is-a-birds-eye-view-of-Gear-Island-half-empty-and-half-a-bustling-fac.png"
+  - url: "/2023/12/15/advent-of-code-day-14-parabolic-reflector-dish/"
+    title: "Advent of Code Day 14 -- Parabolic Reflector Dish"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-14-21.53.41-A-wall-of-mirrors-attached-to-a-cliff-face-on-the-left-side-of-the-image-with-a-dormant-volcano-in-the-background-steaming.-The-sun-is-setting-over-.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-16-10.31.52-A-reindeer-leading-the-way-into-the-depths-of-a-giant-cave-that-serves-as-a-Lava-Production-Facility.-The-caves-walls-doorways-and-floor-are-all-na.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-16-10.31.52-A-reindeer-leading-the-way-into-the-depths-of-a-giant-cave-that-serves-as-a-Lava-Production-Facility.-The-caves-walls-doorways-and-floor-are-all-na.png"
 ---

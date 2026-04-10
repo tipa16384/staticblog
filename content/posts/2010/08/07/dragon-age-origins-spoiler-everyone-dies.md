@@ -3,10 +3,24 @@ date: '2010-08-07T10:27:04-05:00'
 draft: false
 title: "Dragon Age Origins spoiler: Everyone dies."
 author: "Tipa"
+disqusIdentifier: "2010/08/07/dragon-age-origins-spoiler-everyone-dies"
 summary: "[..."
 categories:
   - "Dragon Age Origins"
   - "Other Games"
+relatedPosts:
+  - url: "/2024/11/21/dragon-age-the-veilguard-finished/"
+    title: "Dragon Age: the Veilguard finished"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/banner2.png"
+  - url: "/2024/11/09/dragon-age-the-veilguard-is-not-the-game-you-think-it-is/"
+    title: "Dragon Age: The Veilguard is not the game you think it is"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/davg-banner.png"
+  - url: "/2011/04/02/dragon-age-2-money-shot/"
+    title: "Dragon Age 2: Money shot"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/04/da23d-480x384.jpg"
+  - url: "/2011/03/12/dragon-age-2-a-kinder-gentler-dragon-age/"
+    title: "Dragon Age 2: A Kinder, Gentler Dragon Age"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/DragonAge2-2011-03-11-23-34-04-11-480x383.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/DAOrigins-2010-08-05-21-53-59-15-1024x574.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/DAOrigins-2010-08-05-21-53-59-15-1024x574.jpg"
 ---

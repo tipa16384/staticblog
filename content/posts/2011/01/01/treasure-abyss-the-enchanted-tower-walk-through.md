@@ -3,10 +3,24 @@ date: '2011-01-01T10:26:38-05:00'
 draft: false
 title: "Treasure Abyss: The Enchanted Tower (walk-through)"
 author: "Tipa"
+disqusIdentifier: "2011/01/01/treasure-abyss-the-enchanted-tower-walk-through"
 summary: "[..."
 categories:
   - "Facebook Games"
   - "Treasure Abyss"
+relatedPosts:
+  - url: "/2011/09/26/treasure-abyss-closes-its-dungeons/"
+    title: "Treasure Abyss closes its dungeons"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/09/Fullscreen-capture-9232011-74807-AM-480x380.jpg"
+  - url: "/2011/05/13/daily-blogroll-513-truth-in-advertising-edition/"
+    title: "Daily Blogroll 5/13: Truth in Advertising Edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/05/Fullscreen-capture-5112011-61851-AM-480x308.jpg"
+  - url: "/2010/10/19/treasure-abyss-some-exclusive-wallpaper/"
+    title: "Treasure Abyss: Some exclusive wallpaper!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/TAWallpaper-480x360.jpg"
+  - url: "/2010/10/14/treasure-abyss-adds-samurai-class-new-dungeons/"
+    title: "Treasure Abyss adds Samurai class, new dungeons"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/Fullscreen-capture-10142010-73508-AM-480x376.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/chrome-2011-01-01-08-54-41-97-480x384.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/chrome-2011-01-01-08-54-41-97-480x384.jpg"
 ---

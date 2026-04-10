@@ -3,6 +3,7 @@ date: '2020-05-29T11:46:57-05:00'
 draft: false
 title: "Game Night: Game of Thrones: the Card Game"
 author: "Tipa"
+disqusIdentifier: "2020/05/29/game-night-game-of-thrones-the-card-game"
 summary: "Last year for my birthday, Kasul got me a huge, mysteriously heavy box and refused to say what was inside. Anticipation was killing me. When..."
 categories:
   - "Game Night"
@@ -12,6 +13,19 @@ categories:
 tags:
   - "Deckbuilding"
   - "Game of Thrones"
+relatedPosts:
+  - url: "/2021/10/02/game-night-scythe-and-my-little-scythe/"
+    title: "Game Night: Scythe (and My Little Scythe)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/Scythe-Board-Game-img06.jpg"
+  - url: "/2021/09/25/game-night-my-little-scythe-and-the-watson-game-topper/"
+    title: "Game Night: My Little Scythe and the Watson Game Topper"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/2-IMG_2337.jpg"
+  - url: "/2026/03/25/preview-topdeck-automat/"
+    title: "Preview: Topdeck Automat"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-24-220403.png"
+  - url: "/2025/08/14/micro-hero-hercules/"
+    title: "Micro Hero: Hercules"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5324-EDIT-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/lordsandladies.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/lordsandladies.jpg"
 ---

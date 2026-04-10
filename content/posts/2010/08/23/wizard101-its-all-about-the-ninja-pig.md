@@ -3,6 +3,7 @@ date: '2010-08-23T22:49:33-05:00'
 draft: false
 title: "Wizard101: It's all about the Ninja Pig"
 author: "Tipa"
+disqusIdentifier: "2010/08/23/wizard101-its-all-about-the-ninja-pig"
 summary: "My friend Michael Stormpyre and I were farming for grandmaster gear the other night. I was on my myth wizard, Marissa Spiritcaller, and I was..."
 categories:
   - "MMORPG"
@@ -17,6 +18,19 @@ tags:
   - "Ninja Pig"
   - "Warehouse"
   - "Wayfinder"
+relatedPosts:
+  - url: "/2009/02/26/wizard-101-building-a-deck/"
+    title: "Wizard 101: Building a deck"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/wizardgraphicalclient-2009-02-25-21-32-59-54.jpg"
+  - url: "/2010/08/14/wizard101-ding-i-can-go-to-sleep-now/"
+    title: "Wizard101: Ding! I can go to sleep now?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/WizardGraphicalClient-2010-08-14-01-21-15-32.jpg"
+  - url: "/2009/07/02/wizard-101-first-night-in-grizzleheim-crafting-secrets/"
+    title: "Wizard 101: First Night in Grizzleheim & Crafting Secrets"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/WizardGraphicalClient-2009-07-02-07-16-47-37.jpg"
+  - url: "/2009/04/23/wizard-101-player-housing-on-test/"
+    title: "Wizard 101 Player Housing ON TEST!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/wizardgraphicalclient-2009-04-23-01-13-36-76.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/WizardGraphicalClient-2010-08-23-23-14-18-90.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/WizardGraphicalClient-2010-08-23-23-14-18-90.jpg"
 ---

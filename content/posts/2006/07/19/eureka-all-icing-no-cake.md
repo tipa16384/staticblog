@@ -3,10 +3,24 @@ date: '2006-07-19T00:00:00-05:00'
 draft: false
 title: "Eureka: All Icing, No Cake"
 author: "Tipa"
+disqusIdentifier: "2006/07/19/eureka-all-icing-no-cake"
 summary: "Sat down in anticipation last night for Eureka, the SciFi channel's newest show...."
 categories:
   - "Eureka"
   - "Sci Fi"
+relatedPosts:
+  - url: "/2006/09/06/battlestar-galactica-webisodes/"
+    title: "Battlestar Galactica Webisodes"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/09/katie.jpg"
+  - url: "/2006/07/28/dead-like-me-eureka-who-wants-to-be-a-superhero/"
+    title: "Dead Like Me, Eureka, Who Wants to be a Superhero?"
+    thumbnailImage: ""
+  - url: "/2006/07/18/made-in-eureka/"
+    title: "Made In Eureka"
+    thumbnailImage: ""
+  - url: "/2026/01/17/starfleet-academy-your-billionaire-future/"
+    title: "Starfleet Academy: Your Billionaire Future"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/starfleetacademy.png"
 coverImage: "https://tipa16384.github.io/wkblog/images/triangle.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/images/triangle.png"
 ---

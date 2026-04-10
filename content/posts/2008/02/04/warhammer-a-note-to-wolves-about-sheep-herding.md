@@ -3,10 +3,24 @@ date: '2008-02-04T17:32:11-05:00'
 draft: false
 title: "Warhammer: A note to wolves about sheep herding."
 author: "Tipa"
+disqusIdentifier: "2008/02/04/warhammer-a-note-to-wolves-about-sheep-herding"
 summary: "Sheep tend to be timid, nervous and easily frightened. Having little natural means of defense, they instinctively join together in a group, called a flock,..."
 categories:
   - "MMORPG"
   - "Warhammer: Age of Reckoning"
+relatedPosts:
+  - url: "/2011/01/27/daily-blogroll-127-inevitable-backlash-edition/"
+    title: "Daily Blogroll 1/27 -- Inevitable Backlash edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/riftblade.png"
+  - url: "/2011/01/01/daily-blogroll-1111-happy-new-year-edition/"
+    title: "Daily Blogroll 1/1/11 -- Happy New Year edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/rift-2010-12-31-16-51-43-97-480x384.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2010/04/21/ip-based-mmos-part-5-of-5/"
+    title: "IP-based MMOs: Part 5 (of 5)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/warhammer_002-225x225.jpg"
 ---
 Sheep tend to be timid, nervous and easily frightened. Having little natural means of defense, they instinctively join together in a group, called a flock,...
 <!--more-->

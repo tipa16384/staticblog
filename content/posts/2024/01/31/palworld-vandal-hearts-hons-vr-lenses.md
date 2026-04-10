@@ -3,6 +3,7 @@ date: '2024-01-31T07:56:14-05:00'
 draft: false
 title: "Palworld, Vandal Hearts, Hons VR Lenses"
 author: "Tipa"
+disqusIdentifier: "2024/01/31/palworld-vandal-hearts-hons-vr-lenses"
 summary: "Okay, there's a lot of gaming stuff going on so I'm just going to go over some of it, briefly."
 categories:
   - "Open World RPG"
@@ -18,6 +19,19 @@ tags:
   - "PSVR2"
   - "Snowrunner"
   - "Tactics"
+relatedPosts:
+  - url: "/2024/03/23/unicorn-overlord-whose-overlord-is-it-anyway/"
+    title: "Unicorn Overlord -- Whose Overlord Is It, Anyway?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/Unicorn-Overlord_20240322181915.jpg"
+  - url: "/2021/11/04/gladius-day-1-gladiators-at-large/"
+    title: "Gladius, Day 1: Gladiators at Large"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/gsdx_20211103184301.png"
+  - url: "/2020/10/05/ogre-battle-the-march-of-the-black-queen-night-1/"
+    title: 'Ogre Battle "The March of the Black Queen" -- Night 1'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/blackqueen.png"
+  - url: "/2020/08/19/banner-of-the-maid-doesnt-want-me-to-sleep/"
+    title: "Banner of the Maid doesn't want me to sleep."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/banner-of-the-maid-switch-hero.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/zoe.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/zoe.png"
 ---

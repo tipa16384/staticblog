@@ -3,6 +3,7 @@ date: '2022-08-07T09:45:49-05:00'
 draft: false
 title: "GPT-3 interviews me about Stray."
 author: "Tipa"
+disqusIdentifier: "2022/08/07/gpt-3-interviews-me-about-stray"
 summary: "For a game where AIs rule the world, I thought it would be fun to ask an AI to interview me about my experiences playing \"Stray\"..."
 categories:
   - "Cats"
@@ -14,6 +15,19 @@ tags:
   - "AI"
   - "Gpt-3"
   - "Stray"
+relatedPosts:
+  - url: "/2022/08/08/the-amazing-adventures-of-8-ball/"
+    title: "The Amazing Adventures of 8-Ball!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/TipaNina_A_tuxedo_cat_wearing_a_red_bowtie._He_is_standing_in_f_7f5ba02f-45ee-4c41-bf1c-71df9e5d3245.png"
+  - url: "/2022/08/06/the-six-cats-of-madame-miracle/"
+    title: "The Six Cats of Madame Miracle"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/sixcats.png"
+  - url: "/2022/08/04/fourt-knight-an-awesome-game-thats-worth-the-price/"
+    title: "Fourt Knight: An Awesome Game That's Worth the Price"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/DALL·E-2022-07-30-11.41.41-a-painting-of-a-lone-knight-in-armor-standing-in-front-of-a-castle.-The-knight-is-holding-a-sword-and-shield-and-there-is-a-bow-slung-over-their-bac.png"
+  - url: "/2022/12/04/advent-of-code-day-4-camp-cleanup/"
+    title: "Advent of Code Day 4 -- Camp Cleanup"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-04-18.27.11-Several-Christmas-elves-doing-chores-around-a-campsite-in-the-jungle-painted-by-Bob-Eggleton-detailed-and-intricate.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/Stray_20220806152752-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/Stray_20220806152752-scaled.jpg"
 ---

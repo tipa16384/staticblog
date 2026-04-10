@@ -3,6 +3,7 @@ date: '2021-08-30T07:33:01-05:00'
 draft: false
 title: "DCUO: Disconnected"
 author: "Tipa"
+disqusIdentifier: "2021/08/30/dcuo-disconnected"
 summary: "I mean that literally. Since House of Legends launched, I haven't been able to play reliably. Here's what I've been able to find out...."
 categories:
   - "Blaugust"
@@ -12,6 +13,19 @@ tags:
   - "DC Universe Online"
   - "Router"
   - "Tp-Link"
+relatedPosts:
+  - url: "/2021/08/26/dcuo-house-of-legends-is-live/"
+    title: "DCUO: House of Legends is LIVE!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/avatarofmeta.jpg"
+  - url: "/2021/08/21/champions-online-vs-dcuo/"
+    title: "Champions Online vs DCUO"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/riddlers.jpg"
+  - url: "/2022/11/14/gotham-knights-completed/"
+    title: "Gotham Knights completed"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/11/Gotham-Knights_20221114221226-scaled.jpg"
+  - url: "/2022/11/07/gotham-knights-the-best-superhero-game-youre-not-playing/"
+    title: "Gotham Knights - The Best Superhero Game You're Not Playing"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/11/DALL·E-2022-11-07-22.23.47-digital-art-city-scape-at-night.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/dcuodisconnected.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/dcuodisconnected.png"
 ---

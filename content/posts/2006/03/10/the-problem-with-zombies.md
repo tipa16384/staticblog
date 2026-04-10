@@ -3,10 +3,24 @@ date: '2006-03-10T00:00:00-05:00'
 draft: false
 title: "The Problem with Zombies"
 author: "Tipa"
+disqusIdentifier: "2006/03/10/the-problem-with-zombies"
 summary: "My Internet connection went out unexpectedly last night. Rather than stare forlornly at the router all night, I decided to be productive. Put together that..."
 categories:
   - "MMORPG"
   - "Other Games"
+relatedPosts:
+  - url: "/2013/09/12/top-5-reasons-why-neverwinter-is-the-best-mmo-that-can-exist-or-how-to-twerk-in-world-of-warcraft/"
+    title: "Top 5 Reasons why Neverwinter is the Best MMO That Can Exist, or, How To Twerk in World of Warcraft"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/09/GameClient-2013-09-12-00-38-15-69-480x334.jpg"
+  - url: "/2013/01/14/d3-youve-defeated-diablo-iii/"
+    title: "D3: You've Defeated Diablo III"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/01/Diablo-III-2013-01-13-23-13-32-63-480x298.jpg"
+  - url: "/2012/10/20/game-log-pirate101-diablo3/"
+    title: "Game Log: Pirate101, Diablo3"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-19-22-31-46-93-480x384.jpg"
+  - url: "/2012/10/18/game-log-guild-wars-2-diablo-3/"
+    title: "Game Log: Guild Wars 2, Diablo 3"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Gw2-2012-10-18-23-44-12-32-480x269.jpg"
 ---
 My Internet connection went out unexpectedly last night. Rather than stare forlornly at the router all night, I decided to be productive. Put together that...
 <!--more-->

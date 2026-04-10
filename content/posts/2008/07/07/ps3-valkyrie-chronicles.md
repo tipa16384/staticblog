@@ -3,6 +3,7 @@ date: '2008-07-07T18:46:35-05:00'
 draft: false
 title: "PS3: Valkyrie Chronicles"
 author: "Tipa"
+disqusIdentifier: "2008/07/07/ps3-valkyrie-chronicles"
 summary: "I'm not being snide or dismissive when I say I am still waiting for a reason to buy a PS3 as a game machine, as..."
 categories:
   - "General"
@@ -12,6 +13,19 @@ tags:
   - "PS3"
   - "Valkrie"
   - "Valkyrie Chronicles"
+relatedPosts:
+  - url: "/2008/12/12/playstation-3-home-beta/"
+    title: "Playstation 3 Home beta"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/stp61605-1.jpg"
+  - url: "/2022/06/23/symphony-of-war-the-nephilim-saga/"
+    title: "Symphony of War: The Nephilim Saga"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/06/20220622113658_1.jpg"
+  - url: "/2008/10/30/lbp-the-littlest-biggest-planet-in-the-galaxy/"
+    title: "LBP: The Littlest, Biggest Planet in the galaxy."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/stp61416.jpg"
+  - url: "/2008/09/19/ps3-littlebig-planet-in-stores-october-21/"
+    title: "PS3: LittleBig Planet in stores October 21"
+    thumbnailImage: ""
 ---
 I'm not being snide or dismissive when I say I am still waiting for a reason to buy a PS3 as a game machine, as...
 <!--more-->

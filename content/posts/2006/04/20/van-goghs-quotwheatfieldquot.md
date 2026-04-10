@@ -3,10 +3,24 @@ date: '2006-04-20T00:00:00-05:00'
 draft: false
 title: "Van Gogh&#039;s &quot;Wheatfield&quot;"
 author: "Tipa"
+disqusIdentifier: "2006/04/20/van-goghs-quotwheatfieldquot"
 summary: "I have to send more spam for work today. Some more styles we're trying to get rid of. The last time, just for fun, I..."
 categories:
   - "My Work"
   - "Sci Fi"
+relatedPosts:
+  - url: "/2008/01/22/eq2-et-al-random-bits/"
+    title: "EQ2 (et al): Random Bits"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/everquest2-2008-01-22-07-10-48-92.jpg"
+  - url: "/2010/02/15/java-test-ramping-up-for-7drl/"
+    title: "Java Test: Ramping up for 7DRL"
+    thumbnailImage: ""
+  - url: "/2009/05/31/adventures-in-computer-science-monopoly-board-computer/"
+    title: "Adventures in Computer Science: Monopoly board computer"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/turingopoly.jpg"
+  - url: "/2009/03/26/xfire-wordpress-plugin-first-release/"
+    title: "XFire Wordpress Plugin -- first release"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/images/wheatfield.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/images/wheatfield.jpg"
 ---

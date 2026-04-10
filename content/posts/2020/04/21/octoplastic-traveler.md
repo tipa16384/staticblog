@@ -3,9 +3,23 @@ date: '2020-04-21T04:03:40-05:00'
 draft: false
 title: "Octoplastic Traveler"
 author: "Tipa"
+disqusIdentifier: "2020/04/21/octoplastic-traveler"
 summary: "I've got 110 hours into Octopath Traveler on the Switch, and those hundred and ten don't like -- it's a fun game. Frustrating at times......"
 categories:
   - "Miniatures"
+relatedPosts:
+  - url: "/2024/11/07/malifaux-a-close-race/"
+    title: "Malifaux: A Close Race"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/closerace.png"
+  - url: "/2024/10/20/malifaux-fall-into-faux-tournament/"
+    title: 'Malifaux: "Fall into Faux" tournament'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/malifaux-10-19-24-banner.png"
+  - url: "/2024/09/08/the-end-of-the-dragon-of-icespire-peak/"
+    title: "The End of the Dragon of Icespire Peak"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/1-IMG_4688.jpg"
+  - url: "/2024/09/07/fall-into-faux-the-one-where-i-win/"
+    title: "Fall into Faux: The One Where I Win"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/1988-mei-feng.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/04/Alfyn-1024x1024.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/04/Alfyn-1024x1024.png"
 ---

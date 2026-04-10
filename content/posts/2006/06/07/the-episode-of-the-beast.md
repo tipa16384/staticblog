@@ -3,10 +3,24 @@ date: '2006-06-07T00:00:00-05:00'
 draft: false
 title: "The Episode of the Beast"
 author: "Tipa"
+disqusIdentifier: "2006/06/07/the-episode-of-the-beast"
 summary: "Yesterday was June 6th, 2006 - 6/6/6 - and naturally, the entertainment industry was full of devil love for the day. The entire pointless remake..."
 categories:
   - "Doctor Who"
   - "Sci Fi"
+relatedPosts:
+  - url: "/2008/04/06/doctor-who-partners-in-crime/"
+    title: "Doctor Who: Partners in Crime"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/04/drwho.jpg"
+  - url: "/2007/01/05/when-we-return-televisions-finest-part-1/"
+    title: "When We Return: Television's Finest (Part 1)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/01/avatar.jpg"
+  - url: "/2008/06/30/slave-to-marketing/"
+    title: "Slave to marketing."
+    thumbnailImage: ""
+  - url: "/2008/04/28/doctor-who-the-sontaren-stratagem/"
+    title: "Doctor Who: The Sontaren Stratagem"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/04/atmos.gif"
 coverImage: "https://tipa16384.github.io/wkblog/images/hell1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/images/hell1.jpg"
 ---

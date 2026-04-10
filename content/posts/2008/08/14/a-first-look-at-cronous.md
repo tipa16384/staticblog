@@ -3,6 +3,7 @@ date: '2008-08-14T01:30:15-05:00'
 draft: false
 title: "A first look at Cronous"
 author: "Tipa"
+disqusIdentifier: "2008/08/14/a-first-look-at-cronous"
 summary: "There's a Diablo-shaped hole in my soul. With Mythos gone and Dungeon Runners going, there is a giant opportunity for a action-oriented RPG to swoop..."
 categories:
   - "Cronous"
@@ -11,6 +12,19 @@ categories:
 tags:
   - "Diablo"
   - "Dungeon Runners"
+relatedPosts:
+  - url: "/2007/10/18/running-dungeons/"
+    title: "Running Dungeons"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/10/dr-char.jpg"
+  - url: "/2008/06/28/blizzard-announces-diablo-iii/"
+    title: "Blizzard announces Diablo III!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/diablo3.jpg"
+  - url: "/2008/08/09/cronous-enters-closed-beta/"
+    title: "Cronous enters closed beta"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/cronous.jpg"
+  - url: "/2011/10/20/daily-blogroll-oct-19-time-enough-to-learn-to-swim-edition/"
+    title: "Daily Blogroll Oct 19: Time enough to learn to swim edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/02/ffxivgame-2011-10-18-19-43-58-81-480x234-1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/game-2008-08-14-00-29-26-79.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/game-2008-08-14-00-29-26-79.jpg"
 ---

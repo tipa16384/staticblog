@@ -3,6 +3,7 @@ date: '2008-10-27T08:45:01-05:00'
 draft: false
 title: "Wizard 101: Hametsu Village"
 author: "Tipa"
+disqusIdentifier: "2008/10/27/wizard-101-hametsu-village"
 summary: "Finished Moo Shu's first quest hub, Hametsu Village. It's nice to have kinda-safe sidewalks to run around in; there's nothing more annoying than the Marleybone..."
 categories:
   - "MMORPG"
@@ -16,6 +17,19 @@ tags:
   - "Tatakai Outpost"
   - "W101"
   - "Wizard101"
+relatedPosts:
+  - url: "/2008/10/29/wizard-101-crimson-fields-and-sunken-city-again/"
+    title: "Wizard 101: Crimson Fields and Sunken City (again)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-28-01-24-41-16.jpg"
+  - url: "/2008/10/19/w101-the-long-journey-to-moo-shu/"
+    title: "W101: The long journey to Moo Shu"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-16-00-22-19-93.jpg"
+  - url: "/2008/10/13/w101-halloween-in-wizard-city-and-october-patch-notes/"
+    title: "W101: Hallowe'en in Wizard City (and October patch notes)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-12-17-08-57-87.jpg"
+  - url: "/2008/10/06/w101-leaving-krokotopia/"
+    title: "W101: Leaving Krokotopia"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/taratheslayer.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-26-17-18-58-70.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-26-17-18-58-70.jpg"
 ---

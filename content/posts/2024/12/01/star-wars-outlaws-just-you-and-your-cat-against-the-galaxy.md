@@ -3,6 +3,7 @@ date: '2024-12-01T14:48:48-05:00'
 draft: false
 title: "Star Wars: Outlaws. Just you and your \"cat\" against the galaxy."
 author: "Tipa"
+disqusIdentifier: "2024/12/01/star-wars-outlaws-just-you-and-your-cat-against-the-galaxy"
 summary: "This game took a lot of flack for being a buggy mess when it came out, but at least on the PS5, it's a fun, if slow paced, open world adventure in the Star Wars universe."
 categories:
   - "Open World RPG"
@@ -11,6 +12,19 @@ tags:
   - "Greedo Shot First"
   - "Outlaws"
   - "Star Wars"
+relatedPosts:
+  - url: "/2024/12/30/best-of-2024-single-player-rpgs/"
+    title: "Best of 2024: Single-Player RPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/bestrpgbanner.png"
+  - url: "/2023/08/17/the-games-that-defined-me-part-2-arcade/"
+    title: "The Games that Defined Me, Part 2 -- Arcade"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/startrek.png"
+  - url: "/2010/08/19/clone-wars-adventures-youre-in-ar-cade-world-now/"
+    title: "Clone Wars Adventures: You're in ar-cade world now."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/Fullscreen-capture-8192010-80402-PM.jpg"
+  - url: "/2024/04/01/dragons-dogma-2-battahl-bound/"
+    title: "Dragon's Dogma 2: Battahl Bound"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/Dragons-Dogma-2_20240401072306-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/outlawsbanner.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/outlawsbanner.png"
 ---

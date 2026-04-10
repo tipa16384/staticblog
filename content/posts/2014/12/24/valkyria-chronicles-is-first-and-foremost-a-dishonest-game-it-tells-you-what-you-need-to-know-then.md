@@ -3,10 +3,24 @@ date: '2014-12-24T03:07:48-05:00'
 draft: false
 title: "Valkyria Chronicles: How to Lie with the Truth"
 author: "Tipa"
+disqusIdentifier: "2014/12/24/valkyria-chronicles-is-first-and-foremost-a-dishonest-game-it-tells-you-what-you-need-to-know-then"
 summary: "[..."
 categories:
   - "Other Games"
   - "Valkyria Chronicles"
+relatedPosts:
+  - url: "/2015/01/18/valkyria-chronicles-showdown-at-naggia-1i-didnt-get-a-chance-to-work-on-this-battle-last-week/"
+    title: "Valkyria Chronicles: Showdown at Naggia (1)"
+    thumbnailImage: ""
+  - url: "/2015/01/12/valkyria-chronicles-recapture-of-bruhl-i-guess-the-lesson-here-is-can-a-map-be-done-just-by-buffing/"
+    title: "Valkyria Chronicles: Recapture of Bruhl"
+    thumbnailImage: "https://lh5.googleusercontent.com/-ZBQyS-a6Jvs/VLMxJ17W9pI/AAAAAAAA-dw/t-dRA9ToOYU/w506-h750/Valkyria%2B2015-01-11%2B19-53-36-73.jpg"
+  - url: "/2015/01/11/valkyria-chronicles-battle-at-marberry-shorei-didnt-expect-to-get-a-first-time-a-rank-here-there/"
+    title: "Valkyria Chronicles: Battle at Marberry Shore"
+    thumbnailImage: "https://lh6.googleusercontent.com/-oH_vkmj5SpA/VLLr6UA6buI/AAAAAAAA-c0/M4XaGY6woEc/w506-h750/Valkyria%2B2015-01-11%2B15-24-50-55.jpg"
+  - url: "/2015/01/11/valkyria-chronicles-the-batomys-is-rusti-did-enough-skirmishes-to-get-my-lancers-to-elite-status/"
+    title: "Valkyria Chronicles: The Batomys is rust!"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2014/12/Valkyria-2014-12-23-19-44-09-69-480x270.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2014/12/Valkyria-2014-12-23-19-44-09-69-480x270.jpg"
 ---

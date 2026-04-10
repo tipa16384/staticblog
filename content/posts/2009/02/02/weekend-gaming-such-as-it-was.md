@@ -3,12 +3,26 @@ date: '2009-02-02T08:17:55-05:00'
 draft: false
 title: "Weekend Gaming, such as it was"
 author: "Tipa"
+disqusIdentifier: "2009/02/02/weekend-gaming-such-as-it-was"
 summary: "This weekend was filled with \"real life\" stuff, leaving little time for gaming... but I did get some time in now and then...."
 categories:
   - "EverQuest"
   - "Lord of the Rings"
   - "MMORPG"
   - "Wizard101"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2010/04/14/the-best-mmo-for-a-new-player/"
+    title: "The best MMO for a new player?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/options.jpg"
+  - url: "/2009/09/17/daily-blogroll-917-kanye-edition/"
+    title: "Daily Blogroll 9/17 - Kanye edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/kanye.jpg"
+  - url: "/2009/09/10/daily-blogroll-910/"
+    title: "Daily Blogroll 9/10 - Launch Madness edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/EverQuest2-2009-09-09-22-49-15-60.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/lotroclient-2009-02-01-22-2.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/lotroclient-2009-02-01-22-2.jpg"
 ---

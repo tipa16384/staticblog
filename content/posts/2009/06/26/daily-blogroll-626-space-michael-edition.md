@@ -3,6 +3,7 @@ date: '2009-06-26T07:59:43-05:00'
 draft: false
 title: "Daily Blogroll 6/26 -- Space Michael edition"
 author: "Tipa"
+disqusIdentifier: "2009/06/26/daily-blogroll-626-space-michael-edition"
 summary: "I'm not gonna say anything snarky about Michael Jackson. When he died yesterday, millions of people all over the world played his music loud and..."
 categories:
   - "Daily Blogroll"
@@ -12,6 +13,19 @@ categories:
   - "MMORPG"
   - "Warhammer: Age of Reckoning"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2009/04/24/web-log-424-friday-is-free-day-edition/"
+    title: "Web Log 4/24 -- Friday is Free Day edition"
+    thumbnailImage: "http://www.penny-arcade.com/images/2009/20090424.jpg"
+  - url: "/2009/05/19/daily-blogroll-519-black-lung-edition/"
+    title: "Daily Blogroll 5/19 -- Black Lung edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/exefile-2009-05-18-23-31-07-25.jpg"
+  - url: "/2009/06/04/daily-blogroll-64-get-off-my-lawn-edition/"
+    title: "Daily Blogroll 6/4 -- Get off my lawn edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/retirement.jpg"
+  - url: "/2009/05/29/daily-blogroll-529-reasons-to-be-cheerful-pt-iii/"
+    title: "Daily Blogroll 5/29 -- Reasons to be Cheerful, Pt III"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/everquest2-2009-05-17-07-38-31-44.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/jackson.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/jackson.jpg"
 ---

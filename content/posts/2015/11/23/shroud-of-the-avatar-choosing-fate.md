@@ -3,10 +3,24 @@ date: '2015-11-23T12:28:57-05:00'
 draft: false
 title: "Shroud of the Avatar: Choosing Fate"
 author: "Tipa"
+disqusIdentifier: "2015/11/23/shroud-of-the-avatar-choosing-fate"
 summary: "Peaked into Shroud of the Avatar again yesterday. This is Richard \"Lord British\" Garriott's MMO-in-development that brings the morality-based gameplay of his Ultima RPG into..."
 categories:
   - "MMORPG"
   - "Shroud of the Avatar"
+relatedPosts:
+  - url: "/2021/08/07/mmos-on-the-bubble/"
+    title: "MMOs on the Bubble"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/STP61286.jpg"
+  - url: "/2015/02/01/traipsing-about-in-shroud-of-the-avatar-its-working-i-didnt-see-any-other-players-but-every-available/"
+    title: "Traipsing about in Shroud of the Avatar."
+    thumbnailImage: ""
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2026/03/11/dune-awakening-finished-chapter-3/"
+    title: "Dune Awakening: Finished Chapter 3"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-11-073510.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/11/Shroud-of-the-Avatar-2015-11-22-15-33-24-76.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/11/Shroud-of-the-Avatar-2015-11-22-15-33-24-76.jpg"
 ---

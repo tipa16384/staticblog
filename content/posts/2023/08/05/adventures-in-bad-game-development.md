@@ -3,6 +3,7 @@ date: '2023-08-05T07:00:00-05:00'
 draft: false
 title: "Adventures in Bad Game Development"
 author: "Tipa"
+disqusIdentifier: "2023/08/05/adventures-in-bad-game-development"
 summary: "I've never been able to make a good game, but I think I could make some bad ones if I just put a little effort into them."
 categories:
   - "Arcade Game"
@@ -16,6 +17,19 @@ tags:
   - "Javascript"
   - "Phaser"
   - "Space Invaders"
+relatedPosts:
+  - url: "/2023/08/10/quick-look-phaser-game-engine/"
+    title: "Quick Look: Phaser Game Engine"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/gameover.png"
+  - url: "/2021/09/01/resurrecting-west-karana/"
+    title: "Resurrecting West Karana"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/b0d5f94a61f128683568fec95571fa8e.jpg"
+  - url: "/2023/08/17/the-games-that-defined-me-part-2-arcade/"
+    title: "The Games that Defined Me, Part 2 -- Arcade"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/startrek.png"
+  - url: "/2025/01/09/our-starvaders/"
+    title: "Our STAR*VADERS!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/KeyArt_920x430.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/DALL·E-2023-08-04-23.05.25-classic-video-game-box-art-of-a-space-ship-shooting-a-centipede-with-asteroids-in-the-sky.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/DALL·E-2023-08-04-23.05.25-classic-video-game-box-art-of-a-space-ship-shooting-a-centipede-with-asteroids-in-the-sky.png"
 ---

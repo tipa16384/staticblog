@@ -3,6 +3,7 @@ date: '2008-08-11T06:40:11-05:00'
 draft: false
 title: "STO: To go boldy..."
 author: "Tipa"
+disqusIdentifier: "2008/08/11/sto-to-go-boldy"
 summary: "Thanks to TheRemedy for the heads-up on the Cryptic Star Trek Online trailer. The trailer jumps from fight scene to fight scene, and the game..."
 categories:
   - "Humor"
@@ -10,6 +11,19 @@ categories:
   - "Star Trek"
 tags:
   - "The Unfunny Kind of Humor"
+relatedPosts:
+  - url: "/2010/02/14/star-trek-online-vs-eve-online-part-4/"
+    title: "Star Trek Online vs EVE Online, Part 4"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/02/comic4.jpg"
+  - url: "/2010/02/14/star-trek-online-vs-eve-online-part-3/"
+    title: "Star Trek Online vs EVE Online: Part 3"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/02/comic3.jpg"
+  - url: "/2010/02/14/star-trek-online-vs-eve-online-part-2/"
+    title: "Star Trek Online vs EVE Online, Part 2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/02/comic2.jpg"
+  - url: "/2010/02/10/star-trek-online-vs-eve-online-part-1/"
+    title: "Star Trek Online vs EVE Online, part 1"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/02/comic.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/borg.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/borg.jpg"
 ---

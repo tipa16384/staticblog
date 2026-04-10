@@ -3,6 +3,7 @@ date: '2024-08-18T09:41:06-05:00'
 draft: false
 title: "My first Malifaux tournament!"
 author: "Tipa"
+disqusIdentifier: "2024/08/18/my-first-malifaux-tournament"
 summary: "I'ma start by explaining what the game is, as best I can anyway."
 categories:
   - "Blaugust"
@@ -13,6 +14,19 @@ tags:
   - "Frostgrave"
   - "Tactics"
   - "Warhammer"
+relatedPosts:
+  - url: "/2023/08/22/scraping-battletech/"
+    title: "Scraping BattleTech"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/scapingbattletech.png"
+  - url: "/2021/09/25/game-night-my-little-scythe-and-the-watson-game-topper/"
+    title: "Game Night: My Little Scythe and the Watson Game Topper"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/2-IMG_2337.jpg"
+  - url: "/2024/08/20/malifaux-league-champion/"
+    title: "Malifaux: League champion?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/malifaux-league-1.png"
+  - url: "/2024/09/07/fall-into-faux-the-one-where-i-win/"
+    title: "Fall into Faux: The One Where I Win"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/1988-mei-feng.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/malifaux-wtf.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/malifaux-wtf.png"
 ---

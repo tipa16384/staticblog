@@ -3,6 +3,7 @@ date: '2024-05-11T07:00:00-05:00'
 draft: false
 title: "ADVENT: Seasoned Adventurer"
 author: "Tipa"
+disqusIdentifier: "2024/05/11/advent-seasoned-adventurer"
 summary: "I got all the treasures I knew about... now, how about the treasures I don't know about?"
 categories:
   - "Adventure"
@@ -11,6 +12,19 @@ tags:
   - "Colossal Cave Adventure"
   - "Seasoned Adventurer"
   - "Troll"
+relatedPosts:
+  - url: "/2024/12/28/the-best-of-2024-adventure-games/"
+    title: "The Best of 2024: Adventure Games"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/adventurebanner.png"
+  - url: "/2024/05/12/advent-colossal-cave-3d/"
+    title: "ADVENT: Colossal Cave 3D"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/cc-troll2.png"
+  - url: "/2024/05/09/advent-twisty-passages-all-alike/"
+    title: "ADVENT: Twisty Passages, All Alike"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/cc-pirate.png"
+  - url: "/2024/05/07/advent-the-road-to-adventure/"
+    title: "ADVENT: The Road to Adventure"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/cca-banner.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/cc-troll.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/cc-troll.png"
 ---

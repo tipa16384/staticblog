@@ -3,6 +3,7 @@ date: '2024-10-20T08:00:00-05:00'
 draft: false
 title: "Malifaux: \"Fall into Faux\" tournament"
 author: "Tipa"
+disqusIdentifier: "2024/10/20/malifaux-fall-into-faux-tournament"
 summary: "This tournament was the culmination of many games and a lot of paint."
 categories:
   - "Malifaux"
@@ -11,6 +12,19 @@ categories:
 tags:
   - "Mei Feng"
   - "Tournament"
+relatedPosts:
+  - url: "/2025/04/30/malifaux-4th-edition-mei-feng-vs-captain-zipp/"
+    title: "Malifaux 4th Edition: Mei Feng vs Captain Zipp"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/04/newcrew4ebanner.png"
+  - url: "/2024/11/04/malifaux-ing-in-massacusetts/"
+    title: "Malifaux-ing in Massachusetts"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/carverbanner.png"
+  - url: "/2024/11/07/malifaux-a-close-race/"
+    title: "Malifaux: A Close Race"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/closerace.png"
+  - url: "/2024/09/07/fall-into-faux-the-one-where-i-win/"
+    title: "Fall into Faux: The One Where I Win"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/1988-mei-feng.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/malifaux-10-19-24-banner.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/malifaux-10-19-24-banner.png"
 ---

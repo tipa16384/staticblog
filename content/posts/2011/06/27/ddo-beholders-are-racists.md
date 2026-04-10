@@ -3,12 +3,26 @@ date: '2011-06-27T00:24:40-05:00'
 draft: false
 title: "DDO: Beholders are racists."
 author: "Tipa"
+disqusIdentifier: "2011/06/27/ddo-beholders-are-racists"
 summary: "So I knew this going in, there's nobody that hates us Drow more than your average beholder. There could be two paladins bashing away on..."
 categories:
   - "Dungeons & Dragons Online"
   - "MMORPG"
 tags:
   - "Team Spode"
+relatedPosts:
+  - url: "/2012/04/06/ddo-web-of-chaos/"
+    title: "DDO: Web of Chaos"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/04/dndclient-2012-04-01-23-54-24-56-480x384.jpg"
+  - url: "/2012/01/30/ddo-doomsphere-the-dull/"
+    title: "DDO: Doomsphere the Dull"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/dndclient-2012-01-29-22-54-24-25-480x319.jpg"
+  - url: "/2012/01/16/ddo-inferno-of-the-damned/"
+    title: "DDO: Inferno of the Damned"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/dndclient-2012-01-15-23-39-49-21-480x384.jpg"
+  - url: "/2012/01/11/ddo-buying-time/"
+    title: "DDO: Buying Time"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/dndclient-2012-01-10-23-25-52-06-480x383.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/06/dndclient-2011-06-26-22-30-40-41.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/06/dndclient-2011-06-26-22-30-40-41.jpg"
 ---

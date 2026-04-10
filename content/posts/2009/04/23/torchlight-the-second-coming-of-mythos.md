@@ -3,10 +3,24 @@ date: '2009-04-23T19:38:04-05:00'
 draft: false
 title: "Torchlight: The second coming of Mythos?"
 author: "Tipa"
+disqusIdentifier: "2009/04/23/torchlight-the-second-coming-of-mythos"
 summary: "[..."
 categories:
   - "Other Games"
   - "Torchlight"
+relatedPosts:
+  - url: "/2012/10/11/game-log-pirate101-torchlight-2/"
+    title: "Game Log: Pirate101, Torchlight 2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-10-21-01-42-45-480x360.jpg"
+  - url: "/2009/11/09/weekend-gaming-eve-torchlight-dragon-age/"
+    title: "Weekend Gaming: EVE, Torchlight, Dragon Age"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/11/Torchlight-2009-11-08-12-49-04-88.jpg"
+  - url: "/2009/11/02/weekend-gaming-torchlight-and-wizard101/"
+    title: "Weekend Gaming: Torchlight and Wizard101"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/11/Torchlight-2009-11-01-10-48-21-22.jpg"
+  - url: "/2009/10/28/torchlight-just-call-me-a-huntard/"
+    title: "Torchlight: Just call me a Huntard...."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/Torchlight-2009-10-28-00-27-09-44.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/image1-480x300.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/image1-480x300.jpg"
 ---

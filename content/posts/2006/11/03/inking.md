@@ -3,10 +3,24 @@ date: '2006-11-03T17:15:42-05:00'
 draft: false
 title: "Inking"
 author: "Tipa"
+disqusIdentifier: "2006/11/03/inking"
 summary: "Note: My decision to take the pencil sketch and redraw and ink it in Photoshop over the objections of the assistant sales manager for the..."
 categories:
   - "General"
   - "My Work"
+relatedPosts:
+  - url: "/2009/05/31/adventures-in-computer-science-monopoly-board-computer/"
+    title: "Adventures in Computer Science: Monopoly board computer"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/turingopoly.jpg"
+  - url: "/2009/03/26/xfire-wordpress-plugin-first-release/"
+    title: "XFire Wordpress Plugin -- first release"
+    thumbnailImage: ""
+  - url: "/2009/03/26/xfire-wordpress-widget/"
+    title: "XFire Wordpress Widget"
+    thumbnailImage: ""
+  - url: "/2008/10/07/how-to-tell-if-youre-a-coder-part-1/"
+    title: "How to tell if you're a coder, part 1."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/purbleplace-2008-10-07-07-24-01-91.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2006/11/crestblue.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/11/crestblue.jpg"
 ---

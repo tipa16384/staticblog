@@ -3,11 +3,25 @@ date: '2025-12-22T08:07:37-05:00'
 draft: false
 title: "The Perfect Christmas Gift"
 author: "Tipa"
+disqusIdentifier: "2025/12/22/the-perfect-christmas-gift"
 summary: "Hint: It's not 3D printed puzzle boxes. But that's what they're getting, anyway."
 categories:
   - "3D Printing"
 tags:
   - "Christmas"
+relatedPosts:
+  - url: "/2026/03/17/the-bambu-lab-ams-pro-2/"
+    title: "The Bambu Lab AMS Pro 2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/itsabouttheams.png"
+  - url: "/2025/06/24/frosthaven-7-the-edge-of-the-world/"
+    title: "Frosthaven #7: The Edge of the World"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/IMG_5196-1-scaled.jpg"
+  - url: "/2025/04/29/frosthaven-scenario-1-town-in-flames/"
+    title: "Frosthaven Scenario #1: Town in Flames"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/04/IMG_5077-scaled.jpg"
+  - url: "/2025/04/01/frosthaven-and-so-it-begins/"
+    title: "Game Night: Frosthaven! And So It Begins..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/1-IMG_5048-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/IMG_5577-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/IMG_5577-scaled.jpg"
 ---

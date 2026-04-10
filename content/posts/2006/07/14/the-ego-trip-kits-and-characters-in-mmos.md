@@ -3,9 +3,23 @@ date: '2006-07-14T00:00:00-05:00'
 draft: false
 title: "The Ego Trip: Kits and Characters in MMOs"
 author: "Tipa"
+disqusIdentifier: "2006/07/14/the-ego-trip-kits-and-characters-in-mmos"
 summary: "What is it that is exactly the same about every single vacation you have ever taken? You! You're the same. No matter where you go,..."
 categories:
   - "MMORPG"
+relatedPosts:
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2026/03/11/dune-awakening-finished-chapter-3/"
+    title: "Dune Awakening: Finished Chapter 3"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-11-073510.png"
+  - url: "/2026/02/04/erenshor-rising-shadows-launched/"
+    title: 'Erenshor "Rising Shadows" launched!'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/20260204080313_1.jpg"
+  - url: "/2026/01/24/dominus-automa-an-idle-mmo-for-busy-dads/"
+    title: "Dominus Automa: An Idle MMO for Busy Dads"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/dominusautoma.png"
 coverImage: "https://tipa16384.github.io/wkblog/images/threerogues.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/images/threerogues.jpg"
 ---

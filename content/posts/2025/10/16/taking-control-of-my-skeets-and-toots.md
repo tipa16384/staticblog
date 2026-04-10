@@ -3,6 +3,7 @@ date: '2025-10-16T08:46:20-05:00'
 draft: false
 title: "Taking Control of my Skeets and Toots"
 author: "Tipa"
+disqusIdentifier: "2025/10/16/taking-control-of-my-skeets-and-toots"
 summary: "I lost so much stuff when I left Twitter, and again when G+ shut down. Never again. I'm using WordLand to control my social media."
 categories:
   - "Daily Blogroll"
@@ -11,6 +12,19 @@ tags:
   - "West Karana"
   - "Wordland"
   - "Wordpress"
+relatedPosts:
+  - url: "/2021/09/08/chasing-dings-goes-to-west-karana/"
+    title: "Chasing Dings! goes to West Karana"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/tara21.jpg"
+  - url: "/2022/08/29/blaugust-2022-staying-unmotivated/"
+    title: "Blaugust 2022: Staying (un)Motivated"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-29-21.17.59-A-pen-and-ink-drawing-of-a-penguin-typing-on-a-computer-while-floating-on-an-ice-floe-in-the-middle-of-the-ocean..png"
+  - url: "/2025/12/20/the-2025-daily-blogroll-awards/"
+    title: "The 2025 Daily Blogroll Awards"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/dailyblogrollawards.png"
+  - url: "/2025/10/05/social-media-is-a-terrible-way-to-find-blogs-to-read/"
+    title: "Social media is a terrible way to find blogs to read"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/Screenshot-2025-10-05-113937.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/hq720.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/hq720.jpg"
 ---

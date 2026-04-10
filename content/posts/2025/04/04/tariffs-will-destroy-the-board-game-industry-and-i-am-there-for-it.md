@@ -3,6 +3,7 @@ date: '2025-04-04T08:47:37-05:00'
 draft: false
 title: "Tariffs will destroy the board game industry, and I am there for it."
 author: "Tipa"
+disqusIdentifier: "2025/04/04/tariffs-will-destroy-the-board-game-industry-and-i-am-there-for-it"
 summary: "I think we have to look on the bright side of the death of Kickstarted board games."
 categories:
   - "Kickstarter"
@@ -11,6 +12,19 @@ tags:
   - "Dr. Doom"
   - "Goats of Lamentation"
   - "Tariffs"
+relatedPosts:
+  - url: "/2025/05/02/how-kickstarter-projects-are-handing-tariffs/"
+    title: "How Kickstarter Projects are Handling Tariffs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/evergiven.png"
+  - url: "/2025/12/23/widgets-workshop-build-robots-better/"
+    title: "Widget's Workshop: Build Robots Better."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/IMG_5579-scaled.jpg"
+  - url: "/2024/08/03/more-confessions-of-a-kickstarter-superbacker/"
+    title: "More Confessions of a Kickstarter Superbacker"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/superbacker.png"
+  - url: "/2024/04/18/confessions-of-a-kickstarter-superbacker/"
+    title: "Confessions of a Kickstarter Superbacker"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/superbacker.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/04/John-Wick-Hex-Review.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/04/John-Wick-Hex-Review.jpg"
 ---

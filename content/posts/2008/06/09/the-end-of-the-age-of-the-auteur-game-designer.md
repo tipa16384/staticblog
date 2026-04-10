@@ -3,11 +3,25 @@ date: '2008-06-09T23:08:51-05:00'
 draft: false
 title: "The end of the age of the auteur game designer?"
 author: "Tipa"
+disqusIdentifier: "2008/06/09/the-end-of-the-age-of-the-auteur-game-designer"
 summary: "NCSoft's first quarter report came out, and they don't want to talk about their space marine-fps-mmo, Tabula Rasa, except to say they are fairly disappointed..."
 categories:
   - "MMORPG"
   - "Tabula Rasa"
   - "Vanguard"
+relatedPosts:
+  - url: "/2009/05/15/daily-blogroll-515-endelig-fredag-edition/"
+    title: "Daily Blogroll 5/15 -- Endelig Fredag edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/clangreenscaledragon.jpg"
+  - url: "/2009/05/06/daily-blogroll-56-tempests-and-teapots-edition/"
+    title: "Daily Blogroll 5/6 -- Tempests and Teapots edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/fullscreen-capture-562009-125235-am.jpg"
+  - url: "/2011/01/27/daily-blogroll-127-inevitable-backlash-edition/"
+    title: "Daily Blogroll 1/27 -- Inevitable Backlash edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/riftblade.png"
+  - url: "/2011/01/01/daily-blogroll-1111-happy-new-year-edition/"
+    title: "Daily Blogroll 1/1/11 -- Happy New Year edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/rift-2010-12-31-16-51-43-97-480x384.jpg"
 ---
 NCSoft's first quarter report came out, and they don't want to talk about their space marine-fps-mmo, Tabula Rasa, except to say they are fairly disappointed...
 <!--more-->

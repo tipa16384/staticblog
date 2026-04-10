@@ -3,6 +3,7 @@ date: '2013-09-10T23:28:48-05:00'
 draft: false
 title: "OMG, R U STILL AROUND?"
 author: "Tipa"
+disqusIdentifier: "2013/09/10/omg-r-u-still-around"
 summary: "I don't actually talk, or type, like that texty speak. I don't know what came over me...."
 categories:
   - "DC Universe Online"
@@ -11,6 +12,19 @@ categories:
   - "Facebook Games"
   - "MMORPG"
   - "Neverwinter"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2023/08/31/the-final-days-of-blaugust/"
+    title: "The final days of Blaugust"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/solongblaugust.png"
+  - url: "/2011/05/13/daily-blogroll-513-truth-in-advertising-edition/"
+    title: "Daily Blogroll 5/13: Truth in Advertising Edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/05/Fullscreen-capture-5112011-61851-AM-480x308.jpg"
+  - url: "/2011/03/10/eq2-fortune-league-winner/"
+    title: "EQ2 Fortune League: #WINNER"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/EverQuest2-2011-03-10-18-19-16-87-480x480.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/09/GameClient-2013-09-02-20-38-42-058-480x384.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/09/GameClient-2013-09-02-20-38-42-058-480x384.jpg"
 ---

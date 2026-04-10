@@ -3,6 +3,7 @@ date: '2021-08-10T09:06:40-05:00'
 draft: false
 title: "Palia: You're In Our World Now."
 author: "Tipa"
+disqusIdentifier: "2021/08/10/palia-youre-in-our-world-now"
 summary: "That... isn't actually their tagline (old folks know that it was EverQuest's), but it seems like what this social MMO is going for. An idyllic..."
 categories:
   - "Blaugust"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Blaugust"
   - "Palia"
+relatedPosts:
+  - url: "/2023/08/04/palia-first-impressions-a-promising-start-to-a-social-mmo-adventure/"
+    title: "Palia First Impressions: A Promising Start to a Social MMO Adventure"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/PALIA_Key_Art_Logo_1920x1080.jpg"
+  - url: "/2021/08/26/dcuo-house-of-legends-is-live/"
+    title: "DCUO: House of Legends is LIVE!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/avatarofmeta.jpg"
+  - url: "/2021/08/22/ship-of-heroes-superheroes-in-spaaaaaace/"
+    title: "Ship of Heroes: Superheroes IN SPAAAAAACE!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/shipoffools-1.jpg"
+  - url: "/2021/08/21/champions-online-vs-dcuo/"
+    title: "Champions Online vs DCUO"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/riddlers.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/Palia__ConceptRuinsPast.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/Palia__ConceptRuinsPast.jpg"
 ---

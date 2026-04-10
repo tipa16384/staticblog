@@ -3,6 +3,7 @@ date: '2021-09-13T23:26:33-05:00'
 draft: false
 title: "Quick Look: Persona 5 Strikers"
 author: "Tipa"
+disqusIdentifier: "2021/09/13/quick-look-persona-5-strikers"
 summary: "Persona 5, Persona 5 Royal, Persona 5 Dancing in Starlight, and now Persona 5 Strikers. The Persona 5 legacy lives on in this new, action-oriented..."
 categories:
   - "Console Game"
@@ -12,6 +13,19 @@ categories:
   - "Video Game Series"
 tags:
   - "Persona"
+relatedPosts:
+  - url: "/2020/12/08/too-many-games-in-my-queue/"
+    title: "Too Many Games in my Queue"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/2020120808035600-67D01338887DAC4477826B5EA75BFB74.jpg"
+  - url: "/2021/10/03/stranger-of-paradise-final-fantasy-origins/"
+    title: "Stranger of Paradise: Final Fantasy Origins"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/stp_logo-2x-dxMtgRSFN.png"
+  - url: "/2020/04/28/daily-gaming-log-april-28-royal/"
+    title: "Daily Gaming Log: April 28 Royal"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/04/image.png"
+  - url: "/2024/08/19/weekend-gaming-ship-of-heroes-persona-5-tactica-giants-citizen-kabuto/"
+    title: "Weekend Gaming: Ship of Heroes, Persona 5 Tactica, Giants Citizen Kabuto"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/1-20240819074418_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/2021082320223000-1ED6A785ADE38F04450C188FF9531338.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/2021082320223000-1ED6A785ADE38F04450C188FF9531338.jpg"
 ---

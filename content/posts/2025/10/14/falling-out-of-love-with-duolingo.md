@@ -3,9 +3,11 @@ date: '2025-10-14T08:44:49-05:00'
 draft: false
 title: "Falling out of love with Duolingo"
 author: "Tipa"
+disqusIdentifier: "2025/10/14/falling-out-of-love-with-duolingo"
 summary: "The owl's tireless hunger for my money has finally pushed me out of the nest."
 categories:
   - "Duolingo"
+relatedPosts:
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/IMG_5416.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/IMG_5416.png"
 ---

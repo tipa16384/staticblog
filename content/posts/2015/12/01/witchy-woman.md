@@ -3,10 +3,24 @@ date: '2015-12-01T23:39:16-05:00'
 draft: false
 title: "Witchy Woman"
 author: "Tipa"
+disqusIdentifier: "2015/12/01/witchy-woman"
 summary: "When I logged in Monday, Kasul was just finishing up his level 56 in order to start on the new Ishgard plot. The one that..."
 categories:
   - "Final Fantasy"
   - "MMORPG"
+relatedPosts:
+  - url: "/2025/03/24/monster-hunters-wilding/"
+    title: "Monster Hunters Wilding"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/mhwildsbanner.png"
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2023/05/07/ffxiv-how-i-ruined-a-realm-reborn/"
+    title: "FFXIV: How I Ruined a Realm Reborn..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/ffxiv_05072023_001521_777.jpg"
+  - url: "/2022/07/30/ship-of-heroes-housing-beta-2/"
+    title: "Ship of Heroes: Housing Beta #2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/1-20220730211912_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/12/ffxiv-2015-11-30-20-06-44-67.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/12/ffxiv-2015-11-30-20-06-44-67.jpg"
 ---

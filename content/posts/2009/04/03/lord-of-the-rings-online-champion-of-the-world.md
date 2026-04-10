@@ -3,11 +3,25 @@ date: '2009-04-03T08:08:39-05:00'
 draft: false
 title: "Lord of the Rings Online: Champion of the World"
 author: "Tipa"
+disqusIdentifier: "2009/04/03/lord-of-the-rings-online-champion-of-the-world"
 summary: "Yeah, it's a Jimmy Buffet song. Did you REALLY want me to...? Really? Okay, just for you, because you're a friend, the real title of..."
 categories:
   - "Lord of the Rings"
   - "MMORPG"
   - "Nostalgia the Guild"
+relatedPosts:
+  - url: "/2009/04/13/lord-of-the-rings-online-a-cow-is-born/"
+    title: "Lord of the Rings Online: A CoW is born."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/lotroclient-2009-04-11-20-43-27-24.jpg"
+  - url: "/2020/12/07/everquest-ii-soloing-to-fifty/"
+    title: "EverQuest II: Soloing to Fifty"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/EverQuest2-2020-12-06-13-34-47-77.jpg"
+  - url: "/2020/05/13/everquest-bones-everywhere/"
+    title: "EverQuest: Bones Everywhere."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/eqgame-2020-05-13-06-57-41-85.jpg"
+  - url: "/2009/06/16/welcome-to-mayong-everquests-5150-server/"
+    title: "Welcome to Mayong, EverQuest's 51/50 server"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/mayong.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/lotroclient-2009-04-03-07-34-47-79.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/lotroclient-2009-04-03-07-34-47-79.jpg"
 ---

@@ -3,10 +3,24 @@ date: '2012-11-20T02:26:55-05:00'
 draft: false
 title: "EQ1: Where is that Wurmslayer, 11 years later?"
 author: "Tipa"
+disqusIdentifier: "2012/11/20/eq1-where-is-that-wurmslayer-11-years-later"
 summary: "After posting that ancient picture of my warrior, Nina, with the old EQ1 Wurmslayer, I got to wondering how it would look on her in..."
 categories:
   - "EverQuest"
   - "MMORPG"
+relatedPosts:
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2024/10/21/evercraft-online-the-unholy-child-of-eq-and-minecraft/"
+    title: "EverCraft Online: The Unholy Child of EQ and MineCraft"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/evercraft-banner.png"
+  - url: "/2024/08/28/erenshor-everquest-for-soloers/"
+    title: "Erenshor -- EverQuest for soloers"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/erenshotheader.jpg"
+  - url: "/2024/05/04/everquest-ii-goes-retro-with-anashti-sul/"
+    title: "EverQuest II goes retro with Anashti Sul"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/anashtisul.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/11/eqgame-2012-11-20-01-59-16-04-480x361.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/11/eqgame-2012-11-20-01-59-16-04-480x361.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2025-12-23T09:00:00-05:00'
 draft: false
 title: "Widget's Workshop: Build Robots Better."
 author: "Tipa"
+disqusIdentifier: "2025/12/23/widgets-workshop-build-robots-better"
 summary: "If you've been fomenting a drop-style card crafting revolution, this might be the game for you."
 categories:
   - "Game Night"
@@ -10,6 +11,19 @@ categories:
   - "Tabletop Games"
 tags:
   - "Widget's Workshop"
+relatedPosts:
+  - url: "/2024/08/03/more-confessions-of-a-kickstarter-superbacker/"
+    title: "More Confessions of a Kickstarter Superbacker"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/superbacker.png"
+  - url: "/2021/09/25/game-night-my-little-scythe-and-the-watson-game-topper/"
+    title: "Game Night: My Little Scythe and the Watson Game Topper"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/2-IMG_2337.jpg"
+  - url: "/2021/09/15/lets-go-looking-for-my-games/"
+    title: "Let's Go Looking For My Games"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/china-map.gif"
+  - url: "/2021/08/29/the-kickstarter-addiction/"
+    title: "The Kickstarter Addiction"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/drz.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/IMG_5579-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/IMG_5579-scaled.jpg"
 ---

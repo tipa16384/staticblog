@@ -3,6 +3,7 @@ date: '2020-07-24T11:42:24-05:00'
 draft: false
 title: "Game Night: Trogdor!! the Board Game"
 author: "Tipa"
+disqusIdentifier: "2020/07/24/game-night-trogdor-the-board-game"
 summary: "Trogdor! Trogdor! Trogdor was a man I mean, he was a dragon man Or maybe he was actually a board game But he was still..."
 categories:
   - "Game Night"
@@ -11,6 +12,19 @@ tags:
   - "Jaws of the Lion"
   - "Thatched-Roof Cottages"
   - "Trogdor the Burninator"
+relatedPosts:
+  - url: "/2022/07/19/gloomhaven-jaws-of-the-lion-finished/"
+    title: "Gloomhaven Jaws of the Lion: Finished."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/jotlbox.png"
+  - url: "/2021/11/24/game-night-jaws-of-the-lion-misplaced-goods/"
+    title: 'Game Night: Jaws of the Lion, "Misplaced Goods"'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/IMG_2383_resized.jpg"
+  - url: "/2021/10/10/game-night-jotl-the-heist-and-the-message/"
+    title: 'Game Night: JotL "The Heist" and "The Message"'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/1-IMG_2350.jpg"
+  - url: "/2020/11/23/game-night-jaws-of-the-lion/"
+    title: "Game Night: Jaws of the Lion"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/11/2-IMG_2014.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/07/1-IMG_1757-e1595591095851.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/07/1-IMG_1757-e1595591095851.jpg"
 ---

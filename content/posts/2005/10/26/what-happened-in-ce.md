@@ -3,10 +3,24 @@ date: '2005-10-26T00:00:00-05:00'
 draft: false
 title: "What happened in CE?"
 author: "Tipa"
+disqusIdentifier: "2005/10/26/what-happened-in-ce"
 summary: "Well, fact is, sometimes I get really depressed. I can't do a thing about it. I start hitting my head with stuff, jabbing screwdrivers into..."
 categories:
   - "EverQuest"
   - "General"
+relatedPosts:
+  - url: "/2009/04/28/daily-blogroll-428-hug-squeeze-edition/"
+    title: "Daily Blogroll 4/28 -- Hug & Squeeze Edition"
+    thumbnailImage: ""
+  - url: "/2009/02/23/sick-sixth-six/"
+    title: "Sick Sixth Six!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/2b0b27c337a6b9f7f5fb6a707be25cb8.jpg"
+  - url: "/2008/07/01/sequencing-mmo-dna/"
+    title: "Sequencing MMO DNA"
+    thumbnailImage: ""
+  - url: "/2008/04/22/nope-i-cant-do-it/"
+    title: "Nope. I can't do it."
+    thumbnailImage: ""
 ---
 Well, fact is, sometimes I get really depressed. I can't do a thing about it. I start hitting my head with stuff, jabbing screwdrivers into...
 <!--more-->

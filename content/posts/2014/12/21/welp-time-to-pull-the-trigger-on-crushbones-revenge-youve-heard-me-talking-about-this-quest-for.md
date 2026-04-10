@@ -3,9 +3,23 @@ date: '2014-12-21T14:28:07-05:00'
 draft: false
 title: "Welp, time to pull the trigger on Crushbone's Revenge. You've heard me talking about this quest for ..."
 author: "Tipa"
+disqusIdentifier: "2014/12/21/welp-time-to-pull-the-trigger-on-crushbones-revenge-youve-heard-me-talking-about-this-quest-for"
 summary: "Welp, time to pull the trigger on Crushbone's Revenge. You've heard me talking about this quest for months. It's finally in a playable state. If..."
 categories:
   - "General"
+relatedPosts:
+  - url: "/2025/11/01/quick-reviews/"
+    title: "Quick Reviews"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/winterburrow.png"
+  - url: "/2025/08/07/soda-can-tabs-for-charity-really/"
+    title: "Soda can tabs for charity? REALLY?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5304-scaled.jpeg"
+  - url: "/2024/12/17/billionaire-rapture/"
+    title: "Billionaire Rapture"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/DALL·E-2024-12-17-00.14.48-A-surreal-science-fiction-book-cover-for-a-short-story-titled-Billionaire-Rapture.-The-scene-depicts-a-futuristic-dramatic-setting-in-space-and-on-.webp"
+  - url: "/2024/04/16/that-is-not-a-sandworm-in-your-driveway/"
+    title: "That is not a sandworm in your driveway"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/sandwormindriveway.png"
 coverImage: "https://lh5.googleusercontent.com/-qhMIkjZoCxw/VJYEzLP4srI/AAAAAAAA81I/rRcYRYnIAgc/w506-h303-p/GameClient%2B2014-12-20%2B18-22-34-31.jpg"
 thumbnailImage: "https://lh5.googleusercontent.com/-qhMIkjZoCxw/VJYEzLP4srI/AAAAAAAA81I/rRcYRYnIAgc/w506-h303-p/GameClient%2B2014-12-20%2B18-22-34-31.jpg"
 ---

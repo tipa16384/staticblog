@@ -3,6 +3,7 @@ date: '2011-03-30T00:28:56-05:00'
 draft: false
 title: "Wizard101: It's MOUNT WEEK!"
 author: "Tipa"
+disqusIdentifier: "2011/03/30/wizard101-its-mount-week"
 summary: "Discovery Channel may have their Shark Week, but that's kinda lame, if you ask me. They'd be better off having a Manta Ray week...."
 categories:
   - "MMORPG"
@@ -12,6 +13,19 @@ tags:
   - "Manta Ray"
   - "Mount Week"
   - "Mounts"
+relatedPosts:
+  - url: "/2009/07/22/wizard-101-comic-contest/"
+    title: "Wizard 101 Comic Contest"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/w101comic4isaiah.jpg"
+  - url: "/2009/04/20/wizard-101-name-the-turtles/"
+    title: "Wizard 101: Name the Turtles!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/builderturtle.jpg"
+  - url: "/2025/06/02/gw2-shes-found-the-altar-to-balthazar/"
+    title: "GW2: She's Found the Altar to Balthazar"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/1-gw033.jpg"
+  - url: "/2025/05/30/amounting-to-something-in-guild-wars-2/"
+    title: "Amounting to something in Guild Wars 2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/1-gw031.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/mantaray.gif"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/mantaray.gif"
 ---

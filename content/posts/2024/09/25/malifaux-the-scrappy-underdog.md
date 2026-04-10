@@ -3,6 +3,7 @@ date: '2024-09-25T07:00:00-05:00'
 draft: false
 title: "Malifaux: The Scrappy Underdog"
 author: "Tipa"
+disqusIdentifier: "2024/09/25/malifaux-the-scrappy-underdog"
 summary: "It was my final league game ahead of the tournament. I've learned a few lessons that may help me the day of."
 categories:
   - "Malifaux"
@@ -10,6 +11,19 @@ categories:
   - "Tabletop Games"
 tags:
   - "The Battle Standard"
+relatedPosts:
+  - url: "/2025/09/30/malifaux-4e-rasputina-vs-maxine/"
+    title: "Malifaux 4e: Rasputina vs Maxine"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/rasp2vsmax2.png"
+  - url: "/2025/04/30/malifaux-4th-edition-mei-feng-vs-captain-zipp/"
+    title: "Malifaux 4th Edition: Mei Feng vs Captain Zipp"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/04/newcrew4ebanner.png"
+  - url: "/2025/03/11/malifaux-new-crew-league-week-1/"
+    title: 'Malifaux: "New Crew" League, Week 1'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/newcrew1.png"
+  - url: "/2024/09/07/fall-into-faux-the-one-where-i-win/"
+    title: "Fall into Faux: The One Where I Win"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/1988-mei-feng.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/league3.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/league3.png"
 ---

@@ -3,6 +3,7 @@ date: '2024-08-06T07:00:00-05:00'
 draft: false
 title: "Game Night: The Penultimate Nemesis"
 author: "Tipa"
+disqusIdentifier: "2024/08/06/game-night-the-penultimate-nemesis"
 summary: "It was a typical mission until the walls of our starship started whispering words of madness to us..."
 categories:
   - "Blaugust"
@@ -12,6 +13,19 @@ categories:
   - "Tabletop Games"
 tags:
   - "Alien"
+relatedPosts:
+  - url: "/2024/09/10/the-utter-insanity-of-nemesis/"
+    title: "The Utter Insanity of Nemesis"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/nemesis-header.png"
+  - url: "/2024/07/03/nemesis-the-board-game/"
+    title: "Nemesis: The Board Game"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/07/1-pic8211747.jpg"
+  - url: "/2024/08/03/more-confessions-of-a-kickstarter-superbacker/"
+    title: "More Confessions of a Kickstarter Superbacker"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/superbacker.png"
+  - url: "/2024/08/20/malifaux-league-champion/"
+    title: "Malifaux: League champion?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/malifaux-league-1.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_4539.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_4539.jpg"
 ---

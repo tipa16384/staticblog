@@ -3,6 +3,7 @@ date: '2008-06-29T07:51:49-05:00'
 draft: false
 title: "Crafting enhancements in Project Powder"
 author: "Tipa"
+disqusIdentifier: "2008/06/29/crafting-enhancements-in-project-powder"
 summary: "New outfit :) And halfway through level 6. Experience is slowing down, and it seems that only finishing in first place really moves the experience..."
 categories:
   - "Other Games"
@@ -12,6 +13,19 @@ tags:
   - "Outspark"
   - "Project Powder"
   - "Snowboarding"
+relatedPosts:
+  - url: "/2008/06/26/project-powder-shredding-the-galaxy/"
+    title: "Project Powder: Shredding the Galaxy"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/run-2008-06-25-21-16-05-20.jpg"
+  - url: "/2008/07/11/project-powder-closed-beta-test-closes/"
+    title: "Project Powder closed beta test... closes."
+    thumbnailImage: ""
+  - url: "/2008/06/30/how-to-throw-snowballs-in-project-powder/"
+    title: "How to throw snowballs in Project Powder"
+    thumbnailImage: ""
+  - url: "/2008/06/26/project-powder-addendum/"
+    title: "Project Powder addendum"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/run-2008-06-26-21-48-17-42.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/run-2008-06-28-18-43-39-74.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/run-2008-06-28-18-43-39-74.jpg"
 ---

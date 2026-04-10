@@ -3,6 +3,7 @@ date: '2020-08-29T09:24:42-05:00'
 draft: false
 title: "Blaugust #29: Communities"
 author: "Tipa"
+disqusIdentifier: "2020/08/29/blaugust-29-communities"
 summary: "I thought and thought and thought about what I would want to use as the header image to this post. Communities... I was watching the..."
 categories:
   - "Blaugust"
@@ -11,6 +12,19 @@ tags:
   - "Blaugust"
   - "Community"
   - "Girls Screaming From the House Across the Street"
+relatedPosts:
+  - url: "/2021/08/30/tipa-v-internet-part-ii/"
+    title: "Tipa v Internet: Part II"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/MADV114_DESIGNERDATA-PC-30-23.09.150.jpg"
+  - url: "/2021/08/23/this-post-isnt-about-tiny-rogue/"
+    title: "This Post Isn't About Mini Rogue"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-IMG_2295.jpg"
+  - url: "/2021/08/19/game-night-jotl-the-gauntlet/"
+    title: 'Game Night: JotL "The Gauntlet"'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-IMG_2293-001.jpg"
+  - url: "/2020/08/25/blaugust-25-blogging-in-a-time-of-corona/"
+    title: "Blaugust #25: Blogging in a Time of Corona"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/coronavirus.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/LordBritishAddressingTheMasses.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/LordBritishAddressingTheMasses.jpg"
 ---

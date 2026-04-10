@@ -3,6 +3,7 @@ date: '2025-05-10T18:49:03-05:00'
 draft: false
 title: "PAX East 2025: Part Deux"
 author: "Tipa"
+disqusIdentifier: "2025/05/10/pax-east-2025-part-deux"
 summary: "Traipsing through Boston rain didn't do anything for my cold, so my PAX weekend ended early. Still, here's more of what we saw there."
 categories:
   - "Gaming Convention"
@@ -15,6 +16,13 @@ tags:
   - "Lost Eidolons"
   - "Pax East"
   - "Section 13"
+relatedPosts:
+  - url: "/2025/05/09/pax-east-2025-wow-kinda-big-right/"
+    title: "PAX East 2025: Wow, kinda big, right?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/IMG_5091-scaled.jpeg"
+  - url: "/2022/09/13/retro-world-expo-2022-hartford-ct/"
+    title: "Retro World Expo 2022 -- Hartford, CT"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/1-IMG_2687.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/IMG_5120-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/IMG_5120-scaled.jpg"
 ---

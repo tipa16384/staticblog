@@ -3,6 +3,7 @@ date: '2025-03-10T08:00:00-05:00'
 draft: false
 title: "How To Fail at Writing A Game in 7 Days"
 author: "Tipa"
+disqusIdentifier: "2025/03/10/how-to-fail-at-writing-a-game-in-7-days"
 summary: "Also, lots of Tunnels & Trolls-adjacent stuff."
 categories:
   - "7DRL"
@@ -14,6 +15,19 @@ tags:
   - "Skull Quest"
   - "Trollgod"
   - "Tunnels & Trolls"
+relatedPosts:
+  - url: "/2026/02/18/a-new-tunnels-trolls-in-this-economy/"
+    title: "A new Tunnels &amp; Trolls? In this economy?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/TTnewbanner.png"
+  - url: "/2025/03/17/sword-for-hire-vertical-slice-vibe-coding/"
+    title: "Sword for Hire: Vertical Slice &amp; Vibe Coding"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/swordforhiremap.png"
+  - url: "/2025/03/03/tunnels-trolls-sword-for-hire/"
+    title: "Tunnels &amp; Trolls: Sword for Hire"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/ttbanner.png"
+  - url: "/2025/11/10/does-ai-need-to-be-in-everything/"
+    title: "Does AI need to be in EVERYTHING?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/monopoly.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/gamedevadventure.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/gamedevadventure.png"
 ---

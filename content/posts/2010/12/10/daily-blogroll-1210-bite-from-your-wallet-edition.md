@@ -3,6 +3,7 @@ date: '2010-12-10T06:00:26-05:00'
 draft: false
 title: "Daily Blogroll 12/10 -- Bite from your wallet edition"
 author: "Tipa"
+disqusIdentifier: "2010/12/10/daily-blogroll-1210-bite-from-your-wallet-edition"
 summary: "I was thinking about some of the things we know about Star Wars: The Old Republic. It's going to be a subscription game. It cost..."
 categories:
   - "Daily Blogroll"
@@ -11,6 +12,19 @@ categories:
   - "Star Trek"
   - "Wizard101"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/08/10/daily-blogroll-810-thank-god-its-monday-edition/"
+    title: "Daily Blogroll 8/10 -- Thank God it's Monday edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/daddygirl.jpg"
+  - url: "/2009/05/04/daily-blogroll-54-dragon-claw-style-edition/"
+    title: "Daily Blogroll 5/4 -- Dragon Claw Style edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/dragonclawstyle1.jpg"
+  - url: "/2009/10/09/daily-blogroll-1010-short-week-edition/"
+    title: "Daily Blogroll 10/10: Short Week edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/fox1-480x252.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/EverQuest2-2010-12-09-20-24-37-78.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/EverQuest2-2010-12-09-20-24-37-78.jpg"
 ---

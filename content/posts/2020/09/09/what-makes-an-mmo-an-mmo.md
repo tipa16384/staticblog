@@ -3,6 +3,7 @@ date: '2020-09-09T07:54:27-05:00'
 draft: false
 title: "What makes an MMO an MMO?"
 author: "Tipa"
+disqusIdentifier: "2020/09/09/what-makes-an-mmo-an-mmo"
 summary: "Yesterday, \"Kingdoms of Amalur: The Re-Reckoning\", an update of 2012's \"Kingdoms of Amalur: The Reckoning\" was released. It's a refresh of a game that seemed..."
 categories:
   - "EverQuest"
@@ -15,6 +16,19 @@ categories:
 tags:
   - "Kingdoms of Amalur: Reckoning"
   - "World of Tanks"
+relatedPosts:
+  - url: "/2021/08/07/mmos-on-the-bubble/"
+    title: "MMOs on the Bubble"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/STP61286.jpg"
+  - url: "/2020/08/18/does-crafting-have-any-place-in-modern-mmos/"
+    title: "Does Crafting have any place in modern MMOs?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-EverQuest2-2020-08-18-18-11-08-10.jpg"
+  - url: "/2020/12/11/my-rpgs-of-2020/"
+    title: "My RPGs of 2020"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/Chocobos-Mystery-Dungeon-EVERY-BUDDY_20200506204657.jpg"
+  - url: "/2020/10/03/kingdoms-of-amalur-two-times-a-failure/"
+    title: "Kingdoms of Amalur: Two times a failure."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/20201003105145_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/Kingdoms-of-Amalur_-Reckoning-12_31_2015-4_16_05-PM-1.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/Kingdoms-of-Amalur_-Reckoning-12_31_2015-4_16_05-PM-1.png"
 ---

@@ -3,6 +3,7 @@ date: '2011-05-12T06:26:31-05:00'
 draft: false
 title: "Semi-Annual Blogroll: Sheep may safely graze edition"
 author: "Tipa"
+disqusIdentifier: "2011/05/12/semi-annual-blogroll-sheep-may-safely-graze-edition"
 summary: "I work a full day in the office, then strap my laptop to my back, pedal home and work a full night as well. It's..."
 categories:
   - "Daily Blogroll"
@@ -14,6 +15,19 @@ categories:
   - "MMORPG"
   - "Vanguard"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2011/01/27/daily-blogroll-127-inevitable-backlash-edition/"
+    title: "Daily Blogroll 1/27 -- Inevitable Backlash edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/riftblade.png"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2021/08/07/mmos-on-the-bubble/"
+    title: "MMOs on the Bubble"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/STP61286.jpg"
+  - url: "/2009/08/10/daily-blogroll-810-thank-god-its-monday-edition/"
+    title: "Daily Blogroll 8/10 -- Thank God it's Monday edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/daddygirl.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/05/sheep2.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/05/sheep2.png"
 ---

@@ -3,6 +3,7 @@ date: '2025-07-02T08:00:00-05:00'
 draft: false
 title: "Malifaux: Boilermaker takes the stage"
 author: "Tipa"
+disqusIdentifier: "2025/07/02/malifaux-boilermaker-takes-the-stage"
 summary: "For Canada Day, a special crew. Not all of the Foundry crew are from Canada, but some are, and they have a proud history of bending molten metal to their will."
 categories:
   - "Malifaux"
@@ -12,6 +13,19 @@ tags:
   - "Foundry"
   - "Pack Rat Gaming"
   - "Transmortis"
+relatedPosts:
+  - url: "/2025/10/28/malifaux-4e-rasputina-vs-seamus/"
+    title: "Malifaux 4e: Rasputina vs Seamus"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/1-IMG_5451-scaled.jpg"
+  - url: "/2025/10/15/malifaux-lady-j-meets-the-cult-of-december/"
+    title: "Malifaux: Lady J meets the Cult of December"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/IMG_5423-scaled.jpg"
+  - url: "/2025/05/25/malifaux-4e-december-vs-experimental/"
+    title: "Malifaux 4e: December vs Experimental"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/IMG_5155-scaled.jpg"
+  - url: "/2025/04/30/malifaux-4th-edition-mei-feng-vs-captain-zipp/"
+    title: "Malifaux 4th Edition: Mei Feng vs Captain Zipp"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/04/newcrew4ebanner.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/07/IMG_5205-1-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/07/IMG_5205-1-scaled.jpg"
 ---

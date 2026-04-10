@@ -3,6 +3,7 @@ date: '2021-10-15T00:21:19-05:00'
 draft: false
 title: "Looking for Mr. Kickstarter"
 author: "Tipa"
+disqusIdentifier: "2021/10/15/looking-for-mr-kickstarter"
 summary: "It's that time of the month when I pull out the old atlas and scour the world for my Kickstarter projects! Where could they be..."
 categories:
   - "Artisans of Splendent Vale"
@@ -23,6 +24,19 @@ tags:
   - "China"
   - "Girls Screaming in Chinese"
   - "Plushie"
+relatedPosts:
+  - url: "/2021/09/15/lets-go-looking-for-my-games/"
+    title: "Let's Go Looking For My Games"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/china-map.gif"
+  - url: "/2021/08/10/my-board-game-is-on-a-slow-boat-from-china/"
+    title: "My Board Game is on a Slow Boat from China"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/slowboat.jpg"
+  - url: "/2021/08/29/the-kickstarter-addiction/"
+    title: "The Kickstarter Addiction"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/drz.jpg"
+  - url: "/2025/05/02/how-kickstarter-projects-are-handing-tariffs/"
+    title: "How Kickstarter Projects are Handling Tariffs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/evergiven.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/cologne.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/cologne.jpg"
 ---

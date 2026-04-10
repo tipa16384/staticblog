@@ -3,6 +3,7 @@ date: '2009-03-19T23:40:57-05:00'
 draft: false
 title: "Chronicles of Spellborn: The Void Seer"
 author: "Tipa"
+disqusIdentifier: "2009/03/19/chronicles-of-spellborn-the-void-seer"
 summary: "The second round of closed beta has begun, all the old characters were wiped away (well, at least mine were), so I started up a..."
 categories:
   - "Chronicles of Spellborn"
@@ -11,6 +12,19 @@ tags:
   - "Closed Beta"
   - "Combat"
   - "Void Seer"
+relatedPosts:
+  - url: "/2009/03/20/spellborn-on-the-cheap-new-armors-dev-chat/"
+    title: "Spellborn on the cheap, new armors, dev chat"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/armor1.jpg"
+  - url: "/2009/03/16/chronicles-of-spellborn-the-skinshifter/"
+    title: "Chronicles of Spellborn -- the Skinshifter"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/sb_client-2009-03-14-13-56-36-85.jpg"
+  - url: "/2009/03/06/acclaim-spellborn-client-available-for-download/"
+    title: "Acclaim Spellborn client available for download"
+    thumbnailImage: ""
+  - url: "/2009/03/05/how-are-you-enjoying-the-spellborn-closed-beta/"
+    title: "How are you enjoying the Spellborn closed beta?"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/sb_client-2009-03-19-21-14-17-42-480x360.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/sb_client-2009-03-19-21-14-17-42-480x360.jpg"
 ---

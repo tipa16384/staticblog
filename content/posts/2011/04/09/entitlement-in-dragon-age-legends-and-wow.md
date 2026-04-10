@@ -3,12 +3,26 @@ date: '2011-04-09T07:14:03-05:00'
 draft: false
 title: "Entitlement in Dragon Age Legends (and WoW)"
 author: "Tipa"
+disqusIdentifier: "2011/04/09/entitlement-in-dragon-age-legends-and-wow"
 summary: "I was amused to load up Dragon Age Legends last night and find a message urging me to recruit friends to the game and to..."
 categories:
   - "Dragon Age Legends"
   - "Facebook Games"
   - "MMORPG"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2011/05/13/daily-blogroll-513-truth-in-advertising-edition/"
+    title: "Daily Blogroll 5/13: Truth in Advertising Edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/05/Fullscreen-capture-5112011-61851-AM-480x308.jpg"
+  - url: "/2011/10/12/daily-blogroll-oct-12-no-time-for-heroes-edition/"
+    title: "Daily Blogroll Oct 12: No time for heroes edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/castleville.png"
+  - url: "/2013/09/10/omg-r-u-still-around/"
+    title: "OMG, R U STILL AROUND?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/09/GameClient-2013-09-02-20-38-42-058-480x384.jpg"
+  - url: "/2011/03/10/eq2-fortune-league-winner/"
+    title: "EQ2 Fortune League: #WINNER"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/EverQuest2-2011-03-10-18-19-16-87-480x480.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/04/Fullscreen-capture-482011-110815-PM-480x396.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/04/Fullscreen-capture-482011-110815-PM-480x396.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2022-08-08T07:00:00-05:00'
 draft: false
 title: "The Amazing Adventures of 8-Ball!"
 author: "Tipa"
+disqusIdentifier: "2022/08/08/the-amazing-adventures-of-8-ball"
 summary: "\"Adventure of 8-Ball\" is a 2D platformer mobile game with 50 levels, attractive graphics, and catchy music. The player controls 8-ball, a little black cat, on a quest to save their owner from the evil dog catcher who has kidnapped them."
 categories:
   - "2D Platformer"
@@ -21,6 +22,19 @@ tags:
   - "Challenging"
   - "Dall-E 2"
   - "Gpt-3"
+relatedPosts:
+  - url: "/2022/08/19/can-you-make-it-to-the-end-of-19th-street-in-this-frantic-endless-runner/"
+    title: "Can You Make It To The End Of 19th Street In This Frantic Endless Runner?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-11-19.48.05-synthwave-one-point-perspective-a-businesswoman-sprinting-toward-the-camera-along-a-busy-city-sidewalk-with-tall-buildings-in-the-background.png"
+  - url: "/2022/08/07/the-seven-sages-a-masterclass-in-metroidvania-design/"
+    title: "The Seven Sages: A Masterclass in Metroidvania Design"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/7sages2.png"
+  - url: "/2022/08/05/steve-the-fifth-horseman-of-the-apocalypse/"
+    title: "Steve, the Fifth Horseman of the Apocalypse"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/DALL·E-2022-07-30-11.32.58-A-photograph-of-a-colorfully-dressed-clown-named-Steve-sitting-on-a-horse-that-has-fiery-eyes.-They-are-standing-on-a-hill.-Behind-them-on-the-hori.png"
+  - url: "/2022/08/06/the-six-cats-of-madame-miracle/"
+    title: "The Six Cats of Madame Miracle"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/sixcats.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/TipaNina_A_tuxedo_cat_wearing_a_red_bowtie._He_is_standing_in_f_7f5ba02f-45ee-4c41-bf1c-71df9e5d3245.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/TipaNina_A_tuxedo_cat_wearing_a_red_bowtie._He_is_standing_in_f_7f5ba02f-45ee-4c41-bf1c-71df9e5d3245.png"
 ---

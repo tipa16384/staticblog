@@ -3,6 +3,7 @@ date: '2020-12-28T20:27:08-05:00'
 draft: false
 title: "I am free of Fallout Shelter's evil clutches"
 author: "Tipa"
+disqusIdentifier: "2020/12/28/i-am-free-of-fallout-shelters-evil-clutches"
 summary: "Header image shows the moment I knew I was done with Fallout Shelter. I had just gotten things back on track from an attack of..."
 categories:
   - "Mobile Games"
@@ -11,6 +12,19 @@ tags:
   - "F2P"
   - "Fallout Shelter"
   - "Mobile Game"
+relatedPosts:
+  - url: "/2020/12/22/quick-take-fallout-shelter/"
+    title: "Quick Takes: Fallout Shelter"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/Fallout-Shelter_20201222093220-scaled.jpg"
+  - url: "/2021/08/27/shadowverse-showdown/"
+    title: "Shadowverse Showdown!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/shadowverselogo.png"
+  - url: "/2020/09/02/save-the-fish-a-deep-dive-into-11-mobile-pull-pin-games/"
+    title: "Save the Fish! A Deep Dive into 11 Mobile Pull-Pin Games."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/fishdom.jpg"
+  - url: "/2020/07/15/lets-have-a-little-talk-about-raid-shadow-legends/"
+    title: "Let's have a little talk about RAID: SHADOW LEGENDS."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/07/IMG_1733.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/1-Fallout-Shelter_20201228193414.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/1-Fallout-Shelter_20201228193414.jpg"
 ---

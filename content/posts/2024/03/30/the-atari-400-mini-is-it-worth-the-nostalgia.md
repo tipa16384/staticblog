@@ -3,6 +3,7 @@ date: '2024-03-30T07:00:00-05:00'
 draft: false
 title: "The Atari 400 Mini. Is it worth the nostalgia?"
 author: "Tipa"
+disqusIdentifier: "2024/03/30/the-atari-400-mini-is-it-worth-the-nostalgia"
 summary: "Betteridge's law of headlines is in play here, but... The Atari 800, the 400's big brother, was my first personal computer, and I have a lot of fond memories teaching myself to program on it."
 categories:
   - "Atari"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Atari"
   - "Retrogames"
+relatedPosts:
+  - url: "/2024/06/09/retro-haul-tactics-and-sea-monkeys/"
+    title: "Retro Haul: Tactics and Sea Monkeys"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/06/IMG_4308.jpg"
+  - url: "/2024/03/30/retro-game-haul-march-30-2024/"
+    title: "Retro Game Haul: March 30, 2024"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/IMG_4228.jpg"
+  - url: "/2023/08/23/the-resurrection-of-the-atari-2600/"
+    title: "The Resurrection of the Atari 2600"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/atari2600.png"
+  - url: "/2022/04/08/how-much-is-that-star-trek-nft-in-the-window/"
+    title: "How Much is that Star Trek NFT in the Window?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/04/Screenshot-2022-04-08-184902.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/banner.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/banner.png"
 ---

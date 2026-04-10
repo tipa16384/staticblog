@@ -3,6 +3,7 @@ date: '2021-12-27T14:59:48-05:00'
 draft: false
 title: "Advent of Code 2021 -- Completed."
 author: "Tipa"
+disqusIdentifier: "2021/12/27/advent-of-code-2021-completed"
 summary: "It was an obsession, it was a challenge, it was a lesson. The Advent of Code is an annual coding event that runs from the..."
 categories:
   - "Advent of Code"
@@ -10,6 +11,19 @@ tags:
   - "Algorithms"
   - "Clojure"
   - "Python"
+relatedPosts:
+  - url: "/2024/12/07/advent-of-code-2024-the-first-week/"
+    title: "Advent of Code 2024: The First Week"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/DALL·E-2024-12-07-11.54.46-A-Tolkien-inspired-scene-depicting-graceful-elves-in-a-Tolkien-inspired-setting-repairing-a-rope-bridge-over-a-serene-river-surrounded-by-lush-vibra.webp"
+  - url: "/2022/12/11/advent-of-code-day-11-monkey-in-the-middle/"
+    title: "Advent of Code Day 11 -- Monkey in the Middle"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-11-16.50.33-A-woman-wearing-a-Christmas-hat-staring-at-a-monkey-in-a-jungle-by-Bob-Eggleton-detailed-and-intricate.png"
+  - url: "/2024/12/02/advent-of-code-2024-1/"
+    title: "Advent of Code 2024.1:"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/DALL·E-2024-12-01-15.45.53-A-serene-scene-of-Tolkien-style-elves-sorting-numbers-written-on-thin-ivory-slabs-and-placing-them-into-a-wall-hanging-reminiscent-of-hymn-boards-in-a.webp"
+  - url: "/2023/12/22/advent-of-code-day-22-sand-slabs/"
+    title: "Advent of Code Day 22 -- Sand Slabs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/jenga.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/12/AoC_banner.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/12/AoC_banner.png"
 ---

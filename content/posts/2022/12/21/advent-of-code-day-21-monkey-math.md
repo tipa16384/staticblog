@@ -3,6 +3,7 @@ date: '2022-12-21T22:08:13-05:00'
 draft: false
 title: "Advent of Code Day 21 -- Monkey Math"
 author: "Tipa"
+disqusIdentifier: "2022/12/21/advent-of-code-day-21-monkey-math"
 summary: "Hey, monkeys again! Shouting! Luckily, we have an elephant to interpret. I feel... morally uneasy about today's solution."
 categories:
   - "Advent of Code"
@@ -11,6 +12,19 @@ tags:
   - "Monkey"
   - "Python"
   - "Sympy"
+relatedPosts:
+  - url: "/2022/12/17/advent-of-code-day-17-pyroclastic-flow/"
+    title: "Advent of Code Day 17 -- Pyroclastic Flow"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-17-22.26.37-An-elephant-wearing-a-Christmas-stocking-cap-looking-at-a-giant-statue-of-a-Tetris-game-in-a-cave-lit-with-lava-by-Bob-Eggleton-detailed-and-intrica.png"
+  - url: "/2022/12/16/advent-of-code-day-16-proboscidea-volcanium/"
+    title: "Advent of Code Day 16 -- Proboscidea Volcanium"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-16-23.05.05-A-publicity-photo-of-Jack-Bauer-from-_24_-leading-an-elephant-through-a-lava-tube-lit-up-with-the-red-glow-of-molten-magma.-Tubes-and-pipes-line-the-l.png"
+  - url: "/2024/12/07/advent-of-code-2024-the-first-week/"
+    title: "Advent of Code 2024: The First Week"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/DALL·E-2024-12-07-11.54.46-A-Tolkien-inspired-scene-depicting-graceful-elves-in-a-Tolkien-inspired-setting-repairing-a-rope-bridge-over-a-serene-river-surrounded-by-lush-vibra.webp"
+  - url: "/2024/12/02/advent-of-code-2024-1/"
+    title: "Advent of Code 2024.1:"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/DALL·E-2024-12-01-15.45.53-A-serene-scene-of-Tolkien-style-elves-sorting-numbers-written-on-thin-ivory-slabs-and-placing-them-into-a-wall-hanging-reminiscent-of-hymn-boards-in-a.webp"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-21-21.48.47-A-large-group-of-monkeys-shouting-at-a-woman-wearing-a-Christmas-stocking-cap-by-Bob-Eggleton-detailed-and-intricate.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-21-21.48.47-A-large-group-of-monkeys-shouting-at-a-woman-wearing-a-Christmas-stocking-cap-by-Bob-Eggleton-detailed-and-intricate.png"
 ---

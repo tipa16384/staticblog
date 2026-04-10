@@ -3,6 +3,7 @@ date: '2020-08-12T12:28:57-05:00'
 draft: false
 title: "Blaugust #11: What We've Lost Along the Way"
 author: "Tipa"
+disqusIdentifier: "2020/08/12/blaugust-11-what-weve-lost-along-the-way"
 summary: "This prompt comes at a really good (or bad) time, because I am deep right now into thinking back on the past couple of decades..."
 categories:
   - "Blaugust"
@@ -13,6 +14,19 @@ tags:
   - "Foundry"
   - "Google Reader"
   - "Neverwinter Online"
+relatedPosts:
+  - url: "/2020/08/13/blaugust-7-be-the-best-that-ever-was/"
+    title: "Blaugust #7: Be The Best that Ever Was"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/GameClient-2014-02-06-07-29-35-19.jpg"
+  - url: "/2021/08/07/mmos-on-the-bubble/"
+    title: "MMOs on the Bubble"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/STP61286.jpg"
+  - url: "/2021/10/07/he-thought-i-was-joking/"
+    title: "He thought I was joking."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/endgame_auto_x2_toned_light_ai.jpg"
+  - url: "/2025/07/14/blaugust-kommt/"
+    title: "Blaugust kommt."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/07/blaugustbanner.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/googlere.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/googlere.png"
 ---

@@ -3,9 +3,14 @@ date: '2008-01-15T09:30:17-05:00'
 draft: false
 title: "NWN2: I'm in my world, now."
 author: "Tipa"
+disqusIdentifier: "2008/01/15/nwn2-im-in-my-world-now"
 summary: "Over the weekend, I bought Neverwinter Nights 2. Not because I really want to play the game (though I will), but because I want to..."
 categories:
   - "Neverwinter Nights"
+relatedPosts:
+  - url: "/2009/06/02/neverwinter-nights-2/"
+    title: "Neverwinter Nights 2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/nwn2main-2009-06-02-07-26-02-15.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/nwn2main-2008-01-15-07-46-33-54.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/nwn2main-2008-01-15-07-46-33-54.jpg"
 ---

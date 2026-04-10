@@ -3,6 +3,7 @@ date: '2009-04-13T07:28:20-05:00'
 draft: false
 title: "Lord of the Rings Online: A CoW is born."
 author: "Tipa"
+disqusIdentifier: "2009/04/13/lord-of-the-rings-online-a-cow-is-born"
 summary: "This whole Web 2.0, social media thing is pretty cool, isn't it? Friday, the Lord of the Rings Online branch of Nostalgia the Guild, using..."
 categories:
   - "Lord of the Rings"
@@ -11,6 +12,19 @@ categories:
 tags:
   - "Casualties of War"
   - "Hunter"
+relatedPosts:
+  - url: "/2009/04/03/lord-of-the-rings-online-champion-of-the-world/"
+    title: "Lord of the Rings Online: Champion of the World"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/lotroclient-2009-04-03-07-34-47-79.jpg"
+  - url: "/2020/12/07/everquest-ii-soloing-to-fifty/"
+    title: "EverQuest II: Soloing to Fifty"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/EverQuest2-2020-12-06-13-34-47-77.jpg"
+  - url: "/2020/05/13/everquest-bones-everywhere/"
+    title: "EverQuest: Bones Everywhere."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/eqgame-2020-05-13-06-57-41-85.jpg"
+  - url: "/2009/06/16/welcome-to-mayong-everquests-5150-server/"
+    title: "Welcome to Mayong, EverQuest's 51/50 server"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/mayong.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/lotroclient-2009-04-11-20-43-27-24.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/lotroclient-2009-04-11-20-43-27-24.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2025-01-27T08:31:11-05:00'
 draft: false
 title: "I Know What I Did Last Weekend"
 author: "Tipa"
+disqusIdentifier: "2025/01/27/i-know-what-i-did-last-weekend-2"
 summary: "Some updates on games and game-related dinguses from this past weekend..."
 categories:
   - "Erenshor"
@@ -12,6 +13,19 @@ categories:
 tags:
   - "Fantasian Neo Dimension"
   - "Paper Apps Dungeon"
+relatedPosts:
+  - url: "/2025/02/18/wots-uh-the-deal/"
+    title: "Wot's... Uh the Deal?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/02/tipachu_A_scene_from_a_city_with_an_unpainted_metal_statue_of_1f26c4d5-89d9-43e1-98ae-b76a59f62d92_2.png"
+  - url: "/2025/01/06/i-know-what-i-did-last-weekend/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/2025-1-6.png"
+  - url: "/2025/09/04/still-more-confessions-of-a-kickstarter-superbacker/"
+    title: "Still More Confessions of a Kickstarter Superbacker"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/superbacker.png"
+  - url: "/2025/01/21/fantasian-neo-dimension-part-1/"
+    title: "FANTASIAN Neo Dimension (Part 1)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/FANTASIAN-Neo-Dimension_20250105160053-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/drbrawn.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/drbrawn.png"
 ---

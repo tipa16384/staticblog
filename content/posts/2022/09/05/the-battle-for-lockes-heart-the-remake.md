@@ -3,6 +3,7 @@ date: '2022-09-05T09:41:00-05:00'
 draft: false
 title: "The Battle for Locke's Heart: The Remake"
 author: "Tipa"
+disqusIdentifier: "2022/09/05/the-battle-for-lockes-heart-the-remake"
 summary: "More Celes/Terra/Locke fanfic, I'm afraid. I gave TerraChat a lot more background on the characters and their motivations, than before."
 categories:
   - "Fanfic"
@@ -14,6 +15,19 @@ tags:
   - "Gpt-3"
   - "Locke"
   - "Terra"
+relatedPosts:
+  - url: "/2022/09/04/how-i-used-ai-to-write-a-final-fantasy-vi-chatbot/"
+    title: "How I used AI to write a Final Fantasy VI chatbot"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-04-21.21.57-A-magazine-illustration-of-a-woman-with-dark-green-hair-in-a-high-ponytail-wearing-overalls-constructing-a-giant-mechanical-steampunk-chatbot-with-h.png"
+  - url: "/2022/09/06/cids-legacy-a-story-of-the-world-of-ruin/"
+    title: "Cid's Legacy: A Story of the World of Ruin"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-06-08.14.20-A-painting-of-a-blonde-haired-woman-dressed-in-silver-armor-and-with-the-Ultima-Sword-strapped-to-her-waist-stands-on-a-raft-as-it-sails-into-the-sun.png"
+  - url: "/2022/09/04/the-battle-for-lockes-heart-a-final-fantasy-vi-fan-fic/"
+    title: "The Battle for Locke's Heart: A Final Fantasy VI Fan Fic"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-04-11.23.53-A-digital-painting-of-a-young-man-with-pale-blonde-hair-and-pale-skin-wearing-a-blue-bandana..png"
+  - url: "/2022/09/12/final-fantasy-vi-pixel-remaster-completed/"
+    title: "Final Fantasy VI Pixel Remaster: Completed!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/20220911200000_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-04-21.39.29-Digital-painting-of-a-tall-woman-with-green-hair-in-a-high-ponytail-a-long-blonde-woman-wearing-armor-a-man-in-blue-jeans-and-jacket-a-gentleman-ga.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-04-21.39.29-Digital-painting-of-a-tall-woman-with-green-hair-in-a-high-ponytail-a-long-blonde-woman-wearing-armor-a-man-in-blue-jeans-and-jacket-a-gentleman-ga.png"
 ---

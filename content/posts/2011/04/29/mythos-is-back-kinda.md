@@ -3,10 +3,24 @@ date: '2011-04-29T06:58:18-05:00'
 draft: false
 title: "Mythos is back! Kinda!"
 author: "Tipa"
+disqusIdentifier: "2011/04/29/mythos-is-back-kinda"
 summary: "A couple of years ago, you could have sold a Mythos beta key on eBay for a hundred bucks, easy. Now that it's finally out..."
 categories:
   - "MMORPG"
   - "Mythos"
+relatedPosts:
+  - url: "/2011/10/20/daily-blogroll-oct-19-time-enough-to-learn-to-swim-edition/"
+    title: "Daily Blogroll Oct 19: Time enough to learn to swim edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/02/ffxivgame-2011-10-18-19-43-58-81-480x234-1.jpg"
+  - url: "/2011/01/12/daily-blogroll-112-snow-job-edition/"
+    title: "Daily Blogroll 1/12 -- Snow Job edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/11111png.png"
+  - url: "/2011/01/07/daily-blogroll-17-better-than-life-edition/"
+    title: "Daily Blogroll 1/7 - Better than Life edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/ZodiacOnline.jpg"
+  - url: "/2011/01/06/daily-blogroll-16-fair-and-balanced-edition/"
+    title: "Daily Blogroll 1/6: Fair and Balanced edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/fox.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/04/Myth-2011-04-29-07-02-57-32-480x480.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/04/Myth-2011-04-29-07-02-57-32-480x480.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2011-03-01T08:12:41-05:00'
 draft: false
 title: "Rift: Synergies"
 author: "Tipa"
+disqusIdentifier: "2011/03/01/rift-synergies"
 summary: "[..."
 categories:
   - "MMORPG"
@@ -13,6 +14,19 @@ tags:
   - "Ranger"
   - "Stonefields"
   - "The Harrowing"
+relatedPosts:
+  - url: "/2008/07/27/eq-haffer-ranger-saves-norrath-film-at-11/"
+    title: "EQ: Haffer Ranger saves Norrath, film at 11."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/eqgame-2008-07-27-11-08-37-31.jpg"
+  - url: "/2023/10/25/baldurs-gate-3-guilty/"
+    title: "Baldur's Gate 3: Guilty"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/snapedit_1698202481176.png"
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2021/07/22/new-world-fomo-or-fotm/"
+    title: "New World: FOMO or FOTM?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/GameClient-2014-12-06-11-09-05-59.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/rift-2011-03-01-07-36-26-62-480x384.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/rift-2011-03-01-07-36-26-62-480x384.jpg"
 ---

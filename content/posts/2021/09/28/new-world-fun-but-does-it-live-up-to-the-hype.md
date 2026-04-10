@@ -3,6 +3,7 @@ date: '2021-09-28T23:07:27-05:00'
 draft: false
 title: "New World: Fun, but does it live up to the hype?"
 author: "Tipa"
+disqusIdentifier: "2021/09/28/new-world-fun-but-does-it-live-up-to-the-hype"
 summary: "I'm not one to jump on bandwagons, but with approximately 150% of the people I follow on Twitter jumping into the New World, I really..."
 categories:
   - "Humor"
@@ -14,6 +15,19 @@ categories:
 tags:
   - "Rogue-Like"
   - "Steam"
+relatedPosts:
+  - url: "/2020/12/11/my-rpgs-of-2020/"
+    title: "My RPGs of 2020"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/Chocobos-Mystery-Dungeon-EVERY-BUDDY_20200506204657.jpg"
+  - url: "/2021/11/01/quick-look-unexplored-2/"
+    title: "Quick Look: Unexplored 2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/mainmenu.png"
+  - url: "/2021/09/22/valheim-hearth-home-lox/"
+    title: "Valheim: Hearth & Home & Lox"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/20210922072238_1.jpg"
+  - url: "/2025/10/20/steam-next-fested/"
+    title: "Steam Next Fested"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/steamnextfest.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/terrarandoma.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/terrarandoma.jpg"
 ---

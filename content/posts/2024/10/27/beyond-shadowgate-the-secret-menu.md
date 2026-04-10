@@ -3,6 +3,7 @@ date: '2024-10-27T10:55:12-05:00'
 draft: false
 title: "Beyond Shadowgate: The SECRET Menu?!"
 author: "Tipa"
+disqusIdentifier: "2024/10/27/beyond-shadowgate-the-secret-menu"
 summary: "If you're a Beyond Shadowgate speedrunner, or are considering a promising career in Shadowgate speedrunning, you're going to want to read this."
 categories:
   - "Adventure"
@@ -11,6 +12,19 @@ categories:
   - "Steam Games"
 tags:
   - "Say Hello to My Little Friend"
+relatedPosts:
+  - url: "/2024/12/28/the-best-of-2024-adventure-games/"
+    title: "The Best of 2024: Adventure Games"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/adventurebanner.png"
+  - url: "/2024/04/19/beyond-shadowgate-the-demo/"
+    title: "Beyond Shadowgate -- the Demo"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/thumb0-640x360-1.jpg"
+  - url: "/2026/03/22/review-the-invincible/"
+    title: "Review: The Invincible"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/1222-the-invincible-review-teaser.jpg"
+  - url: "/2024/09/22/beyond-shadowgate-how-to-get-endings-a-b-c-and-d/"
+    title: "Beyond Shadowgate -- how to get endings A, B, C and D."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/1-Desktop-Screenshot-2024.09.22-13.07.42.90.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/bs-secretmenu.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/bs-secretmenu.png"
 ---

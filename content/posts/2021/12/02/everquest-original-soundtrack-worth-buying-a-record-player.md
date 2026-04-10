@@ -3,6 +3,7 @@ date: '2021-12-02T23:30:02-05:00'
 draft: false
 title: "EverQuest Original Soundtrack: Worth buying a record player."
 author: "Tipa"
+disqusIdentifier: "2021/12/02/everquest-original-soundtrack-worth-buying-a-record-player"
 summary: "Is there a vinyl album out there that would spur you to buy a record player? I thought I'd never do it, until that one..."
 categories:
   - "EverQuest"
@@ -12,6 +13,19 @@ tags:
   - "Record Player"
   - "Soundtrack"
   - "Vinyl"
+relatedPosts:
+  - url: "/2020/08/23/blaugust-22-and-23-fear-and-envy/"
+    title: "Blaugust #22 and #23: Fear and Envy"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/lantern-corps-970x545-1.jpg"
+  - url: "/2026/01/10/rubik-and-the-microplastic-mind/"
+    title: "Rubik and the Microplastic Mind"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/ChatGPT-Image-Jan-10-2026-07_02_02-PM.png"
+  - url: "/2025/08/07/soda-can-tabs-for-charity-really/"
+    title: "Soda can tabs for charity? REALLY?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5304-scaled.jpeg"
+  - url: "/2024/09/03/my-california-lick-observatory/"
+    title: "My California: Lick Observatory"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/IMG_4669-scaled.jpeg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/12/IMG_2397_resized.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/12/IMG_2397_resized.jpg"
 ---

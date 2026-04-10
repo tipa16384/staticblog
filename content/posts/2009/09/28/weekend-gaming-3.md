@@ -3,6 +3,7 @@ date: '2009-09-28T00:12:16-05:00'
 draft: false
 title: "Weekend Gaming"
 author: "Tipa"
+disqusIdentifier: "2009/09/28/weekend-gaming-3"
 summary: "Sean E asked me why I wasn't playing Dungeons and Dragons Online. I hear DDO and I think \"hey, another fantasy MMO with wizards and..."
 categories:
   - "Champions Online"
@@ -12,6 +13,19 @@ categories:
   - "Gatheryn"
   - "MMORPG"
   - "Wizard101"
+relatedPosts:
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/08/04/daily-blogroll-84-lifetime-edition/"
+    title: "Daily Blogroll 8/4 -- Lifetime edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/lederhosenman.jpg"
+  - url: "/2009/08/21/daily-blogroll-821-gloomshine-edition/"
+    title: "Daily Blogroll 8/21 - Gloomshine Edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/Gatheryn-2009-08-20-18-51-17-34.jpg"
+  - url: "/2009/10/09/daily-blogroll-1010-short-week-edition/"
+    title: "Daily Blogroll 10/10: Short Week edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/fox1-480x252.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/ExeFile-2009-09-27-21-46-57-10.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/ExeFile-2009-09-27-21-46-57-10.jpg"
 ---

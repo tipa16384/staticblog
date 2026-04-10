@@ -3,10 +3,24 @@ date: '2022-02-28T08:33:52-05:00'
 draft: false
 title: "7DRL: Building an Engine -- Setting the Scope"
 author: "Tipa"
+disqusIdentifier: "2022/02/28/7drl-building-an-engine-setting-the-scope"
 summary: "This weekend, I added weapons, monsters only move when you move, and I added flags to tell if items were identified, cursed, wielded or worn...."
 categories:
   - "7DRL"
   - "Rogue-Likes"
+relatedPosts:
+  - url: "/2022/03/07/7drl-2022-day-2-dungeon-room/"
+    title: "7DRL 2022 Day 2: Dungeon Room"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/ezgif.com-gif-maker-2.gif"
+  - url: "/2022/02/15/7drl-building-an-engine-animation/"
+    title: "7DRL: Building an Engine -- Animation"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/02/screenshot.png"
+  - url: "/2026/03/25/preview-topdeck-automat/"
+    title: "Preview: Topdeck Automat"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-24-220403.png"
+  - url: "/2025/08/14/micro-hero-hercules/"
+    title: "Micro Hero: Hercules"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5324-EDIT-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/02/screenshot-5.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/02/screenshot-5.png"
 ---

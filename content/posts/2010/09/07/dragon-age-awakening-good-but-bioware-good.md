@@ -3,6 +3,7 @@ date: '2010-09-07T23:31:18-05:00'
 draft: false
 title: "Dragon Age: Awakening. Good, but Bioware-good?"
 author: "Tipa"
+disqusIdentifier: "2010/09/07/dragon-age-awakening-good-but-bioware-good"
 summary: "[..."
 categories:
   - "Dragon Age Origins"
@@ -12,6 +13,19 @@ tags:
   - "Bioware"
   - "Dlc"
   - "Dragon Age"
+relatedPosts:
+  - url: "/2020/04/28/favorite-game-series-3-dragon-age/"
+    title: "Favorite Game Series #3: Dragon Age"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/04/DragonAgeInquisition-2014-11-23-19-25-40-81-1024x819.jpg"
+  - url: "/2024/11/21/dragon-age-the-veilguard-finished/"
+    title: "Dragon Age: the Veilguard finished"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/banner2.png"
+  - url: "/2024/11/09/dragon-age-the-veilguard-is-not-the-game-you-think-it-is/"
+    title: "Dragon Age: The Veilguard is not the game you think it is"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/davg-banner.png"
+  - url: "/2024/11/14/dragon-age-saboteur/"
+    title: "Dragon Age: Saboteur"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/1-20241113215345_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/DAOrigins-2010-09-05-14-28-18-23-480x385.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/DAOrigins-2010-09-05-14-28-18-23-480x385.jpg"
 ---

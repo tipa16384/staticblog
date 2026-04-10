@@ -3,10 +3,24 @@ date: '2013-05-24T07:10:04-05:00'
 draft: false
 title: "Crayon Chronicles: A Roguelike for your Inner Second Grader"
 author: "Tipa"
+disqusIdentifier: "2013/05/24/crayon-chronicles-a-roguelike-for-your-inner-second-grader"
 summary: "I should have called this \"A Child's First Roguelike\". Or, \"How to get through school with only an Owl on a Stick\". Whatever. Outer Grid..."
 categories:
   - "Crayon Chronicles"
   - "Kickstarter"
+relatedPosts:
+  - url: "/2025/12/23/widgets-workshop-build-robots-better/"
+    title: "Widget's Workshop: Build Robots Better."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/IMG_5579-scaled.jpg"
+  - url: "/2025/11/04/backed-the-vectrex-mini/"
+    title: "Backed the Vectrex Mini"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/vectrexdemo-scaled.webp"
+  - url: "/2025/09/04/still-more-confessions-of-a-kickstarter-superbacker/"
+    title: "Still More Confessions of a Kickstarter Superbacker"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/superbacker.png"
+  - url: "/2025/05/02/how-kickstarter-projects-are-handing-tariffs/"
+    title: "How Kickstarter Projects are Handling Tariffs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/evergiven.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/05/CrayonChronicles-2013-05-23-20-19-58-06-480x270.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/05/CrayonChronicles-2013-05-23-20-19-58-06-480x270.jpg"
 ---

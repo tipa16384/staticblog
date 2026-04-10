@@ -3,10 +3,24 @@ date: '2011-04-14T07:22:22-05:00'
 draft: false
 title: "Rift vs Sliced Bread: A one month retrospective."
 author: "Tipa"
+disqusIdentifier: "2011/04/14/rift-vs-sliced-bread-a-one-month-retrospective"
 summary: "Rift's \"Droughtlands\" is the kind of land only a wily coyote could love, filled with dead-end canyons and high, high mesas. Harlan's Vista rises from..."
 categories:
   - "MMORPG"
   - "Rift"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2021/07/22/new-world-fomo-or-fotm/"
+    title: "New World: FOMO or FOTM?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/GameClient-2014-12-06-11-09-05-59.jpg"
+  - url: "/2011/08/17/is-social-networking-killing-the-mmo-genre/"
+    title: "Is social networking killing the MMO genre?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/08/rift-2011-08-17-07-23-49-86.jpg"
+  - url: "/2011/06/20/rift-just-give-me-what-i-want/"
+    title: "Rift: Just give me what I want..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/06/rift-2011-06-17-21-26-16-90-480x480.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/04/rift-2011-04-08-23-32-31-05-480x383.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/04/rift-2011-04-08-23-32-31-05-480x383.jpg"
 ---

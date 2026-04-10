@@ -3,11 +3,25 @@ date: '2006-03-08T00:00:00-05:00'
 draft: false
 title: "Various News"
 author: "Tipa"
+disqusIdentifier: "2006/03/08/various-news"
 summary: "Initial reviews of Final Fantasy XII look really good. This is the one that uses a FFXI Online-like world map. If they could let me..."
 categories:
   - "General"
   - "MMORPG"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2008/07/01/sequencing-mmo-dna/"
+    title: "Sequencing MMO DNA"
+    thumbnailImage: ""
+  - url: "/2008/04/15/mmo-on-the-eee/"
+    title: "MMO on the EEE"
+    thumbnailImage: ""
+  - url: "/2007/10/30/suwt-12/"
+    title: "SUWT #12"
+    thumbnailImage: ""
+  - url: "/2006/08/14/wow-and-eq2-newbie-quests/"
+    title: "WoW and EQ2: Newbie Quests"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/08/antonica.jpg"
 coverImage: "http://www.boingboing.net/images/_images_cat-piano.jpg"
 thumbnailImage: "http://www.boingboing.net/images/_images_cat-piano.jpg"
 ---

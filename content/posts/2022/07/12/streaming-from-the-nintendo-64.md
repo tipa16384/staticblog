@@ -3,6 +3,7 @@ date: '2022-07-12T07:42:43-05:00'
 draft: false
 title: "Streaming from the Nintendo 64"
 author: "Tipa"
+disqusIdentifier: "2022/07/12/streaming-from-the-nintendo-64"
 summary: "It's not pretty and it could be better, but I'm able to stream from my unmodified Nintendo 64 at an acceptable resolution using about $50..."
 categories:
   - "Nintendo 64"
@@ -16,6 +17,19 @@ tags:
   - "Video"
   - "Video Capture"
   - "Video Converter"
+relatedPosts:
+  - url: "/2022/07/11/is-playing-on-the-original-hardware-worth-the-trouble/"
+    title: "Is playing on the original hardware worth the trouble?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/20220710085048_1.jpg"
+  - url: "/2022/07/24/ogre-battle-64-i-am-a-person-of-lordly-caliber/"
+    title: "Ogre Battle 64: I am a Person of Lordly Caliber"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/danika.png"
+  - url: "/2020/05/08/project64-and-beetle-adventure-racing/"
+    title: "Project64 and Beetle Adventure Racing"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/Project64-2020-05-08-07-01-57-40.jpg"
+  - url: "/2026/01/11/quest-64-i-played-the-worst-rpg-on-the-nintendo-64/"
+    title: "Quest 64: I played the worst RPG on the Nintendo 64 -- and I liked it"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/Screenshot-2026-01-09-18-19-11.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/vlcsnap-2022-07-12-07h06m02s617.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/vlcsnap-2022-07-12-07h06m02s617.jpg"
 ---

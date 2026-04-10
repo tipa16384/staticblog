@@ -3,12 +3,26 @@ date: '2010-12-09T06:00:50-05:00'
 draft: false
 title: "Daily Blogroll 12/9 -- Time Travel edition"
 author: "Tipa"
+disqusIdentifier: "2010/12/09/daily-blogroll-129-time-travel-edition"
 summary: "A little later, we'll be talking about a virtual world to a \"Time Travel\" theme, which will send customers through differently themed worlds. Like, \"Now..."
 categories:
   - "Daily Blogroll"
   - "MMORPG"
   - "Rift"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2011/05/13/daily-blogroll-513-truth-in-advertising-edition/"
+    title: "Daily Blogroll 5/13: Truth in Advertising Edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/05/Fullscreen-capture-5112011-61851-AM-480x308.jpg"
+  - url: "/2011/01/27/daily-blogroll-127-inevitable-backlash-edition/"
+    title: "Daily Blogroll 1/27 -- Inevitable Backlash edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/riftblade.png"
+  - url: "/2011/01/07/daily-blogroll-17-better-than-life-edition/"
+    title: "Daily Blogroll 1/7 - Better than Life edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/ZodiacOnline.jpg"
+  - url: "/2011/01/06/daily-blogroll-16-fair-and-balanced-edition/"
+    title: "Daily Blogroll 1/6: Fair and Balanced edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/fox.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/apollo.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/apollo.png"
 ---

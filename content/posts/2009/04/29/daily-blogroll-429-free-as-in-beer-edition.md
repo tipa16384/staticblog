@@ -3,6 +3,7 @@ date: '2009-04-29T07:40:20-05:00'
 draft: false
 title: "Daily Blogroll 4/29 -- Free as in Beer Edition"
 author: "Tipa"
+disqusIdentifier: "2009/04/29/daily-blogroll-429-free-as-in-beer-edition"
 summary: "After hours of agonizing labor pains, SOE popped Free Realms out last night, just before midnight in California. They were just half an hour from..."
 categories:
   - "Daily Blogroll"
@@ -13,6 +14,19 @@ categories:
   - "Warhammer: Age of Reckoning"
   - "Wizard101"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2009/05/06/daily-blogroll-56-tempests-and-teapots-edition/"
+    title: "Daily Blogroll 5/6 -- Tempests and Teapots edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/fullscreen-capture-562009-125235-am.jpg"
+  - url: "/2009/04/24/web-log-424-friday-is-free-day-edition/"
+    title: "Web Log 4/24 -- Friday is Free Day edition"
+    thumbnailImage: "http://www.penny-arcade.com/images/2009/20090424.jpg"
+  - url: "/2009/05/08/daily-blogroll-58-darkfail-edition/"
+    title: "Daily Blogroll 5/8 -- Darkfail edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/darkfall.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
 ---
 After hours of agonizing labor pains, SOE popped Free Realms out last night, just before midnight in California. They were just half an hour from...
 <!--more-->

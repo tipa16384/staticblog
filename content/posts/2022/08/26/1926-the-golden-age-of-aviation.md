@@ -3,6 +3,7 @@ date: '2022-08-26T07:00:00-05:00'
 draft: false
 title: "1926: The Golden Age of Aviation"
 author: "Tipa"
+disqusIdentifier: "2022/08/26/1926-the-golden-age-of-aviation"
 summary: "Experience the golden age of aviation in this flight simulator set in the 1920s."
 categories:
   - "Blaugust"
@@ -13,6 +14,19 @@ tags:
   - "Dall-E 2"
   - "Gpt-3"
   - "Simulation Game"
+relatedPosts:
+  - url: "/2022/08/30/the-golden-years-30-something/"
+    title: "The Golden Years: 30 Something"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-23-20.51.10-A-magazine-illustration-of-a-30-something-person-surrounded-by-icons-representing-lifes-challenges-work-family-hobbies-money-food-travel-and-.png"
+  - url: "/2022/08/23/23-fathoms-a-cold-war-era-submarine-simulator/"
+    title: "23 Fathoms: A Cold War Era Submarine Simulator"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/smallsub.png"
+  - url: "/2022/08/30/blaugust-theme-week-lessons-learned/"
+    title: "Blaugust theme week: Lessons learned"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-30-23.00.58-35mm-long-range-photograph-of-a-woman-warrior-reading-a-book-while-sitting-against-a-sleeping-green-dragon-near-a-mountain-lake-pastel-colors-peacef.png"
+  - url: "/2022/08/25/25-cents-the-age-of-the-arcade/"
+    title: "25 Cents: The Age of the Arcade"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-17-23.27.24-synthwave-a-wombat-dressed-in-a-pink-blazer-playing-an-arcade-machine-in-a-video-arcade.-the-picture-is-lit-only-by-the-glow-of-the-arcade-machines.-l.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/goldenage26.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/goldenage26.png"
 ---

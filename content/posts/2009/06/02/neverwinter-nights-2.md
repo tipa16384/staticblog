@@ -3,10 +3,24 @@ date: '2009-06-02T06:52:14-05:00'
 draft: false
 title: "Neverwinter Nights 2"
 author: "Tipa"
+disqusIdentifier: "2009/06/02/neverwinter-nights-2"
 summary: "Out of nowhere, I was invited to take part in a weekly online gaming group as they explore the world of Neverwinter Nights 2 (which,..."
 categories:
   - "Neverwinter Nights"
   - "Other Games"
+relatedPosts:
+  - url: "/2008/01/15/nwn2-im-in-my-world-now/"
+    title: "NWN2: I'm in my world, now."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/nwn2main-2008-01-15-07-46-33-54.jpg"
+  - url: "/2025/08/06/la-brute-battles-royale-and-warring-guilds/"
+    title: "La Brute: Battles Royale and Warring Guilds"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/LaBrute.png"
+  - url: "/2025/07/10/frosthaven-scenario-14-jagged-shoals/"
+    title: "Frosthaven Scenario 14: Jagged Shoals"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/07/IMG_5225-scaled.jpg"
+  - url: "/2024/11/21/dragon-age-the-veilguard-finished/"
+    title: "Dragon Age: the Veilguard finished"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/banner2.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/nwn2main-2009-06-02-07-26-02-15.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/nwn2main-2009-06-02-07-26-02-15.jpg"
 ---

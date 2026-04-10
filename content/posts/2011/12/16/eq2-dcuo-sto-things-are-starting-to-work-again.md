@@ -3,12 +3,26 @@ date: '2011-12-16T00:40:52-05:00'
 draft: false
 title: "EQ2, DCUO, STO: Things are starting to work again"
 author: "Tipa"
+disqusIdentifier: "2011/12/16/eq2-dcuo-sto-things-are-starting-to-work-again"
 summary: "I have a friend who is so into Rift. \"You have to come back!\" he said. \"Ember Isles is amazing; the new warfront is awesome;..."
 categories:
   - "DC Universe Online"
   - "EverQuest"
   - "MMORPG"
   - "Star Trek"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2021/08/07/mmos-on-the-bubble/"
+    title: "MMOs on the Bubble"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/STP61286.jpg"
+  - url: "/2011/01/12/daily-blogroll-112-snow-job-edition/"
+    title: "Daily Blogroll 1/12 -- Snow Job edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/11111png.png"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/12/EverQuest2-2011-12-15-23-07-31-09-480x384.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/12/EverQuest2-2011-12-15-23-07-31-09-480x384.jpg"
 ---

@@ -3,11 +3,25 @@ date: '2008-10-29T14:13:33-05:00'
 draft: false
 title: "Davey and Goliath Online?"
 author: "Tipa"
+disqusIdentifier: "2008/10/29/davey-and-goliath-online"
 summary: "Level 15 Hunter LF3M 4 Spooky Wood..."
 categories:
   - "MMORPG"
 tags:
   - "Davey and Goliath Online"
+relatedPosts:
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2026/03/11/dune-awakening-finished-chapter-3/"
+    title: "Dune Awakening: Finished Chapter 3"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-11-073510.png"
+  - url: "/2026/02/04/erenshor-rising-shadows-launched/"
+    title: 'Erenshor "Rising Shadows" launched!'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/20260204080313_1.jpg"
+  - url: "/2026/01/24/dominus-automa-an-idle-mmo-for-busy-dads/"
+    title: "Dominus Automa: An Idle MMO for Busy Dads"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/dominusautoma.png"
 coverImage: "http://www.daveyandgoliath.org/images/davey_goliath_bkgd_church.jpg"
 thumbnailImage: "http://www.daveyandgoliath.org/images/davey_goliath_bkgd_church.jpg"
 ---

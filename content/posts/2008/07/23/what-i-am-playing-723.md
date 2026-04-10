@@ -3,6 +3,7 @@ date: '2008-07-23T14:18:58-05:00'
 draft: false
 title: "What I am playing 7/23"
 author: "Tipa"
+disqusIdentifier: "2008/07/23/what-i-am-playing-723"
 summary: "I haven't done a \"what I'm playing\" thing for awhile. So here's my current roster of games, and I'll start off with what I'm NOT..."
 categories:
   - "City of Heroes"
@@ -14,6 +15,19 @@ categories:
   - "Wizard101"
 tags:
   - "Pi Story"
+relatedPosts:
+  - url: "/2008/12/24/a-look-back-at-2008/"
+    title: "A look back at 2008"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-30-22-10-50-69.jpg"
+  - url: "/2008/07/24/free-to-play-game-of-the-month/"
+    title: "Free-to-play game of the month?"
+    thumbnailImage: ""
+  - url: "/2008/03/31/bad-article-ideas-mmo-pinup-calendar/"
+    title: "Bad article ideas: MMO Pinup Calendar"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/03/cityofheroes-2008-03-31-00-51-43-33.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
 ---
 I haven't done a "what I'm playing" thing for awhile. So here's my current roster of games, and I'll start off with what I'm NOT...
 <!--more-->

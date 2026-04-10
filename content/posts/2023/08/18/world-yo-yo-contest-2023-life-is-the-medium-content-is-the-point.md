@@ -3,6 +3,7 @@ date: '2023-08-18T07:00:00-05:00'
 draft: false
 title: "World Yo-Yo Contest 2023: Life is the Medium, Content is the Point"
 author: "Tipa"
+disqusIdentifier: "2023/08/18/world-yo-yo-contest-2023-life-is-the-medium-content-is-the-point"
 summary: "YouTube decided I needed to learn about the World Yo-Yo Contest today. Okay."
 categories:
   - "Blaugust"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "World Yo-Yo Contest"
   - "Yoyo"
+relatedPosts:
+  - url: "/2023/08/31/the-final-days-of-blaugust/"
+    title: "The final days of Blaugust"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/solongblaugust.png"
+  - url: "/2023/08/30/what-makes-an-mmo-an-mmo-2/"
+    title: "What makes an MMO, an MMO?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/notanmmo.png"
+  - url: "/2023/08/29/loot-pinatas-how-much-are-you-worth/"
+    title: "Loot Piñatas: How much are you worth?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/moneybags.jpg"
+  - url: "/2023/08/28/retro-world-expo-scorecard/"
+    title: "Retro World Expo Scorecard"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/sailormoonpikachu.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/worldyoyo2023.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/worldyoyo2023.png"
 ---

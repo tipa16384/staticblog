@@ -3,6 +3,7 @@ date: '2007-12-01T14:38:06-05:00'
 draft: false
 title: "CoX: Madame Scurry, Ms. Narusegawa, and the Amoy Tiger -- Villains and Heroes"
 author: "Tipa"
+disqusIdentifier: "2007/12/01/cox-madame-scurry-ms-narusegawa-and-the-amoy-tiger-villains-and-heroes"
 summary: "I thought I'd say hello to my City of Heroes/Villains characters again. Now that I am not paying for a second Station Pass subscription, I..."
 categories:
   - "City of Heroes"
@@ -17,6 +18,19 @@ tags:
   - "Paragon City"
   - "Rogue Isle"
   - "The Amoy Tiger"
+relatedPosts:
+  - url: "/2007/12/02/cov-madame-scurry-is-dead/"
+    title: "CoV: Madame Scurry is DEAD."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/coh1.jpg"
+  - url: "/2024/01/16/city-of-heroes-homecoming/"
+    title: "City of Heroes: Homecoming..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/cohhclogo.png"
+  - url: "/2007/12/03/cov-madame-scurry-issue-11-baby/"
+    title: "CoV: Madame Scurry, Issue 11 baby"
+    thumbnailImage: ""
+  - url: "/2021/08/18/developer-appreciation-cryptic-studios/"
+    title: "Developer Appreciation: Cryptic Studios"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/cityofheroes-2007-12-01-12-05-32-84.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/cityofheroes-2007-12-01-12-05-32-84.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/cityofheroes-2007-12-01-12-05-32-84.jpg"
 ---

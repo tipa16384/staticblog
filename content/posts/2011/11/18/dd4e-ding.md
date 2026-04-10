@@ -3,12 +3,26 @@ date: '2011-11-18T12:43:50-05:00'
 draft: false
 title: "D&D4E: Ding!"
 author: "Tipa"
+disqusIdentifier: "2011/11/18/dd4e-ding"
 summary: "After last week's epic battle against an Indiana Jones-style boulder trap and various drakes and kobold lords, what could possibly await us in the cavern..."
 categories:
   - "D&D 4e"
   - "Other Games"
 tags:
   - "Google+"
+relatedPosts:
+  - url: "/2011/11/11/dcuo-its-a-hard-light/"
+    title: "DCUO: It's a hard light"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/11/MPYR0122_POSTFX-PC-10-18.01.350.jpg"
+  - url: "/2011/11/10/im-semi-internet-famous/"
+    title: "I'm semi-Internet famous!"
+    thumbnailImage: "http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&gadget=a&resize_h=100&url=http%3A%2F%2Fmmoquests.com%2Fwp-content%2Fuploads%2F2011%2F11%2Fgoogleplus-westkarana-logo.jpg"
+  - url: "/2011/11/10/ddo-update-12-challenge-dungeons/"
+    title: "DDO Update 12: Challenge Dungeons"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/11/dndclient-2011-11-09-18-00-20-92.jpg"
+  - url: "/2011/11/09/todays-run-was-a-little-better-than-mondays/"
+    title: "Running: Nearing the Threshold"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/11/IMG_0484.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/11/FantasyGrounds-2011-11-17-23-49-35-55-480x382.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/11/FantasyGrounds-2011-11-17-23-49-35-55-480x382.jpg"
 ---

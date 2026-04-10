@@ -3,6 +3,7 @@ date: '2020-04-27T11:17:00-05:00'
 draft: false
 title: "Favorite Game Series #4: Portal"
 author: "Tipa"
+disqusIdentifier: "2020/04/27/favorite-game-series-4-portal"
 summary: "The rules of the \"favorite game series\" posts, as I understand them, is that there must have been more than one game, the games must..."
 categories:
   - "Steam Games"
@@ -13,6 +14,19 @@ tags:
   - "Portal"
   - "This is a Triumph"
   - "Xkcd"
+relatedPosts:
+  - url: "/2009/04/18/web-log-418/"
+    title: "Web Log 4/18"
+    thumbnailImage: ""
+  - url: "/2023/11/25/superliminal-the-return-of-glados/"
+    title: "Superliminal: The return of GLaDOS"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/capsule_616x353.jpg"
+  - url: "/2007/11/04/final-weighted-companion-cube-model/"
+    title: "Final Weighted Companion Cube model"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/11/wccscene1.jpg"
+  - url: "/2026/03/28/blasts-from-the-past-is-it-the-90s-again/"
+    title: "Blasts from the Past: Is it the 90s again?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/elves-and-dinokun.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/04/turretandcube.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/04/turretandcube.png"
 ---

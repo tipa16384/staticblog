@@ -3,12 +3,26 @@ date: '2008-08-20T19:02:03-05:00'
 draft: false
 title: "New hot zones for EverQuest"
 author: "Tipa"
+disqusIdentifier: "2008/08/20/new-hot-zones-for-everquest"
 summary: "As expected, SOE has made a whole new set of hot zones for nearly all levels. There are some old favorites, and a couple of..."
 categories:
   - "EverQuest"
   - "MMORPG"
 tags:
   - "Hot Zones"
+relatedPosts:
+  - url: "/2008/12/10/new-everquest-hot-zones-rmt-and-frostfell-missions/"
+    title: "New EverQuest hot zones. RMT, and Frostfell missions"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/eqgame-2008-12-10-08-05-08-12.jpg"
+  - url: "/2008/08/23/eq-hot-zone-hoedown/"
+    title: "EQ: Hot zone hoedown"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/eqgame-2008-08-22-22-02-52-46.jpg"
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2024/10/21/evercraft-online-the-unholy-child-of-eq-and-minecraft/"
+    title: "EverCraft Online: The Unholy Child of EQ and MineCraft"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/evercraft-banner.png"
 ---
 As expected, SOE has made a whole new set of hot zones for nearly all levels. There are some old favorites, and a couple of...
 <!--more-->

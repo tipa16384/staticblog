@@ -3,6 +3,7 @@ date: '2022-08-29T21:33:57-05:00'
 draft: false
 title: "Blaugust 2022: Staying (un)Motivated"
 author: "Tipa"
+disqusIdentifier: "2022/08/29/blaugust-2022-staying-unmotivated"
 summary: "Keeping a blog alive is a lot of pressure. Wouldn't it make more sense to have a central Blaugust blog that everyone could post in, rather than having a hundred small blogs?"
 categories:
   - "Blaugust"
@@ -11,6 +12,19 @@ tags:
   - "Bloggers"
   - "Blogging"
   - "West Karana"
+relatedPosts:
+  - url: "/2025/10/16/taking-control-of-my-skeets-and-toots/"
+    title: "Taking Control of my Skeets and Toots"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/hq720.jpg"
+  - url: "/2022/07/31/welcome-to-blaugust-2022-31-game-ideas-from-ai/"
+    title: "Welcome to Blaugust 2022: 31 game ideas from AI"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/blaugust2022.webp"
+  - url: "/2024/08/05/not-gonna-lose-my-blog-again/"
+    title: "Not Gonna Lose My Blog: Backups Saved Me Once and Will Save Me Again"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/3-2-1-Backup-Rule.png"
+  - url: "/2021/09/01/resurrecting-west-karana/"
+    title: "Resurrecting West Karana"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/b0d5f94a61f128683568fec95571fa8e.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-29-21.17.59-A-pen-and-ink-drawing-of-a-penguin-typing-on-a-computer-while-floating-on-an-ice-floe-in-the-middle-of-the-ocean..png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-29-21.17.59-A-pen-and-ink-drawing-of-a-penguin-typing-on-a-computer-while-floating-on-an-ice-floe-in-the-middle-of-the-ocean..png"
 ---

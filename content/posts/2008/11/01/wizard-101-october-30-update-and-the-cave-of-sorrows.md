@@ -3,6 +3,7 @@ date: '2008-11-01T11:22:27-05:00'
 draft: false
 title: "Wizard 101: October 30 update and the Cave of Sorrows"
 author: "Tipa"
+disqusIdentifier: "2008/11/01/wizard-101-october-30-update-and-the-cave-of-sorrows"
 summary: "Still working on Shoshuni Village quests. I cleared out all the quests in the Cave of Sorrows, a place of treacherous paths and ramps and..."
 categories:
   - "MMORPG"
@@ -18,6 +19,19 @@ tags:
   - "W101"
   - "Wizard101"
   - "Zeke the Prospector"
+relatedPosts:
+  - url: "/2009/03/13/wizard-101-st-pattys-day-and-new-crowns-items/"
+    title: "Wizard 101: St. Patty's day -- and new Crowns items!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-34-54-60.jpg"
+  - url: "/2008/10/29/wizard-101-crimson-fields-and-sunken-city-again/"
+    title: "Wizard 101: Crimson Fields and Sunken City (again)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-28-01-24-41-16.jpg"
+  - url: "/2008/09/17/wizard-101-slices-repeat-instance-xp/"
+    title: "Wizard 101 slices repeat instance XP"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/wizardgraphicalclient-2008-09-17-06-55-45-50.jpg"
+  - url: "/2008/10/27/wizard-101-hametsu-village/"
+    title: "Wizard 101: Hametsu Village"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-26-17-18-58-70.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-01-08-29-11-18.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-01-08-29-11-18.jpg"
 ---

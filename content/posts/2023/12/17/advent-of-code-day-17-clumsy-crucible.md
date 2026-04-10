@@ -3,6 +3,7 @@ date: '2023-12-17T16:50:55-05:00'
 draft: false
 title: "Advent of Code Day 17 -- Clumsy Crucible"
 author: "Tipa"
+disqusIdentifier: "2023/12/17/advent-of-code-day-17-clumsy-crucible"
 summary: "Edsger Dijkstra is laughing at me from his grave."
 categories:
   - "Advent of Code"
@@ -12,6 +13,19 @@ tags:
   - "Dijkstra"
   - "Elf"
   - "Lava"
+relatedPosts:
+  - url: "/2023/12/19/advent-of-code-day-18-lavaduct-lagoon/"
+    title: "Advent of Code Day 18 -- Lavaduct Lagoon"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-18-22.42.07-Illustration-for-an-Advent-of-Code-puzzle-with-a-16-10-aspect-ratio.-The-scene-shows-a-large-newly-constructed-lagoon-near-a-machine-parts-factory-on.png"
+  - url: "/2022/12/24/advent-of-code-day-24-blizzard-basin/"
+    title: "Advent of Code Day 24 -- Blizzard Basin"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-24-15.36.17-a-hundred-Christmas-elves-in-a-blizzard-by-Bob-Eggleton-detailed-and-intricate.png"
+  - url: "/2023/12/16/advent-of-code-day-16-the-floor-will-be-lava/"
+    title: "Advent of Code Day 16 -- The Floor Will Be Lava"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-16-10.31.52-A-reindeer-leading-the-way-into-the-depths-of-a-giant-cave-that-serves-as-a-Lava-Production-Facility.-The-caves-walls-doorways-and-floor-are-all-na.png"
+  - url: "/2022/02/17/7drl-building-an-engine-path-finding/"
+    title: "7DRL: Building an Engine -- Path Finding"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/02/screenshot-2.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-17-16.23.47-Illustration-for-an-Advent-of-Code-puzzle-with-a-16-10-aspect-ratio.-The-scene-is-a-birds-eye-view-of-Gear-Island-half-empty-and-half-a-bustling-fac.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-17-16.23.47-Illustration-for-an-Advent-of-Code-puzzle-with-a-16-10-aspect-ratio.-The-scene-is-a-birds-eye-view-of-Gear-Island-half-empty-and-half-a-bustling-fac.png"
 ---

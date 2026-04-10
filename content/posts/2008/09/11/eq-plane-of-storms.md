@@ -3,6 +3,7 @@ date: '2008-09-11T08:32:16-05:00'
 draft: false
 title: "EQ: Plane of Storms"
 author: "Tipa"
+disqusIdentifier: "2008/09/11/eq-plane-of-storms"
 summary: "Oy vey, this post is late! From our weekly group almost a week ago. It's just been a bad week, what with another trip to..."
 categories:
   - "EverQuest"
@@ -13,6 +14,19 @@ tags:
   - "Dagnor's Cauldron"
   - "Plane of Storms"
   - "Warsliks Woods"
+relatedPosts:
+  - url: "/2008/10/04/eq-nostalgia-enters-the-everlovin-plane-of-time/"
+    title: "EQ: Nostalgia enters the everlovin' PLANE of TIME."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/pot.jpg"
+  - url: "/2008/08/23/eq-hot-zone-hoedown/"
+    title: "EQ: Hot zone hoedown"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/eqgame-2008-08-22-22-02-52-46.jpg"
+  - url: "/2020/05/13/everquest-bones-everywhere/"
+    title: "EverQuest: Bones Everywhere."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/eqgame-2020-05-13-06-57-41-85.jpg"
+  - url: "/2009/06/16/welcome-to-mayong-everquests-5150-server/"
+    title: "Welcome to Mayong, EverQuest's 51/50 server"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/mayong.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/eqgame-2008-09-05-20-38-19-75.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/eqgame-2008-09-05-20-38-19-75.jpg"
 ---

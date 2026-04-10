@@ -3,6 +3,7 @@ date: '2020-04-29T02:47:36-05:00'
 draft: false
 title: "Octopath Traveler is Octo-Finished."
 author: "Tipa"
+disqusIdentifier: "2020/04/29/octopath-traveler-is-octo-finished"
 summary: "My Switch profile says I have been playing Octopath Traveler for about 135 hours. This is only approaching the time I spent playing Skyrim, which..."
 categories:
   - "Nintendo Switch"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Jrpg"
   - "Octopath Traveler"
+relatedPosts:
+  - url: "/2020/12/11/my-rpgs-of-2020/"
+    title: "My RPGs of 2020"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/Chocobos-Mystery-Dungeon-EVERY-BUDDY_20200506204657.jpg"
+  - url: "/2025/11/14/octopath-traveler-0-youre-the-octopath/"
+    title: "Octopath Traveler 0: You're the Octopath"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/octopath0.png"
+  - url: "/2023/08/03/not-taming-the-backlog/"
+    title: "(Not) Taming the Backlog"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/DALL·E-2023-08-02-23.10.21-A-dragon-wearing-glasses-surrounded-by-stacks-of-video-games.png"
+  - url: "/2020/06/02/octomini-project-day-3-the-250-mini/"
+    title: "Octomini Project Day 3: The $250 mini"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/1-IMG_1622.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/04/2020042821590400-93C1C73A3BAF9123A15B9B24886B634B-1024x576.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/04/2020042821590400-93C1C73A3BAF9123A15B9B24886B634B-1024x576.jpg"
 ---

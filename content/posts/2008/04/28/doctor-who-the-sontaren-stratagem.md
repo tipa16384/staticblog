@@ -3,9 +3,23 @@ date: '2008-04-28T21:04:47-05:00'
 draft: false
 title: "Doctor Who: The Sontaren Stratagem"
 author: "Tipa"
+disqusIdentifier: "2008/04/28/doctor-who-the-sontaren-stratagem"
 summary: "Ah, I think I found the problem......"
 categories:
   - "Doctor Who"
+relatedPosts:
+  - url: "/2008/06/30/slave-to-marketing/"
+    title: "Slave to marketing."
+    thumbnailImage: ""
+  - url: "/2008/04/06/doctor-who-partners-in-crime/"
+    title: "Doctor Who: Partners in Crime"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/04/drwho.jpg"
+  - url: "/2007/01/05/when-we-return-televisions-finest-part-1/"
+    title: "When We Return: Television's Finest (Part 1)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/01/avatar.jpg"
+  - url: "/2006/06/07/the-episode-of-the-beast/"
+    title: "The Episode of the Beast"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/images/hell1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/04/atmos.gif"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/04/atmos.gif"
 ---

@@ -3,6 +3,7 @@ date: '2023-08-01T07:00:00-05:00'
 draft: false
 title: "This Day In Blogging: August 1, 2006"
 author: "Tipa"
+disqusIdentifier: "2023/08/01/this-day-in-blogging-august-1-2006"
 summary: "I've been blogging for 25 years. Here's the things I was blogging about on the first day of August in 1998-ish, 2006, 2008, 2012, and 2020. Enjoy!"
 categories:
   - "Blaugust"
@@ -11,6 +12,19 @@ categories:
 tags:
   - "Microsoft Flight Simulator"
   - "Povray"
+relatedPosts:
+  - url: "/2021/08/24/stalking-my-sister/"
+    title: "Stalking My Sister"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210824215934_1.jpg"
+  - url: "/2007/11/04/final-weighted-companion-cube-model/"
+    title: "Final Weighted Companion Cube model"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/11/wccscene1.jpg"
+  - url: "/2020/08/30/microsoft-flight-simulator-taxiing-up-my-driveway/"
+    title: "Microsoft Flight Simulator: Taxiing up my driveway"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/20200830170238_1.jpg"
+  - url: "/2021/08/07/mmos-on-the-bubble/"
+    title: "MMOs on the Bubble"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/STP61286.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/07/dawnfull.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/07/dawnfull.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2008-10-19T23:32:08-05:00'
 draft: false
 title: "W101: The long journey to Moo Shu"
 author: "Tipa"
+disqusIdentifier: "2008/10/19/w101-the-long-journey-to-moo-shu"
 summary: "It took the better part of two days and the help of a handful of friends, but I finally finished the story line missions in..."
 categories:
   - "MMORPG"
@@ -22,6 +23,19 @@ tags:
   - "The Friendly Necromancer"
   - "W101"
   - "Wizard101"
+relatedPosts:
+  - url: "/2008/10/27/wizard-101-hametsu-village/"
+    title: "Wizard 101: Hametsu Village"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-26-17-18-58-70.jpg"
+  - url: "/2008/10/16/w101-the-ironworks/"
+    title: "W101: The Ironworks"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-16-00-18-31-94.jpg"
+  - url: "/2008/11/01/wizard-101-october-30-update-and-the-cave-of-sorrows/"
+    title: "Wizard 101: October 30 update and the Cave of Sorrows"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-01-08-29-11-18.jpg"
+  - url: "/2008/10/29/wizard-101-crimson-fields-and-sunken-city-again/"
+    title: "Wizard 101: Crimson Fields and Sunken City (again)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-28-01-24-41-16.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-16-00-22-19-93.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-16-00-22-19-93.jpg"
 ---

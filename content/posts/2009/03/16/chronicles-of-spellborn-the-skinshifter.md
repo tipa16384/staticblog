@@ -3,6 +3,7 @@ date: '2009-03-16T07:35:02-05:00'
 draft: false
 title: "Chronicles of Spellborn -- the Skinshifter"
 author: "Tipa"
+disqusIdentifier: "2009/03/16/chronicles-of-spellborn-the-skinshifter"
 summary: "This isn't going to be a new player's preview to the Chronicles of Spellborn -- you can find links to that sort of information after..."
 categories:
   - "Chronicles of Spellborn"
@@ -12,6 +13,19 @@ tags:
   - "Closed Beta"
   - "Rogue"
   - "Skinshifter"
+relatedPosts:
+  - url: "/2009/03/20/spellborn-on-the-cheap-new-armors-dev-chat/"
+    title: "Spellborn on the cheap, new armors, dev chat"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/armor1.jpg"
+  - url: "/2009/03/06/acclaim-spellborn-client-available-for-download/"
+    title: "Acclaim Spellborn client available for download"
+    thumbnailImage: ""
+  - url: "/2010/08/19/chronicles-of-spellborn-anatomy-of-a-failure/"
+    title: "Chronicles of Spellborn: Anatomy of a Failure"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/sb_client-2010-08-18-19-49-21-19-480x270.jpg"
+  - url: "/2009/04/24/acclaim-bonus-coin-weekend-april-24-26/"
+    title: "Acclaim Bonus Coin Weekend April 24-26"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/sb_client-2009-03-14-13-56-36-85.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/sb_client-2009-03-14-13-56-36-85.jpg"
 ---

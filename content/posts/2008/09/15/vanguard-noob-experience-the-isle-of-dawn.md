@@ -3,6 +3,7 @@ date: '2008-09-15T08:29:50-05:00'
 draft: false
 title: "Vanguard noob experience: The Isle of Dawn"
 author: "Tipa"
+disqusIdentifier: "2008/09/15/vanguard-noob-experience-the-isle-of-dawn"
 summary: "I've played Vanguard before -- but only up to 18. I still consider myself a Vanguad \"noobie\". I felt more like a noob than ever..."
 categories:
   - "MMORPG"
@@ -11,6 +12,19 @@ tags:
   - "Isle of Dawn"
   - "Newbie Island"
   - "Temple of the Ancients"
+relatedPosts:
+  - url: "/2021/08/07/mmos-on-the-bubble/"
+    title: "MMOs on the Bubble"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/STP61286.jpg"
+  - url: "/2020/08/18/does-crafting-have-any-place-in-modern-mmos/"
+    title: "Does Crafting have any place in modern MMOs?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-EverQuest2-2020-08-18-18-11-08-10.jpg"
+  - url: "/2011/05/12/semi-annual-blogroll-sheep-may-safely-graze-edition/"
+    title: "Semi-Annual Blogroll: Sheep may safely graze edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/05/sheep2.png"
+  - url: "/2010/11/30/daily-blogroll-1130-worst-case-scenario-edition/"
+    title: "Daily Blogroll, 11/30 -- Worst Case Scenario edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/vgclient-2010-11-29-20-32-30-42.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/vgclient-2008-09-14-22-22-05-43.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/vgclient-2008-09-14-22-22-05-43.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2009-08-13T08:00:24-05:00'
 draft: false
 title: "Daily Blogroll 8/13: Gyrating Goo edition"
 author: "Tipa"
+disqusIdentifier: "2009/08/13/daily-blogroll-813-gyrating-goo-edition"
 summary: "I THINK this screen shot came while we were raiding the City of Mist for Jalanea's shaman epic. Remember when guilds used to raid the..."
 categories:
   - "Aion"
@@ -13,6 +14,19 @@ categories:
   - "EverQuest"
   - "MMORPG"
   - "Wizard101"
+relatedPosts:
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/09/17/daily-blogroll-917-kanye-edition/"
+    title: "Daily Blogroll 9/17 - Kanye edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/kanye.jpg"
+  - url: "/2009/08/10/daily-blogroll-810-thank-god-its-monday-edition/"
+    title: "Daily Blogroll 8/10 -- Thank God it's Monday edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/daddygirl.jpg"
+  - url: "/2009/06/24/daily-blogroll-624-i-love-allergies-edition/"
+    title: "Daily Blogroll 6/24 -- I Love Allergies edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/aion-2009-06-21-16-27-52-78.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/181914a4c5ed9798708c0fb8240c540a.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/181914a4c5ed9798708c0fb8240c540a.jpg"
 ---

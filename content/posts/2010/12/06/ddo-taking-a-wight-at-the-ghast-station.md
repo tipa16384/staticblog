@@ -3,6 +3,7 @@ date: '2010-12-06T20:20:59-05:00'
 draft: false
 title: "DDO: Taking a Wight at the Ghast Station"
 author: "Tipa"
+disqusIdentifier: "2010/12/06/ddo-taking-a-wight-at-the-ghast-station"
 summary: "Shy, a hireling cleric, and I watch the pretty burning ship while Spode flees the scene..."
 categories:
   - "Dungeons & Dragons Online"
@@ -14,6 +15,19 @@ tags:
   - "Irestone Inlet"
   - "Mirra's Sleepless Nights"
   - "Spode"
+relatedPosts:
+  - url: "/2010/12/13/ddo-getting-the-wight-out/"
+    title: "DDO: Getting the Wight Out"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/dndclient-2010-12-12-23-23-11-03-480x300.jpg"
+  - url: "/2010/11/08/dungeons-dragons-online-endless-trials/"
+    title: "Dungeons & Dragons Online: Endless Trials"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/dndclient-2010-11-08-21-15-15-11-480x384.jpg"
+  - url: "/2010/10/11/ddo-weekly-recap-tangleroot-gorge/"
+    title: "DDO Weekly Recap: Tangleroot Gorge"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/dndclient-2010-10-11-00-07-07-80.jpg"
+  - url: "/2010/12/21/ddo-the-wight-at-the-end-of-the-tunnel/"
+    title: "DDO: The Wight at the End of the Tunnel"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/dndclient-2010-12-19-22-54-51-00-480x383.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/dndclient-2010-12-05-00-36-35-01-480x384.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/dndclient-2010-12-05-00-36-35-01-480x384.jpg"
 ---

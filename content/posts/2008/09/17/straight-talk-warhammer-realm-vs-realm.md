@@ -3,6 +3,7 @@ date: '2008-09-17T08:00:54-05:00'
 draft: false
 title: "Straight Talk Warhammer: Realm vs Realm"
 author: "Tipa"
+disqusIdentifier: "2008/09/17/straight-talk-warhammer-realm-vs-realm"
 summary: "Hey, welcome back to the second in our exclusive series about the exciting innovative gameplay of Mythic's Warhammer Online: Age of Reckoning...."
 categories:
   - "Dark Ages of Camelot"
@@ -14,6 +15,19 @@ categories:
   - "World of Warcraft"
 tags:
   - "Not Funny"
+relatedPosts:
+  - url: "/2008/09/16/straight-talk-warhammer-the-white-lion-profession/"
+    title: "Straight Talk Warhammer: The White Lion profession."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/eqgame-2008-09-16-00-45-54-28.jpg"
+  - url: "/2008/09/23/straight-talk-warhammer-the-warrior-priest/"
+    title: "Straight Talk Warhammer: The Warrior Priest"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/galahad.gif"
+  - url: "/2008/09/22/straight-talk-warhammer-the-bright-wizard/"
+    title: "Straight Talk Warhammer: The Bright Wizard"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/daffy.jpg"
+  - url: "/2008/09/18/straight-talk-warhammer-the-inevitable-city/"
+    title: "Straight Talk Warhammer: The Inevitable City"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/cronouscity.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/warcraftbattle.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/warcraftbattle.jpg"
 ---

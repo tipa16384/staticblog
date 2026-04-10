@@ -3,6 +3,7 @@ date: '2025-10-19T12:28:38-05:00'
 draft: false
 title: "Final Fantasy Tactics: The Ivalice Chronicles, a retrospective"
 author: "Tipa"
+disqusIdentifier: "2025/10/19/final-fantasy-tactics-the-ivalice-chronicles-a-retrospective"
 summary: "Thoughts on beating the game for the fifth time across all its versions, from the original PlayStation, to the PSP, and now the modern remake."
 categories:
   - "Final Fantasy"
@@ -10,6 +11,19 @@ categories:
   - "Tactical RPG"
 tags:
   - "Final Fantasy Tactics"
+relatedPosts:
+  - url: "/2024/03/23/unicorn-overlord-whose-overlord-is-it-anyway/"
+    title: "Unicorn Overlord -- Whose Overlord Is It, Anyway?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/Unicorn-Overlord_20240322181915.jpg"
+  - url: "/2025/10/06/the-zen-of-final-fantasy-tactics/"
+    title: "The Zen of Final Fantasy Tactics"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles_20251005165514-scaled.jpg"
+  - url: "/2022/11/21/dive-into-the-world-of-tactics-ogre-with-this-remake-of-a-classic/"
+    title: "Dive into the world of Tactics Ogre with this remake of a classic"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/11/1-Tactics-Ogre_-Reborn_20221121083341-scaled.jpg"
+  - url: "/2023/11/10/knight-of-lodis-entering-the-crypt/"
+    title: "Knight of Lodis: Entering the Crypt"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/20231110_002228.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles_20251018225944-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles_20251018225944-scaled.jpg"
 ---

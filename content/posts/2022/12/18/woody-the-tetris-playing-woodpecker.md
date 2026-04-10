@@ -3,6 +3,7 @@ date: '2022-12-18T08:00:00-05:00'
 draft: false
 title: "Woody, the Tetris-playing Woodpecker"
 author: "Tipa"
+disqusIdentifier: "2022/12/18/woody-the-tetris-playing-woodpecker"
 summary: "True story of how a Tetris-playing bird made humanity examine its role in the universe. Plus: an exclusive interview with Woody about his marriage to a human woman!"
 categories:
   - "Humor"
@@ -11,6 +12,19 @@ tags:
   - "Planet of the Corvids"
   - "Red Bellied Woodpecker"
   - "Tetris"
+relatedPosts:
+  - url: "/2022/12/17/advent-of-code-day-17-pyroclastic-flow/"
+    title: "Advent of Code Day 17 -- Pyroclastic Flow"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-17-22.26.37-An-elephant-wearing-a-Christmas-stocking-cap-looking-at-a-giant-statue-of-a-Tetris-game-in-a-cave-lit-with-lava-by-Bob-Eggleton-detailed-and-intrica.png"
+  - url: "/2022/10/24/ways-that-the-discovery-of-human-telepathy-is-changing-how-game-shows-work/"
+    title: "Ways that the discovery of human telepathy is changing how game shows work"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/10/DALL·E-2022-10-24-11.01.32-On-set-well-lit-photograph-of-a-game-show-host-holding-an-index-card-with-a-worried-expression-on-his-face.-In-the-background-is-the-game-show-set.-Sl.png"
+  - url: "/2022/09/26/star-ocean-the-divine-force-the-demo-the-review-but-what-if-it-was-written-like-dear-abby/"
+    title: "Star Ocean: The Divine Force: The Demo: The Review, but what if it was written like Dear Abby?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-26-16.46.54-Old-time-newspaper-illustration-of-a-1950s-housewife-writing-a-letter-on-the-kitchen-table-with-pen-and-paper.-the-housewife-is-crying..png"
+  - url: "/2022/08/08/8-bit-love-the-princess-and-the-plumber/"
+    title: "8 Bit Love - The Princess and the Plumber"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-08-19.33.03-Zelda-and-Link-fighting-with-swords-as-high-resolution-digital-art.-they-are-spotlighted-and-they-are-on-a-stage..png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-17-23.25.01-35mm-photograph-of-a-red-bellied-woodpecker-playing-Tetris-in-an-arcade-using-its-beak-to-press-the-buttons.-Spectators-are-cheering-it-on.-Lit-only-b.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-17-23.25.01-35mm-photograph-of-a-red-bellied-woodpecker-playing-Tetris-in-an-arcade-using-its-beak-to-press-the-buttons.-Spectators-are-cheering-it-on.-Lit-only-b.png"
 ---

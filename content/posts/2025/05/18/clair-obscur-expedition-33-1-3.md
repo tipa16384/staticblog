@@ -3,6 +3,7 @@ date: '2025-05-18T10:00:00-05:00'
 draft: false
 title: "Clair Obscur: Expedition 33 1/3"
 author: "Tipa"
+disqusIdentifier: "2025/05/18/clair-obscur-expedition-33-1-3"
 summary: "Clair Obscure: great gameplay, characters and milieu, but its third act seems in a hurry to get off the stage."
 categories:
   - "PS5"
@@ -12,6 +13,19 @@ tags:
   - "Clair Obscur"
   - "Expedition 33"
   - "Sandfall Interactive"
+relatedPosts:
+  - url: "/2024/07/06/the-white-raven-a-cinematic-tactical-rpg/"
+    title: "The White Raven: A Cinematic Tactical RPG"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/07/whiteraventitle.png"
+  - url: "/2025/01/21/fantasian-neo-dimension-part-1/"
+    title: "FANTASIAN Neo Dimension (Part 1)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/FANTASIAN-Neo-Dimension_20250105160053-scaled.jpg"
+  - url: "/2024/04/01/dragons-dogma-2-battahl-bound/"
+    title: "Dragon's Dogma 2: Battahl Bound"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/Dragons-Dogma-2_20240401072306-scaled.jpg"
+  - url: "/2023/09/21/baldurs-gate-3-embracing-evil/"
+    title: "Baldur's Gate 3: Embracing Evil"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/astarion.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/1-Clair-Obscur_-Expedition-33_20250517165411-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/1-Clair-Obscur_-Expedition-33_20250517165411-scaled.jpg"
 ---

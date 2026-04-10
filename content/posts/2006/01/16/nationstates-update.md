@@ -3,10 +3,24 @@ date: '2006-01-16T00:00:00-05:00'
 draft: false
 title: "Nationstates Update"
 author: "Tipa"
+disqusIdentifier: "2006/01/16/nationstates-update"
 summary: "My economy was crumbling, people were unhappy: I had to make deals with big business. My utopian vision of a Dryroot where free peoples sustain..."
 categories:
   - "MMORPG"
   - "Nationstates"
+relatedPosts:
+  - url: "/2006/04/12/nationstates-progress/"
+    title: "NationStates progress"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/images/dryroot.png"
+  - url: "/2006/02/09/various-games/"
+    title: "Various Games"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/images/dryroot.jpg"
+  - url: "/2006/01/19/dryroot-joins-the-ddr/"
+    title: "Dryroot Joins the DDR"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/images/dryroot.jpg"
+  - url: "/2006/01/17/dryroot/"
+    title: "Dryroot"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/images/dryroot.jpg"
 ---
 My economy was crumbling, people were unhappy: I had to make deals with big business. My utopian vision of a Dryroot where free peoples sustain...
 <!--more-->

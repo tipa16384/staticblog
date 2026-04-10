@@ -3,6 +3,7 @@ date: '2009-12-21T01:05:41-05:00'
 draft: false
 title: "Weekend Gaming: WoW, AoC, EVE, W101 et al"
 author: "Tipa"
+disqusIdentifier: "2009/12/21/weekend-gaming-wow-aoc-eve-w101-et-al"
 summary: "I just love this picture, I don't know why! I think it might be the best picture I've ever taken in the World of Warcraft...."
 categories:
   - "Age of Conan"
@@ -10,6 +11,19 @@ categories:
   - "MMORPG"
   - "Wizard101"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/07/13/daily-blogroll-713-monday-is-funday-edition/"
+    title: "Daily Blogroll 7/13 -- Monday is Funday edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/blacksmithdarwin.jpg"
+  - url: "/2009/05/29/daily-blogroll-529-reasons-to-be-cheerful-pt-iii/"
+    title: "Daily Blogroll 5/29 -- Reasons to be Cheerful, Pt III"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/everquest2-2009-05-17-07-38-31-44.jpg"
+  - url: "/2009/03/05/will-2009-be-the-best-year-ever-for-mmos/"
+    title: "Will 2009 be the best year ever for MMOs?"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/12/WoW-2009-12-20-13-22-36-37.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/12/WoW-2009-12-20-13-22-36-37.jpg"
 ---

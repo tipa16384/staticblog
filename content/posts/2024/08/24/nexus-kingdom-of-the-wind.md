@@ -3,6 +3,7 @@ date: '2024-08-24T18:16:18-05:00'
 draft: false
 title: "Nexus: Kingdom of the Wind"
 author: "Tipa"
+disqusIdentifier: "2024/08/24/nexus-kingdom-of-the-wind"
 summary: "Most people have never heard of NexusTK. Some people maybe heard of it long ago. It's different for me. Nexus: Kingdom of the Wind was my only MMO before EverQuest rewrote the MMO rulebook."
 categories:
   - "Blaugust"
@@ -12,6 +13,19 @@ tags:
   - "2D"
   - "Nexus the Kingdom of the Winds"
   - "Nexustk"
+relatedPosts:
+  - url: "/2025/01/04/best-of-2024-my-favorite-mmos/"
+    title: "Best of 2024: My Favorite MMOs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/mmosbanner.png"
+  - url: "/2022/03/28/salt-sanctuary-when-watching-elden-ring-isnt-enough/"
+    title: "Salt & Sanctuary: When Watching Elden Ring Isn't Enough"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/Salt-and-Sanctuary_20220328070627-scaled.jpg"
+  - url: "/2024/08/28/erenshor-everquest-for-soloers/"
+    title: "Erenshor -- EverQuest for soloers"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/erenshotheader.jpg"
+  - url: "/2024/08/19/weekend-gaming-ship-of-heroes-persona-5-tactica-giants-citizen-kabuto/"
+    title: "Weekend Gaming: Ship of Heroes, Persona 5 Tactica, Giants Citizen Kabuto"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/1-20240819074418_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/nexus-afk.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/nexus-afk.png"
 ---

@@ -3,6 +3,7 @@ date: '2026-01-24T10:26:41-05:00'
 draft: false
 title: "Dominus Automa: An Idle MMO for Busy Dads"
 author: "Tipa"
+disqusIdentifier: "2026/01/24/dominus-automa-an-idle-mmo-for-busy-dads"
 summary: "Someday it'll be an offline MMO for those with busy lives who want to text sweet nothings to their player character. Someday."
 categories:
   - "MMORPG"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Dominus Automa"
   - "ZPG"
+relatedPosts:
+  - url: "/2026/02/06/i-know-what-i-did-last-weekend-7/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/1-20260205205317_1.jpg"
+  - url: "/2020/05/11/godville-is-ten-years-old/"
+    title: "Godville is ten years old!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/godville.png"
+  - url: "/2026/01/21/erenshor-v0-3-rising-shadows/"
+    title: 'Erenshor v0.3: "Rising Shadows"'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/20260120210322_1.jpg"
+  - url: "/2025/02/11/erenshor-oh-by-the-way-which-one-is-bink/"
+    title: "Erenshor: Oh, by the way, which one is Bink?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/02/1-20250210223651_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/dominusautoma.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/dominusautoma.png"
 ---

@@ -3,12 +3,26 @@ date: '2008-08-16T04:05:45-05:00'
 draft: false
 title: "Lost in the Shadow of Destruction... or something."
 author: "Tipa"
+disqusIdentifier: "2008/08/16/lost-in-the-shadow-of-destruction-or-something"
 summary: "Long,LONG day. Son wakes up with an ear infection. Go to work. Do some work. Find doctor. Take son to doctor's.Wait forever. Doc says, hey,..."
 categories:
   - "EverQuest"
   - "MMORPG"
 tags:
   - "Fan Faire"
+relatedPosts:
+  - url: "/2008/08/16/eq2-new-clothes-for-old-tailors/"
+    title: "EQ2: New clothes for old tailors"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/stp61365-1.jpg"
+  - url: "/2008/08/16/more-on-the-fan-faire/"
+    title: "More on the Fan Faire"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/image66-1.jpg"
+  - url: "/2008/08/16/first-expansion-reactions/"
+    title: "First expansion reactions"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/befallen.jpg"
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/image27-1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/image27-1.jpg"
 ---

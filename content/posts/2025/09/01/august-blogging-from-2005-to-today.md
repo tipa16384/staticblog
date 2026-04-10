@@ -3,10 +3,24 @@ date: '2025-09-01T13:04:43-05:00'
 draft: false
 title: "August Blogging from 2005 to today"
 author: "Tipa"
+disqusIdentifier: "2025/09/01/august-blogging-from-2005-to-today"
 summary: "It's been hours since Blaugust officially ended; is it too late to do a retrospective? How about for every August from the blog's start in 2005?"
 categories:
   - "Blaugust"
   - "Blaugust 2025"
+relatedPosts:
+  - url: "/2025/08/31/the-vectrex-is-coming-back-in-pog-form/"
+    title: "The Vectrex is coming back... in pog form!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/vectrexmini.png"
+  - url: "/2025/08/30/dune-awakening-we-finally-got-ganked/"
+    title: "Dune Awakening: We finally got ganked"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/20250830103401_1.jpg"
+  - url: "/2025/08/29/i-guess-i-suck-at-this-whole-blaugust-thing/"
+    title: "I guess I suck at this whole Blaugust thing"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/arcaniststage.png"
+  - url: "/2025/08/26/frosthaven-scenario-10-crystal-enclosure/"
+    title: "Frosthaven Scenario #10: Crystal Enclosure"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5344-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/raspy-blogging.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/raspy-blogging.png"
 ---

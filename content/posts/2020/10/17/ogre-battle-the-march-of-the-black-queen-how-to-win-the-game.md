@@ -3,6 +3,7 @@ date: '2020-10-17T20:40:19-05:00'
 draft: false
 title: "Ogre Battle: The March of the Black Queen: How to Win the Game."
 author: "Tipa"
+disqusIdentifier: "2020/10/17/ogre-battle-the-march-of-the-black-queen-how-to-win-the-game"
 summary: "I haven't really been blogging, streaming or even talking about my progress in Ogre Battle lately. I've been mostly just working my way through the..."
 categories:
   - "Super Nintendo"
@@ -13,6 +14,19 @@ tags:
   - "Snes"
   - "Tactics"
   - "The March of the Black Queen"
+relatedPosts:
+  - url: "/2020/10/14/ogre-battle-alignment-and-charisma/"
+    title: "Ogre Battle: Alignment and Charisma"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-068.png"
+  - url: "/2020/10/07/tactics-ogre-and-ogre-battle-let-us-get-sirius/"
+    title: "Tactics Ogre and Ogre Battle: Let Us Get Sirius"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/sirius.png"
+  - url: "/2020/10/05/ogre-battle-the-march-of-the-black-queen-night-1/"
+    title: 'Ogre Battle "The March of the Black Queen" -- Night 1'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/blackqueen.png"
+  - url: "/2020/10/12/ogre-battle-the-tastiest-mermaids-are-the-ones-you-catch-yourself/"
+    title: "Ogre Battle: The Tastiest Mermaids are the Ones You Catch Yourself"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-010.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-138.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-138.png"
 ---

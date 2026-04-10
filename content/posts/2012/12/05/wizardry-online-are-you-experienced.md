@@ -3,10 +3,24 @@ date: '2012-12-05T23:25:34-05:00'
 draft: false
 title: "Wizardry Online: Are You Experienced?"
 author: "Tipa"
+disqusIdentifier: "2012/12/05/wizardry-online-are-you-experienced"
 summary: "Gamepot's Wizardry Online (published in North America by Sony Online Entertainment) wants you to know that it is a hardcore MMO. With permadeath. If you..."
 categories:
   - "MMORPG"
   - "Wizardry Online"
+relatedPosts:
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2026/03/11/dune-awakening-finished-chapter-3/"
+    title: "Dune Awakening: Finished Chapter 3"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-11-073510.png"
+  - url: "/2026/02/04/erenshor-rising-shadows-launched/"
+    title: 'Erenshor "Rising Shadows" launched!'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/20260204080313_1.jpg"
+  - url: "/2026/01/24/dominus-automa-an-idle-mmo-for-busy-dads/"
+    title: "Dominus Automa: An Idle MMO for Busy Dads"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/dominusautoma.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/12/WizardryOnline-2012-12-05-21-37-38-31-480x300.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/12/WizardryOnline-2012-12-05-21-37-38-31-480x300.jpg"
 ---

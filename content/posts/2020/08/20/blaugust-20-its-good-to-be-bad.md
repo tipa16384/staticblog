@@ -3,6 +3,7 @@ date: '2020-08-20T08:08:29-05:00'
 draft: false
 title: "Blaugust #20: It's Good to be Bad"
 author: "Tipa"
+disqusIdentifier: "2020/08/20/blaugust-20-its-good-to-be-bad"
 summary: "It is known that the best bad guys are mirror reflections of the good guys. Batman and the Joker. Superman and Darkseid. Wonder Woman and..."
 categories:
   - "Blaugust"
@@ -13,6 +14,19 @@ tags:
   - "Death Stranding"
   - "Ghost of Tsushima"
   - "Red Dead Redemption"
+relatedPosts:
+  - url: "/2020/09/02/random-bits-of-real-life-1/"
+    title: "Random Bits of Real Life #1"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/1-IMG_1859.jpg"
+  - url: "/2020/07/01/game-log-for-june/"
+    title: "Game Log for June"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/07/Chocobo’s-Mystery-Dungeon-EVERY-BUDDY_20200630210621.jpg"
+  - url: "/2020/12/11/my-rpgs-of-2020/"
+    title: "My RPGs of 2020"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/Chocobos-Mystery-Dungeon-EVERY-BUDDY_20200506204657.jpg"
+  - url: "/2020/07/27/ghost-of-tsushima-act-iii-complete-spoilers/"
+    title: "Ghost of Tsushima: Act III complete. (Spoilers!)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/07/Ghost-of-Tsushima_20200726212441.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-Ghost-of-Tsushima_20200726211225.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-Ghost-of-Tsushima_20200726211225.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2025-04-14T13:23:48-05:00'
 draft: false
 title: "I Know What I Did Last Weekend (April edition)"
 author: "Tipa"
+disqusIdentifier: "2025/04/14/i-know-what-i-did-last-weekend-april-edition"
 summary: "Blue Prince, Monster Hunter Wilds, Sword for Hire news, some new boardgames, something new coming for Malifaux, and probably more..."
 categories:
   - "Beyond Shadowgate"
@@ -14,6 +15,19 @@ tags:
   - "Cryptmaster"
   - "One Hit Heroes"
   - "Sword for Hire"
+relatedPosts:
+  - url: "/2024/04/18/confessions-of-a-kickstarter-superbacker/"
+    title: "Confessions of a Kickstarter Superbacker"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/superbacker.png"
+  - url: "/2025/04/28/malifaux-preparing-for-4th-edition/"
+    title: "Malifaux: Preparing for 4th Edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/04/IMG_5075-scaled.jpg"
+  - url: "/2025/03/21/game-night-bardwood-grove/"
+    title: "Game Night: Bardwood Grove"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/bwgrove.jpg"
+  - url: "/2025/03/03/tunnels-trolls-sword-for-hire/"
+    title: "Tunnels &amp; Trolls: Sword for Hire"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/ttbanner.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/04/Blue-Prince_20250414075008-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/04/Blue-Prince_20250414075008-scaled.jpg"
 ---

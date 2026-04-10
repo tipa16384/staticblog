@@ -3,6 +3,7 @@ date: '2009-07-08T08:09:39-05:00'
 draft: false
 title: "Daily Blogroll 7/8"
 author: "Tipa"
+disqusIdentifier: "2009/07/08/daily-blogroll-78"
 summary: "I love the feeling of peace and serenity EVE Online gives. And then sometimes weird, exciting stuff happens. A corps-mate and I were testing weapons..."
 categories:
   - "Aion"
@@ -12,6 +13,19 @@ categories:
   - "Free Realms"
   - "MMORPG"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2009/07/20/daily-blogroll-720/"
+    title: "Daily Blogroll 7/20 - Much Ado about Nothing edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/LaTaleClient-2009-07-18-15-50-33-45.jpg"
+  - url: "/2009/06/08/nightly-blogroll-though-amaryllis-dance-edition/"
+    title: "Nightly Blogroll -- Though Amaryllis dance edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/neosteambanner.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/09/09/daily-blogroll-9909-galaxy-express-edition/"
+    title: "Daily Blogroll 9/9/09 - Galaxy Express edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/hko-2009-09-08-21-52-33-20.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/ExeFile-2009-07-08-07-40-15-58.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/ExeFile-2009-07-08-07-40-15-58.jpg"
 ---

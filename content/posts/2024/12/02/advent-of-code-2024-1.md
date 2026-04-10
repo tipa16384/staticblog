@@ -3,6 +3,7 @@ date: '2024-12-02T07:00:00-05:00'
 draft: false
 title: "Advent of Code 2024.1:"
 author: "Tipa"
+disqusIdentifier: "2024/12/02/advent-of-code-2024-1"
 summary: "Where is that darned elvish historian?"
 categories:
   - "Advent of Code"
@@ -12,6 +13,19 @@ tags:
   - "Elves"
   - "Python"
   - "Sort"
+relatedPosts:
+  - url: "/2022/12/04/advent-of-code-day-4-camp-cleanup/"
+    title: "Advent of Code Day 4 -- Camp Cleanup"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-04-18.27.11-Several-Christmas-elves-doing-chores-around-a-campsite-in-the-jungle-painted-by-Bob-Eggleton-detailed-and-intricate.png"
+  - url: "/2025/01/25/ai-is-going-to-steal-my-job-and-i-couldnt-be-happier/"
+    title: "AI is going to steal my job -- and I couldn't be happier"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/minitray.png"
+  - url: "/2009/04/18/web-log-418/"
+    title: "Web Log 4/18"
+    thumbnailImage: ""
+  - url: "/2024/12/07/advent-of-code-2024-the-first-week/"
+    title: "Advent of Code 2024: The First Week"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/DALL·E-2024-12-07-11.54.46-A-Tolkien-inspired-scene-depicting-graceful-elves-in-a-Tolkien-inspired-setting-repairing-a-rope-bridge-over-a-serene-river-surrounded-by-lush-vibra.webp"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/DALL·E-2024-12-01-15.45.53-A-serene-scene-of-Tolkien-style-elves-sorting-numbers-written-on-thin-ivory-slabs-and-placing-them-into-a-wall-hanging-reminiscent-of-hymn-boards-in-a.webp"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/DALL·E-2024-12-01-15.45.53-A-serene-scene-of-Tolkien-style-elves-sorting-numbers-written-on-thin-ivory-slabs-and-placing-them-into-a-wall-hanging-reminiscent-of-hymn-boards-in-a.webp"
 ---

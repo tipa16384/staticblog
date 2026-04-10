@@ -3,10 +3,24 @@ date: '2011-12-18T22:00:17-05:00'
 draft: false
 title: "Star Trek Farmville: Duty Officers and Cow Clicking!"
 author: "Tipa"
+disqusIdentifier: "2011/12/18/star-trek-farmville-duty-officers-and-cow-clicking"
 summary: "I want to say right at the start that I am back playing Star Trek Online, and it was the new duty officer system that..."
 categories:
   - "MMORPG"
   - "Star Trek"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2021/08/07/mmos-on-the-bubble/"
+    title: "MMOs on the Bubble"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/STP61286.jpg"
+  - url: "/2015/01/21/its-a-wonderful-world-we-live-in-where-we-can-have-a-videogame-show-people-at-a-conference-table-and/"
+    title: "STO: So what IS up with Seven's outfit?"
+    thumbnailImage: "https://lh5.googleusercontent.com/-x_3CTf8XGQQ/VL-k4hqvRnI/AAAAAAAA_HU/BYQoFrOHSRk/w506-h750/GameClient%2B2015-01-20%2B23-20-41-18.jpg"
+  - url: "/2015/01/04/played-party-crashers-st-huy4y2d5q-by-winin-first-star-trek-online-foundry-ive-played-in-years/"
+    title: 'Star Trek Online: "Party Crashers"'
+    thumbnailImage: "https://lh4.googleusercontent.com/-PQIrr6AqiIo/VKl2OTu8-DI/AAAAAAAA-J8/6okCJs_Fi3w/w506-h750/GameClient%2B2015-01-04%2B10-50-58-60.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/12/GameClient-2011-12-17-10-23-06-34-480x326.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/12/GameClient-2011-12-17-10-23-06-34-480x326.jpg"
 ---

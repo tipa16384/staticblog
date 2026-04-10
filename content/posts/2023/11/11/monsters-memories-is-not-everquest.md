@@ -3,12 +3,26 @@ date: '2023-11-11T20:20:05-05:00'
 draft: false
 title: "Monsters & Memories is not EverQuest"
 author: "Tipa"
+disqusIdentifier: "2023/11/11/monsters-memories-is-not-everquest"
 summary: "...except in all the ways it IS EverQuest, of course."
 categories:
   - "EverQuest"
   - "Monsters & Memories"
 tags:
   - "Stress Test"
+relatedPosts:
+  - url: "/2023/12/21/pantheon-rise-of-the-fallen-alpha-peek/"
+    title: "Pantheon: Rise of the Fallen (alpha peek)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-20-23.38.37-Create-an-illustration-that-resembles-a-crayon-drawing-of-a-scene-in-a-meadow-near-a-tall-cliff-illuminated-by-the-morning-sun.-In-the-meadow-a-woma.png"
+  - url: "/2023/12/09/monsters-memories-wish-you-were-here/"
+    title: "Monsters & Memories: Wish you were here?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/mandmwishyouwerehere.webp"
+  - url: "/2025/01/04/best-of-2024-my-favorite-mmos/"
+    title: "Best of 2024: My Favorite MMOs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/mmosbanner.png"
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/mnmisnoteq.webp"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/mnmisnoteq.webp"
 ---

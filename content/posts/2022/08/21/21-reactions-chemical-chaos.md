@@ -3,6 +3,7 @@ date: '2022-08-21T07:00:00-05:00'
 draft: false
 title: "21 Reactions: Chemical Chaos"
 author: "Tipa"
+disqusIdentifier: "2022/08/21/21-reactions-chemical-chaos"
 summary: "I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day..."
 categories:
   - "Blaugust"
@@ -14,6 +15,19 @@ tags:
   - "Dall-E 2"
   - "Gpt-3"
   - "Wombats"
+relatedPosts:
+  - url: "/2022/08/23/23-fathoms-a-cold-war-era-submarine-simulator/"
+    title: "23 Fathoms: A Cold War Era Submarine Simulator"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/smallsub.png"
+  - url: "/2022/08/22/the-22nd-letter-a-game-of-mystery-and-scrabble/"
+    title: '"The 22nd Letter": A Game of Mystery and Scrabble'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/22ndletter.png"
+  - url: "/2022/08/30/blaugust-theme-week-lessons-learned/"
+    title: "Blaugust theme week: Lessons learned"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-30-23.00.58-35mm-long-range-photograph-of-a-woman-warrior-reading-a-book-while-sitting-against-a-sleeping-green-dragon-near-a-mountain-lake-pastel-colors-peacef.png"
+  - url: "/2022/08/26/1926-the-golden-age-of-aviation/"
+    title: "1926: The Golden Age of Aviation"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/goldenage26.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-13-21.11.32-a-beaker-containing-multicolored-chemicals.-musical-notes-are-coming-out-of-the-mouth-of-the-beaker.-in-the-style-of-a-textbook-illustration..png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-13-21.11.32-a-beaker-containing-multicolored-chemicals.-musical-notes-are-coming-out-of-the-mouth-of-the-beaker.-in-the-style-of-a-textbook-illustration..png"
 ---

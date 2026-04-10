@@ -3,6 +3,7 @@ date: '2008-12-02T19:48:24-05:00'
 draft: false
 title: "Comparing EQ2 and Mabinogi Horse Movies"
 author: "Tipa"
+disqusIdentifier: "2008/12/02/comparing-eq2-and-mabinogi-horse-movies"
 summary: "Because the Mabinogi movie has the really annoying habit of bursting into song when all you want to do is read the article, I've hidden..."
 categories:
   - "EverQuest"
@@ -11,6 +12,19 @@ categories:
 tags:
   - "Horses"
   - "Mounts"
+relatedPosts:
+  - url: "/2025/06/02/gw2-shes-found-the-altar-to-balthazar/"
+    title: "GW2: She's Found the Altar to Balthazar"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/1-gw033.jpg"
+  - url: "/2025/05/30/amounting-to-something-in-guild-wars-2/"
+    title: "Amounting to something in Guild Wars 2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/1-gw031.jpg"
+  - url: "/2011/03/30/wizard101-its-mount-week/"
+    title: "Wizard101: It's MOUNT WEEK!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/mantaray.gif"
+  - url: "/2009/05/26/daily-blogroll-526-back-to-the-grind-edition/"
+    title: "Daily Blogroll 5/26 -- Back to the Grind edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/mabinogibanner.jpg"
 ---
 Because the Mabinogi movie has the really annoying habit of bursting into song when all you want to do is read the article, I've hidden...
 <!--more-->

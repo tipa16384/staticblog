@@ -3,12 +3,26 @@ date: '2008-02-05T10:41:02-05:00'
 draft: false
 title: "EQ2 (et al): Top 10 questions answered"
 author: "Tipa"
+disqusIdentifier: "2008/02/05/eq2-et-al-top-10-questions-answered"
 summary: "My blog gets its share of people looking for llama sex videos and stuff, but most of the people who come here seem to be..."
 categories:
   - "EverQuest"
   - "MMORPG"
   - "Mythos"
   - "Rock Band"
+relatedPosts:
+  - url: "/2008/03/23/bad-week-for-gaming-good-week-for-blogging/"
+    title: "Bad week for gaming, good week for blogging"
+    thumbnailImage: ""
+  - url: "/2008/01/28/weekend-gaming-of-veeshans-peak-twins-and-things-that-go-bump-in-the-night/"
+    title: "Weekend Gaming: Of Veeshan's Peak, Twins, and Things that Go Bump in the Night"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/everquest2-2008-01-26-02-12-16-22.jpg"
+  - url: "/2008/01/09/eq2-rock-band-goong-xbox-ps3-potbs-and-stuff/"
+    title: "EQ2, Rock Band, Goong, Xbox, PS3, PotBS, and stuff."
+    thumbnailImage: ""
+  - url: "/2011/01/12/daily-blogroll-112-snow-job-edition/"
+    title: "Daily Blogroll 1/12 -- Snow Job edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/11111png.png"
 ---
 My blog gets its share of people looking for llama sex videos and stuff, but most of the people who come here seem to be...
 <!--more-->

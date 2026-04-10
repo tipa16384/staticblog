@@ -3,6 +3,7 @@ date: '2020-06-19T12:17:58-05:00'
 draft: false
 title: "Squire Wimbley has some mighty fine hide"
 author: "Tipa"
+disqusIdentifier: "2020/06/19/squire-wimbley-has-some-mighty-fine-hide"
 summary: "Again, my huge advantage over Kasul is that I still am forced to work from home, but on the plus side, I get to get..."
 categories:
   - "EverQuest"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Aradune"
   - "TLP"
+relatedPosts:
+  - url: "/2020/06/20/everquest-third-wave-adventuring-in-unrest/"
+    title: "EverQuest: Third Wave Adventuring in Unrest"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/eqgame-2020-06-19-22-46-27-98.jpg"
+  - url: "/2020/06/17/im-still-playing-everquest-for-some-reason/"
+    title: "I'm still playing EverQuest for some reason..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/1-eqgame-2020-06-17-08-01-40-13.jpg"
+  - url: "/2020/06/10/the-end-of-the-aradune-experiment/"
+    title: "The End of the Aradune Experiment"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/1-eqgame-2020-06-10-06-33-47-96.jpg"
+  - url: "/2020/06/03/everquest-10-12-stepping-outside-nektulos/"
+    title: "EverQuest 10-12: Stepping outside Nektulos"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/1-eqgame-2020-06-01-21-51-52-88.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/1-eqgame-2020-06-19-07-59-23-14.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/1-eqgame-2020-06-19-07-59-23-14.jpg"
 ---

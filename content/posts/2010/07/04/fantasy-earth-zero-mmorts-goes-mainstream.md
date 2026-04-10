@@ -3,10 +3,24 @@ date: '2010-07-04T17:48:46-05:00'
 draft: false
 title: "Fantasy Earth Zero review: MMORTS goes mainstream"
 author: "Tipa"
+disqusIdentifier: "2010/07/04/fantasy-earth-zero-mmorts-goes-mainstream"
 summary: "[..."
 categories:
   - "Fantasy Earth Zero"
   - "MMORPG"
+relatedPosts:
+  - url: "/2010/12/23/daily-blogroll-1223-christmas-eve-eve-edition/"
+    title: "Daily Blogroll 12/23 -- Christmas Eve Eve edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/rifty.png"
+  - url: "/2010/07/06/fantasy-earth-zero-blogfail-under-the-radar/"
+    title: "Fantasy Earth Zero Blogfail: Under the Radar"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/FEzero_Client-2010-07-06-06-39-14-35.jpg"
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2026/03/11/dune-awakening-finished-chapter-3/"
+    title: "Dune Awakening: Finished Chapter 3"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-11-073510.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/FEzero_Client-2010-07-04-07-53-57-83-480x268.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/FEzero_Client-2010-07-04-07-53-57-83-480x268.jpg"
 ---

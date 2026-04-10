@@ -3,6 +3,7 @@ date: '2008-08-08T08:13:29-05:00'
 draft: false
 title: "EQ: Veksar Rising"
 author: "Tipa"
+disqusIdentifier: "2008/08/08/eq-veksar-rising"
 summary: "The number one rule of Nostalgia the Guild is that we level together and nobody gets left behind (unless they stop showing up). Last night..."
 categories:
   - "EverQuest"
@@ -13,6 +14,19 @@ tags:
   - "Gu47"
   - "Veksar"
   - "Void Storms"
+relatedPosts:
+  - url: "/2008/08/01/eq2-gu47-dorah-stories/"
+    title: "EQ2: GU47 Dorah stories"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/everquest2-2008-07-31-23-41-51-61.jpg"
+  - url: "/2008/08/07/eq2-night-of-the-living-goblin/"
+    title: "EQ2: Night of the Living Goblin"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/everquest2-2008-08-06-23-00-34-94.jpg"
+  - url: "/2008/09/03/eq2-game-update-48-is-live/"
+    title: "EQ2: Game update 48 is live"
+    thumbnailImage: ""
+  - url: "/2007/10/12/the-deep-ones/"
+    title: "The Deep Ones"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/10/goblin.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/everquest2-2008-08-08-06-09-15-08.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/everquest2-2008-08-08-06-09-15-08.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2009-05-07T07:36:30-05:00'
 draft: false
 title: "A word to bloggers about reviewing MMOs I play."
 author: "Tipa"
+disqusIdentifier: "2009/05/07/a-word-to-bloggers-about-reviewing-mmos-i-play"
 summary: "In the aftermath of the scandal surrounding Darkfall and its 2/10 Eurogamer review, I just have a couple of things to say...."
 categories:
   - "Darkfall"
@@ -10,6 +11,19 @@ categories:
   - "Free Realms"
   - "MMORPG"
   - "Wizard101"
+relatedPosts:
+  - url: "/2009/10/14/daily-blogroll-1014-puns-r-us-edition/"
+    title: "Daily Blogroll 10/14 - Puns R Us edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/eebark.png"
+  - url: "/2009/09/17/daily-blogroll-917-kanye-edition/"
+    title: "Daily Blogroll 9/17 - Kanye edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/kanye.jpg"
+  - url: "/2009/09/01/daily-blogroll-91-hell-o-kiddie-edition/"
+    title: "Daily Blogroll 9/1 - Hell, O Kiddie edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/hko-2009-09-01-07-24-48-98.jpg"
+  - url: "/2009/06/15/daily-blogroll-615-just-this-once-edition/"
+    title: "Daily Blogroll 6/15 -- Just This Once edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/WizardGraphicalClient-2009-06-15-07-54-00-91.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/fullscreen-capture-572009-82916-am.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/fullscreen-capture-572009-82916-am.jpg"
 ---

@@ -3,10 +3,24 @@ date: '2008-12-19T07:43:10-05:00'
 draft: false
 title: "Spellborn Community News, such as it is"
 author: "Tipa"
+disqusIdentifier: "2008/12/19/spellborn-community-news-such-as-it-is"
 summary: "First, it looks like Acclaim has responsibility for a much larger swath of Europe than we'd thought before, which can't be making many people back..."
 categories:
   - "Chronicles of Spellborn"
   - "MMORPG"
+relatedPosts:
+  - url: "/2015/07/02/some-trufen-managed-to-re/"
+    title: "Spellborn... reborn?"
+    thumbnailImage: "https://lh6.googleusercontent.com/proxy/vBKKuw4kyr3h6Ct92g-leX2lvulYLG8VtWObZxpRG3wNupQeekWxqKtqcOypKIB_CMp9gMCmeDHiXRs9qUjB7Q=w506-h284-n"
+  - url: "/2010/08/19/chronicles-of-spellborn-anatomy-of-a-failure/"
+    title: "Chronicles of Spellborn: Anatomy of a Failure"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/sb_client-2010-08-18-19-49-21-19-480x270.jpg"
+  - url: "/2009/09/25/daily-blogroll-925-apocalypse-edition/"
+    title: "Daily Blogroll 9/25 - Apocalypse edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/GameClient-2009-09-24-21-31-22-51.jpg"
+  - url: "/2009/08/31/daily-blogroll-831-end-of-summer-edition/"
+    title: "Daily Blogroll 8/31 - End of Summer edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/GameClient-2009-08-30-21-20-36-81.jpg"
 ---
 First, it looks like Acclaim has responsibility for a much larger swath of Europe than we'd thought before, which can't be making many people back...
 <!--more-->

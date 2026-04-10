@@ -3,6 +3,7 @@ date: '2008-07-16T07:13:38-05:00'
 draft: false
 title: "EQ: Tower of Frozen Shadow, floors 2 and 3."
 author: "Tipa"
+disqusIdentifier: "2008/07/16/eq-tower-of-frozen-shadow-floors-2-and-3"
 summary: "Mayong Mistmoore looks so hunky in that portrait! He makes ALL the inky ladies swoon!..."
 categories:
   - "EverQuest"
@@ -14,6 +15,19 @@ tags:
   - "Nagafen"
   - "Shadow Armor"
   - "Tower of Frozen Shadow"
+relatedPosts:
+  - url: "/2008/07/10/eq-the-tower-of-frozen-shadow/"
+    title: "EQ: The Tower of Frozen Shadow"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/eqgame-2008-07-08-22-41-13-04.jpg"
+  - url: "/2008/06/28/being-lord-nagafen/"
+    title: "Being Lord Nagafen"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/eqgame-2008-06-28-00-21-06-07.jpg"
+  - url: "/2008/08/02/eq-the-last-dragons/"
+    title: "EQ: The Last Dragons"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/eqgame-2008-08-01-20-57-03-54.jpg"
+  - url: "/2008/07/26/eq-the-half-baked-half-dozen/"
+    title: "EQ: The Half-Baked Half Dozen"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/eqgame-2008-07-25-22-29-20-28.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/eqgame-2008-07-15-22-00-20-56.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/eqgame-2008-07-15-22-00-20-56.jpg"
 ---

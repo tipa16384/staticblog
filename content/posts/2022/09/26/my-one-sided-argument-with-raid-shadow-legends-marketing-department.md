@@ -3,6 +3,7 @@ date: '2022-09-26T18:26:54-05:00'
 draft: false
 title: "My One-Sided Argument with Raid: Shadow Legend's Marketing Department"
 author: "Tipa"
+disqusIdentifier: "2022/09/26/my-one-sided-argument-with-raid-shadow-legends-marketing-department"
 summary: "Some may tilt at windmills. I tilt at lazy marketers for mobile games. But I pick which giants I joust; mine is Raid: Shadow Legends...."
 categories:
   - "Advertising"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Raid Shadow Legends"
   - "Twitter"
+relatedPosts:
+  - url: "/2020/07/15/lets-have-a-little-talk-about-raid-shadow-legends/"
+    title: "Let's have a little talk about RAID: SHADOW LEGENDS."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/07/IMG_1733.png"
+  - url: "/2023/11/12/clickbait/"
+    title: "Clickbait"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/tipachu_a_desk_strewn_with_images_of_clickbait_ads_featuring_se_f9bb71a2-c331-4950-943b-4a0a5117b826.png"
+  - url: "/2023/08/21/weighing-in-on-the-linus-tech-tips-controversy/"
+    title: "Weighing in on the Linus Tech Tips Controversy"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/ltt.webp"
+  - url: "/2023/08/02/speedrunning-the-apocalypse/"
+    title: "Speedrunning the Apocalypse"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/DALL·E-2023-08-01-22.15.05-1990s-era-CGI-render-of-a-wooly-mammoth-running-along-a-road-left-to-right-with-a-giant-fireball-destroying-Silicon-Valley-in-the-background.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-26-18.24.24-digital-art-Raid-Shadow-Legends.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-26-18.24.24-digital-art-Raid-Shadow-Legends.png"
 ---

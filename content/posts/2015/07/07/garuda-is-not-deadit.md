@@ -3,10 +3,24 @@ date: '2015-07-07T11:37:28-05:00'
 draft: false
 title: "Garuda is (not) Dead."
 author: "Tipa"
+disqusIdentifier: "2015/07/07/garuda-is-not-deadit"
 summary: "It took a surprisingly low number of stupid fetch-this quests to get to the point where we could meet our new challenge: defeat Garuda, the..."
 categories:
   - "Final Fantasy"
   - "MMORPG"
+relatedPosts:
+  - url: "/2025/03/24/monster-hunters-wilding/"
+    title: "Monster Hunters Wilding"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/mhwildsbanner.png"
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2023/05/07/ffxiv-how-i-ruined-a-realm-reborn/"
+    title: "FFXIV: How I Ruined a Realm Reborn..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/ffxiv_05072023_001521_777.jpg"
+  - url: "/2022/07/30/ship-of-heroes-housing-beta-2/"
+    title: "Ship of Heroes: Housing Beta #2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/1-20220730211912_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/07/ffxiv-2015-07-06-21-30-00-41.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/07/ffxiv-2015-07-06-21-30-00-41.jpg"
 ---

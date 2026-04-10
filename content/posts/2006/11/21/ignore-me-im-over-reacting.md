@@ -3,10 +3,24 @@ date: '2006-11-21T11:48:13-05:00'
 draft: false
 title: "Ignore me, I'm over-reacting."
 author: "Tipa"
+disqusIdentifier: "2006/11/21/ignore-me-im-over-reacting"
 summary: "Business is incredibly slow here at Surya at the end of a year. This year, we're asked to work only four-day work weeks in December...."
 categories:
   - "General"
   - "My Work"
+relatedPosts:
+  - url: "/2009/05/31/adventures-in-computer-science-monopoly-board-computer/"
+    title: "Adventures in Computer Science: Monopoly board computer"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/turingopoly.jpg"
+  - url: "/2009/03/26/xfire-wordpress-plugin-first-release/"
+    title: "XFire Wordpress Plugin -- first release"
+    thumbnailImage: ""
+  - url: "/2009/03/26/xfire-wordpress-widget/"
+    title: "XFire Wordpress Widget"
+    thumbnailImage: ""
+  - url: "/2008/10/07/how-to-tell-if-youre-a-coder-part-1/"
+    title: "How to tell if you're a coder, part 1."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/purbleplace-2008-10-07-07-24-01-91.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2006/11/dec25.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/11/dec25.png"
 ---

@@ -3,6 +3,7 @@ date: '2021-08-26T07:52:48-05:00'
 draft: false
 title: "DCUO: House of Legends is LIVE!"
 author: "Tipa"
+disqusIdentifier: "2021/08/26/dcuo-house-of-legends-is-live"
 summary: "This is going to be a fairly short post, as I didn't get a chance last night and pretty soon I'll have to get ready..."
 categories:
   - "Blaugust"
@@ -13,6 +14,19 @@ tags:
   - "Blaugust"
   - "DC Universe Online"
   - "House of Legends"
+relatedPosts:
+  - url: "/2021/08/21/champions-online-vs-dcuo/"
+    title: "Champions Online vs DCUO"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/riddlers.jpg"
+  - url: "/2021/09/03/dcuo-how-house-of-legends-is-broken/"
+    title: "DCUO: How House of Legends is broken"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/MHQS104_AUDIO-PC-03-07.21.130.jpg"
+  - url: "/2021/08/08/dcuo-episode-41-into-the-house-of-legends/"
+    title: "DCUO Episode 41: Into the House of Legends"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/HouseOfLegends.jpg"
+  - url: "/2021/08/22/ship-of-heroes-superheroes-in-spaaaaaace/"
+    title: "Ship of Heroes: Superheroes IN SPAAAAAACE!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/shipoffools-1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/avatarofmeta.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/avatarofmeta.jpg"
 ---

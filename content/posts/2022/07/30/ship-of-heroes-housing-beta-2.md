@@ -3,6 +3,7 @@ date: '2022-07-30T21:02:28-05:00'
 draft: false
 title: "Ship of Heroes: Housing Beta #2"
 author: "Tipa"
+disqusIdentifier: "2022/07/30/ship-of-heroes-housing-beta-2"
 summary: "I haven't played the Ship of Heroes beta in awhile, and I entirely missed the previous housing beta. I wasn't going to make that same..."
 categories:
   - "City of Heroes"
@@ -14,6 +15,19 @@ categories:
 tags:
   - "Housing Beta"
   - "Supergroup Bases"
+relatedPosts:
+  - url: "/2021/08/07/mmos-on-the-bubble/"
+    title: "MMOs on the Bubble"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/STP61286.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2010/12/29/daily-blogroll-1229-super-duper-edition/"
+    title: "Daily Blogroll 12/29: Super Duper edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/dcuo.png"
+  - url: "/2021/09/26/ship-of-heroes-mission-beta-feedback/"
+    title: "Ship of Heroes: Mission Beta Feedback"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/shipoffools-redsigilbase.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/1-20220730211912_1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/1-20220730211912_1.jpg"
 ---

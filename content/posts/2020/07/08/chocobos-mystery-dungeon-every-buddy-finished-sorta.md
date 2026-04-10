@@ -3,12 +3,26 @@ date: '2020-07-08T12:01:06-05:00'
 draft: false
 title: "Chocobo's Mystery Dungeon: Every Buddy FINISHED! Sorta."
 author: "Tipa"
+disqusIdentifier: "2020/07/08/chocobos-mystery-dungeon-every-buddy-finished-sorta"
 summary: "I've been buying a lot of casual games to pass the time when I don't have a lot of time to play. Bunches of puzzle..."
 categories:
   - "PS4"
 tags:
   - "Chocobo Mystery Dungeon"
   - "Rogue-Like"
+relatedPosts:
+  - url: "/2020/12/11/my-rpgs-of-2020/"
+    title: "My RPGs of 2020"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/Chocobos-Mystery-Dungeon-EVERY-BUDDY_20200506204657.jpg"
+  - url: "/2020/05/13/chocobos-mystery-dungeon-every-buddy/"
+    title: "Chocobo's Mystery Dungeon: Every Buddy!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/Chocobo’s-Mystery-Dungeon-EVERY-BUDDY_20200506203739.jpg"
+  - url: "/2020/08/22/i-jump-on-bandwagons/"
+    title: "I Jump on Bandwagons"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/Fall-Guys_-Ultimate-Knockout_20200821210108.jpg"
+  - url: "/2020/07/01/game-log-for-june/"
+    title: "Game Log for June"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/07/Chocobo’s-Mystery-Dungeon-EVERY-BUDDY_20200630210621.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/07/Chocobo’s-Mystery-Dungeon-EVERY-BUDDY_20200707212923.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/07/Chocobo’s-Mystery-Dungeon-EVERY-BUDDY_20200707212923.jpg"
 ---

@@ -3,10 +3,24 @@ date: '2009-06-16T07:57:13-05:00'
 draft: false
 title: "One if by land, two if by sea: a second look at Florensia"
 author: "Tipa"
+disqusIdentifier: "2009/06/16/one-if-by-land-two-if-by-sea-a-second-look-at-florensia"
 summary: "I was a little surprised to see that my character from Florensia's open beta last year was still around, though naturally I'd entirely forgotten how..."
 categories:
   - "Florensia"
   - "MMORPG"
+relatedPosts:
+  - url: "/2011/01/01/daily-blogroll-1111-happy-new-year-edition/"
+    title: "Daily Blogroll 1/1/11 -- Happy New Year edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/rift-2010-12-31-16-51-43-97-480x384.jpg"
+  - url: "/2010/11/30/daily-blogroll-1130-worst-case-scenario-edition/"
+    title: "Daily Blogroll, 11/30 -- Worst Case Scenario edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/vgclient-2010-11-29-20-32-30-42.jpg"
+  - url: "/2010/05/21/assault-on-the-inbox/"
+    title: "Assault on the Inbox"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/assault-479x185.jpg"
+  - url: "/2009/06/16/nightly-blogroll-616-all-wet-edition/"
+    title: "Nightly Blogroll 6/16 -- All Wet edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/florensia.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/flor1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/flor1.jpg"
 ---

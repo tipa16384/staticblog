@@ -3,6 +3,7 @@ date: '2008-10-24T08:31:11-05:00'
 draft: false
 title: "EQ2: The Loping Plains Haunted House. Scared yet?"
 author: "Tipa"
+disqusIdentifier: "2008/10/24/eq2-the-loping-plains-haunted-house-scared-yet"
 summary: "Loping Plains hasn't seen THIS much action since the Freethinkers threw that Christmas party and the Pumpkin-Headed Horseman barfed seeds and pulp all over Mayong..."
 categories:
   - "EverQuest"
@@ -14,6 +15,19 @@ tags:
   - "Halloween"
   - "Loping Plains"
   - "Tailoring"
+relatedPosts:
+  - url: "/2008/09/14/eq2-tomb-of-thuuga-and-the-shard-of-hate/"
+    title: "EQ2: Tomb of Thuuga and the Shard of Hate"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/everquest2-2008-09-13-22-12-56-42.jpg"
+  - url: "/2008/10/09/eq2-nostalgia-guild-hall-mania/"
+    title: "EQ2: Nostalgia Guild Hall mania!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/everquest2-2008-10-08-18-05-29-271.jpg"
+  - url: "/2008/10/08/eq2-cloth-vests-mean-more-fashion-choices-for-casters/"
+    title: "EQ2: Cloth vests mean more fashion choices for casters"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/everquest2-2008-10-08-07-37-27-60.jpg"
+  - url: "/2008/09/24/eq2-eitholi-blade-of-the-fae/"
+    title: "EQ2: Eitholi, Blade of the Fae"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/everquest2-2008-09-24-01-28-29-69.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/ghosts.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/ghosts.jpg"
 ---

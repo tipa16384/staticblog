@@ -3,10 +3,24 @@ date: '2007-04-24T21:17:25-05:00'
 draft: false
 title: "Your Guide to 2007 SciFi Movies"
 author: "Tipa"
+disqusIdentifier: "2007/04/24/your-guide-to2007-scifi-movies"
 summary: "Which will rank and which will stink? I'm probably the least qualified person to rank movies but... well, Next made me so mad......"
 categories:
   - "General"
   - "Sci Fi"
+relatedPosts:
+  - url: "/2015/09/13/beam-me-up/"
+    title: "Beam me up..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/09/1-Star-Trek-Me-1.jpg"
+  - url: "/2011/07/31/space-battleship-yamato-the-movie/"
+    title: "Space Battleship Yamato (the movie)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/07/wmplayer-2011-07-31-08-54-13-39-480x320.jpg"
+  - url: "/2008/07/22/save-the-middleman/"
+    title: "Save the Middleman!"
+    thumbnailImage: ""
+  - url: "/2008/07/09/the-middleblog/"
+    title: "The Middleblog"
+    thumbnailImage: ""
 ---
 Which will rank and which will stink? I'm probably the least qualified person to rank movies but... well, Next made me so mad......
 <!--more-->

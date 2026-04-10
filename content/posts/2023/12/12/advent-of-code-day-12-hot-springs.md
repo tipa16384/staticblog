@@ -3,6 +3,7 @@ date: '2023-12-12T21:44:16-05:00'
 draft: false
 title: "Advent of Code Day 12 -- Hot Springs"
 author: "Tipa"
+disqusIdentifier: "2023/12/12/advent-of-code-day-12-hot-springs"
 summary: "I narrowly avoided yesterday's trap only to walk right into today's."
 categories:
   - "Advent of Code"
@@ -12,6 +13,19 @@ tags:
   - "Python"
   - "Springs"
   - "Volcano"
+relatedPosts:
+  - url: "/2023/12/15/advent-of-code-day-14-parabolic-reflector-dish/"
+    title: "Advent of Code Day 14 -- Parabolic Reflector Dish"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-14-21.53.41-A-wall-of-mirrors-attached-to-a-cliff-face-on-the-left-side-of-the-image-with-a-dormant-volcano-in-the-background-steaming.-The-sun-is-setting-over-.png"
+  - url: "/2023/12/14/advent-of-code-day-13-point-of-incidence/"
+    title: "Advent of Code Day 13 -- Point of Incidence"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-13-22.52.31-An-ash-field-dotted-with-boulders-and-large-frameless-standless-mirrors-over-six-feet-tall-reflecting-each-other-the-ash-and-the-rocks.-In-the-f.png"
+  - url: "/2022/12/18/advent-of-code-day-18-boiling-boulders/"
+    title: "Advent of Code Day 18 -- Boiling Boulders"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-18-19.03.10-An-elephant-watching-a-flaming-meteor-crash-into-a-lake-by-Bob-Eggleton-detailed-and-intricate.png"
+  - url: "/2022/12/17/advent-of-code-day-17-pyroclastic-flow/"
+    title: "Advent of Code Day 17 -- Pyroclastic Flow"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-17-22.26.37-An-elephant-wearing-a-Christmas-stocking-cap-looking-at-a-giant-statue-of-a-Tetris-game-in-a-cave-lit-with-lava-by-Bob-Eggleton-detailed-and-intrica.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-12-20.48.05-A-repairman-in-a-safety-vest-and-hardhat-looking-at-a-damaged-map-in-a-landscape-reminiscent-of-Iceland-near-a-dormant-volcano.-The-scene-includes-ste.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-12-20.48.05-A-repairman-in-a-safety-vest-and-hardhat-looking-at-a-damaged-map-in-a-landscape-reminiscent-of-Iceland-near-a-dormant-volcano.-The-scene-includes-ste.png"
 ---

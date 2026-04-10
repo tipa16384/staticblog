@@ -3,6 +3,7 @@ date: '2024-09-09T08:13:16-05:00'
 draft: false
 title: "Weekend gaming: Janthir Wilds, Return to Arms, more Thunderjaw"
 author: "Tipa"
+disqusIdentifier: "2024/09/09/weekend-gaming-janthir-wilds-return-to-arms-more-thunderjaw"
 summary: "I finish Guild Wars 2’s Janthir Wilds prologue, revisit Champions: Return to Arms with a PS4 controller, and make progress on my LEGO Thunderjaw build."
 categories:
   - "Guild Wars"
@@ -15,6 +16,19 @@ tags:
   - "PCSX2"
   - "The Last Starfighter"
   - "Thunderjaw"
+relatedPosts:
+  - url: "/2024/09/29/lego-thunderjaw-finally-mostly-complete/"
+    title: "LEGO Thunderjaw: Finally mostly complete!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/thunderjaw-scaled.jpg"
+  - url: "/2024/08/26/building-thunderjaw-day-1/"
+    title: "Building Thunderjaw — Day 1"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_0230.jpeg"
+  - url: "/2024/09/28/champions-return-to-arms-finished/"
+    title: "Champions: Return to Arms finished!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/cazicthule.png"
+  - url: "/2024/08/15/champions-return-to-arms/"
+    title: "Champions: Return to Arms"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/firiona.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/gw2janthir.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/gw2janthir.png"
 ---

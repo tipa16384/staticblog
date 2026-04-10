@@ -3,6 +3,7 @@ date: '2009-04-28T06:45:07-05:00'
 draft: false
 title: "Daily Blogroll 4/28 -- Hug & Squeeze Edition"
 author: "Tipa"
+disqusIdentifier: "2009/04/28/daily-blogroll-428-hug-squeeze-edition"
 summary: "I've renamed the Web Log to the Daily Blogroll, just because I like the name better. Also, in the Shameless Self Promotion dept, look for..."
 categories:
   - "Champions Online"
@@ -15,6 +16,19 @@ categories:
   - "MMORPG"
   - "Vanguard"
   - "Wizard101"
+relatedPosts:
+  - url: "/2009/05/19/daily-blogroll-519-black-lung-edition/"
+    title: "Daily Blogroll 5/19 -- Black Lung edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/exefile-2009-05-18-23-31-07-25.jpg"
+  - url: "/2008/12/24/a-look-back-at-2008/"
+    title: "A look back at 2008"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-30-22-10-50-69.jpg"
+  - url: "/2009/08/10/daily-blogroll-810-thank-god-its-monday-edition/"
+    title: "Daily Blogroll 8/10 -- Thank God it's Monday edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/daddygirl.jpg"
+  - url: "/2009/05/06/daily-blogroll-56-tempests-and-teapots-edition/"
+    title: "Daily Blogroll 5/6 -- Tempests and Teapots edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/fullscreen-capture-562009-125235-am.jpg"
 ---
 I've renamed the Web Log to the Daily Blogroll, just because I like the name better. Also, in the Shameless Self Promotion dept, look for...
 <!--more-->

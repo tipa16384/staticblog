@@ -3,12 +3,26 @@ date: '2020-08-31T07:35:16-05:00'
 draft: false
 title: "Blaugust #30: Don't Worry, Be Happy"
 author: "Tipa"
+disqusIdentifier: "2020/08/31/blaugust-30-dont-worry-be-happy"
 summary: "This is the last Blaugust Promptapalooza post for this year! It's my first one, and I really feel badly that I missed all the previous..."
 categories:
   - "Blaugust"
 tags:
   - "Blaugust"
   - "Nobody Scream and Nobody Gets Hurt"
+relatedPosts:
+  - url: "/2022/08/06/the-six-cats-of-madame-miracle/"
+    title: "The Six Cats of Madame Miracle"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/sixcats.png"
+  - url: "/2022/08/05/steve-the-fifth-horseman-of-the-apocalypse/"
+    title: "Steve, the Fifth Horseman of the Apocalypse"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/DALL·E-2022-07-30-11.32.58-A-photograph-of-a-colorfully-dressed-clown-named-Steve-sitting-on-a-horse-that-has-fiery-eyes.-They-are-standing-on-a-hill.-Behind-them-on-the-hori.png"
+  - url: "/2022/08/04/fourt-knight-an-awesome-game-thats-worth-the-price/"
+    title: "Fourt Knight: An Awesome Game That's Worth the Price"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/DALL·E-2022-07-30-11.41.41-a-painting-of-a-lone-knight-in-armor-standing-in-front-of-a-castle.-The-knight-is-holding-a-sword-and-shield-and-there-is-a-bow-slung-over-their-bac.png"
+  - url: "/2022/08/02/2dark-2c-a-unique-spin-on-traditional-rts-gameplay/"
+    title: "2Dark 2C: A Unique Spin on Traditional RTS Gameplay"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/craiyon_220904_a_vampire_spaceship_flying_towards_a_planet_that_is_being_consumed_by_a_giant_Medusa_.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/PSP-Final-Fantasy-4-The-Complete-Collection-The-After-Years-White-Mage.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/PSP-Final-Fantasy-4-The-Complete-Collection-The-After-Years-White-Mage.png"
 ---

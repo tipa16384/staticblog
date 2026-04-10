@@ -3,6 +3,7 @@ date: '2024-07-09T06:30:00-05:00'
 draft: false
 title: "Backlog Report: Is it worth buying a PS3 to play Mad Maestro?"
 author: "Tipa"
+disqusIdentifier: "2024/07/09/backlog-report-is-it-worth-buying-a-ps3-to-play-mad-maestro"
 summary: "Mad Maestro is a PS2 classical music rhythm game. Why would you need a PS3 to play it?"
 categories:
   - "PS2"
@@ -12,6 +13,19 @@ tags:
   - "Elite Beat Agents"
   - "PCSX2"
   - "Umjammer Lammy"
+relatedPosts:
+  - url: "/2026/02/17/the-fellowship-of-the-ring-ps2/"
+    title: "The Fellowship of the Ring (PS2)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/The-Lord-of-the-Rings-The-Fellowship-of-the-Ring_SLUS-20520_20260217075358.png"
+  - url: "/2025/08/03/pryzm-the-review-part-1/"
+    title: "Pryzm: The Review: Part 1."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/pryzmbanner.png"
+  - url: "/2024/09/28/champions-return-to-arms-finished/"
+    title: "Champions: Return to Arms finished!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/cazicthule.png"
+  - url: "/2024/09/09/weekend-gaming-janthir-wilds-return-to-arms-more-thunderjaw/"
+    title: "Weekend gaming: Janthir Wilds, Return to Arms, more Thunderjaw"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/gw2janthir.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/07/Screenshot-2024-07-08-212742.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/07/Screenshot-2024-07-08-212742.png"
 ---

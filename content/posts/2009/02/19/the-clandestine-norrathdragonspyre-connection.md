@@ -3,6 +3,7 @@ date: '2009-02-19T07:38:11-05:00'
 draft: false
 title: "The clandestine Norrath/Dragonspyre connection"
 author: "Tipa"
+disqusIdentifier: "2009/02/19/the-clandestine-norrathdragonspyre-connection"
 summary: "Norrath, the planet itself, wasn't discovered by humans or elves or iksar or the ancient snake people or even the gods. It was discovered by..."
 categories:
   - "EverQuest"
@@ -14,6 +15,19 @@ tags:
   - "The Labyrinth"
   - "Veeshan"
   - "Veeshan's Peak"
+relatedPosts:
+  - url: "/2009/01/23/slow-week-eq2-raiding-w101-delving-cov-headbashing/"
+    title: "Slow week -- EQ2 raiding, W101 delving, CoV headbashing"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/01/specimen.jpg"
+  - url: "/2009/04/01/everquest-how-i-soloed-veeshan/"
+    title: "EverQuest: How I soloed Veeshan"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/eqgame-2009-04-01-07-33-01-42.jpg"
+  - url: "/2009/01/28/eq2-dragon-wars/"
+    title: "EQ2: Dragon Wars"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/01/wizardgraphicalclient-2009-01-25-00-13-31-29.jpg"
+  - url: "/2009/01/18/eq2-my-nexona/"
+    title: "EQ2: My Nexona"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/01/everquest2-2009-01-17-21-58-51-67.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/veeshansymbol.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/veeshansymbol.jpg"
 ---

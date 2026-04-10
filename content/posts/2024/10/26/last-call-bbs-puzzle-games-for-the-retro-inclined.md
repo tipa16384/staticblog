@@ -3,6 +3,7 @@ date: '2024-10-26T15:23:33-05:00'
 draft: false
 title: "Last Call BBS: Puzzle Games for the Retro-Inclined"
 author: "Tipa"
+disqusIdentifier: "2024/10/26/last-call-bbs-puzzle-games-for-the-retro-inclined"
 summary: "The last game from the makers of TIS-100, SpaceChem, Exapunks and many other puzzle games feels like a Greatest Hits collection."
 categories:
   - "Puzzle Games"
@@ -11,6 +12,19 @@ tags:
   - "Exapunks"
   - "Last Call Bbs"
   - "Zachtronics"
+relatedPosts:
+  - url: "/2021/01/10/exapunks-finished-heres-my-solutions/"
+    title: "EXAPUNKS Finished! Here's my solutions..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/01/exaepilogue.jpg"
+  - url: "/2020/12/30/quick-takes-exapunks/"
+    title: "Quick Takes: Exapunks"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/20201230072838_1.jpg"
+  - url: "/2020/12/08/too-many-games-in-my-queue/"
+    title: "Too Many Games in my Queue"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/2020120808035600-67D01338887DAC4477826B5EA75BFB74.jpg"
+  - url: "/2024/12/27/the-best-puzzle-games-of-2024/"
+    title: "The Best Puzzle Games of 2024"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/puzzlegamesbanner.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/2-20241026104137_1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/2-20241026104137_1.jpg"
 ---

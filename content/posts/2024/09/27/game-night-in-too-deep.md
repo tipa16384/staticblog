@@ -3,6 +3,7 @@ date: '2024-09-27T08:10:54-05:00'
 draft: false
 title: "Game Night: In Too Deep"
 author: "Tipa"
+disqusIdentifier: "2024/09/27/game-night-in-too-deep"
 summary: "You're a psychic cop hijacking the minds of supervillains to solve crimes. But mind control... it's a two way street."
 categories:
   - "Game Night"
@@ -10,6 +11,19 @@ categories:
   - "Tabletop Games"
 tags:
   - "In Too Deep"
+relatedPosts:
+  - url: "/2024/10/22/game-night-in-too-deep-terraforming-mars-what-comes-next/"
+    title: "Game Night: In Too Deep, Terraforming Mars, what comes next?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/intoodeep.png"
+  - url: "/2025/01/05/best-board-games-of-2024/"
+    title: "Best Board Games of 2024!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/bestboardgamebanner.png"
+  - url: "/2026/03/04/frosthaven-104-ruins-of-the-solstice-and-heroquest-first-light-sound-the-hearthkin-horn/"
+    title: "Frosthaven #104: Ruins of the Solstice and HeroQuest First Light: Sound the Hearthkin Horn"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/IMG_5701-scaled.jpg"
+  - url: "/2026/02/15/heroquest-first-light-king-forgrins-trove/"
+    title: "HeroQuest First Light: King Forgrin's Trove"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/IMG_5672-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/intoodeepbanner.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/intoodeepbanner.png"
 ---

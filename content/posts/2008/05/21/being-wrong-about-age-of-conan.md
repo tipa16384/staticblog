@@ -3,6 +3,7 @@ date: '2008-05-21T11:34:40-05:00'
 draft: false
 title: "Being wrong about Age of Conan"
 author: "Tipa"
+disqusIdentifier: "2008/05/21/being-wrong-about-age-of-conan"
 summary: "I admit it. I was wrong about AoC...."
 categories:
   - "Age of Conan"
@@ -11,6 +12,19 @@ categories:
   - "MMORPG"
   - "Warhammer: Age of Reckoning"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2008/07/14/does-wow-see-wrinkles-when-she-looks-in-the-mirror/"
+    title: "Does WoW see wrinkles when she looks in the mirror?"
+    thumbnailImage: ""
+  - url: "/2008/07/01/sequencing-mmo-dna/"
+    title: "Sequencing MMO DNA"
+    thumbnailImage: ""
+  - url: "/2009/06/25/daily-blogroll-625-a-valiant-effort-edition/"
+    title: "Daily Blogroll 6/25 -- A Valiant Effort edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/valianteffort.jpg"
+  - url: "/2009/05/19/daily-blogroll-519-black-lung-edition/"
+    title: "Daily Blogroll 5/19 -- Black Lung edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/exefile-2009-05-18-23-31-07-25.jpg"
 ---
 I admit it. I was wrong about AoC....
 <!--more-->

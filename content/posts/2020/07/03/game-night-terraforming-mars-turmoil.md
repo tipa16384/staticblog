@@ -3,11 +3,25 @@ date: '2020-07-03T19:24:22-05:00'
 draft: false
 title: "Game Night: Terraforming Mars (Turmoil)"
 author: "Tipa"
+disqusIdentifier: "2020/07/03/game-night-terraforming-mars-turmoil"
 summary: "Back in the Before Times, when we only had a small number of board games, Game Night would rotate between Magic the Gathering, Vast and..."
 categories:
   - "Game Night"
   - "Tabletop Games"
   - "Terraforming Mars"
+relatedPosts:
+  - url: "/2024/10/22/game-night-in-too-deep-terraforming-mars-what-comes-next/"
+    title: "Game Night: In Too Deep, Terraforming Mars, what comes next?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/intoodeep.png"
+  - url: "/2024/04/12/is-terraforming-mars-too-good/"
+    title: "Is Terraforming Mars... too good?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/terraformingmarsbanner.jpg"
+  - url: "/2022/07/19/gloomhaven-jaws-of-the-lion-finished/"
+    title: "Gloomhaven Jaws of the Lion: Finished."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/jotlbox.png"
+  - url: "/2021/08/06/terraforming-mars-ares-expedition-review/"
+    title: "Terraforming Mars: Ares Expedition Review"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/fbbf63001a2354f8bc6e89c58b4a21f1_original.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/07/1-IMG_1710.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/07/1-IMG_1710.jpg"
 ---

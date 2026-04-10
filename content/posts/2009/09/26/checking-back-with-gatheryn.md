@@ -3,10 +3,24 @@ date: '2009-09-26T11:48:59-05:00'
 draft: false
 title: "Checking back with Gatheryn"
 author: "Tipa"
+disqusIdentifier: "2009/09/26/checking-back-with-gatheryn"
 summary: "The hissing of steam and rattling pipes greets me when I step onto Elymia's weather-worn docks. It seems ages since I was last here, though..."
 categories:
   - "Gatheryn"
   - "MMORPG"
+relatedPosts:
+  - url: "/2010/12/02/daily-blogroll-122-rift-tease-edition/"
+    title: "Daily Blogroll 12/2 -- Rift-tease Edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/ca23-full.jpg"
+  - url: "/2009/09/28/weekend-gaming-3/"
+    title: "Weekend Gaming"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/ExeFile-2009-09-27-21-46-57-10.jpg"
+  - url: "/2009/09/04/gatheryn-star-trek-online-hello-kitty-online-infomegadump/"
+    title: "Gatheryn, Star Trek Online, Hello Kitty Online infomegadump"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/ws_concept2_1024x768-480x360.jpg"
+  - url: "/2009/08/21/daily-blogroll-821-gloomshine-edition/"
+    title: "Daily Blogroll 8/21 - Gloomshine Edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/Gatheryn-2009-08-20-18-51-17-34.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/Gatheryn-2009-09-26-10-32-14-59.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/Gatheryn-2009-09-26-10-32-14-59.jpg"
 ---

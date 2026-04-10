@@ -3,6 +3,7 @@ date: '2024-12-30T08:00:00-05:00'
 draft: false
 title: "Best of 2024: Single-Player RPGs"
 author: "Tipa"
+disqusIdentifier: "2024/12/30/best-of-2024-single-player-rpgs"
 summary: "2024 was a great year for RPGs. I didn't play all the ones I wanted, but the ones I did play were pretty incredible."
 categories:
   - "Dragon's Dogma"
@@ -16,6 +17,19 @@ tags:
   - "Star Wars"
   - "The Veilguard"
   - "War in the North"
+relatedPosts:
+  - url: "/2024/12/01/star-wars-outlaws-just-you-and-your-cat-against-the-galaxy/"
+    title: 'Star Wars: Outlaws. Just you and your "cat" against the galaxy.'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/outlawsbanner.png"
+  - url: "/2024/11/21/dragon-age-the-veilguard-finished/"
+    title: "Dragon Age: the Veilguard finished"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/banner2.png"
+  - url: "/2024/11/14/dragon-age-saboteur/"
+    title: "Dragon Age: Saboteur"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/1-20241113215345_1.jpg"
+  - url: "/2024/11/09/dragon-age-the-veilguard-is-not-the-game-you-think-it-is/"
+    title: "Dragon Age: The Veilguard is not the game you think it is"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/davg-banner.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/bestrpgbanner.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/bestrpgbanner.png"
 ---

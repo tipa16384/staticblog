@@ -3,6 +3,7 @@ date: '2009-09-03T07:58:02-05:00'
 draft: false
 title: "Daily Blogroll 9/3 - Sushi day edition!"
 author: "Tipa"
+disqusIdentifier: "2009/09/03/daily-blogroll-93-sushi-day-edition"
 summary: "I've been thinking of swapping my sidekick in Legends of Zork from the Gent (who made me essentially immune to traps) to the Accountant (who..."
 categories:
   - "Aion"
@@ -15,6 +16,19 @@ categories:
   - "Warhammer: Age of Reckoning"
   - "Wizard101"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/06/30/daily-blogroll-630-christmas-edition/"
+    title: "Daily Blogroll 6/30 - Christmas edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/TS3-2009-06-30-08-10-20-98.jpg"
+  - url: "/2009/08/12/daily-blogroll-812-dominix-edition/"
+    title: "Daily Blogroll 8/12 - Dominix edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/ExeFile-2009-08-11-22-18-43-82.jpg"
+  - url: "/2009/08/26/taglich-blogroll-26-8-auflage-sturm-und-drang/"
+    title: "Täglich Blogroll 26.8 - Auflage: Sturm und Drang"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/stargateworlds.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/Fullscreen-capture-932009-75844-AM.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/Fullscreen-capture-932009-75844-AM.jpg"
 ---

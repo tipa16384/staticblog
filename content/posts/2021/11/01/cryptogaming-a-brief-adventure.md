@@ -3,6 +3,7 @@ date: '2021-11-01T00:29:18-05:00'
 draft: false
 title: "Cryptogaming: A Brief Adventure"
 author: "Tipa"
+disqusIdentifier: "2021/11/01/cryptogaming-a-brief-adventure"
 summary: "I had the Ethereum. I had Bitcoins and Doge Coin and even Bounce for awhile, but I had the Ethereum to play a few cryptogames...."
 categories:
   - "Axie Infinity"
@@ -16,6 +17,19 @@ tags:
   - "Entropia Universe"
   - "Ethereum"
   - "Shiba Inu"
+relatedPosts:
+  - url: "/2021/10/20/dragonereum-if-neopets-cost-7000/"
+    title: "Dragonereum: If NeoPets Cost $7,000"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/dragon-main-30501377.png"
+  - url: "/2021/11/10/hodgepodge-games-crypto-and-nfts/"
+    title: "Hodgepodge: Games, Crypto and NFTs."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/senile.png"
+  - url: "/2021/11/18/im-just-here-to-bring-joy-and-melt-your-brain/"
+    title: "I'm just here to bring joy and melt your brain."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/genesisloot.jpg"
+  - url: "/2022/04/08/how-much-is-that-star-trek-nft-in-the-window/"
+    title: "How Much is that Star Trek NFT in the Window?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/04/Screenshot-2022-04-08-184902.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/CryptoDragons-a-week-later.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/CryptoDragons-a-week-later.jpg"
 ---

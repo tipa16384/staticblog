@@ -3,6 +3,7 @@ date: '2022-10-29T15:51:15-05:00'
 draft: false
 title: "Star Trek Prodigy: Supernova"
 author: "Tipa"
+disqusIdentifier: "2022/10/29/star-trek-prodigy-supernova"
 summary: "Out of all the new-era Star Trek shows, Star Trek Prodigy is the one that strays furthest from the basic template. It's the first targeted..."
 categories:
   - "Action Adventure Games"
@@ -13,6 +14,19 @@ tags:
   - "Check It"
   - "Pew Pew"
   - "Star Trek"
+relatedPosts:
+  - url: "/2010/09/04/star-trek-online-out-in-the-cold-spoilers/"
+    title: "Star Trek Online: Out in the Cold (spoilers)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/GameClient-2010-09-04-14-10-31-72-480x269.jpg"
+  - url: "/2010/08/29/star-trek-online-cold-call-spoilers/"
+    title: "Star Trek Online: Cold Call (spoilers)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-28-14-15-48-16-480x327.jpg"
+  - url: "/2025/08/05/international-play-your-vectrex-day-is-november-1/"
+    title: "International Play Your Vectrex Day is November 1!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/vectrexbanner.png"
+  - url: "/2024/03/28/starship-simulator-the-demo/"
+    title: "Starship Simulator: The Demo"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/starshipsimulatorbanner.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/10/star-trek-header-mobile.webp"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/10/star-trek-header-mobile.webp"
 ---

@@ -3,6 +3,7 @@ date: '2025-06-07T21:12:46-05:00'
 draft: false
 title: "Malifaux 4e: December Meets the Family"
 author: "Tipa"
+disqusIdentifier: "2025/06/07/malifaux-4e-december-meets-the-family"
 summary: "Or, Perdita, Neverborn Hunter, runs head-first into the Wall of Ice at the Edge of the World."
 categories:
   - "Malifaux"
@@ -13,6 +14,19 @@ tags:
   - "Packrat Gaming"
   - "Perdita"
   - "Rasputina"
+relatedPosts:
+  - url: "/2025/01/29/malifaux-booty-plunder/"
+    title: "Malifaux: Booty &amp; Plunder"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/bootyplunder.png"
+  - url: "/2026/02/01/captaincon-2026-masters-of-malifaux/"
+    title: "CaptainCon 2026: Masters of Malifaux"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/CC_Logo_Red.webp"
+  - url: "/2025/09/30/malifaux-4e-rasputina-vs-maxine/"
+    title: "Malifaux 4e: Rasputina vs Maxine"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/rasp2vsmax2.png"
+  - url: "/2025/08/22/the-kind-of-malifaux-you-play-at-home/"
+    title: "The Kind of Malifaux You Play at Home"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5337-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/perdita.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/perdita.png"
 ---

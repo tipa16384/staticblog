@@ -3,6 +3,7 @@ date: '2009-06-16T06:44:42-05:00'
 draft: false
 title: "Welcome to Mayong, EverQuest's 51/50 server"
 author: "Tipa"
+disqusIdentifier: "2009/06/16/welcome-to-mayong-everquests-5150-server"
 summary: "Thanks to commenter Wimp, who revealed that EverQuest's newest server, the one with the new \"51/50\" rule set (new characters start at level 51 with..."
 categories:
   - "EverQuest"
@@ -12,6 +13,19 @@ tags:
   - "51"
   - "51/50"
   - "Mayong"
+relatedPosts:
+  - url: "/2009/05/05/eq-why-the-new-5150-server-might-be-great/"
+    title: "EQ: Why the new 51/50 server might be great"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/eqgame-2009-05-01-22-46-48-02.jpg"
+  - url: "/2009/05/02/its-official-the-new-everquest-server-is-chosen-plus-eq3-rumors/"
+    title: "It's official, the new EverQuest server is chosen, plus EQ3 rumors?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/neriak5150.jpg"
+  - url: "/2020/05/13/everquest-bones-everywhere/"
+    title: "EverQuest: Bones Everywhere."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/eqgame-2020-05-13-06-57-41-85.jpg"
+  - url: "/2009/04/17/happy-10th-birthday-everquest/"
+    title: "Happy 10th Birthday, EverQuest!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/eq10-2.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/mayong.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/mayong.jpg"
 ---

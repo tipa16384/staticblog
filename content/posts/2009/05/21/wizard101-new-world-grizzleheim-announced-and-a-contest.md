@@ -3,12 +3,26 @@ date: '2009-05-21T06:13:16-05:00'
 draft: false
 title: "Wizard101: New world Grizzleheim announced! And a contest!"
 author: "Tipa"
+disqusIdentifier: "2009/05/21/wizard101-new-world-grizzleheim-announced-and-a-contest"
 summary: "We've heard rumors of Grizzleheim, a Nordic world along the spiral filled with Bears, Wolves, and Ravens. They are rumors no more. Next month, we'll..."
 categories:
   - "MMORPG"
   - "Wizard101"
 tags:
   - "Grizzleheim"
+relatedPosts:
+  - url: "/2009/08/11/wizard101-i-met-harry-potter-in-grizzleheim/"
+    title: "Wizard101: I met Harry Potter in Grizzleheim!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/WizardGraphicalClient-2009-08-11-22-55-19-88.jpg"
+  - url: "/2009/07/07/wizard-101-why-crafting-is-broken-and-how-to-fix-it/"
+    title: "Wizard 101: Why crafting is broken, and how to fix it"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/w101station.jpg"
+  - url: "/2009/07/02/wizard-101-first-night-in-grizzleheim-crafting-secrets/"
+    title: "Wizard 101: First Night in Grizzleheim & Crafting Secrets"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/WizardGraphicalClient-2009-07-02-07-16-47-37.jpg"
+  - url: "/2009/06/30/wizard-101-grizzleheim-goes-live-july-1/"
+    title: "Wizard 101: Grizzleheim goes live July 1!"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/grizzleheim.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/grizzleheim.jpg"
 ---

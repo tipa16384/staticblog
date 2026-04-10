@@ -3,6 +3,7 @@ date: '2020-10-26T08:16:33-05:00'
 draft: false
 title: "Solasta: Crown of the Magister -- A fun but buggy mess in early access"
 author: "Tipa"
+disqusIdentifier: "2020/10/26/solasta-crown-of-the-magister-a-fun-but-buggy-mess-in-early-access"
 summary: "I am done with the early access content in Solasta: Crown of the Magister. I think Solasta did what it set out to do. It..."
 categories:
   - "Steam Games"
@@ -13,6 +14,19 @@ tags:
   - "RPG"
   - "Solasta"
   - "Steam"
+relatedPosts:
+  - url: "/2020/10/23/solasta-crown-of-the-magister-bringing-the-boom/"
+    title: "Solasta: Crown of the Magister -- Bringing the Boom"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/20201022225458_1.jpg"
+  - url: "/2020/10/22/solasta-crown-of-the-magister/"
+    title: "Solasta: Crown of the Magister"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/20201022065807_1.jpg"
+  - url: "/2022/05/02/restarting-in-valheim/"
+    title: "Restarting in Valheim"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/05/20220429225417_1.jpg"
+  - url: "/2021/08/03/ff1-continues-a-witch-a-dwarf-and-a-king-walk-into-a-bar/"
+    title: "FF1 Continues: A Witch, A Dwarf, and a King walk into a bar..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/laliho.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/20201025094236_1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/20201025094236_1.jpg"
 ---

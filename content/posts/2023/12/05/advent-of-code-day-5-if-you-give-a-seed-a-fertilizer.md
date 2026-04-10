@@ -3,6 +3,7 @@ date: '2023-12-05T22:37:57-05:00'
 draft: false
 title: "Advent of Code Day 5 -- If You Give A Seed A Fertilizer"
 author: "Tipa"
+disqusIdentifier: "2023/12/05/advent-of-code-day-5-if-you-give-a-seed-a-fertilizer"
 summary: "This can take no time at all or an eternity."
 categories:
   - "Advent of Code"
@@ -10,6 +11,19 @@ tags:
   - "Advent"
   - "AoC 2023"
   - "Python"
+relatedPosts:
+  - url: "/2023/12/06/advent-of-code-day-6-wait-for-it/"
+    title: "Advent of Code Day 6 -- Wait For It"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-06-20.55.25-A-whimsical-and-vibrant-scene-depicting-an-island-with-a-small-ferry-dock-and-numerous-toy-boats-ready-for-a-race.-The-island-is-surrounded-by-water-a.png"
+  - url: "/2023/12/22/advent-of-code-day-22-sand-slabs/"
+    title: "Advent of Code Day 22 -- Sand Slabs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/jenga.png"
+  - url: "/2023/12/21/advent-of-code-day-21-step-counter/"
+    title: "Advent of Code Day 21 -- Step Counter"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-21-20.59.37-Illustrate-a-whimsical-and-fantastical-scene-from-the-Advent-of-Code-puzzle-Step-Counter.-The-image-should-depict-an-Elf-in-a-vast-infinite-garden-.png"
+  - url: "/2023/12/20/advent-of-code-day-20-pulse-propogation/"
+    title: "Advent of Code Day 20 -- Pulse Propagation"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-20-16.57.44-Create-an-illustration-inspired-by-the-aesthetic-of-a-retro-sci-fi-movie-similar-to-Tron-avoiding-direct-references-or-copyrighted-elements.-Visualiz.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_A_Christmas_elf_tending_a_wide_variety_of_bizarre_looki_61e5db45-06f1-482c-9242-78720532164f.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_A_Christmas_elf_tending_a_wide_variety_of_bizarre_looki_61e5db45-06f1-482c-9242-78720532164f.png"
 ---

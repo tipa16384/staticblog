@@ -3,6 +3,7 @@ date: '2022-12-03T00:45:56-05:00'
 draft: false
 title: "Advent of Code 2022 Day 2 -- Rock Paper Scissors"
 author: "Tipa"
+disqusIdentifier: "2022/12/03/advent-of-code-2022-day-2-rock-paper-scissors"
 summary: "So I made it to day 2 of Advent of Code! Not entirely awake. I stayed up past midnight to solve it. I messed up..."
 categories:
   - "Advent of Code"
@@ -13,6 +14,19 @@ tags:
   - "Java"
   - "Python"
   - "Rock Paper Scissors"
+relatedPosts:
+  - url: "/2022/12/10/advent-of-code-day-10-cathode-ray-tube/"
+    title: "Advent of Code Day 10 -- Cathode-Ray Tube"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-10-19.36.37-A-woman-in-ragged-clothes-wearing-a-Christmas-hat-playing-a-video-game-in-the-jungle-by-Bob-Eggleton-detailed-and-intricate.png"
+  - url: "/2022/12/03/advent-of-code-day-3-rucksack-reorganization/"
+    title: "Advent of Code Day 3 -- Rucksack Reorganization"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/aoc2022.3.jpg"
+  - url: "/2022/12/01/advent-of-code-2022-day-1-calorie-counting/"
+    title: "Advent of Code 2022: Day 1 -- Calorie Counting"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/1-A_thousand_Tolkien_elves_with_pointy_ears_wearing_backpacks_full_of_snacks_trudging_through_a_tropic_Seed-4368197_Steps-100_Guidance-7.5.jpg"
+  - url: "/2022/12/11/advent-of-code-day-11-monkey-in-the-middle/"
+    title: "Advent of Code Day 11 -- Monkey in the Middle"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-11-16.50.33-A-woman-wearing-a-Christmas-hat-staring-at-a-monkey-in-a-jungle-by-Bob-Eggleton-detailed-and-intricate.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/Two_elves_playing_rock_paper_scissors_in_an_abandoned_jungle_village__by_Bob_Eggleton__Detailed_and__Seed-6967716_Steps-175_Guidance-7.5.jpeg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/Two_elves_playing_rock_paper_scissors_in_an_abandoned_jungle_village__by_Bob_Eggleton__Detailed_and__Seed-6967716_Steps-175_Guidance-7.5.jpeg"
 ---

@@ -3,12 +3,26 @@ date: '2013-04-02T06:17:08-05:00'
 draft: false
 title: "Game Dump: DCUO, EQ2, GW2"
 author: "Tipa"
+disqusIdentifier: "2013/04/02/game-dump-dcuo-eq2-gw2"
 summary: "Didn't take any good screen shots in our Sunday game of DC Universe Online, which was kind of a downer, because it was a really..."
 categories:
   - "DC Universe Online"
   - "EverQuest"
   - "Guild Wars"
   - "MMORPG"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2023/08/16/a-tribute-to-creators/"
+    title: "From Hydaelyn to Veeshan: A Tribute to Creators"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/hydaelyn.webp"
+  - url: "/2011/01/16/daily-blogroll-116-lazy-sunday-edition/"
+    title: "Daily Blogroll 1/16 -- Lazy Sunday edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/teevee.png"
+  - url: "/2009/09/17/daily-blogroll-917-kanye-edition/"
+    title: "Daily Blogroll 9/17 - Kanye edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/kanye.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/04/DCGame-2013-03-31-22-14-03-99-480x270.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/04/DCGame-2013-03-31-22-14-03-99-480x270.jpg"
 ---

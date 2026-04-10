@@ -3,6 +3,7 @@ date: '2008-07-12T00:20:05-05:00'
 draft: false
 title: "EQ: Ding dong, the Vox is dead."
 author: "Tipa"
+disqusIdentifier: "2008/07/12/eq-ding-dong-the-vox-is-dead"
 summary: "I haven't written up a raid report for YEARS. But I absolutely have never been as happy to do so. Tonight, ten people, level 42..."
 categories:
   - "EverQuest"
@@ -10,6 +11,19 @@ categories:
   - "Nostalgia the Guild"
 tags:
   - "Lady Vox"
+relatedPosts:
+  - url: "/2008/08/02/eq-the-last-dragons/"
+    title: "EQ: The Last Dragons"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/eqgame-2008-08-01-20-57-03-54.jpg"
+  - url: "/2008/07/19/eq-a-night-of-terror/"
+    title: "EQ: A Night of Terror."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/eqgame-2008-07-18-20-35-20-29.jpg"
+  - url: "/2020/05/13/everquest-bones-everywhere/"
+    title: "EverQuest: Bones Everywhere."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/eqgame-2020-05-13-06-57-41-85.jpg"
+  - url: "/2009/06/16/welcome-to-mayong-everquests-5150-server/"
+    title: "Welcome to Mayong, EverQuest's 51/50 server"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/mayong.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/voxdead.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/voxdead.jpg"
 ---

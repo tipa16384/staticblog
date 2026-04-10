@@ -3,6 +3,7 @@ date: '2020-04-28T11:31:24-05:00'
 draft: false
 title: "Favorite Game Series #3: Dragon Age"
 author: "Tipa"
+disqusIdentifier: "2020/04/28/favorite-game-series-3-dragon-age"
 summary: "I've been back and forth on this entry. Whether it should be this high on the list. Whether it should even be on this list...."
 categories:
   - "Steam Games"
@@ -12,6 +13,19 @@ tags:
   - "Facebook"
   - "Favorite Game Series"
   - "Roman Numeral III"
+relatedPosts:
+  - url: "/2010/09/07/dragon-age-awakening-good-but-bioware-good/"
+    title: "Dragon Age: Awakening. Good, but Bioware-good?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/DAOrigins-2010-09-05-14-28-18-23-480x385.jpg"
+  - url: "/2020/05/06/favorite-game-series-1-final-fantasy/"
+    title: "Favorite Game Series #1: Final Fantasy"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/FFFridge.png"
+  - url: "/2024/12/30/best-of-2024-single-player-rpgs/"
+    title: "Best of 2024: Single-Player RPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/bestrpgbanner.png"
+  - url: "/2024/11/21/dragon-age-the-veilguard-finished/"
+    title: "Dragon Age: the Veilguard finished"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/banner2.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/04/DragonAgeInquisition-2014-11-23-19-25-40-81-1024x819.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/04/DragonAgeInquisition-2014-11-23-19-25-40-81-1024x819.jpg"
 ---

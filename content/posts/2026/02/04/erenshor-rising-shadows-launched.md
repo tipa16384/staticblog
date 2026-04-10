@@ -3,6 +3,7 @@ date: '2026-02-04T08:43:03-05:00'
 draft: false
 title: "Erenshor \"Rising Shadows\" launched!"
 author: "Tipa"
+disqusIdentifier: "2026/02/04/erenshor-rising-shadows-launched"
 summary: "And I can finally join a guild! With a guild hall, even! Take that, World of Warcraft."
 categories:
   - "Erenshor"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "exiles of norrath"
   - "rising shadows"
+relatedPosts:
+  - url: "/2026/01/21/erenshor-v0-3-rising-shadows/"
+    title: 'Erenshor v0.3: "Rising Shadows"'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/20260120210322_1.jpg"
+  - url: "/2025/11/29/return-to-erenshor/"
+    title: "Return to Erenshor"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/1-20251128220305_1.jpg"
+  - url: "/2025/02/18/wots-uh-the-deal/"
+    title: "Wot's... Uh the Deal?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/02/tipachu_A_scene_from_a_city_with_an_unpainted_metal_statue_of_1f26c4d5-89d9-43e1-98ae-b76a59f62d92_2.png"
+  - url: "/2025/02/11/erenshor-oh-by-the-way-which-one-is-bink/"
+    title: "Erenshor: Oh, by the way, which one is Bink?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/02/1-20250210223651_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/20260204080313_1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/20260204080313_1.jpg"
 ---

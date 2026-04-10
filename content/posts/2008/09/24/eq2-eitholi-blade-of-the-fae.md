@@ -3,6 +3,7 @@ date: '2008-09-24T12:00:52-05:00'
 draft: false
 title: "EQ2: Eitholi, Blade of the Fae"
 author: "Tipa"
+disqusIdentifier: "2008/09/24/eq2-eitholi-blade-of-the-fae"
 summary: "What takes two hours to do, results in a blade nobody will use, and no status at all?..."
 categories:
   - "EverQuest"
@@ -11,6 +12,19 @@ tags:
   - "Eitholi Blade of the Fae"
   - "Ettie"
   - "The Wind That Speaks Her Name"
+relatedPosts:
+  - url: "/2008/10/24/eq2-the-loping-plains-haunted-house-scared-yet/"
+    title: "EQ2: The Loping Plains Haunted House. Scared yet?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/ghosts.jpg"
+  - url: "/2009/01/19/lord-of-the-rings-online-hobbit-vs-troll/"
+    title: "Lord of the Rings Online: Hobbit vs Troll"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/01/lotroclient-2009-01-18-10-50-14-05.jpg"
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2024/10/21/evercraft-online-the-unholy-child-of-eq-and-minecraft/"
+    title: "EverCraft Online: The Unholy Child of EQ and MineCraft"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/evercraft-banner.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/everquest2-2008-09-24-01-28-29-69.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/everquest2-2008-09-24-01-28-29-69.jpg"
 ---

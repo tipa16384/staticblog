@@ -3,6 +3,7 @@ date: '2008-07-27T11:43:22-05:00'
 draft: false
 title: "EQ: Haffer Ranger saves Norrath, film at 11."
 author: "Tipa"
+disqusIdentifier: "2008/07/27/eq-haffer-ranger-saves-norrath-film-at-11"
 summary: "Well, anyway, if you believe what NPCs tell you, then I am solely responsible for breaking Hate's grip on the natural world and letting fields..."
 categories:
   - "EverQuest"
@@ -12,6 +13,19 @@ tags:
   - "Earthcaller"
   - "Ranger"
   - "Swiftwind"
+relatedPosts:
+  - url: "/2011/03/01/rift-synergies/"
+    title: "Rift: Synergies"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/rift-2011-03-01-07-36-26-62-480x384.jpg"
+  - url: "/2020/05/13/everquest-bones-everywhere/"
+    title: "EverQuest: Bones Everywhere."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/eqgame-2020-05-13-06-57-41-85.jpg"
+  - url: "/2009/06/16/welcome-to-mayong-everquests-5150-server/"
+    title: "Welcome to Mayong, EverQuest's 51/50 server"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/mayong.jpg"
+  - url: "/2009/04/17/happy-10th-birthday-everquest/"
+    title: "Happy 10th Birthday, EverQuest!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/eq10-2.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/eqgame-2008-07-27-11-08-37-31.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/eqgame-2008-07-27-11-08-37-31.jpg"
 ---

@@ -3,12 +3,26 @@ date: '2020-05-22T03:25:51-05:00'
 draft: false
 title: "Game Night: Set a Watch"
 author: "Tipa"
+disqusIdentifier: "2020/05/22/game-night-set-a-watch"
 summary: "We've been doing a family game night where my boyfriend and myself, my son, my daughter and her family all get together to play board..."
 categories:
   - "Game Night"
   - "Gloomhaven"
   - "Set a Watch"
   - "Tabletop Games"
+relatedPosts:
+  - url: "/2021/10/15/looking-for-mr-kickstarter/"
+    title: "Looking for Mr. Kickstarter"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/cologne.jpg"
+  - url: "/2026/02/10/frosthaven-9-glowing-catacombs/"
+    title: "Frosthaven #9: Glowing Catacombs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/1-IMG_5665-scaled.jpg"
+  - url: "/2025/08/26/frosthaven-scenario-10-crystal-enclosure/"
+    title: "Frosthaven Scenario #10: Crystal Enclosure"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5344-scaled.jpg"
+  - url: "/2025/06/24/frosthaven-7-the-edge-of-the-world/"
+    title: "Frosthaven #7: The Edge of the World"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/IMG_5196-1-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/setawatch.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/setawatch.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2020-06-29T11:59:11-05:00'
 draft: false
 title: "ABP -- Always Be Printing, Always Be Painting"
 author: "Tipa"
+disqusIdentifier: "2020/06/29/abp-always-be-printing-always-be-painting"
 summary: "We're working as hard as we can to be able to play Gloomhaven: Jaws of the Lion the way we want to play it --..."
 categories:
   - "3D Printing"
@@ -11,6 +12,19 @@ tags:
   - "Creality Ender 3 Pro"
   - "Elegoo Mars"
   - "Jaws of the Lion"
+relatedPosts:
+  - url: "/2020/06/02/octomini-project-day-3-the-250-mini/"
+    title: "Octomini Project Day 3: The $250 mini"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/1-IMG_1622.jpg"
+  - url: "/2022/07/19/gloomhaven-jaws-of-the-lion-finished/"
+    title: "Gloomhaven Jaws of the Lion: Finished."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/jotlbox.png"
+  - url: "/2020/11/23/game-night-jaws-of-the-lion/"
+    title: "Game Night: Jaws of the Lion"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/11/2-IMG_2014.jpg"
+  - url: "/2020/10/16/game-night-gloomhaven-jaws-of-the-lion-a-ritual-in-stone/"
+    title: "Game Night: Gloomhaven, Jaws of the Lion, A Ritual in Stone"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/1-IMG_1959.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/1-IMG_1698.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/1-IMG_1698.jpg"
 ---

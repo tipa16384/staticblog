@@ -3,12 +3,26 @@ date: '2020-10-24T14:56:37-05:00'
 draft: false
 title: "Japanese Mah-jong for the Switch"
 author: "Tipa"
+disqusIdentifier: "2020/10/24/japanese-mah-jong-for-the-switch"
 summary: "I'm not as big a collector of Mahjong games as my boyfriend is; he has a really impressive collection of both import and domestic games..."
 categories:
   - "Nintendo Switch"
   - "Switch"
 tags:
   - "Mahjong"
+relatedPosts:
+  - url: "/2020/08/28/ffxiv-a-match-of-mahjong/"
+    title: "FFXIV: A Match of Mahjong"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-Fullscreen-capture-8282020-90402-PM.jpg"
+  - url: "/2020/08/26/game-night-mahjong/"
+    title: "Game Night: Mahjong"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-IMG_1763-1.jpg"
+  - url: "/2021/09/13/quick-look-persona-5-strikers/"
+    title: "Quick Look: Persona 5 Strikers"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/2021082320223000-1ED6A785ADE38F04450C188FF9531338.jpg"
+  - url: "/2021/07/20/rise-eterna/"
+    title: "Rise Eterna"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/2021051618021700-BA2A6D95681540D14D17CA98DC5AFB99.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/japanese-mah-jongg-switch-screenshot01.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/japanese-mah-jongg-switch-screenshot01.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2025-08-14T08:00:00-05:00'
 draft: false
 title: "Micro Hero: Hercules"
 author: "Tipa"
+disqusIdentifier: "2025/08/14/micro-hero-hercules"
 summary: "Hercules has to complete a dozen tough jobs to atone for killing his family. Only you can help him in this solo deckbuilding game!"
 categories:
   - "Blaugust"
@@ -13,6 +14,19 @@ tags:
   - "Deckbuilding"
   - "Hercules"
   - "Solo"
+relatedPosts:
+  - url: "/2026/03/25/preview-topdeck-automat/"
+    title: "Preview: Topdeck Automat"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-24-220403.png"
+  - url: "/2020/05/29/game-night-game-of-thrones-the-card-game/"
+    title: "Game Night: Game of Thrones: the Card Game"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/lordsandladies.jpg"
+  - url: "/2021/08/27/shadowverse-showdown/"
+    title: "Shadowverse Showdown!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/shadowverselogo.png"
+  - url: "/2021/08/06/terraforming-mars-ares-expedition-review/"
+    title: "Terraforming Mars: Ares Expedition Review"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/fbbf63001a2354f8bc6e89c58b4a21f1_original.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5324-EDIT-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5324-EDIT-scaled.jpg"
 ---

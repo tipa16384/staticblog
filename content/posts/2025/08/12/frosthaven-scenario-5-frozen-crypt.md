@@ -3,11 +3,25 @@ date: '2025-08-12T08:18:15-05:00'
 draft: false
 title: "Frosthaven Scenario #5: Frozen Crypt"
 author: "Tipa"
+disqusIdentifier: "2025/08/12/frosthaven-scenario-5-frozen-crypt"
 summary: "Our heroes head back to the mainland to take on a race against time..."
 categories:
   - "Frosthaven"
   - "Game Night"
   - "Tabletop Games"
+relatedPosts:
+  - url: "/2026/03/04/frosthaven-104-ruins-of-the-solstice-and-heroquest-first-light-sound-the-hearthkin-horn/"
+    title: "Frosthaven #104: Ruins of the Solstice and HeroQuest First Light: Sound the Hearthkin Horn"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/IMG_5701-scaled.jpg"
+  - url: "/2026/02/10/frosthaven-9-glowing-catacombs/"
+    title: "Frosthaven #9: Glowing Catacombs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/1-IMG_5665-scaled.jpg"
+  - url: "/2025/09/25/frosthaven-18-crystal-fields/"
+    title: "Frosthaven #18 -- Crystal Fields"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/frosthaven-20250924.png"
+  - url: "/2025/09/11/frosthaven-114-work-freeze/"
+    title: "Frosthaven #114: Work Freeze"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/1-IMG_5360-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5317-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5317-scaled.jpg"
 ---

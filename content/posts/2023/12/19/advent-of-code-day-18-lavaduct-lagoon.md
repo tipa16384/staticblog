@@ -3,6 +3,7 @@ date: '2023-12-19T07:00:00-05:00'
 draft: false
 title: "Advent of Code Day 18 -- Lavaduct Lagoon"
 author: "Tipa"
+disqusIdentifier: "2023/12/19/advent-of-code-day-18-lavaduct-lagoon"
 summary: "We had game night tonight, more HeroQuest (yay!), so I didn't have a lot of time to work on this...."
 categories:
   - "Advent of Code"
@@ -10,6 +11,19 @@ tags:
   - "AoC 2023"
   - "Elf"
   - "Lava"
+relatedPosts:
+  - url: "/2023/12/17/advent-of-code-day-17-clumsy-crucible/"
+    title: "Advent of Code Day 17 -- Clumsy Crucible"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-17-16.23.47-Illustration-for-an-Advent-of-Code-puzzle-with-a-16-10-aspect-ratio.-The-scene-is-a-birds-eye-view-of-Gear-Island-half-empty-and-half-a-bustling-fac.png"
+  - url: "/2023/12/16/advent-of-code-day-16-the-floor-will-be-lava/"
+    title: "Advent of Code Day 16 -- The Floor Will Be Lava"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-16-10.31.52-A-reindeer-leading-the-way-into-the-depths-of-a-giant-cave-that-serves-as-a-Lava-Production-Facility.-The-caves-walls-doorways-and-floor-are-all-na.png"
+  - url: "/2023/12/21/advent-of-code-day-21-step-counter/"
+    title: "Advent of Code Day 21 -- Step Counter"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-21-20.59.37-Illustrate-a-whimsical-and-fantastical-scene-from-the-Advent-of-Code-puzzle-Step-Counter.-The-image-should-depict-an-Elf-in-a-vast-infinite-garden-.png"
+  - url: "/2023/12/19/advent-of-code-day-19-aplenty/"
+    title: "Advent of Code Day 19 -- Aplenty"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-19-20.12.32-A-whimsical-and-detailed-illustration-set-on-Gear-Island-where-a-magical-workshop-is-bustling-with-activity.-Elves-dressed-in-colorful-attire-are-b.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-18-22.42.07-Illustration-for-an-Advent-of-Code-puzzle-with-a-16-10-aspect-ratio.-The-scene-shows-a-large-newly-constructed-lagoon-near-a-machine-parts-factory-on.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-18-22.42.07-Illustration-for-an-Advent-of-Code-puzzle-with-a-16-10-aspect-ratio.-The-scene-shows-a-large-newly-constructed-lagoon-near-a-machine-parts-factory-on.png"
 ---

@@ -3,6 +3,7 @@ date: '2008-08-26T20:36:20-05:00'
 draft: false
 title: "Stout Henry at the Market"
 author: "Tipa"
+disqusIdentifier: "2008/08/26/stout-henry-at-the-market"
 summary: "Stout Henry walked with a quick step toward Cotsberry Market, leading a beautiful brown mare. He looked up at the morning sun, adjusted his broad..."
 categories:
   - "Humor"
@@ -11,6 +12,19 @@ categories:
 tags:
   - "Not Funny"
   - "Stout Henry"
+relatedPosts:
+  - url: "/2008/08/21/stout-henry/"
+    title: "Stout Henry"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/stouthenry.jpg"
+  - url: "/2008/11/04/stout-henry-nanowrimo-edition-kneed-before-greed/"
+    title: "Stout Henry, NaNoWriMo edition: Kneed Before Greed"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/stouthenrynbg.jpg"
+  - url: "/2008/10/17/the-death-of-stout-henry/"
+    title: "The Death of Stout Henry"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/gallows.jpg"
+  - url: "/2008/10/08/stout-henry-goes-to-war/"
+    title: "Stout Henry goes to war"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/vgclient-2008-10-07-20-41-55-41.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/market2.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/market2.jpg"
 ---

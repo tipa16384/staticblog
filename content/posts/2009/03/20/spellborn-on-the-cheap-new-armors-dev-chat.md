@@ -3,6 +3,7 @@ date: '2009-03-20T19:06:25-05:00'
 draft: false
 title: "Spellborn on the cheap, new armors, dev chat"
 author: "Tipa"
+disqusIdentifier: "2009/03/20/spellborn-on-the-cheap-new-armors-dev-chat"
 summary: "Just finished listening in on the Spellborn dev chat/'webinar'. Lots of interesting discussion, some of which is after the break...."
 categories:
   - "Chronicles of Spellborn"
@@ -14,6 +15,19 @@ tags:
   - "Coins"
   - "Developer Chat"
   - "High House"
+relatedPosts:
+  - url: "/2009/04/24/acclaim-bonus-coin-weekend-april-24-26/"
+    title: "Acclaim Bonus Coin Weekend April 24-26"
+    thumbnailImage: ""
+  - url: "/2009/02/28/spellborn-developer-chat-transcript-part-1/"
+    title: "Spellborn Developer Chat transcript, Part 1"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/sb_client-2009-01-02-00-54-38-24.jpg"
+  - url: "/2009/03/16/chronicles-of-spellborn-the-skinshifter/"
+    title: "Chronicles of Spellborn -- the Skinshifter"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/sb_client-2009-03-14-13-56-36-85.jpg"
+  - url: "/2009/03/06/acclaim-spellborn-client-available-for-download/"
+    title: "Acclaim Spellborn client available for download"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/armor1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/armor1.jpg"
 ---

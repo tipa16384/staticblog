@@ -3,12 +3,26 @@ date: '2008-11-14T19:42:04-05:00'
 draft: false
 title: "More on Spellborn's North American launch"
 author: "Tipa"
+disqusIdentifier: "2008/11/14/more-on-spellborns-north-american-launch"
 summary: "Commenter Ardenya wrote up a fantastic description of how Spellborn will be published in Europe (aside from the UK and the other Commonwealth countries (Australia,..."
 categories:
   - "Chronicles of Spellborn"
   - "MMORPG"
 tags:
   - "Acclaim"
+relatedPosts:
+  - url: "/2010/08/19/chronicles-of-spellborn-anatomy-of-a-failure/"
+    title: "Chronicles of Spellborn: Anatomy of a Failure"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/sb_client-2010-08-18-19-49-21-19-480x270.jpg"
+  - url: "/2009/04/24/acclaim-bonus-coin-weekend-april-24-26/"
+    title: "Acclaim Bonus Coin Weekend April 24-26"
+    thumbnailImage: ""
+  - url: "/2009/03/20/spellborn-on-the-cheap-new-armors-dev-chat/"
+    title: "Spellborn on the cheap, new armors, dev chat"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/armor1.jpg"
+  - url: "/2009/03/20/chronicles-of-spellborn-enters-open-beta/"
+    title: "Chronicles of Spellborn enters open beta!"
+    thumbnailImage: ""
 ---
 Commenter Ardenya wrote up a fantastic description of how Spellborn will be published in Europe (aside from the UK and the other Commonwealth countries (Australia,...
 <!--more-->

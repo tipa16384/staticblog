@@ -3,6 +3,7 @@ date: '2010-10-01T07:02:49-05:00'
 draft: false
 title: "Star Trek Online, Minecraft, Treasure Abyss"
 author: "Tipa"
+disqusIdentifier: "2010/10/01/star-trek-online-minecraft-treasure-abyss"
 summary: "[..."
 categories:
   - "Facebook Games"
@@ -11,6 +12,19 @@ categories:
   - "Other Games"
   - "Star Trek"
   - "Treasure Abyss"
+relatedPosts:
+  - url: "/2011/05/13/daily-blogroll-513-truth-in-advertising-edition/"
+    title: "Daily Blogroll 5/13: Truth in Advertising Edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/05/Fullscreen-capture-5112011-61851-AM-480x308.jpg"
+  - url: "/2010/10/29/halloween-around-the-multiverse/"
+    title: "Halloween around the multiverse...."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/STOPumpkin.jpg"
+  - url: "/2011/09/26/treasure-abyss-closes-its-dungeons/"
+    title: "Treasure Abyss closes its dungeons"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/09/Fullscreen-capture-9232011-74807-AM-480x380.jpg"
+  - url: "/2011/01/01/treasure-abyss-the-enchanted-tower-walk-through/"
+    title: "Treasure Abyss: The Enchanted Tower (walk-through)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/chrome-2011-01-01-08-54-41-97-480x384.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/javaw-2010-09-28-21-56-46-97.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/javaw-2010-09-28-21-56-46-97.jpg"
 ---

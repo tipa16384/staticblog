@@ -3,6 +3,7 @@ date: '2024-08-02T07:00:00-05:00'
 draft: false
 title: "Legends of Kesmai: The first MMORPG"
 author: "Tipa"
+disqusIdentifier: "2024/08/02/legends-of-kesmai-the-first-mmorpg"
 summary: "I love old school, retro games. Maybe not quite THAT retro, though..."
 categories:
   - "Blaugust"
@@ -13,6 +14,19 @@ tags:
   - "Compuserve"
   - "Island of Kesmai"
   - "Legends of Kesmai"
+relatedPosts:
+  - url: "/2024/08/28/erenshor-everquest-for-soloers/"
+    title: "Erenshor -- EverQuest for soloers"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/erenshotheader.jpg"
+  - url: "/2024/08/24/nexus-kingdom-of-the-wind/"
+    title: "Nexus: Kingdom of the Wind"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/nexus-afk.png"
+  - url: "/2024/08/19/weekend-gaming-ship-of-heroes-persona-5-tactica-giants-citizen-kabuto/"
+    title: "Weekend Gaming: Ship of Heroes, Persona 5 Tactica, Giants Citizen Kabuto"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/1-20240819074418_1.jpg"
+  - url: "/2024/09/02/blaugust-2024-is-in-the-bag/"
+    title: "Blaugust 2024 is in the bag!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/07/blaugust-2024.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/Screenshot-2024-08-02-000358.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/Screenshot-2024-08-02-000358.png"
 ---

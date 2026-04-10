@@ -3,11 +3,25 @@ date: '2011-02-13T13:03:59-05:00'
 draft: false
 title: "EQ2: How to win at Fortune League"
 author: "Tipa"
+disqusIdentifier: "2011/02/13/eq2-how-to-win-at-fortune-league"
 summary: "A couple of weeks ago, I started playing Fortune League on Facebook with absolutely no idea what I was doing. Or rather, with all the..."
 categories:
   - "Facebook Games"
 tags:
   - "Fortune League"
+relatedPosts:
+  - url: "/2011/01/10/fortune-league-or-wall-street-raiders/"
+    title: "Fortune League, or, Wall Street Raiders"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/Fullscreen-capture-1102011-100610-PM-456x480.jpg"
+  - url: "/2013/09/10/omg-r-u-still-around/"
+    title: "OMG, R U STILL AROUND?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/09/GameClient-2013-09-02-20-38-42-058-480x384.jpg"
+  - url: "/2011/11/22/how-castleville-lost-me/"
+    title: "How Castleville Lost Me."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/11/Fullscreen-capture-11192011-93944-AM-480x384.jpg"
+  - url: "/2011/10/12/daily-blogroll-oct-12-no-time-for-heroes-edition/"
+    title: "Daily Blogroll Oct 12: No time for heroes edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/castleville.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/Fullscreen-capture-2132011-120658-PM-480x423.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/Fullscreen-capture-2132011-120658-PM-480x423.jpg"
 ---

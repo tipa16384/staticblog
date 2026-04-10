@@ -3,6 +3,7 @@ date: '2020-06-03T11:52:55-05:00'
 draft: false
 title: "EverQuest 10-12: Stepping outside Nektulos"
 author: "Tipa"
+disqusIdentifier: "2020/06/03/everquest-10-12-stepping-outside-nektulos"
 summary: "It's a week since Aradune opened. Raid guilds have the planes of Hate and Fear on lockdown. Naggy died last night; probably Vox has died,..."
 categories:
   - "EverQuest"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Aradune"
   - "TLP"
+relatedPosts:
+  - url: "/2020/06/20/everquest-third-wave-adventuring-in-unrest/"
+    title: "EverQuest: Third Wave Adventuring in Unrest"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/eqgame-2020-06-19-22-46-27-98.jpg"
+  - url: "/2020/06/19/squire-wimbley-has-some-mighty-fine-hide/"
+    title: "Squire Wimbley has some mighty fine hide"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/1-eqgame-2020-06-19-07-59-23-14.jpg"
+  - url: "/2020/06/17/im-still-playing-everquest-for-some-reason/"
+    title: "I'm still playing EverQuest for some reason..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/1-eqgame-2020-06-17-08-01-40-13.jpg"
+  - url: "/2020/06/10/the-end-of-the-aradune-experiment/"
+    title: "The End of the Aradune Experiment"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/1-eqgame-2020-06-10-06-33-47-96.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/1-eqgame-2020-06-01-21-51-52-88.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/1-eqgame-2020-06-01-21-51-52-88.jpg"
 ---

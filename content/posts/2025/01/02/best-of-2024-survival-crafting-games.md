@@ -3,6 +3,7 @@ date: '2025-01-02T08:22:08-05:00'
 draft: false
 title: "Best of 2024: Survival Crafting Games"
 author: "Tipa"
+disqusIdentifier: "2025/01/02/best-of-2024-survival-crafting-games"
 summary: "If you've ever punched a tree, you've played a survival crafting game. There were a lot of these in 2024. Here's the ones I played."
 categories:
   - "Palia"
@@ -11,6 +12,19 @@ categories:
   - "Valheim"
 tags:
   - "Nightingale"
+relatedPosts:
+  - url: "/2025/07/01/palworld-does-what-nintendont-again/"
+    title: "Palworld Does What Nintendon't. Again."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/drbrawngenderclinic.png"
+  - url: "/2024/02/18/palworld-is-a-thing-that-happened-i-guess/"
+    title: "Palworld is a thing that happened, I guess"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/02/swifty.png"
+  - url: "/2024/01/31/palworld-vandal-hearts-hons-vr-lenses/"
+    title: "Palworld, Vandal Hearts, Hons VR Lenses"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/zoe.png"
+  - url: "/2024/06/17/valheim-the-endless-corpse-run/"
+    title: "Valheim: The Endless Corpse Run"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/06/Valheim-Screenshot-2024.06.15-20.50.56.55-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/survivalbanner.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/survivalbanner.png"
 ---

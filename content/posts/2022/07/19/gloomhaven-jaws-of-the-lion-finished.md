@@ -3,6 +3,7 @@ date: '2022-07-19T23:19:23-05:00'
 draft: false
 title: "Gloomhaven Jaws of the Lion: Finished."
 author: "Tipa"
+disqusIdentifier: "2022/07/19/gloomhaven-jaws-of-the-lion-finished"
 summary: "It took us a little over two years to play through the twenty-five scenarios of Jaws of the Lion. But we enjoyed every single one..."
 categories:
   - "3D Printing"
@@ -12,6 +13,19 @@ categories:
   - "Terraforming Mars"
 tags:
   - "Jaws of the Lion"
+relatedPosts:
+  - url: "/2020/11/23/game-night-jaws-of-the-lion/"
+    title: "Game Night: Jaws of the Lion"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/11/2-IMG_2014.jpg"
+  - url: "/2020/10/16/game-night-gloomhaven-jaws-of-the-lion-a-ritual-in-stone/"
+    title: "Game Night: Gloomhaven, Jaws of the Lion, A Ritual in Stone"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/1-IMG_1959.jpg"
+  - url: "/2020/09/11/game-night-jaws-of-the-lion-the-black-ship/"
+    title: "Game Night: Jaws of the Lion, the Black Ship"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/1-IMG_1908.jpg"
+  - url: "/2020/08/14/game-night-gloomhaven-jaws-of-the-lion/"
+    title: "Game Night: Gloomhaven, Jaws of the Lion"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-IMG_1822.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/jotlbox.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/jotlbox.png"
 ---

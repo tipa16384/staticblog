@@ -3,10 +3,24 @@ date: '2008-10-17T13:42:28-05:00'
 draft: false
 title: "Sony cravenly succumbs to its fear of religious expression."
 author: "Tipa"
+disqusIdentifier: "2008/10/17/sony-cravenly-succumbs-to-its-fear-of-religious-expression"
 summary: "With EverQuest's expansion, LittleBigPlanet and Rock Band 2 for the PS3 all launching on the same day, deciding what game to PLAY would just be..."
 categories:
   - "Littlebigplanet"
   - "Other Games"
+relatedPosts:
+  - url: "/2008/11/12/littlebigplanet-level-design-issues/"
+    title: "LittleBigPlanet level design issues"
+    thumbnailImage: ""
+  - url: "/2008/11/10/wizard-friends-and-littlebigplanet-mazes/"
+    title: "Wizard Friends and LittleBigPlanet Mazes"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-10-00-53-52-28.jpg"
+  - url: "/2008/11/07/thursday-gaming-lbp-eq2-and-w101-again/"
+    title: "Thursday gaming: LBP, EQ2 and W101... again."
+    thumbnailImage: ""
+  - url: "/2008/11/03/playing-second-life/"
+    title: "Playing Second Life"
+    thumbnailImage: ""
 ---
 With EverQuest's expansion, LittleBigPlanet and Rock Band 2 for the PS3 all launching on the same day, deciding what game to PLAY would just be...
 <!--more-->

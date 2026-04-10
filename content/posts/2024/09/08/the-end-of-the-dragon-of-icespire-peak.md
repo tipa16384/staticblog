@@ -3,6 +3,7 @@ date: '2024-09-08T08:00:00-05:00'
 draft: false
 title: "The End of the Dragon of Icespire Peak"
 author: "Tipa"
+disqusIdentifier: "2024/09/08/the-end-of-the-dragon-of-icespire-peak"
 summary: "Our party takes on the white dragon, Cryovein, in a tense fortress battle, but the victory feels surprisingly unremarkable."
 categories:
   - "Dungeon Crawl Classics"
@@ -11,6 +12,19 @@ categories:
   - "Tabletop Games"
 tags:
   - "Icespire Peak"
+relatedPosts:
+  - url: "/2024/07/24/dungeon-crawl-classics-ttrpg-survival-of-the-fittest/"
+    title: "Dungeon Crawl Classics TTRPG: Survival of the Fittest"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/07/dccbanner.png"
+  - url: "/2024/08/12/dd-i-no-we-have-a-white-dragon-problem/"
+    title: "D&amp;D: I -- no, WE -- have a white dragon problem"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_4558-EDIT-scaled.jpg"
+  - url: "/2024/08/14/painting-the-white-dragon/"
+    title: "Painting the White Dragon"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/dragoncura.png"
+  - url: "/2024/08/03/more-confessions-of-a-kickstarter-superbacker/"
+    title: "More Confessions of a Kickstarter Superbacker"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/superbacker.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/1-IMG_4688.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/1-IMG_4688.jpg"
 ---

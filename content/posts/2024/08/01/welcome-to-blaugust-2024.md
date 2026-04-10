@@ -3,10 +3,24 @@ date: '2024-08-01T07:00:00-05:00'
 draft: false
 title: "Welcome to Blaugust, 2024!"
 author: "Tipa"
+disqusIdentifier: "2024/08/01/welcome-to-blaugust-2024"
 summary: "Shout out to Belghast for all of his incredibly hard and professional work to bring all these people together to celebrate the lost art of blogging! We don't deserve him."
 categories:
   - "Blaugust"
   - "Blaugust 2024"
+relatedPosts:
+  - url: "/2024/09/02/blaugust-2024-is-in-the-bag/"
+    title: "Blaugust 2024 is in the bag!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/07/blaugust-2024.png"
+  - url: "/2024/08/31/my-california/"
+    title: "My California"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_4623-scaled.jpeg"
+  - url: "/2024/08/29/going-to-california/"
+    title: "Going to California"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_4594-scaled.jpeg"
+  - url: "/2024/08/28/erenshor-everquest-for-soloers/"
+    title: "Erenshor -- EverQuest for soloers"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/erenshotheader.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/07/blaugust-2024.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/07/blaugust-2024.png"
 ---

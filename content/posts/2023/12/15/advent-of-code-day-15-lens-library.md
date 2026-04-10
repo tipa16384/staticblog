@@ -3,6 +3,7 @@ date: '2023-12-15T21:02:37-05:00'
 draft: false
 title: "Advent of Code Day 15 -- Lens Library"
 author: "Tipa"
+disqusIdentifier: "2023/12/15/advent-of-code-day-15-lens-library"
 summary: "The lack of hands is all that is keeping the world's reindeer from lasering everyone to death. Luckily, THIS reindeer has YOU. Beware."
 categories:
   - "Advent of Code"
@@ -11,6 +12,19 @@ tags:
   - "Hash"
   - "Laser"
   - "Reindeer"
+relatedPosts:
+  - url: "/2023/12/16/advent-of-code-day-16-the-floor-will-be-lava/"
+    title: "Advent of Code Day 16 -- The Floor Will Be Lava"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-16-10.31.52-A-reindeer-leading-the-way-into-the-depths-of-a-giant-cave-that-serves-as-a-Lava-Production-Facility.-The-caves-walls-doorways-and-floor-are-all-na.png"
+  - url: "/2023/12/22/advent-of-code-day-22-sand-slabs/"
+    title: "Advent of Code Day 22 -- Sand Slabs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/jenga.png"
+  - url: "/2023/12/21/advent-of-code-day-21-step-counter/"
+    title: "Advent of Code Day 21 -- Step Counter"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-21-20.59.37-Illustrate-a-whimsical-and-fantastical-scene-from-the-Advent-of-Code-puzzle-Step-Counter.-The-image-should-depict-an-Elf-in-a-vast-infinite-garden-.png"
+  - url: "/2023/12/20/advent-of-code-day-20-pulse-propogation/"
+    title: "Advent of Code Day 20 -- Pulse Propagation"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-20-16.57.44-Create-an-illustration-inspired-by-the-aesthetic-of-a-retro-sci-fi-movie-similar-to-Tron-avoiding-direct-references-or-copyrighted-elements.-Visualiz.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/aoc2023-15.jpeg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/aoc2023-15.jpeg"
 ---

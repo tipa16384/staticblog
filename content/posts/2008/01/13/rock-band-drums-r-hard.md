@@ -3,9 +3,23 @@ date: '2008-01-13T11:17:49-05:00'
 draft: false
 title: "Rock Band: Drums R Hard"
 author: "Tipa"
+disqusIdentifier: "2008/01/13/rock-band-drums-r-hard"
 summary: "Yeah, i know the song isn't THAT hard, and Stone Temple Pilots' \"Vasoline\" in the same set was a lot harder, and this is mostly..."
 categories:
   - "Rock Band"
+relatedPosts:
+  - url: "/2008/09/12/guitar-hero-world-tour-set-list/"
+    title: "Guitar Hero World Tour set list!"
+    thumbnailImage: ""
+  - url: "/2008/08/06/rock-band-live-on-tour-with-real-instruments/"
+    title: "Rock Band Live! On Tour! With real instruments!"
+    thumbnailImage: ""
+  - url: "/2008/07/17/rock-band-2-controllers-blur-the-line-between-real-band-and-fake-band/"
+    title: "Rock Band 2 controllers blur the line between real band and fake band"
+    thumbnailImage: ""
+  - url: "/2008/07/14/sigh-rock-band-2-set-list/"
+    title: "Sigh. Rock Band 2 set list."
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/stp60927.JPG"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/stp60927.JPG"
 ---

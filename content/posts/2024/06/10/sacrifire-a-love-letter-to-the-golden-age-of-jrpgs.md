@@ -3,6 +3,7 @@ date: '2024-06-10T07:00:00-05:00'
 draft: false
 title: "SacriFire: A love letter to the golden age of JRPGS"
 author: "Tipa"
+disqusIdentifier: "2024/06/10/sacrifire-a-love-letter-to-the-golden-age-of-jrpgs"
 summary: "Pixelated Milk's new game in development, SacriFire, dropped their open playtest this weekend. This is the first time that even the game's Kickstarter backers have..."
 categories:
   - "Action RPG"
@@ -13,6 +14,19 @@ tags:
   - "Sacrifire"
   - "Vagrant Story"
   - "Xenogears"
+relatedPosts:
+  - url: "/2021/08/29/the-kickstarter-addiction/"
+    title: "The Kickstarter Addiction"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/drz.jpg"
+  - url: "/2021/08/22/ff3-complete/"
+    title: "FF3 Complete!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210821223214_1.jpg"
+  - url: "/2021/08/17/ff3-eureka-and-the-cloud-of-darkness/"
+    title: "FF3 -- Eureka, and the Cloud of Darkness"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/20210816230414_1.jpg"
+  - url: "/2021/08/16/ff3-day-3-fangs-for-everything/"
+    title: "FF3, Day 3: Fangs for Everything"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210815094224_1-1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/06/1-Sacrifire-Screenshot-2024.06.09-13.15.40.32-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/06/1-Sacrifire-Screenshot-2024.06.09-13.15.40.32-scaled.jpg"
 ---

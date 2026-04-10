@@ -3,6 +3,7 @@ date: '2024-08-27T07:48:05-05:00'
 draft: false
 title: "Twitch Drops: Why?"
 author: "Tipa"
+disqusIdentifier: "2024/08/27/twitch-drops-why"
 summary: "It's an army of low-effort streamers playing commercials to hundreds of hidden browser tabs."
 categories:
   - "Blaugust"
@@ -11,6 +12,19 @@ categories:
   - "Palworld"
 tags:
   - "Twitch"
+relatedPosts:
+  - url: "/2024/08/16/could-this-be-the-end-of-palworld/"
+    title: "Could this be the end of Palworld?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/palworld-cheevs.png"
+  - url: "/2024/08/04/ultimate-victory-dominating-palworlds-challenging-endgame-raids/"
+    title: "Ultimate Victory: Dominating Palworld’s Challenging Endgame Raids"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/bellanoirultra.png"
+  - url: "/2022/09/01/32-bullets-new-first-person-shooter-game/"
+    title: 'Creating "32 Bullets" -- an AI adventure.'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/32bulletsbanner.png"
+  - url: "/2020/08/02/blaugust-2-everything-you-like-is-bad-and-you-should-feel-bad/"
+    title: "Blaugust #2: Everything You Like is Bad (and you should feel bad)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/you-like-bad-stuff-and-you-should-feel-bad.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/1-Palworld-Screenshot-2024.08.26-07.46.02.07.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/1-Palworld-Screenshot-2024.08.26-07.46.02.07.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2021-10-18T19:06:59-05:00'
 draft: false
 title: "I Burned Down a Rain Forest and All I Got Was This Stupid NFT"
 author: "Tipa"
+disqusIdentifier: "2021/10/18/i-burned-down-a-rain-forest-and-all-i-got-was-this-stupid-nft"
 summary: "DC Fandome said -- sign up and get a special NFT just for you! Tweet it, and get another one! Well, I'm just about to..."
 categories:
   - "Blockchain"
@@ -11,6 +12,19 @@ tags:
   - "DC Comics"
   - "Ethereum"
   - "Palm"
+relatedPosts:
+  - url: "/2023/02/10/if-a-buy-an-nft-that-art-is-mine-now-right/"
+    title: "If I buy an NFT, that art is mine now. Right?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/02/mylantern.png"
+  - url: "/2021/11/10/hodgepodge-games-crypto-and-nfts/"
+    title: "Hodgepodge: Games, Crypto and NFTs."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/senile.png"
+  - url: "/2021/11/01/cryptogaming-a-brief-adventure/"
+    title: "Cryptogaming: A Brief Adventure"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/CryptoDragons-a-week-later.jpg"
+  - url: "/2021/10/20/dragonereum-if-neopets-cost-7000/"
+    title: "Dragonereum: If NeoPets Cost $7,000"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/dragon-main-30501377.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/51k1w0ALNL.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/51k1w0ALNL.jpg"
 ---

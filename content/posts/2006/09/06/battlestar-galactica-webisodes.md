@@ -3,11 +3,25 @@ date: '2006-09-06T08:45:32-05:00'
 draft: false
 title: "Battlestar Galactica Webisodes"
 author: "Tipa"
+disqusIdentifier: "2006/09/06/battlestar-galactica-webisodes"
 summary: "I've been in and out of the SciFi Channel's website for the past couple of weeks working on my Who Wants to be a Superhero..."
 categories:
   - "Battlestar Galactica"
   - "Eureka"
   - "Sci Fi"
+relatedPosts:
+  - url: "/2006/07/28/dead-like-me-eureka-who-wants-to-be-a-superhero/"
+    title: "Dead Like Me, Eureka, Who Wants to be a Superhero?"
+    thumbnailImage: ""
+  - url: "/2006/07/19/eureka-all-icing-no-cake/"
+    title: "Eureka: All Icing, No Cake"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/images/triangle.png"
+  - url: "/2006/07/18/made-in-eureka/"
+    title: "Made In Eureka"
+    thumbnailImage: ""
+  - url: "/2008/04/20/battlestar-galactica-the-ties-that-bind/"
+    title: "Battlestar Galactica - the Ties that Bind"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2006/09/katie.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/09/katie.jpg"
 ---

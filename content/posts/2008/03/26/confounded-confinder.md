@@ -3,10 +3,24 @@ date: '2008-03-26T16:20:34-05:00'
 draft: false
 title: "Confounded Confinder!"
 author: "Tipa"
+disqusIdentifier: "2008/03/26/confounded-confinder"
 summary: "There's something supremely, unapologetically geeky about going to a science fiction convention or comic convention. I went to San Diego Comicon back in 2006 and..."
 categories:
   - "General"
   - "Sci Fi"
+relatedPosts:
+  - url: "/2015/09/13/beam-me-up/"
+    title: "Beam me up..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/09/1-Star-Trek-Me-1.jpg"
+  - url: "/2011/07/31/space-battleship-yamato-the-movie/"
+    title: "Space Battleship Yamato (the movie)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/07/wmplayer-2011-07-31-08-54-13-39-480x320.jpg"
+  - url: "/2008/07/22/save-the-middleman/"
+    title: "Save the Middleman!"
+    thumbnailImage: ""
+  - url: "/2008/07/09/the-middleblog/"
+    title: "The Middleblog"
+    thumbnailImage: ""
 ---
 There's something supremely, unapologetically geeky about going to a science fiction convention or comic convention. I went to San Diego Comicon back in 2006 and...
 <!--more-->

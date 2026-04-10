@@ -3,6 +3,7 @@ date: '2022-08-18T07:00:00-05:00'
 draft: false
 title: "Death Dealer 18 Wheeler"
 author: "Tipa"
+disqusIdentifier: "2022/08/18/death-dealer-18-wheeler"
 summary: "I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day..."
 categories:
   - "Blaugust"
@@ -12,6 +13,19 @@ tags:
   - "Craiyon"
   - "Dall-E 2"
   - "Gpt-3"
+relatedPosts:
+  - url: "/2022/08/30/blaugust-theme-week-lessons-learned/"
+    title: "Blaugust theme week: Lessons learned"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-30-23.00.58-35mm-long-range-photograph-of-a-woman-warrior-reading-a-book-while-sitting-against-a-sleeping-green-dragon-near-a-mountain-lake-pastel-colors-peacef.png"
+  - url: "/2022/08/26/1926-the-golden-age-of-aviation/"
+    title: "1926: The Golden Age of Aviation"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/goldenage26.png"
+  - url: "/2022/08/25/25-cents-the-age-of-the-arcade/"
+    title: "25 Cents: The Age of the Arcade"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-17-23.27.24-synthwave-a-wombat-dressed-in-a-pink-blazer-playing-an-arcade-machine-in-a-video-arcade.-the-picture-is-lit-only-by-the-glow-of-the-arcade-machines.-l.png"
+  - url: "/2022/08/21/21-reactions-chemical-chaos/"
+    title: "21 Reactions: Chemical Chaos"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-13-21.11.32-a-beaker-containing-multicolored-chemicals.-musical-notes-are-coming-out-of-the-mouth-of-the-beaker.-in-the-style-of-a-textbook-illustration..png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/craiyon_214800_An_armored_18_wheeler_is_blasting_its_way_through_a_wasteland__low_angle__acrylic_pai.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/craiyon_214800_An_armored_18_wheeler_is_blasting_its_way_through_a_wasteland__low_angle__acrylic_pai.png"
 ---

@@ -3,6 +3,7 @@ date: '2009-11-09T08:34:28-05:00'
 draft: false
 title: "Weekend Gaming: EVE, Torchlight, Dragon Age"
 author: "Tipa"
+disqusIdentifier: "2009/11/09/weekend-gaming-eve-torchlight-dragon-age"
 summary: "I'd promised myself I wasn't going to play Dragon Age: Origins until I'd finished Torchlight all the way through. Not that this was a huge..."
 categories:
   - "Dragon Age Origins"
@@ -10,6 +11,19 @@ categories:
   - "MMORPG"
   - "Other Games"
   - "Torchlight"
+relatedPosts:
+  - url: "/2009/05/08/daily-blogroll-58-darkfail-edition/"
+    title: "Daily Blogroll 5/8 -- Darkfail edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/darkfall.jpg"
+  - url: "/2012/10/11/game-log-pirate101-torchlight-2/"
+    title: "Game Log: Pirate101, Torchlight 2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-10-21-01-42-45-480x360.jpg"
+  - url: "/2009/11/02/weekend-gaming-torchlight-and-wizard101/"
+    title: "Weekend Gaming: Torchlight and Wizard101"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/11/Torchlight-2009-11-01-10-48-21-22.jpg"
+  - url: "/2009/05/13/daily-blogroll-513-going-rogue-edition/"
+    title: "Daily Blogroll 5/13 -- Going Rogue edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/angelatheangelic.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/11/Torchlight-2009-11-08-12-49-04-88.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/11/Torchlight-2009-11-08-12-49-04-88.jpg"
 ---

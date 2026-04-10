@@ -3,6 +3,7 @@ date: '2025-01-06T08:16:45-05:00'
 draft: false
 title: "I Know What I Did Last Weekend"
 author: "Tipa"
+disqusIdentifier: "2025/01/06/i-know-what-i-did-last-weekend"
 summary: "This weekend was a little time in a lot of games. There's a game or two in here you might not have heard of."
 categories:
   - "Baldur's Gate 3"
@@ -13,6 +14,19 @@ tags:
   - "Bardwood Grove"
   - "Fantasian Neo Dimension"
   - "Starvaders"
+relatedPosts:
+  - url: "/2025/01/27/i-know-what-i-did-last-weekend-2/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/drbrawn.png"
+  - url: "/2025/02/18/wots-uh-the-deal/"
+    title: "Wot's... Uh the Deal?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/02/tipachu_A_scene_from_a_city_with_an_unpainted_metal_statue_of_1f26c4d5-89d9-43e1-98ae-b76a59f62d92_2.png"
+  - url: "/2025/01/09/our-starvaders/"
+    title: "Our STAR*VADERS!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/KeyArt_920x430.png"
+  - url: "/2025/01/21/fantasian-neo-dimension-part-1/"
+    title: "FANTASIAN Neo Dimension (Part 1)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/FANTASIAN-Neo-Dimension_20250105160053-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/2025-1-6.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/2025-1-6.png"
 ---

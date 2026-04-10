@@ -3,6 +3,7 @@ date: '2010-02-19T08:20:10-05:00'
 draft: false
 title: "EVE, W101, WoW, STO... Sheesh!"
 author: "Tipa"
+disqusIdentifier: "2010/02/19/eve-w101-wow-sto-sheesh"
 summary: "I am playing too many MMOs, it's true... but there's some good gaming out there...."
 categories:
   - "EVE Online"
@@ -10,6 +11,19 @@ categories:
   - "Star Trek"
   - "Wizard101"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/08/10/daily-blogroll-810-thank-god-its-monday-edition/"
+    title: "Daily Blogroll 8/10 -- Thank God it's Monday edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/daddygirl.jpg"
+  - url: "/2009/08/04/daily-blogroll-84-lifetime-edition/"
+    title: "Daily Blogroll 8/4 -- Lifetime edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/lederhosenman.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/02/ishtar.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/02/ishtar.jpg"
 ---

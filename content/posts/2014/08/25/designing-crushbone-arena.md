@@ -3,6 +3,7 @@ date: '2014-08-25T07:31:21-05:00'
 draft: false
 title: "Designing \"Crushbone Arena\""
 author: "Tipa"
+disqusIdentifier: "2014/08/25/designing-crushbone-arena"
 summary: "Tomorrow, the first batch of Cult of the Dragon foundry quests will go live. I don't know when mine will show, or if it will..."
 categories:
   - "MMORPG"
@@ -11,6 +12,19 @@ tags:
   - "Arena"
   - "Crushbone"
   - "Foundry"
+relatedPosts:
+  - url: "/2014/12/29/it-was-suggested-that-these-days-it-might-not-be-a-bad-idea-to-make-a-little-video-about-your-new/"
+    title: "Crushbone's Revenge video trailer!"
+    thumbnailImage: ""
+  - url: "/2014/12/26/crushbone-revenges-v1-2-patch-notes/"
+    title: "Crushbone Revenge's v1.2 patch notes"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2014/12/EverQuest2-2014-12-26-22-50-08-68-480x320.jpg"
+  - url: "/2014/12/23/hey-hey-magical-sleigh-i-didnt-get-this-last-year-because-i-was-saving-up-for-the-frost-mimic/"
+    title: "Crushbone's Revenge's first day live..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2014/12/GameClient-2014-12-23-08-53-53-31-480x321.jpg"
+  - url: "/2014/12/21/could-crushbones-revenge-be-finished/"
+    title: "Could Crushbone's Revenge be finished?"
+    thumbnailImage: ""
 coverImage: "https://lh3.googleusercontent.com/-nAHMWbGwsnc/U_j8wfwzDMI/AAAAAAAAzso/GiJ8Mq7epaI/w787-h630-no/GameClient%2B2014-08-23%2B16-42-37-69.jpg"
 thumbnailImage: "https://lh3.googleusercontent.com/-nAHMWbGwsnc/U_j8wfwzDMI/AAAAAAAAzso/GiJ8Mq7epaI/w787-h630-no/GameClient%2B2014-08-23%2B16-42-37-69.jpg"
 ---

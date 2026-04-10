@@ -3,6 +3,7 @@ date: '2023-05-07T12:10:55-05:00'
 draft: false
 title: "FFXIV: How I Ruined a Realm Reborn..."
 author: "Tipa"
+disqusIdentifier: "2023/05/07/ffxiv-how-i-ruined-a-realm-reborn"
 summary: "I really wanted to title this post, \"FFXIV: Who Hurt You To Make You Do This?\". I didn't, because I knew the answer. It was me. I'm to blame."
 categories:
   - "Final Fantasy"
@@ -13,6 +14,19 @@ tags:
   - "Praetorium"
   - "Shadowbringer"
   - "Stormblood"
+relatedPosts:
+  - url: "/2025/03/24/monster-hunters-wilding/"
+    title: "Monster Hunters Wilding"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/mhwildsbanner.png"
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2022/07/30/ship-of-heroes-housing-beta-2/"
+    title: "Ship of Heroes: Housing Beta #2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/1-20220730211912_1.jpg"
+  - url: "/2022/07/18/ogre-battle-blaugust-steam-deck-v-rising-and-guild-wars-2/"
+    title: "Ogre Battle, Blaugust, Steam Deck, V Rising, and Guild Wars 2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/ogrebbbllll.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/ffxiv_05072023_001521_777.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/ffxiv_05072023_001521_777.jpg"
 ---

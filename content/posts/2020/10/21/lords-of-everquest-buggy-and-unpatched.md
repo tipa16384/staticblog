@@ -3,6 +3,7 @@ date: '2020-10-21T07:36:47-05:00'
 draft: false
 title: "Lords of EverQuest: Buggy and Unpatched"
 author: "Tipa"
+disqusIdentifier: "2020/10/21/lords-of-everquest-buggy-and-unpatched"
 summary: "The problem with playing an older game straight from CD like Lords of EverQuest is that these kinds of games go to production before they're..."
 categories:
   - "EverQuest"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Lords of Everquest"
   - "RTS"
+relatedPosts:
+  - url: "/2020/10/19/lords-of-everquest-first-impressions/"
+    title: "Lords of EverQuest: First Impressions"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/1-Lords-2020-10-19-07-01-59-39.jpg"
+  - url: "/2022/08/02/2dark-2c-a-unique-spin-on-traditional-rts-gameplay/"
+    title: "2Dark 2C: A Unique Spin on Traditional RTS Gameplay"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/craiyon_220904_a_vampire_spaceship_flying_towards_a_planet_that_is_being_consumed_by_a_giant_Medusa_.png"
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2025/12/25/its-a-vectrex-christmas-miracle/"
+    title: "It's a Vectrex Christmas Miracle!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/IMG_5584-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/stuck-2.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/stuck-2.png"
 ---

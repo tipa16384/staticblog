@@ -3,12 +3,26 @@ date: '2009-09-13T21:29:49-05:00'
 draft: false
 title: "Daily Blogroll Looks Back: 2001"
 author: "Tipa"
+disqusIdentifier: "2009/09/13/daily-blogroll-looks-back-2001"
 summary: "I was cleaning out my closet and found a few old floppy disks, REALLY old. Someone had scrawled \"Daily Blogroll: Sep '01\" on them. I..."
 categories:
   - "Daily Blogroll"
   - "Dark Ages of Camelot"
   - "EverQuest"
   - "MMORPG"
+relatedPosts:
+  - url: "/2009/06/26/daily-blogroll-626-space-michael-edition/"
+    title: "Daily Blogroll 6/26 -- Space Michael edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/jackson.jpg"
+  - url: "/2009/05/19/daily-blogroll-519-black-lung-edition/"
+    title: "Daily Blogroll 5/19 -- Black Lung edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/exefile-2009-05-18-23-31-07-25.jpg"
+  - url: "/2009/04/24/web-log-424-friday-is-free-day-edition/"
+    title: "Web Log 4/24 -- Friday is Free Day edition"
+    thumbnailImage: "http://www.penny-arcade.com/images/2009/20090424.jpg"
+  - url: "/2009/04/18/web-log-418/"
+    title: "Web Log 4/18"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/blogdisks.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/blogdisks.jpg"
 ---

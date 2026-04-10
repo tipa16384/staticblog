@@ -3,6 +3,7 @@ date: '2025-01-25T09:00:00-05:00'
 draft: false
 title: "AI is going to steal my job -- and I couldn't be happier"
 author: "Tipa"
+disqusIdentifier: "2025/01/25/ai-is-going-to-steal-my-job-and-i-couldnt-be-happier"
 summary: "Taking an idea to reality takes just minutes, even if you don't know one thing about programming. It's a new world."
 categories:
   - "Malifaux"
@@ -10,6 +11,19 @@ tags:
   - "AI"
   - "ChatGPT"
   - "Python"
+relatedPosts:
+  - url: "/2025/09/03/the-mystery-of-the-casterville-legion/"
+    title: "The Mystery of the Casterville Legion"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/tess-of-casterville.png"
+  - url: "/2024/04/16/that-is-not-a-sandworm-in-your-driveway/"
+    title: "That is not a sandworm in your driveway"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/sandwormindriveway.png"
+  - url: "/2024/12/02/advent-of-code-2024-1/"
+    title: "Advent of Code 2024.1:"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/DALL·E-2024-12-01-15.45.53-A-serene-scene-of-Tolkien-style-elves-sorting-numbers-written-on-thin-ivory-slabs-and-placing-them-into-a-wall-hanging-reminiscent-of-hymn-boards-in-a.webp"
+  - url: "/2022/12/04/advent-of-code-day-4-camp-cleanup/"
+    title: "Advent of Code Day 4 -- Camp Cleanup"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-04-18.27.11-Several-Christmas-elves-doing-chores-around-a-campsite-in-the-jungle-painted-by-Bob-Eggleton-detailed-and-intricate.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/minitray.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/minitray.png"
 ---

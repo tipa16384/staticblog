@@ -3,10 +3,24 @@ date: '2010-06-25T06:56:40-05:00'
 draft: false
 title: "Fists of Fu: Beat 'em Up MMOs go Platform"
 author: "Tipa"
+disqusIdentifier: "2010/06/25/fists-of-fu-beat-em-up-mmos-go-platform"
 summary: "[..."
 categories:
   - "Fists of Fu"
   - "MMORPG"
+relatedPosts:
+  - url: "/2011/01/27/daily-blogroll-127-inevitable-backlash-edition/"
+    title: "Daily Blogroll 1/27 -- Inevitable Backlash edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/riftblade.png"
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2026/03/11/dune-awakening-finished-chapter-3/"
+    title: "Dune Awakening: Finished Chapter 3"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-11-073510.png"
+  - url: "/2026/02/04/erenshor-rising-shadows-launched/"
+    title: 'Erenshor "Rising Shadows" launched!'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/20260204080313_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/06/EastFantasy-2010-06-25-00-17-09-76-480x197.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/06/EastFantasy-2010-06-25-00-17-09-76-480x197.jpg"
 ---

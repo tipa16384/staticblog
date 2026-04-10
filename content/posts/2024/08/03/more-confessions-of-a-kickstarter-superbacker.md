@@ -3,6 +3,7 @@ date: '2024-08-03T07:00:00-05:00'
 draft: false
 title: "More Confessions of a Kickstarter Superbacker"
 author: "Tipa"
+disqusIdentifier: "2024/08/03/more-confessions-of-a-kickstarter-superbacker"
 summary: "It's like the number one sign you have too much money: logging into Kickstarter. Here's an update on what games are coming my way and (hopefully) onto the table."
 categories:
   - "Blaugust"
@@ -18,6 +19,19 @@ tags:
   - "Dragonstrike"
   - "Tanglewoods"
   - "Thracia"
+relatedPosts:
+  - url: "/2024/07/13/blaugust-2024-and-dc-heroes-united/"
+    title: "Blaugust 2024 and DC Heroes United"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/07/dcunited.jpg"
+  - url: "/2025/12/09/dragonstrike-in-my-kitchen/"
+    title: "DragonStrike in my kitchen?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/1-IMG_5562-scaled.jpg"
+  - url: "/2025/09/04/still-more-confessions-of-a-kickstarter-superbacker/"
+    title: "Still More Confessions of a Kickstarter Superbacker"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/superbacker.png"
+  - url: "/2024/06/26/origins-2024-recap/"
+    title: "Origins 2024 Recap"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/06/IMG_4347-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/superbacker.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/superbacker.png"
 ---

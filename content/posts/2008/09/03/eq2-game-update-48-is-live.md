@@ -3,6 +3,7 @@ date: '2008-09-03T11:20:16-05:00'
 draft: false
 title: "EQ2: Game update 48 is live"
 author: "Tipa"
+disqusIdentifier: "2008/09/03/eq2-game-update-48-is-live"
 summary: "I guess I know what I'll be doing tonight......"
 categories:
   - "EverQuest"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Gu48"
   - "Veksar"
+relatedPosts:
+  - url: "/2008/08/08/eq-veksar-rising/"
+    title: "EQ: Veksar Rising"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/everquest2-2008-08-08-06-09-15-08.jpg"
+  - url: "/2007/10/12/the-deep-ones/"
+    title: "The Deep Ones"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/10/goblin.jpg"
+  - url: "/2008/10/08/eq2-cloth-vests-mean-more-fashion-choices-for-casters/"
+    title: "EQ2: Cloth vests mean more fashion choices for casters"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/everquest2-2008-10-08-07-37-27-60.jpg"
+  - url: "/2008/10/07/eq2-the-return-of-anashti-sul/"
+    title: "EQ2: The return of Anashti Sul?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/everquest2-2008-10-06-22-41-21-45.jpg"
 ---
 I guess I know what I'll be doing tonight......
 <!--more-->

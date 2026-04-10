@@ -3,10 +3,24 @@ date: '2008-10-13T11:53:02-05:00'
 draft: false
 title: "LittleBigPlanet closes the closed beta."
 author: "Tipa"
+disqusIdentifier: "2008/10/13/littlebigplanet-closes-the-closed-beta"
 summary: "I played LittleBigPlanet right up until they shut down the servers. I even dragged out my other controller and played two sack people at once..."
 categories:
   - "Littlebigplanet"
   - "Other Games"
+relatedPosts:
+  - url: "/2008/11/12/littlebigplanet-level-design-issues/"
+    title: "LittleBigPlanet level design issues"
+    thumbnailImage: ""
+  - url: "/2008/11/10/wizard-friends-and-littlebigplanet-mazes/"
+    title: "Wizard Friends and LittleBigPlanet Mazes"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-10-00-53-52-28.jpg"
+  - url: "/2008/11/07/thursday-gaming-lbp-eq2-and-w101-again/"
+    title: "Thursday gaming: LBP, EQ2 and W101... again."
+    thumbnailImage: ""
+  - url: "/2008/11/03/playing-second-life/"
+    title: "Playing Second Life"
+    thumbnailImage: ""
 ---
 I played LittleBigPlanet right up until they shut down the servers. I even dragged out my other controller and played two sack people at once...
 <!--more-->

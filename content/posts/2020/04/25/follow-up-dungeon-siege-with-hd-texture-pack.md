@@ -3,11 +3,25 @@ date: '2020-04-25T03:40:55-05:00'
 draft: false
 title: "Follow up: Dungeon Siege with HD texture pack"
 author: "Tipa"
+disqusIdentifier: "2020/04/25/follow-up-dungeon-siege-with-hd-texture-pack"
 summary: "I started replaying Dungeon Siege tonight... and man, I sure hope I don't end up replaying all of the games on my \"top five game..."
 categories:
   - "Steam Games"
 tags:
   - "Dungeon Siege"
+relatedPosts:
+  - url: "/2020/04/24/favorite-game-series-5-dungeon-siege/"
+    title: "Favorite Game Series #5: Dungeon Siege"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/04/Giant_Spider2.jpg"
+  - url: "/2026/03/28/blasts-from-the-past-is-it-the-90s-again/"
+    title: "Blasts from the Past: Is it the 90s again?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/elves-and-dinokun.jpg"
+  - url: "/2026/03/25/preview-topdeck-automat/"
+    title: "Preview: Topdeck Automat"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-24-220403.png"
+  - url: "/2026/03/22/review-the-invincible/"
+    title: "Review: The Invincible"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/1222-the-invincible-review-teaser.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/04/DungeonSiege-2020-04-24-23-30-00-45.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/04/DungeonSiege-2020-04-24-23-30-00-45.jpg"
 ---

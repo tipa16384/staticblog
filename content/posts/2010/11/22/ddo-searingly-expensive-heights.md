@@ -3,6 +3,7 @@ date: '2010-11-22T10:00:33-05:00'
 draft: false
 title: "DDO: Searing(ly expensive) Heights"
 author: "Tipa"
+disqusIdentifier: "2010/11/22/ddo-searingly-expensive-heights"
 summary: "[..."
 categories:
   - "Dungeons & Dragons Online"
@@ -11,6 +12,19 @@ tags:
   - "Delera's Tomb"
   - "Searing Heights"
   - "Team Spode"
+relatedPosts:
+  - url: "/2010/12/13/ddo-getting-the-wight-out/"
+    title: "DDO: Getting the Wight Out"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/dndclient-2010-12-12-23-23-11-03-480x300.jpg"
+  - url: "/2010/12/21/ddo-the-wight-at-the-end-of-the-tunnel/"
+    title: "DDO: The Wight at the End of the Tunnel"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/dndclient-2010-12-19-22-54-51-00-480x383.jpg"
+  - url: "/2010/12/06/ddo-taking-a-wight-at-the-ghast-station/"
+    title: "DDO: Taking a Wight at the Ghast Station"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/dndclient-2010-12-05-00-36-35-01-480x384.jpg"
+  - url: "/2012/04/06/ddo-web-of-chaos/"
+    title: "DDO: Web of Chaos"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/04/dndclient-2012-04-01-23-54-24-56-480x384.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/dndclient-2010-11-21-22-54-21-20-480x384.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/dndclient-2010-11-21-22-54-21-20-480x384.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2025-01-09T08:00:55-05:00'
 draft: false
 title: "Our STAR*VADERS!"
 author: "Tipa"
+disqusIdentifier: "2025/01/09/our-starvaders"
 summary: "It's \"Slay the Spire\" meets \"Into the Breach\" meets \"Space Invaders\" meets... Space Battleship Yamato?"
 categories:
   - "Steam Games"
@@ -13,6 +14,19 @@ tags:
   - "Slay the Spire"
   - "Space Invaders"
   - "Starvaders"
+relatedPosts:
+  - url: "/2025/01/27/those-who-rule-released/"
+    title: "Those Who Rule released!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/thosewhorulebanner.png"
+  - url: "/2024/10/01/those-who-rule-new-demo/"
+    title: "Those Who Rule: new demo!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/thosewhorulebanner.png"
+  - url: "/2025/01/06/i-know-what-i-did-last-weekend/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/2025-1-6.png"
+  - url: "/2023/08/05/adventures-in-bad-game-development/"
+    title: "Adventures in Bad Game Development"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/DALL·E-2023-08-04-23.05.25-classic-video-game-box-art-of-a-space-ship-shooting-a-centipede-with-asteroids-in-the-sky.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/KeyArt_920x430.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/KeyArt_920x430.png"
 ---

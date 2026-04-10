@@ -3,10 +3,24 @@ date: '2008-04-01T08:08:47-05:00'
 draft: false
 title: "Shapeshifter CHAMPION!"
 author: "Tipa"
+disqusIdentifier: "2008/04/01/shapeshifter-champion"
 summary: "Some of you might remember a little bit of Neopets mania last summer. There was this one puzzle that just seemed so hard, that I..."
 categories:
   - "Neopets"
   - "Other Games"
+relatedPosts:
+  - url: "/2010/08/07/neopets-wants-me-to-solve-shapeshifter-again/"
+    title: "Neopets wants me to solve Shapeshifter again."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/Fullscreen-capture-872010-35037-PM-382x480.jpg"
+  - url: "/2008/07/02/returning-to-shapeshifter/"
+    title: "Returning to Shapeshifter"
+    thumbnailImage: ""
+  - url: "/2020/08/19/blaugust-19-defend-your-life/"
+    title: "Blaugust #19: Defend Your Life"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/IMG_1538.jpg"
+  - url: "/2010/11/27/daily-blogroll-black-friday-edition/"
+    title: "Daily Blogroll: Black Friday Edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/GameClient-2010-11-25-22-16-43-8-480x263.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/04/ss.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/04/ss.jpg"
 ---

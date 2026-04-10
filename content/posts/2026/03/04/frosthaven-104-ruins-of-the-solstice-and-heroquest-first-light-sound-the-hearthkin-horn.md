@@ -3,12 +3,26 @@ date: '2026-03-04T10:00:00-05:00'
 draft: false
 title: "Frosthaven #104: Ruins of the Solstice and HeroQuest First Light: Sound the Hearthkin Horn"
 author: "Tipa"
+disqusIdentifier: "2026/03/04/frosthaven-104-ruins-of-the-solstice-and-heroquest-first-light-sound-the-hearthkin-horn"
 summary: "Two short games from two game nights. Adventure was had by all."
 categories:
   - "Frosthaven"
   - "Game Night"
   - "HeroQuest"
   - "Tabletop Games"
+relatedPosts:
+  - url: "/2025/08/04/i-know-what-i-did-last-weekend-5/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/bewarethesandworm.png"
+  - url: "/2024/03/16/heroquest-the-castle-of-mystery/"
+    title: "HeroQuest: The Castle of Mystery"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/castleofmystery.png"
+  - url: "/2025/06/03/i-know-what-i-did-last-weekend-4/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/The-Pathless_20250601093750-scaled.jpg"
+  - url: "/2026/02/10/frosthaven-9-glowing-catacombs/"
+    title: "Frosthaven #9: Glowing Catacombs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/1-IMG_5665-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/IMG_5701-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/IMG_5701-scaled.jpg"
 ---

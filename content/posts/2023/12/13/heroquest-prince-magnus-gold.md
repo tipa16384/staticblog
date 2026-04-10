@@ -3,12 +3,26 @@ date: '2023-12-13T07:00:00-05:00'
 draft: false
 title: "HeroQuest: Prince Magnus' Gold"
 author: "Tipa"
+disqusIdentifier: "2023/12/13/heroquest-prince-magnus-gold"
 summary: "How can a single pit trap wipe out the entire party???"
 categories:
   - "HeroQuest"
   - "Tabletop Games"
 tags:
   - "Pit Trap"
+relatedPosts:
+  - url: "/2026/03/04/frosthaven-104-ruins-of-the-solstice-and-heroquest-first-light-sound-the-hearthkin-horn/"
+    title: "Frosthaven #104: Ruins of the Solstice and HeroQuest First Light: Sound the Hearthkin Horn"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/IMG_5701-scaled.jpg"
+  - url: "/2026/02/15/heroquest-first-light-king-forgrins-trove/"
+    title: "HeroQuest First Light: King Forgrin's Trove"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/IMG_5672-scaled.jpg"
+  - url: "/2026/01/27/heroquest-first-light-tomb-of-the-fire-king/"
+    title: "HeroQuest First Light: Tomb of the Fire King"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/IMG_5629-scaled.jpg"
+  - url: "/2025/12/07/heroquest-first-light-the-ring-of-return/"
+    title: "HeroQuest First Light: The Ring of Return"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/1-IMG_5557-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-12-23.14.40-Exactly-four-adventurers-stuck-humorously-in-a-pit-trap-that-is-barely-big-enough-for-one-of-them-viewed-from-directly-overhead.-The-adventurers-incl.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-12-23.14.40-Exactly-four-adventurers-stuck-humorously-in-a-pit-trap-that-is-barely-big-enough-for-one-of-them-viewed-from-directly-overhead.-The-adventurers-incl.png"
 ---

@@ -3,10 +3,24 @@ date: '2015-09-13T09:20:43-05:00'
 draft: false
 title: "Beam me up..."
 author: "Tipa"
+disqusIdentifier: "2015/09/13/beam-me-up"
 summary: "Got myself a cameo in \"Star Trek -- The Webcomic\". Author and artist Mike Farinas offered a chance for an appearance in the comic as..."
 categories:
   - "General"
   - "Sci Fi"
+relatedPosts:
+  - url: "/2011/07/31/space-battleship-yamato-the-movie/"
+    title: "Space Battleship Yamato (the movie)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/07/wmplayer-2011-07-31-08-54-13-39-480x320.jpg"
+  - url: "/2008/07/22/save-the-middleman/"
+    title: "Save the Middleman!"
+    thumbnailImage: ""
+  - url: "/2008/07/09/the-middleblog/"
+    title: "The Middleblog"
+    thumbnailImage: ""
+  - url: "/2008/03/26/confounded-confinder/"
+    title: "Confounded Confinder!"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/09/1-Star-Trek-Me-1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/09/1-Star-Trek-Me-1.jpg"
 ---

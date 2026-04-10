@@ -3,6 +3,7 @@ date: '2008-08-01T08:02:50-05:00'
 draft: false
 title: "EQ2: GU47 Dorah stories"
 author: "Tipa"
+disqusIdentifier: "2008/08/01/eq2-gu47-dorah-stories"
 summary: "Game Update 47 went live yesterday, though not without problems for me. I was a little apprehensive about the patch because it had consistently crashed..."
 categories:
   - "EverQuest"
@@ -12,6 +13,19 @@ tags:
   - "Game Update 47"
   - "Gu47"
   - "Guild Halls"
+relatedPosts:
+  - url: "/2008/08/08/eq-veksar-rising/"
+    title: "EQ: Veksar Rising"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/everquest2-2008-08-08-06-09-15-08.jpg"
+  - url: "/2008/09/23/eq2-thats-ms-guild-hall-constructor-to-you/"
+    title: "EQ2: That's MS. Guild Hall Constructor to YOU."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/everquest2-2008-09-22-21-58-41-70.jpg"
+  - url: "/2020/05/13/everquest-bones-everywhere/"
+    title: "EverQuest: Bones Everywhere."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/eqgame-2020-05-13-06-57-41-85.jpg"
+  - url: "/2009/06/16/welcome-to-mayong-everquests-5150-server/"
+    title: "Welcome to Mayong, EverQuest's 51/50 server"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/mayong.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/everquest2-2008-07-31-23-41-51-61.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/everquest2-2008-07-31-23-41-51-61.jpg"
 ---

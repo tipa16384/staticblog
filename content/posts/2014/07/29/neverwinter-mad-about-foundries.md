@@ -3,12 +3,26 @@ date: '2014-07-29T21:25:07-05:00'
 draft: false
 title: "Neverwinter: Mad About Foundries!"
 author: "Tipa"
+disqusIdentifier: "2014/07/29/neverwinter-mad-about-foundries"
 summary: "I've been lax about keeping up with our foundry nights, so we have a lot to cover today!..."
 categories:
   - "MMORPG"
   - "Neverwinter"
 tags:
   - "Foundry"
+relatedPosts:
+  - url: "/2015/02/19/based-on-a-suggestion-last-week-in-the-forums-i-went-through-the-159-quests-that-we-have-reviewed/"
+    title: "Weekly Foundry Reviews -- February 18, 2015"
+    thumbnailImage: ""
+  - url: "/2015/02/12/weekly-foundry-quests-february-11-2015after-running-into-ian-darksword-entirely-by-accident-guard/"
+    title: "Weekly Foundry Quests -- February 11, 2015"
+    thumbnailImage: ""
+  - url: "/2015/02/05/well-this-week-the-foundry-wasnt-being-kind-to-us-first-i-and-later-kasul-couldnt-open-the-final/"
+    title: "Weekly Foundry Reviews -- February 5, 2015"
+    thumbnailImage: ""
+  - url: "/2015/02/01/first-floor-of-newfallen-to-80-i-deleted-the-old-story-and-the-old-maps-now-the-only-way-to-go-is/"
+    title: "Neverwinter: First floor of Newfallen to 80%!"
+    thumbnailImage: ""
 coverImage: "https://lh5.googleusercontent.com/-GG157oDbCtM/U9oma0QqsxI/AAAAAAAAywk/sDlzSVo0y7k/w684-h547-no/GameClient%2B2014-07-29%2B23-52-53-60.jpg"
 thumbnailImage: "https://lh5.googleusercontent.com/-GG157oDbCtM/U9oma0QqsxI/AAAAAAAAywk/sDlzSVo0y7k/w684-h547-no/GameClient%2B2014-07-29%2B23-52-53-60.jpg"
 ---

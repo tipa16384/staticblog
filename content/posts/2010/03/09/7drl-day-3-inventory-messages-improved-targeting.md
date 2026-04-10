@@ -3,10 +3,24 @@ date: '2010-03-09T00:03:52-05:00'
 draft: false
 title: "7DRL Day 3: Inventory, Messages, Improved Targeting"
 author: "Tipa"
+disqusIdentifier: "2010/03/09/7drl-day-3-inventory-messages-improved-targeting"
 summary: "For those people who don't care about the 7DRL game design challenge, don't worry -- things will be back to normal this weekend. I've just..."
 categories:
   - "7DRL"
   - "Other Games"
+relatedPosts:
+  - url: "/2010/03/24/7drl-world-of-roguecraft-slightly-more-fun-than-clipping-your-nails/"
+    title: "7DRL -- World of Roguecraft: Slightly more fun than clipping your nails."
+    thumbnailImage: ""
+  - url: "/2010/03/13/7drl-day-7-content-content-content/"
+    title: "7DRL Day 7: Content, content, content"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/02/Fullscreen-capture-3132010-35853-PM-480x384-1.jpg"
+  - url: "/2010/03/12/7drl-world-of-roguecraft-day-5/"
+    title: "7DRL: World of Roguecraft, Day 5"
+    thumbnailImage: ""
+  - url: "/2010/03/07/7drl-day-2-monsters-targets-items/"
+    title: "7DRL Day 2: Monsters, Targets, Items"
+    thumbnailImage: ""
 ---
 For those people who don't care about the 7DRL game design challenge, don't worry -- things will be back to normal this weekend. I've just...
 <!--more-->

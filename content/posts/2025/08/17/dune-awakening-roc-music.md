@@ -3,6 +3,7 @@ date: '2025-08-17T11:36:37-05:00'
 draft: false
 title: "Dune: Awakening -- Roc Music"
 author: "Tipa"
+disqusIdentifier: "2025/08/17/dune-awakening-roc-music"
 summary: "After a bunch of crafting and farming, Team Spode builds the largest ornithopter in Dune: Awakening. Now what?"
 categories:
   - "Blaugust"
@@ -11,6 +12,19 @@ categories:
   - "MMORPG"
 tags:
   - "Team Spode"
+relatedPosts:
+  - url: "/2025/08/02/dune-awakening-fishing-for-sandtrout/"
+    title: "Dune Awakening: Fishing for Sandtrout"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/fishingforsandtrout.png"
+  - url: "/2025/08/30/dune-awakening-we-finally-got-ganked/"
+    title: "Dune Awakening: We finally got ganked"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/20250830103401_1.jpg"
+  - url: "/2025/08/04/i-know-what-i-did-last-weekend-5/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/bewarethesandworm.png"
+  - url: "/2025/12/15/i-know-what-i-did-last-weekend-6/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/IMG_5573-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/dunecarrier.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/dunecarrier.png"
 ---

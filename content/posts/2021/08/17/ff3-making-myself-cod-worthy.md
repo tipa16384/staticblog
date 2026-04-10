@@ -3,6 +3,7 @@ date: '2021-08-17T22:41:03-05:00'
 draft: false
 title: "FF3 -- Making Myself CoD-Worthy"
 author: "Tipa"
+disqusIdentifier: "2021/08/17/ff3-making-myself-cod-worthy"
 summary: "I didn't have big goals for tonight. Grind to 50 with the jobs I intend to take on the trip to the World of Darkness...."
 categories:
   - "Blaugust"
@@ -13,6 +14,19 @@ categories:
 tags:
   - "Blaugust"
   - "Steam"
+relatedPosts:
+  - url: "/2021/08/17/ff3-eureka-and-the-cloud-of-darkness/"
+    title: "FF3 -- Eureka, and the Cloud of Darkness"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/20210816230414_1.jpg"
+  - url: "/2021/08/22/ff3-complete/"
+    title: "FF3 Complete!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210821223214_1.jpg"
+  - url: "/2021/08/15/ff3-all-u-can-eat-gysahl-greens/"
+    title: "FF3 -- All-U-Can-Eat Gysahl Greens"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210814221925_1.jpg"
+  - url: "/2021/08/14/final-fantasy-iii-the-adventure-begins/"
+    title: "Final Fantasy III -- The Adventure Begins!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210813233332_1-1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/20210817213623_1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/20210817213623_1.jpg"
 ---

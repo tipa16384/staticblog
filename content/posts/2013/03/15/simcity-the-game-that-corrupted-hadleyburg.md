@@ -3,10 +3,24 @@ date: '2013-03-15T07:22:37-05:00'
 draft: false
 title: "SimCity: The Game that Corrupted Hadleyburg"
 author: "Tipa"
+disqusIdentifier: "2013/03/15/simcity-the-game-that-corrupted-hadleyburg"
 summary: "It's more than a little unfair to complain so much when I couldn't play SimCity 2013, and then say nothing once I was able to..."
 categories:
   - "MMORPG"
   - "Simcity 2013"
+relatedPosts:
+  - url: "/2013/03/06/simcity-my-contest-entry/"
+    title: "SimCity: My Contest Entry"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/03/SimCity-2013-03-06-18-10-05-87-480x307.jpg"
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2026/03/11/dune-awakening-finished-chapter-3/"
+    title: "Dune Awakening: Finished Chapter 3"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-11-073510.png"
+  - url: "/2026/02/04/erenshor-rising-shadows-launched/"
+    title: 'Erenshor "Rising Shadows" launched!'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/20260204080313_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/03/Spark_2013-03-13_02-06-54-480x300.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/03/Spark_2013-03-13_02-06-54-480x300.png"
 ---

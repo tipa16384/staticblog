@@ -3,6 +3,7 @@ date: '2022-12-15T20:11:29-05:00'
 draft: false
 title: "Advent of Code Day 12 -- Hill Climbing Algorithm"
 author: "Tipa"
+disqusIdentifier: "2022/12/15/advent-of-code-day-12-hill-climbing-algorithm"
 summary: "The title says it all. It's a \"shortest path\" puzzle, you're meant to use Dijkstra's algorithm, and the puzzle has no curve balls to toss at you."
 categories:
   - "Advent of Code"
@@ -11,6 +12,19 @@ tags:
   - "Dijkstra"
   - "Python"
   - "Vscode"
+relatedPosts:
+  - url: "/2023/12/05/advent-of-code-day-5-if-you-give-a-seed-a-fertilizer/"
+    title: "Advent of Code Day 5 -- If You Give A Seed A Fertilizer"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_A_Christmas_elf_tending_a_wide_variety_of_bizarre_looki_61e5db45-06f1-482c-9242-78720532164f.png"
+  - url: "/2023/12/03/advent-of-code-day-3-gear-ratios/"
+    title: "Advent of Code Day 3 -- Gear Ratios"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_A_Christmas_elf_working_on_a_giant_machine_with_many_ge_47e1029a-b055-4df9-99f0-1c55a64ca2e8.png"
+  - url: "/2022/12/25/advent-of-code-day-25-full-of-hot-air/"
+    title: "Advent of Code Day 25 -- Full of Hot Air"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-25-14.03.31-Christmas-elves-on-a-snowy-mountain-top-colorful-hot-air-balloons-in-the-sky-in-the-background-by-Bob-Eggleton-detailed-and-intricate.png"
+  - url: "/2022/12/23/advent-of-code-day-23-unstable-diffusion/"
+    title: "Advent of Code Day 23 -- Unstable Diffusion"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-23-21.02.08-Several-Christmas-elves-standing-in-a-grid-in-a-jungle-clearing-a-volcano-in-the-background-by-Bob-Eggleton-detailed-and-intricate.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-15-17.06.41-A-woman-in-a-Christmas-cap-hiking-up-a-steep-wandering-path-to-the-top-of-a-hill-over-looking-a-jungle-river-by-Bob-Eggleton-detailed-and-intricate.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-15-17.06.41-A-woman-in-a-Christmas-cap-hiking-up-a-steep-wandering-path-to-the-top-of-a-hill-over-looking-a-jungle-river-by-Bob-Eggleton-detailed-and-intricate.png"
 ---

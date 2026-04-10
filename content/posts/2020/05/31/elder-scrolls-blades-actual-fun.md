@@ -3,6 +3,7 @@ date: '2020-05-31T15:23:45-05:00'
 draft: false
 title: "Elder Scrolls Blades: Actual Fun."
 author: "Tipa"
+disqusIdentifier: "2020/05/31/elder-scrolls-blades-actual-fun"
 summary: "I'm always looking for a good F2P game to play for awhile. I never stay with them for long. They tend to follow a similar..."
 categories:
   - "Nintendo Switch"
@@ -11,6 +12,19 @@ tags:
   - "Elder Scrolls"
   - "Elder Scrolls Blades"
   - "F2P"
+relatedPosts:
+  - url: "/2020/12/28/i-am-free-of-fallout-shelters-evil-clutches/"
+    title: "I am free of Fallout Shelter's evil clutches"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/1-Fallout-Shelter_20201228193414.jpg"
+  - url: "/2020/12/22/quick-take-fallout-shelter/"
+    title: "Quick Takes: Fallout Shelter"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/Fallout-Shelter_20201222093220-scaled.jpg"
+  - url: "/2010/09/08/lord-of-the-rings-online-is-f2p-for-certain-definitions-of-free/"
+    title: "Lord of the Rings Online is F2P, for certain definitions of free"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/lotroclient-2010-09-08-07-05-29-52-480x363.jpg"
+  - url: "/2010/08/19/clone-wars-adventures-youre-in-ar-cade-world-now/"
+    title: "Clone Wars Adventures: You're in ar-cade world now."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/Fullscreen-capture-8192010-80402-PM.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/2020053021340800-6B6C230ACF880337BA4FF42F6D6F95AB.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/2020053021340800-6B6C230ACF880337BA4FF42F6D6F95AB.jpg"
 ---

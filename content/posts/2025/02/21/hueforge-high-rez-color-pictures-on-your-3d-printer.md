@@ -3,6 +3,7 @@ date: '2025-02-21T09:03:44-05:00'
 draft: false
 title: "Hueforge: High Rez Color Pictures on your 3D Printer"
 author: "Tipa"
+disqusIdentifier: "2025/02/21/hueforge-high-rez-color-pictures-on-your-3d-printer"
 summary: "Hueforge prints using very thin layers so that colors bleed through to create blends, shades and gradients on any printer."
 categories:
   - "3D Printing"
@@ -10,6 +11,19 @@ tags:
   - "Bambu"
   - "Hueforge"
   - "P1s"
+relatedPosts:
+  - url: "/2026/03/17/the-bambu-lab-ams-pro-2/"
+    title: "The Bambu Lab AMS Pro 2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/itsabouttheams.png"
+  - url: "/2025/12/22/the-perfect-christmas-gift/"
+    title: "The Perfect Christmas Gift"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/IMG_5577-scaled.jpg"
+  - url: "/2025/06/24/frosthaven-7-the-edge-of-the-world/"
+    title: "Frosthaven #7: The Edge of the World"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/IMG_5196-1-scaled.jpg"
+  - url: "/2025/04/29/frosthaven-scenario-1-town-in-flames/"
+    title: "Frosthaven Scenario #1: Town in Flames"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/04/IMG_5077-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/02/IMG_4988-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/02/IMG_4988-scaled.jpg"
 ---

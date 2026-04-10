@@ -3,6 +3,7 @@ date: '2020-10-14T08:33:56-05:00'
 draft: false
 title: "Ogre Battle: Alignment and Charisma"
 author: "Tipa"
+disqusIdentifier: "2020/10/14/ogre-battle-alignment-and-charisma"
 summary: "Before I decided to consolidate my groups a bit, my lord's alignment and charisma were sky-high. I'm even proudly wielding the holy sword Brunhild. They..."
 categories:
   - "Super Nintendo"
@@ -12,6 +13,19 @@ tags:
   - "Snes"
   - "Tactics"
   - "The March of the Black Queen"
+relatedPosts:
+  - url: "/2020/10/17/ogre-battle-the-march-of-the-black-queen-how-to-win-the-game/"
+    title: "Ogre Battle: The March of the Black Queen: How to Win the Game."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-138.png"
+  - url: "/2020/10/12/ogre-battle-the-tastiest-mermaids-are-the-ones-you-catch-yourself/"
+    title: "Ogre Battle: The Tastiest Mermaids are the Ones You Catch Yourself"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-010.png"
+  - url: "/2020/10/09/ogre-battle-denebs-garden-and-the-slums-of-zenobia/"
+    title: "Ogre Battle: Deneb's Garden and the Slums of Zenobia"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-000.png"
+  - url: "/2020/10/07/tactics-ogre-and-ogre-battle-let-us-get-sirius/"
+    title: "Tactics Ogre and Ogre Battle: Let Us Get Sirius"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/sirius.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-068.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-068.png"
 ---

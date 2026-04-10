@@ -3,6 +3,7 @@ date: '2023-09-12T08:10:37-05:00'
 draft: false
 title: "Looks like it's D&D time again"
 author: "Tipa"
+disqusIdentifier: "2023/09/12/looks-like-its-dd-time-again"
 summary: "My son-in-law is interested in running a D&D game, and I have just the character."
 categories:
   - "Dungeons & Dragons"
@@ -13,6 +14,19 @@ tags:
   - "Gruumsh"
   - "Half-Orc"
   - "Hobbesian Cleric"
+relatedPosts:
+  - url: "/2023/09/24/dd-session-1-the-lost-mine-of-phandelver/"
+    title: "D&D Session 1: The Lost Mine of Phandelver"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/Phandelverobservers.webp"
+  - url: "/2023/09/21/baldurs-gate-3-embracing-evil/"
+    title: "Baldur's Gate 3: Embracing Evil"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/astarion.png"
+  - url: "/2010/10/11/ddo-weekly-recap-tangleroot-gorge/"
+    title: "DDO Weekly Recap: Tangleroot Gorge"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/dndclient-2010-10-11-00-07-07-80.jpg"
+  - url: "/2020/10/26/solasta-crown-of-the-magister-a-fun-but-buggy-mess-in-early-access/"
+    title: "Solasta: Crown of the Magister -- A fun but buggy mess in early access"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/20201025094236_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/halforcclericcloseup.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/halforcclericcloseup.png"
 ---

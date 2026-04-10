@@ -3,10 +3,24 @@ date: '2009-10-25T22:48:50-05:00'
 draft: false
 title: "Dragon Age Journeys: More than just a tie-in."
 author: "Tipa"
+disqusIdentifier: "2009/10/25/dragon-age-journeys-more-than-just-a-tie-in"
 summary: "Tactical, party-based RPGs in a browser? For free? Yeah, it exists. For all that it is a tie-in to Bioware's forthcoming RPG Dragon Age: Origins,..."
 categories:
   - "Dragon Age Origins"
   - "Other Games"
+relatedPosts:
+  - url: "/2024/11/21/dragon-age-the-veilguard-finished/"
+    title: "Dragon Age: the Veilguard finished"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/banner2.png"
+  - url: "/2024/11/09/dragon-age-the-veilguard-is-not-the-game-you-think-it-is/"
+    title: "Dragon Age: The Veilguard is not the game you think it is"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/davg-banner.png"
+  - url: "/2011/04/02/dragon-age-2-money-shot/"
+    title: "Dragon Age 2: Money shot"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/04/da23d-480x384.jpg"
+  - url: "/2011/03/12/dragon-age-2-a-kinder-gentler-dragon-age/"
+    title: "Dragon Age 2: A Kinder, Gentler Dragon Age"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/DragonAge2-2011-03-11-23-34-04-11-480x383.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/Fullscreen-capture-10252009-84934-PM.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/Fullscreen-capture-10252009-84934-PM.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2021-09-06T10:22:53-05:00'
 draft: false
 title: "Panzer Dragoon: The Remake"
 author: "Tipa"
+disqusIdentifier: "2021/09/06/panzer-dragoon-the-remake"
 summary: "Needle drop some , and you could pretend this post-apocalyptic arcade shooter is the iconic Taarna segment from the Heavy Metal movie. It's all the..."
 categories:
   - "Arcade Game"
@@ -13,6 +14,19 @@ categories:
 tags:
   - "Limited Run"
   - "Panzer Dragoon"
+relatedPosts:
+  - url: "/2021/10/03/stranger-of-paradise-final-fantasy-origins/"
+    title: "Stranger of Paradise: Final Fantasy Origins"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/stp_logo-2x-dxMtgRSFN.png"
+  - url: "/2026/03/04/steam-next-fest-windrose-tides-of-blazefall-twilight-imperium-panzer-dragoon-zwei/"
+    title: "Steam Next Fest: Windrose, Tides of Blazefall, Twilight Imperium, Panzer Dragoon Zwei"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/1-20260301204409_1.jpg"
+  - url: "/2023/08/03/not-taming-the-backlog/"
+    title: "(Not) Taming the Backlog"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/DALL·E-2023-08-02-23.10.21-A-dragon-wearing-glasses-surrounded-by-stacks-of-video-games.png"
+  - url: "/2022/07/11/is-playing-on-the-original-hardware-worth-the-trouble/"
+    title: "Is playing on the original hardware worth the trouble?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/20220710085048_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/1-Panzer-Dragoon_-Remake_20210831205643.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/1-Panzer-Dragoon_-Remake_20210831205643.jpg"
 ---

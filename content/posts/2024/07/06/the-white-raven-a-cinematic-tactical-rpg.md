@@ -3,6 +3,7 @@ date: '2024-07-06T10:51:06-05:00'
 draft: false
 title: "The White Raven: A Cinematic Tactical RPG"
 author: "Tipa"
+disqusIdentifier: "2024/07/06/the-white-raven-a-cinematic-tactical-rpg"
 summary: "After two years, GatherRound Games has released their first peek at their upcoming Fire Emblem-style tactical game."
 categories:
   - "RPG"
@@ -12,6 +13,19 @@ categories:
 tags:
   - "Sword & Sworcery"
   - "The White Raven"
+relatedPosts:
+  - url: "/2025/01/03/the-best-strategy-tactics-rpgs-of-2024/"
+    title: "The Best Strategy/Tactics RPGs of 2024"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/tacticsbanner.png"
+  - url: "/2022/08/03/three-throw-a-deep-tactical-basketball-rpg/"
+    title: "Three Frow: A deep, tactical basketball RPG"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/craiyon_183021_a_close_up_of_five_basketball_players_wearing_medieval_armor_and_holding_basketballs_-1.png"
+  - url: "/2025/05/18/clair-obscur-expedition-33-1-3/"
+    title: "Clair Obscur: Expedition 33 1/3"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/1-Clair-Obscur_-Expedition-33_20250517165411-scaled.jpg"
+  - url: "/2025/01/27/those-who-rule-released/"
+    title: "Those Who Rule released!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/thosewhorulebanner.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/07/whiteraventitle.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/07/whiteraventitle.png"
 ---

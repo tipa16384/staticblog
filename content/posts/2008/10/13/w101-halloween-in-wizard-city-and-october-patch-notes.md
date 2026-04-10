@@ -3,6 +3,7 @@ date: '2008-10-13T08:42:59-05:00'
 draft: false
 title: "W101: Hallowe'en in Wizard City (and October patch notes)"
 author: "Tipa"
+disqusIdentifier: "2008/10/13/w101-halloween-in-wizard-city-and-october-patch-notes"
 summary: "I didn't intend to spend all night playing Wizard 101, but after I finished the Hallowe'en quests and finished the Krokotopia quests I'd ignored to..."
 categories:
   - "MMORPG"
@@ -18,6 +19,19 @@ tags:
   - "W101"
   - "Wizard101"
   - "Wizard City"
+relatedPosts:
+  - url: "/2008/10/01/w101-krokosphinx-and-october-1-patch-notes/"
+    title: "W101: Krokosphinx and October 1 patch notes"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-01-00-34-18-86.jpg"
+  - url: "/2008/10/27/wizard-101-hametsu-village/"
+    title: "Wizard 101: Hametsu Village"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-26-17-18-58-70.jpg"
+  - url: "/2008/10/14/w101-on-to-chelsea-court/"
+    title: "W101: On to Chelsea Court"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-14-07-49-04-28.jpg"
+  - url: "/2008/10/06/w101-leaving-krokotopia/"
+    title: "W101: Leaving Krokotopia"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/taratheslayer.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-12-17-08-57-87.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-12-17-08-57-87.jpg"
 ---

@@ -3,11 +3,25 @@ date: '2008-03-17T07:09:21-05:00'
 draft: false
 title: "EQ2: Leviathan 2.0"
 author: "Tipa"
+disqusIdentifier: "2008/03/17/eq2-leviathan-20"
 summary: "One of the dubious advantages of moving from one guild to another is learning new ways of defeating old encounters. Delusions of Grandeur kills Venril..."
 categories:
   - "EverQuest"
   - "MMORPG"
   - "Second Life"
+relatedPosts:
+  - url: "/2011/01/27/daily-blogroll-127-inevitable-backlash-edition/"
+    title: "Daily Blogroll 1/27 -- Inevitable Backlash edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/riftblade.png"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/05/27/daily-blogroll-527-bump-in-the-night-edition/"
+    title: "Daily Blogroll 5/27 -- Bump in the Night edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/exefile-2009-05-25-19-13-32-09.jpg"
+  - url: "/2008/03/17/shut-up-were-talking-22/"
+    title: "Shut Up, We're Talking #22"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/03/everquest2-2008-03-16-20-54-35-47.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/03/everquest2-2008-03-16-20-54-35-47.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2025-12-15T08:25:57-05:00'
 draft: false
 title: "I Know What I Did Last Weekend"
 author: "Tipa"
+disqusIdentifier: "2025/12/15/i-know-what-i-did-last-weekend-6"
 summary: "Time for another round-up of my recent gaming adventures."
 categories:
   - "Dune Awakening"
@@ -15,6 +16,19 @@ tags:
   - "Quest 64"
   - "Sword for Hire"
   - "Team Spode"
+relatedPosts:
+  - url: "/2025/03/31/i-know-what-i-did-last-weekend-3/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/arcadeparadisebanner.png"
+  - url: "/2023/02/21/pokemon-the-newish-addiction/"
+    title: "Pokémon: The New(ish) Addiction"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/02/pokemonaddiction.png"
+  - url: "/2026/01/05/holiday-grab-bag-dune-palworld-quest-64/"
+    title: "Holiday Grab Bag: Dune, Palworld, Quest 64"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/1-20260104163451_1.jpg"
+  - url: "/2025/11/21/pokemon-legends-z-a-rolls-credits/"
+    title: "Pokémon Legends: Z-A rolls credits"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/2025112021391100-D30A1E83A76029FCCC1E3AC4EF5B7C89L.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/IMG_5573-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/IMG_5573-scaled.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2009-04-01T08:05:34-05:00'
 draft: false
 title: "EverQuest 2: Lavastorm revamp"
 author: "Tipa"
+disqusIdentifier: "2009/04/01/everquest-2-lavastorm-revamp"
 summary: "Flying over the newly redesigned Lavastorm on my elemental horse, I kinda feel a little like Santa, except if instead of riding Rudolph, Santa was..."
 categories:
   - "EverQuest"
@@ -12,6 +13,19 @@ tags:
   - "Gu51"
   - "Lavastorm"
   - "Sootfoot"
+relatedPosts:
+  - url: "/2009/04/01/everquest-2-the-sootfoot-experience/"
+    title: "EverQuest 2: The Sootfoot Experience."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/everquest2-2009-04-01-23-19-49-21.jpg"
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2024/10/21/evercraft-online-the-unholy-child-of-eq-and-minecraft/"
+    title: "EverCraft Online: The Unholy Child of EQ and MineCraft"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/evercraft-banner.png"
+  - url: "/2024/08/28/erenshor-everquest-for-soloers/"
+    title: "Erenshor -- EverQuest for soloers"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/erenshotheader.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/everquest2-2009-03-31-19-35-03-75.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/everquest2-2009-03-31-19-35-03-75.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2025-02-03T08:00:00-05:00'
 draft: false
 title: "Rolling Dice and Taking Names: My CaptainCon 2025 Experience"
 author: "Tipa"
+disqusIdentifier: "2025/02/03/my-adventures-at-captaincon-2025"
 summary: "We traveled through the Quiet Corner to the exotic Rhode Island to chew bubblegum and play board games. There was a lot more going on than just Malifaux!"
 categories:
   - "Malifaux"
@@ -13,6 +14,19 @@ tags:
   - "Dead Reckoning"
   - "Fae"
   - "Planet Hexx"
+relatedPosts:
+  - url: "/2026/02/01/captaincon-2026-masters-of-malifaux/"
+    title: "CaptainCon 2026: Masters of Malifaux"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/CC_Logo_Red.webp"
+  - url: "/2025/01/29/malifaux-booty-plunder/"
+    title: "Malifaux: Booty &amp; Plunder"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/bootyplunder.png"
+  - url: "/2025/01/12/malifaux-the-littlest-capn/"
+    title: "Malifaux: The Littlest Cap'n"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/littlecaptainbanner.png"
+  - url: "/2025/05/09/pax-east-2025-wow-kinda-big-right/"
+    title: "PAX East 2025: Wow, kinda big, right?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/IMG_5091-scaled.jpeg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/02/captainconbanner.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/02/captainconbanner.png"
 ---

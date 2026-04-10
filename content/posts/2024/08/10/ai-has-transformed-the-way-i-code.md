@@ -3,6 +3,7 @@ date: '2024-08-10T08:00:00-05:00'
 draft: false
 title: "AI has transformed the way I code"
 author: "Tipa"
+disqusIdentifier: "2024/08/10/ai-has-transformed-the-way-i-code"
 summary: "Github Copilot and other LLM-powered coding tools have become indispensable to many in the software development industry. AI is not a fad; it's here to stay."
 categories:
   - "Blaugust"
@@ -12,6 +13,19 @@ tags:
   - "Copilot"
   - "Github"
   - "Waffle"
+relatedPosts:
+  - url: "/2023/08/14/my-non-controversial-take-on-the-ai-revolution/"
+    title: "My Non-Controversial Take on the AI Revolution"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/revolution.png"
+  - url: "/2023/08/12/a-cheaters-guide-to-wordle-waffle-and-squaredle/"
+    title: "A Cheater's Guide to Wordle, Waffle and Squaredle"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/DALL·E-2023-08-12-09.16.41-clip-art-of-a-woman-solving-a-crossword-puzzle-that-is-drawn-on-a-chalkboard.png"
+  - url: "/2021/09/01/resurrecting-west-karana/"
+    title: "Resurrecting West Karana"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/b0d5f94a61f128683568fec95571fa8e.jpg"
+  - url: "/2024/08/08/did-a-robot-write-this/"
+    title: "Did a robot write this?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/tipachu_synthwave_background_robot_typing_on_a_teletype_with__6eab107d-1c5c-4b6a-a133-4bab146eff78_0-1.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/copilot.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/copilot.png"
 ---

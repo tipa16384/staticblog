@@ -3,6 +3,7 @@ date: '2022-04-07T08:54:12-05:00'
 draft: false
 title: "You probably should be playing Wildermyth right now."
 author: "Tipa"
+disqusIdentifier: "2022/04/07/you-probably-should-be-playing-wildermyth-right-now"
 summary: "It's a story, or maybe a comic. Some friends gather together to save their town. Well, a couple of them don't really get along. A..."
 categories:
   - "Steam Games"
@@ -12,6 +13,19 @@ tags:
   - "Fire Emblem"
   - "RPG"
   - "Tactics"
+relatedPosts:
+  - url: "/2022/07/25/those-who-rule-chapter-1/"
+    title: "Those Who Rule: Chapter 1"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/20220725222601_1.jpg"
+  - url: "/2021/07/20/rise-eterna/"
+    title: "Rise Eterna"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/2021051618021700-BA2A6D95681540D14D17CA98DC5AFB99.jpg"
+  - url: "/2020/12/21/quick-takes-unsung-story-tale-of-the-guardian/"
+    title: "Quick Takes: Unsung Story, Tale of the Guardian"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/20201219085246_1.jpg"
+  - url: "/2020/12/11/my-rpgs-of-2020/"
+    title: "My RPGs of 2020"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/Chocobos-Mystery-Dungeon-EVERY-BUDDY_20200506204657.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/04/screenshot_30.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/04/screenshot_30.png"
 ---

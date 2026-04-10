@@ -3,6 +3,7 @@ date: '2009-05-02T10:05:08-05:00'
 draft: false
 title: "It's official, the new EverQuest server is chosen, plus EQ3 rumors?"
 author: "Tipa"
+disqusIdentifier: "2009/05/02/its-official-the-new-everquest-server-is-chosen-plus-eq3-rumors"
 summary: "WK's own Neriak correspondent, Nashuya N'Hamsha, interviews local residents about the new 51/50 server...."
 categories:
   - "EverQuest"
@@ -11,6 +12,19 @@ tags:
   - "51/50"
   - "Eq3"
   - "Server"
+relatedPosts:
+  - url: "/2009/06/16/welcome-to-mayong-everquests-5150-server/"
+    title: "Welcome to Mayong, EverQuest's 51/50 server"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/mayong.jpg"
+  - url: "/2009/05/28/will-everquest-iii-be-free-realms-ii/"
+    title: "Will EverQuest III be Free Realms II?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/fullscreen-capture-5282009-65906-am.jpg"
+  - url: "/2009/05/05/eq-why-the-new-5150-server-might-be-great/"
+    title: "EQ: Why the new 51/50 server might be great"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/eqgame-2009-05-01-22-46-48-02.jpg"
+  - url: "/2009/04/28/can-we-get-back-to-talking-about-everquest-3-now/"
+    title: "Can we get back to talking about EverQuest 3 now?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/faebeforeandafter.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/neriak5150.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/neriak5150.jpg"
 ---

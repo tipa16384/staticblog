@@ -3,6 +3,7 @@ date: '2020-09-15T07:13:06-05:00'
 draft: false
 title: "Adventures in Monopoly -- Darkfall, Part III"
 author: "Tipa"
+disqusIdentifier: "2020/09/15/adventures-in-monopoly-darkfall-part-iii"
 summary: "Header pic has nothing to do with this comic. Header pic was based off an old John Varley story...."
 categories:
   - "Adventures in Monopoly"
@@ -11,6 +12,19 @@ categories:
 tags:
   - "Girls Screaming in Latin"
   - "Young Frankenstein"
+relatedPosts:
+  - url: "/2020/09/08/adventures-in-monopoly-darkfall-part-ii/"
+    title: "Adventures in Monopoly -- Darkfall, Part II"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/panel3.jpg"
+  - url: "/2020/09/01/adventures-in-monopoly-darkfall-pt-1/"
+    title: "Adventures in Monopoly -- Darkfall Pt. 1"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/panel2.jpg"
+  - url: "/2020/08/24/adventures-in-monopoly-cash-shop/"
+    title: "Adventures in Monopoly -- Cash Shop"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/panel1.jpg"
+  - url: "/2020/08/17/adventures-in-monopoly-the-beginning/"
+    title: "Adventures in Monopoly: The Beginning"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/panel1-redo.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/aimbomb.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/aimbomb.jpg"
 ---

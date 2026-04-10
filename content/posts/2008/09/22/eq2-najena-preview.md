@@ -3,6 +3,7 @@ date: '2008-09-22T21:29:54-05:00'
 draft: false
 title: "EQ2: Najena preview"
 author: "Tipa"
+disqusIdentifier: "2008/09/22/eq2-najena-preview"
 summary: "SOE has a great preview of their re-imagining of the dungeon of Najena on their web site...."
 categories:
   - "EverQuest"
@@ -11,6 +12,19 @@ tags:
   - "Eq2 Expansion"
   - "Najena"
   - "The Shadow Odyssey"
+relatedPosts:
+  - url: "/2008/10/07/eq2-the-return-of-anashti-sul/"
+    title: "EQ2: The return of Anashti Sul?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/everquest2-2008-10-06-22-41-21-45.jpg"
+  - url: "/2008/10/07/eq2-gu49-live/"
+    title: "EQ2: GU49 live!"
+    thumbnailImage: ""
+  - url: "/2008/11/21/eq2-crafting-an-alliance/"
+    title: "EQ2: Crafting an alliance"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/everquest2-2008-11-21-01-44-20-28.jpg"
+  - url: "/2008/11/20/eq2-the-shadow-odyssey-its-like-a-really-big-book/"
+    title: "EQ2: The Shadow Odyssey? It's like a really big book..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/everquest2-2008-11-20-07-35-41-71.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/ironforge.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/ironforge.jpg"
 ---

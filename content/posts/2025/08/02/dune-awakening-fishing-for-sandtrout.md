@@ -3,6 +3,7 @@ date: '2025-08-02T08:00:00-05:00'
 draft: false
 title: "Dune Awakening: Fishing for Sandtrout"
 author: "Tipa"
+disqusIdentifier: "2025/08/02/dune-awakening-fishing-for-sandtrout"
 summary: "Is Dune: Awakening even an MMO if it doesn't have fishing? My playgroup moves into the Deep Desert and finds..."
 categories:
   - "Blaugust"
@@ -12,6 +13,19 @@ categories:
 tags:
   - "Team Spode"
   - "Tell Me of Your Homeworld Usul"
+relatedPosts:
+  - url: "/2025/09/22/dune-awakening-apotheosis/"
+    title: "Dune Awakening: Apotheosis"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/1-20250920233213_1.jpg"
+  - url: "/2025/08/17/dune-awakening-roc-music/"
+    title: "Dune: Awakening -- Roc Music"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/dunecarrier.png"
+  - url: "/2020/08/21/blaugust-21-there-are-no-new-ideas/"
+    title: "Blaugust #21: There Are No New Ideas"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/seamonsters.jpg"
+  - url: "/2025/08/30/dune-awakening-we-finally-got-ganked/"
+    title: "Dune Awakening: We finally got ganked"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/20250830103401_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/fishingforsandtrout.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/fishingforsandtrout.png"
 ---

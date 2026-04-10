@@ -3,12 +3,26 @@ date: '2007-10-18T07:17:00-05:00'
 draft: false
 title: "Running Dungeons"
 author: "Tipa"
+disqusIdentifier: "2007/10/18/running-dungeons"
 summary: "Since not playing since the Dungeon Runners beta, I figured it was time to give it another shot. It gives me that WoW experience --..."
 categories:
   - "MMORPG"
 tags:
   - "Dungeon Runners"
   - "NCsoft"
+relatedPosts:
+  - url: "/2008/08/14/a-first-look-at-cronous/"
+    title: "A first look at Cronous"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/game-2008-08-14-00-29-26-79.jpg"
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2026/03/11/dune-awakening-finished-chapter-3/"
+    title: "Dune Awakening: Finished Chapter 3"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-11-073510.png"
+  - url: "/2026/02/04/erenshor-rising-shadows-launched/"
+    title: 'Erenshor "Rising Shadows" launched!'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/20260204080313_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/10/dr-char.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/10/dr-char.jpg"
 ---

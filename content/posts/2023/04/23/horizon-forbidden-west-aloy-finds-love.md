@@ -3,6 +3,7 @@ date: '2023-04-23T15:18:33-05:00'
 draft: false
 title: "Horizon Forbidden West: Aloy Finds Love"
 author: "Tipa"
+disqusIdentifier: "2023/04/23/horizon-forbidden-west-aloy-finds-love"
 summary: "After their meeting in Frozen Wilds, I never expected to see Gildun again -- but when he appeared again in the first DLC for Horizon..."
 categories:
   - "Horizon Forbidden West"
@@ -12,6 +13,19 @@ tags:
   - "Burning Shores"
   - "Gildun"
   - "Horizon Zero Dawn"
+relatedPosts:
+  - url: "/2022/03/25/horizon-forbidden-west-the-first-hundred-hours/"
+    title: "Horizon Forbidden West: The First Hundred Hours"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/Horizon-Forbidden-West_20220219085401-scaled.jpg"
+  - url: "/2024/11/23/lego-horizon-adventures/"
+    title: "LEGO Horizon Adventures"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/LEGO®-Horizon-Adventures™_20241122153718-scaled.jpg"
+  - url: "/2022/05/30/what-if-elden-but-ring/"
+    title: "What if Elden, but Ring?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/05/ELDEN-RING™_20220529120543-scaled.jpg"
+  - url: "/2024/09/29/lego-thunderjaw-finally-mostly-complete/"
+    title: "LEGO Thunderjaw: Finally mostly complete!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/thunderjaw-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/04/1-Horizon-Forbidden-West_20230423112855.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/04/1-Horizon-Forbidden-West_20230423112855.jpg"
 ---

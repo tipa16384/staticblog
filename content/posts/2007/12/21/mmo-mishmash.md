@@ -3,6 +3,7 @@ date: '2007-12-21T11:33:42-05:00'
 draft: false
 title: "MMO Mishmash"
 author: "Tipa"
+disqusIdentifier: "2007/12/21/mmo-mishmash"
 summary: "There's been a lot of topics going around the blogosphere, and I've been holding off on them because, well, I don't really have anything groundbreaking..."
 categories:
   - "City of Heroes"
@@ -14,6 +15,19 @@ categories:
   - "MMORPG"
   - "Mythos"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2009/05/08/daily-blogroll-58-darkfail-edition/"
+    title: "Daily Blogroll 5/8 -- Darkfail edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/darkfall.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/04/24/web-log-424-friday-is-free-day-edition/"
+    title: "Web Log 4/24 -- Friday is Free Day edition"
+    thumbnailImage: "http://www.penny-arcade.com/images/2009/20090424.jpg"
 ---
 There's been a lot of topics going around the blogosphere, and I've been holding off on them because, well, I don't really have anything groundbreaking...
 <!--more-->

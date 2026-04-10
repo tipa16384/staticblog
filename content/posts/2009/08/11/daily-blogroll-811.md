@@ -3,6 +3,7 @@ date: '2009-08-11T07:34:45-05:00'
 draft: false
 title: "Daily Blogroll 8/11 -- Cataclysm edition"
 author: "Tipa"
+disqusIdentifier: "2009/08/11/daily-blogroll-811"
 summary: "Hey, everyone ELSE returns to WoW.... And why not? Rumor has it that Blizzard is definitely going to introduce the Worgen and Goblin races as..."
 categories:
   - "Champions Online"
@@ -12,6 +13,19 @@ categories:
   - "Warhammer: Age of Reckoning"
   - "Wizard101"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2008/12/24/a-look-back-at-2008/"
+    title: "A look back at 2008"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-30-22-10-50-69.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/09/03/daily-blogroll-93-sushi-day-edition/"
+    title: "Daily Blogroll 9/3 - Sushi day edition!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/Fullscreen-capture-932009-75844-AM.jpg"
+  - url: "/2009/04/28/daily-blogroll-428-hug-squeeze-edition/"
+    title: "Daily Blogroll 4/28 -- Hug & Squeeze Edition"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/39ba0f5f07f444691742d01b64aab12b.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/39ba0f5f07f444691742d01b64aab12b.jpg"
 ---

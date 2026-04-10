@@ -3,11 +3,25 @@ date: '2024-12-17T08:00:00-05:00'
 draft: false
 title: "Billionaire Rapture"
 author: "Tipa"
+disqusIdentifier: "2024/12/17/billionaire-rapture"
 summary: "Sometimes I just want to write a story. Art AI, words are all mine, for better or worse. I hope you enjoy it."
 categories:
   - "Fiction"
   - "General"
   - "Humor"
+relatedPosts:
+  - url: "/2012/11/30/adventures-in-monopoly-kickstarter/"
+    title: "Adventures in Monopoly: Kickstarter"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/11/aimkick.png"
+  - url: "/2011/01/04/1-hour-review-of-your-life/"
+    title: "1 Hour Review of: Your Life"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/baby.jpg"
+  - url: "/2010/12/20/yummy/"
+    title: "Yummy!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/Fullscreen-capture-12202010-101059-AM.jpg"
+  - url: "/2010/02/12/syp-pulls-out-the-big-guns-im-ready/"
+    title: '"Syp" pulls out the big guns? I''m ready.'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/02/syphead.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/DALL·E-2024-12-17-00.14.48-A-surreal-science-fiction-book-cover-for-a-short-story-titled-Billionaire-Rapture.-The-scene-depicts-a-futuristic-dramatic-setting-in-space-and-on-.webp"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/DALL·E-2024-12-17-00.14.48-A-surreal-science-fiction-book-cover-for-a-short-story-titled-Billionaire-Rapture.-The-scene-depicts-a-futuristic-dramatic-setting-in-space-and-on-.webp"
 ---

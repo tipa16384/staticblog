@@ -3,10 +3,24 @@ date: '2015-11-22T10:36:18-05:00'
 draft: false
 title: "A Captain of the Second League"
 author: "Tipa"
+disqusIdentifier: "2015/11/22/a-member-of-the-second-league"
 summary: "Rank 14 and owner of the flag marking me as a member of the Second League... that is really available to anyone who is playing..."
 categories:
   - "MMORPG"
   - "World of Warships"
+relatedPosts:
+  - url: "/2020/05/14/world-of-warships-submarines-sail-in/"
+    title: "World of Warships: Submarines Sail In"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/runsilent.png"
+  - url: "/2020/04/22/world-of-weebships/"
+    title: "World of Warships is the perfect MMO for someone who just can't be bothered to care any more."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/04/WorldOfWarships64-2020-04-22-22-20-32-93.jpg"
+  - url: "/2015/11/14/the-ijn-welcomes-you-to-tier-v/"
+    title: "The IJN Welcomes You to Tier V"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/11/worldofwarships-2015-11-14-10-43-27-25.jpg"
+  - url: "/2015/09/19/world-of-warships/"
+    title: "World of Warships?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/09/worldofwarships-2015-09-19-21-07-54-13.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/11/warships-second-league.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/11/warships-second-league.jpg"
 ---

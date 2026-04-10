@@ -3,11 +3,25 @@ date: '2013-03-06T07:50:23-05:00'
 draft: false
 title: "Code Hero (alpha)"
 author: "Tipa"
+disqusIdentifier: "2013/03/06/code-hero-alpha"
 summary: "Last year, or maybe the year before by now, I helped fund an innovative game on Kickstarter, Primer's Code Hero. This game would teach you..."
 categories:
   - "Code Hero"
   - "Kickstarter"
   - "Other Games"
+relatedPosts:
+  - url: "/2014/12/23/finally-got-into-the-alpha-for-star-command-galaxies-a-game-i-kickstarted-a-few-years-ago-this-alpha/"
+    title: "Star Command Galaxies: First Alpha"
+    thumbnailImage: ""
+  - url: "/2025/12/23/widgets-workshop-build-robots-better/"
+    title: "Widget's Workshop: Build Robots Better."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/IMG_5579-scaled.jpg"
+  - url: "/2025/11/04/backed-the-vectrex-mini/"
+    title: "Backed the Vectrex Mini"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/vectrexdemo-scaled.webp"
+  - url: "/2025/09/04/still-more-confessions-of-a-kickstarter-superbacker/"
+    title: "Still More Confessions of a Kickstarter Superbacker"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/superbacker.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/03/Code-Hero-Alpha-0-2013-03-05-23-17-39-02-480x300.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/03/Code-Hero-Alpha-0-2013-03-05-23-17-39-02-480x300.jpg"
 ---

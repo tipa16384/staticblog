@@ -3,6 +3,7 @@ date: '2020-08-23T08:26:20-05:00'
 draft: false
 title: "Blaugust #22 and #23: Fear and Envy"
 author: "Tipa"
+disqusIdentifier: "2020/08/23/blaugust-22-and-23-fear-and-envy"
 summary: "I at first didn't want to write anything about fear, the topic of the first Blaugust Promptapalooza prompt. I'd much rather talk about the second..."
 categories:
   - "Blaugust"
@@ -16,6 +17,19 @@ tags:
   - "Green Lantern"
   - "Heavy Rain"
   - "Tanglewood"
+relatedPosts:
+  - url: "/2021/08/30/tipa-v-internet-part-ii/"
+    title: "Tipa v Internet: Part II"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/MADV114_DESIGNERDATA-PC-30-23.09.150.jpg"
+  - url: "/2021/08/23/this-post-isnt-about-tiny-rogue/"
+    title: "This Post Isn't About Mini Rogue"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-IMG_2295.jpg"
+  - url: "/2021/08/19/game-night-jotl-the-gauntlet/"
+    title: 'Game Night: JotL "The Gauntlet"'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-IMG_2293-001.jpg"
+  - url: "/2020/08/29/blaugust-29-communities/"
+    title: "Blaugust #29: Communities"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/LordBritishAddressingTheMasses.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/lantern-corps-970x545-1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/lantern-corps-970x545-1.jpg"
 ---

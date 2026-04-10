@@ -3,12 +3,26 @@ date: '2009-11-02T08:08:01-05:00'
 draft: false
 title: "Weekend Gaming: Torchlight and Wizard101"
 author: "Tipa"
+disqusIdentifier: "2009/11/02/weekend-gaming-torchlight-and-wizard101"
 summary: "The weekend wasn't ALL EVE Online, though it could have been. That game is just SO addictive, though, that I have to consciously NOT log..."
 categories:
   - "MMORPG"
   - "Other Games"
   - "Torchlight"
   - "Wizard101"
+relatedPosts:
+  - url: "/2009/05/13/daily-blogroll-513-going-rogue-edition/"
+    title: "Daily Blogroll 5/13 -- Going Rogue edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/angelatheangelic.jpg"
+  - url: "/2012/10/11/game-log-pirate101-torchlight-2/"
+    title: "Game Log: Pirate101, Torchlight 2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-10-21-01-42-45-480x360.jpg"
+  - url: "/2009/11/09/weekend-gaming-eve-torchlight-dragon-age/"
+    title: "Weekend Gaming: EVE, Torchlight, Dragon Age"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/11/Torchlight-2009-11-08-12-49-04-88.jpg"
+  - url: "/2009/05/05/daly-blogroll-55-five-by-five-edition/"
+    title: "Daily Blogroll 5/5 -- Five by Five edition"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/11/Torchlight-2009-11-01-10-48-21-22.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/11/Torchlight-2009-11-01-10-48-21-22.jpg"
 ---

@@ -3,10 +3,24 @@ date: '2008-10-10T08:16:49-05:00'
 draft: false
 title: "Pi Story, because everyone likes Pi(e)"
 author: "Tipa"
+disqusIdentifier: "2008/10/10/pi-story-because-everyone-likes-pie"
 summary: "I've been wanting to get into Pi Story for months. Yeah, it's a 2D game in the vein of old Playstation action RPGs like 'Legend..."
 categories:
   - "MMORPG"
   - "Pi Story"
+relatedPosts:
+  - url: "/2008/10/12/pi-story-one-in-a-thousand/"
+    title: "Pi Story: one in a thousand"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/pistory-2008-10-12-07-14-36-88.jpg"
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2026/03/11/dune-awakening-finished-chapter-3/"
+    title: "Dune Awakening: Finished Chapter 3"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-11-073510.png"
+  - url: "/2026/02/04/erenshor-rising-shadows-launched/"
+    title: 'Erenshor "Rising Shadows" launched!'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/20260204080313_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/pistory-2008-10-10-07-50-48-45.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/pistory-2008-10-10-07-50-48-45.jpg"
 ---

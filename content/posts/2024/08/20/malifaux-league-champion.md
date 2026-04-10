@@ -3,6 +3,7 @@ date: '2024-08-20T07:00:00-05:00'
 draft: false
 title: "Malifaux: League champion?"
 author: "Tipa"
+disqusIdentifier: "2024/08/20/malifaux-league-champion"
 summary: "Building on Saturday's Malifaux tournament, yesterday was the start of the 2024 Fall Malifaux league and I came the closest yet to actually winning a match."
 categories:
   - "Blaugust"
@@ -10,6 +11,19 @@ categories:
   - "Malifaux"
   - "Strategy"
   - "Tabletop Games"
+relatedPosts:
+  - url: "/2024/08/18/my-first-malifaux-tournament/"
+    title: "My first Malifaux tournament!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/malifaux-wtf.png"
+  - url: "/2024/11/04/malifaux-ing-in-massacusetts/"
+    title: "Malifaux-ing in Massachusetts"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/carverbanner.png"
+  - url: "/2024/09/25/malifaux-the-scrappy-underdog/"
+    title: "Malifaux: The Scrappy Underdog"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/league3.png"
+  - url: "/2024/08/19/weekend-gaming-ship-of-heroes-persona-5-tactica-giants-citizen-kabuto/"
+    title: "Weekend Gaming: Ship of Heroes, Persona 5 Tactica, Giants Citizen Kabuto"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/1-20240819074418_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/malifaux-league-1.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/malifaux-league-1.png"
 ---

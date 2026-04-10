@@ -3,11 +3,25 @@ date: '2008-06-04T08:23:20-05:00'
 draft: false
 title: "EverQuest: Down at the farm"
 author: "Tipa"
+disqusIdentifier: "2008/06/04/everquest-down-at-the-farm"
 summary: "SOE loves reinventing their flagship games. Last fall, SOE decided that their latest EQ2 expansion, Rise of Kunark, should focus on mostly-soloable quests instead of..."
 categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
+relatedPosts:
+  - url: "/2020/05/13/everquest-bones-everywhere/"
+    title: "EverQuest: Bones Everywhere."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/eqgame-2020-05-13-06-57-41-85.jpg"
+  - url: "/2009/06/16/welcome-to-mayong-everquests-5150-server/"
+    title: "Welcome to Mayong, EverQuest's 51/50 server"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/mayong.jpg"
+  - url: "/2009/04/17/happy-10th-birthday-everquest/"
+    title: "Happy 10th Birthday, EverQuest!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/eq10-2.jpg"
+  - url: "/2009/04/05/eq2-epic-encounter-in-my-bedroom/"
+    title: "EQ2: Epic encounter in my bedroom"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/everquest2-2009-04-04-21-58-41-05.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/eqgame-2008-06-03-22-42-47-54.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/eqgame-2008-06-03-22-42-47-54.jpg"
 ---

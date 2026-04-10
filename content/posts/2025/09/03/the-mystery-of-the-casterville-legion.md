@@ -3,12 +3,26 @@ date: '2025-09-03T07:51:00-05:00'
 draft: false
 title: "The Mystery of the Casterville Legion"
 author: "Tipa"
+disqusIdentifier: "2025/09/03/the-mystery-of-the-casterville-legion"
 summary: "@Nimgimli used AI Dungeon to make him an adventure. I wondered if I could get the same or better for free."
 categories:
   - "Fiction"
 tags:
   - "AI"
   - "ChatGPT"
+relatedPosts:
+  - url: "/2025/01/25/ai-is-going-to-steal-my-job-and-i-couldnt-be-happier/"
+    title: "AI is going to steal my job -- and I couldn't be happier"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/minitray.png"
+  - url: "/2024/04/16/that-is-not-a-sandworm-in-your-driveway/"
+    title: "That is not a sandworm in your driveway"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/sandwormindriveway.png"
+  - url: "/2025/12/16/prompting-malifaux/"
+    title: "Prompting Malifaux"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/ChatGPT-Image-Dec-16-2025-08_13_14-AM.png"
+  - url: "/2025/08/15/base44-games-from-a-prompt/"
+    title: "Base44: Games from a Prompt"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/pendeenpoint.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/tess-of-casterville.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/tess-of-casterville.png"
 ---

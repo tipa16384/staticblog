@@ -3,6 +3,7 @@ date: '2022-11-14T23:55:47-05:00'
 draft: false
 title: "Gotham Knights completed"
 author: "Tipa"
+disqusIdentifier: "2022/11/14/gotham-knights-completed"
 summary: "Finished! My PlayStation says I spent 39 hours in the game. I was taking my time at it, too, doing all the optional content, so..."
 categories:
   - "Gotham Knights"
@@ -12,6 +13,19 @@ tags:
   - "Batman"
   - "DC Comics"
   - "DC Universe Online"
+relatedPosts:
+  - url: "/2022/11/07/gotham-knights-the-best-superhero-game-youre-not-playing/"
+    title: "Gotham Knights - The Best Superhero Game You're Not Playing"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/11/DALL·E-2022-11-07-22.23.47-digital-art-city-scape-at-night.png"
+  - url: "/2021/07/23/dcuo-reboots-itself-with-house-of-legends/"
+    title: "DCUO Reboots itself with House of Legends"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/batman-joker-collaborations_auto_x2.jpg"
+  - url: "/2021/10/18/i-burned-down-a-rain-forest-and-all-i-got-was-this-stupid-nft/"
+    title: "I Burned Down a Rain Forest and All I Got Was This Stupid NFT"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/51k1w0ALNL.jpg"
+  - url: "/2021/10/11/dcuo-the-legion-of-doom-invades-washington-d-c/"
+    title: "DCUO: The Legion of Doom invades Washington D.C."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/dcuodc.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/11/Gotham-Knights_20221114221226-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/11/Gotham-Knights_20221114221226-scaled.jpg"
 ---

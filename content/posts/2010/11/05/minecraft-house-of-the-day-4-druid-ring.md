@@ -3,6 +3,7 @@ date: '2010-11-05T21:43:40-05:00'
 draft: false
 title: "Minecraft: House of the Day #4 -- Druid Ring"
 author: "Tipa"
+disqusIdentifier: "2010/11/05/minecraft-house-of-the-day-4-druid-ring"
 summary: "[..."
 categories:
   - "Minecraft"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Druid Ring"
   - "House of the Day"
+relatedPosts:
+  - url: "/2011/06/24/eq-nostalgia-old-freeport-in-minecraft/"
+    title: "EQ Nostalgia: Old Freeport in Minecraft"
+    thumbnailImage: ""
+  - url: "/2010/11/07/learning-to-mod-minecraft/"
+    title: "Learning to mod: Minecraft!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/javaw-2010-11-07-15-46-02-31-480x376.jpg"
+  - url: "/2010/11/03/is-your-teenager-a-minecraft-addict/"
+    title: "Is your teenager a Minecraft addict?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/javaw-2010-11-03-20-09-47-09-480x376.jpg"
+  - url: "/2010/10/01/star-trek-online-minecraft-treasure-abyss/"
+    title: "Star Trek Online, Minecraft, Treasure Abyss"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/javaw-2010-09-28-21-56-46-97.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/javaw-2010-11-05-22-33-52-24-480x376.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/javaw-2010-11-05-22-33-52-24-480x376.jpg"
 ---

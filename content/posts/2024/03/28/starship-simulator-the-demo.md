@@ -3,6 +3,7 @@ date: '2024-03-28T07:00:00-05:00'
 draft: false
 title: "Starship Simulator: The Demo"
 author: "Tipa"
+disqusIdentifier: "2024/03/28/starship-simulator-the-demo"
 summary: "About 200 lightyears inward from Sol hangs a giant nebula in the middle of nothing, and you can go there."
 categories:
   - "Kickstarter"
@@ -11,6 +12,19 @@ tags:
   - "Star Trek"
   - "Steam"
   - "VR"
+relatedPosts:
+  - url: "/2021/09/15/lets-go-looking-for-my-games/"
+    title: "Let's Go Looking For My Games"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/china-map.gif"
+  - url: "/2024/01/08/trash-goblin-demo/"
+    title: "Trash Goblin Demo"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/trashgoblin.png"
+  - url: "/2020/12/21/quick-takes-unsung-story-tale-of-the-guardian/"
+    title: "Quick Takes: Unsung Story, Tale of the Guardian"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/20201219085246_1.jpg"
+  - url: "/2025/08/05/international-play-your-vectrex-day-is-november-1/"
+    title: "International Play Your Vectrex Day is November 1!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/vectrexbanner.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/starshipsimulatorbanner.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/starshipsimulatorbanner.png"
 ---

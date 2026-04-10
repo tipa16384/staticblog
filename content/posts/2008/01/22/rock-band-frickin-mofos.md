@@ -3,9 +3,23 @@ date: '2008-01-22T11:05:54-05:00'
 draft: false
 title: "Rock Band: Frickin Mofos."
 author: "Tipa"
+disqusIdentifier: "2008/01/22/rock-band-frickin-mofos"
 summary: "Look. You don't want to be a part of this. I'm gonna let you off easy, put up the \"more\" thing and everything. You can..."
 categories:
   - "Rock Band"
+relatedPosts:
+  - url: "/2008/09/12/guitar-hero-world-tour-set-list/"
+    title: "Guitar Hero World Tour set list!"
+    thumbnailImage: ""
+  - url: "/2008/08/06/rock-band-live-on-tour-with-real-instruments/"
+    title: "Rock Band Live! On Tour! With real instruments!"
+    thumbnailImage: ""
+  - url: "/2008/07/17/rock-band-2-controllers-blur-the-line-between-real-band-and-fake-band/"
+    title: "Rock Band 2 controllers blur the line between real band and fake band"
+    thumbnailImage: ""
+  - url: "/2008/07/14/sigh-rock-band-2-set-list/"
+    title: "Sigh. Rock Band 2 set list."
+    thumbnailImage: ""
 ---
 Look. You don't want to be a part of this. I'm gonna let you off easy, put up the "more" thing and everything. You can...
 <!--more-->

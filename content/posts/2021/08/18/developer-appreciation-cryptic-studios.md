@@ -3,6 +3,7 @@ date: '2021-08-18T23:00:23-05:00'
 draft: false
 title: "Developer Appreciation: Cryptic Studios"
 author: "Tipa"
+disqusIdentifier: "2021/08/18/developer-appreciation-cryptic-studios"
 summary: "It's Developer Appreciation week. Whenever these come up, I really don't know what to say. The games I've played have changed my life. When things..."
 categories:
   - "Blaugust"
@@ -12,6 +13,19 @@ categories:
 tags:
   - "Champions Online"
   - "City of Villains"
+relatedPosts:
+  - url: "/2021/08/07/mmos-on-the-bubble/"
+    title: "MMOs on the Bubble"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/STP61286.jpg"
+  - url: "/2021/08/22/ship-of-heroes-superheroes-in-spaaaaaace/"
+    title: "Ship of Heroes: Superheroes IN SPAAAAAACE!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/shipoffools-1.jpg"
+  - url: "/2021/08/21/champions-online-vs-dcuo/"
+    title: "Champions Online vs DCUO"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/riddlers.jpg"
+  - url: "/2008/08/28/cox-issue-13-takes-a-page-out-of-eves-book/"
+    title: "CoX Issue 13 takes a page out of EVE's book"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/cityofheroes-2008-08-28-07-06-42-61.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/cityofheroes-2007-12-01-12-05-32-84.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/cityofheroes-2007-12-01-12-05-32-84.jpg"
 ---

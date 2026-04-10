@@ -3,6 +3,7 @@ date: '2009-05-05T07:30:24-05:00'
 draft: false
 title: "Daily Blogroll 5/5 -- Five by Five edition"
 author: "Tipa"
+disqusIdentifier: "2009/05/05/daly-blogroll-55-five-by-five-edition"
 summary: "It's a gray, rainy day today, perfect time to stay home and game a little...."
 categories:
   - "Champions Online"
@@ -13,6 +14,19 @@ categories:
   - "Other Games"
   - "Spore"
   - "Torchlight"
+relatedPosts:
+  - url: "/2009/05/08/daily-blogroll-58-darkfail-edition/"
+    title: "Daily Blogroll 5/8 -- Darkfail edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/darkfall.jpg"
+  - url: "/2009/04/24/web-log-424-friday-is-free-day-edition/"
+    title: "Web Log 4/24 -- Friday is Free Day edition"
+    thumbnailImage: "http://www.penny-arcade.com/images/2009/20090424.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/08/31/daily-blogroll-831-end-of-summer-edition/"
+    title: "Daily Blogroll 8/31 - End of Summer edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/GameClient-2009-08-30-21-20-36-81.jpg"
 ---
 It's a gray, rainy day today, perfect time to stay home and game a little....
 <!--more-->

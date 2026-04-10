@@ -3,6 +3,7 @@ date: '2022-07-24T14:58:23-05:00'
 draft: false
 title: "Ogre Battle 64: I am a Person of Lordly Caliber"
 author: "Tipa"
+disqusIdentifier: "2022/07/24/ogre-battle-64-i-am-a-person-of-lordly-caliber"
 summary: "Jusssst about 51 hours, though I went back in later and finished some side quests. Is this worth picking up for your Nintendo 64?..."
 categories:
   - "Nintendo 64"
@@ -14,6 +15,19 @@ tags:
   - "RPG"
   - "Symphony of War"
   - "Tactics"
+relatedPosts:
+  - url: "/2022/06/23/symphony-of-war-the-nephilim-saga/"
+    title: "Symphony of War: The Nephilim Saga"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/06/20220622113658_1.jpg"
+  - url: "/2022/07/13/ogre-battle-curse-your-sudden-but-inevitable-betrayal/"
+    title: "Ogre Battle: Curse your sudden, but inevitable, betrayal"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/CorwinDefects.png"
+  - url: "/2024/03/23/unicorn-overlord-whose-overlord-is-it-anyway/"
+    title: "Unicorn Overlord -- Whose Overlord Is It, Anyway?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/Unicorn-Overlord_20240322181915.jpg"
+  - url: "/2020/10/17/ogre-battle-the-march-of-the-black-queen-how-to-win-the-game/"
+    title: "Ogre Battle: The March of the Black Queen: How to Win the Game."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-138.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/danika.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/danika.png"
 ---

@@ -3,6 +3,7 @@ date: '2024-10-07T07:00:00-05:00'
 draft: false
 title: "The Lord of the Rings: War in the North"
 author: "Tipa"
+disqusIdentifier: "2024/10/07/the-lord-of-the-rings-war-in-the-north"
 summary: "Snowblind Studios' swan song might have been the best RPG they ever made."
 categories:
   - "Action RPG"
@@ -12,6 +13,19 @@ categories:
 tags:
   - "Snowblind Studios"
   - "War in the North"
+relatedPosts:
+  - url: "/2024/10/04/justice-league-heroes-worth-ebaying-for/"
+    title: "Justice League Heroes: Worth eBaying for?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/1-Justice-League-Heroes_SLUS-21304_20241003205806.jpg"
+  - url: "/2024/12/30/best-of-2024-single-player-rpgs/"
+    title: "Best of 2024: Single-Player RPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/bestrpgbanner.png"
+  - url: "/2024/10/13/october-retro-finds/"
+    title: "October retro finds!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/IMG_4727-scaled.jpeg"
+  - url: "/2024/06/10/sacrifire-a-love-letter-to-the-golden-age-of-jrpgs/"
+    title: "SacriFire: A love letter to the golden age of JRPGS"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/06/1-Sacrifire-Screenshot-2024.06.09-13.15.40.32-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/20241006100304_1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/20241006100304_1.jpg"
 ---

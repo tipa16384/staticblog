@@ -3,6 +3,7 @@ date: '2008-12-15T23:53:44-05:00'
 draft: false
 title: "Wizard 101 Arena Season 1"
 author: "Tipa"
+disqusIdentifier: "2008/12/15/wizard-101-arena-season-1"
 summary: "Given a games company founded by the developers of the PvP-centric MMO Shadowbane, and the fragfest shooters DOOM and Wolfenstein 3D, making a game centered..."
 categories:
   - "MMORPG"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Arena"
   - "PvP"
+relatedPosts:
+  - url: "/2009/05/15/wizard-101-arena-season-1-and-automagic/"
+    title: "Wizard 101: Arena Season 1 and Automagic"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/w101pvppreview.jpg"
+  - url: "/2008/12/20/wizard-101-killing-me-softly-with-your-spells/"
+    title: "Wizard 101: Killing me softly with your spells"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/crowdscene.jpg"
+  - url: "/2009/05/07/wizard-101-housing-slump-what-housing-slump/"
+    title: "Wizard 101: Housing slump? What housing slump?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/wizardgraphicalclient-2009-05-06-20-24-33-56.jpg"
+  - url: "/2025/08/30/dune-awakening-we-finally-got-ganked/"
+    title: "Dune Awakening: We finally got ganked"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/20250830103401_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/wizardgraphicalclient-2008-12-15-20-25-48-13.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/wizardgraphicalclient-2008-12-15-20-25-48-13.jpg"
 ---

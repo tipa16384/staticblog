@@ -3,11 +3,25 @@ date: '2008-07-21T01:39:25-05:00'
 draft: false
 title: "Separated at birth"
 author: "Tipa"
+disqusIdentifier: "2008/07/21/separated-at-birth"
 summary: "I was dinking around on Wizard 101, when I thought it would be really cool to see if I could take Tara from Wizard 101,..."
 categories:
   - "City of Heroes"
   - "MMORPG"
   - "Wizard101"
+relatedPosts:
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2010/12/29/daily-blogroll-1229-super-duper-edition/"
+    title: "Daily Blogroll 12/29: Super Duper edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/dcuo.png"
+  - url: "/2009/09/28/weekend-gaming-3/"
+    title: "Weekend Gaming"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/ExeFile-2009-09-27-21-46-57-10.jpg"
+  - url: "/2009/08/04/daily-blogroll-84-lifetime-edition/"
+    title: "Daily Blogroll 8/4 -- Lifetime edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/lederhosenman.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/tara2.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/tara2.jpg"
 ---

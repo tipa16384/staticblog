@@ -3,6 +3,7 @@ date: '2026-03-22T10:01:05-05:00'
 draft: false
 title: "Review: The Invincible"
 author: "Tipa"
+disqusIdentifier: "2026/03/22/review-the-invincible"
 summary: "A moody mystery set on an dead planet with immense ruins and the power to steal memories."
 categories:
   - "Adventure"
@@ -11,6 +12,19 @@ categories:
 tags:
   - "11 Bit"
   - "Starward Industries"
+relatedPosts:
+  - url: "/2024/03/30/retro-game-haul-march-30-2024/"
+    title: "Retro Game Haul: March 30, 2024"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/IMG_4228.jpg"
+  - url: "/2024/10/27/beyond-shadowgate-the-secret-menu/"
+    title: "Beyond Shadowgate: The SECRET Menu?!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/bs-secretmenu.png"
+  - url: "/2024/09/22/beyond-shadowgate-how-to-get-endings-a-b-c-and-d/"
+    title: "Beyond Shadowgate -- how to get endings A, B, C and D."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/1-Desktop-Screenshot-2024.09.22-13.07.42.90.jpg"
+  - url: "/2024/09/21/beyond-shadowgate-hey-i-actually-finished-a-game/"
+    title: "Beyond Shadowgate: Hey, I actually finished a game!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/1-Desktop-Screenshot-2024.09.21-18.35.06.66.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/1222-the-invincible-review-teaser.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/1222-the-invincible-review-teaser.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2024-04-27T19:53:27-05:00'
 draft: false
 title: "Manor Lords might be okay, actually"
 author: "Tipa"
+disqusIdentifier: "2024/04/27/manor-lords-might-be-okay-actually"
 summary: "City builder sims usually are so addictive that often avoid them, but I couldn't resist this one; it has the one feature I always wanted from this type of game."
 categories:
   - "Manor Lords"
@@ -12,6 +13,19 @@ tags:
   - "Banished"
   - "City Builder"
   - "Life is Feudal"
+relatedPosts:
+  - url: "/2024/12/24/the-best-simulation-city-builder-games-of-2024/"
+    title: "The Best Simulation/City Builder Games of 2024"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/simgames.png"
+  - url: "/2024/08/11/worshippers-of-cthulhu-the-demo/"
+    title: "Worshippers of Cthulhu: the Demo"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/cthulhu.png"
+  - url: "/2025/08/06/la-brute-battles-royale-and-warring-guilds/"
+    title: "La Brute: Battles Royale and Warring Guilds"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/LaBrute.png"
+  - url: "/2025/07/10/frosthaven-scenario-14-jagged-shoals/"
+    title: "Frosthaven Scenario 14: Jagged Shoals"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/07/IMG_5225-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/Manor-Lords-Screenshot-2024.04.27-11.05.27.38-1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/Manor-Lords-Screenshot-2024.04.27-11.05.27.38-1.jpg"
 ---

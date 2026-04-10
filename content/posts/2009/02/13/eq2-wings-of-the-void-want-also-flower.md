@@ -3,6 +3,7 @@ date: '2009-02-13T08:16:22-05:00'
 draft: false
 title: "EQ2: Wings of the Void? WANT. Also, Flower."
 author: "Tipa"
+disqusIdentifier: "2009/02/13/eq2-wings-of-the-void-want-also-flower"
 summary: "The new Legends of Norrath set, Against the Void launched yesterday. I want to get into LoN, I like collectible card games, but I just..."
 categories:
   - "EverQuest"
@@ -12,6 +13,19 @@ tags:
   - "Flower"
   - "Legends of Norrath"
   - "Wings of the Void"
+relatedPosts:
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2024/10/21/evercraft-online-the-unholy-child-of-eq-and-minecraft/"
+    title: "EverCraft Online: The Unholy Child of EQ and MineCraft"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/evercraft-banner.png"
+  - url: "/2024/08/28/erenshor-everquest-for-soloers/"
+    title: "Erenshor -- EverQuest for soloers"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/erenshotheader.jpg"
+  - url: "/2024/05/04/everquest-ii-goes-retro-with-anashti-sul/"
+    title: "EverQuest II goes retro with Anashti Sul"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/anashtisul.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/voidwingsf.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/voidwingsf.jpg"
 ---

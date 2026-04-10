@@ -3,12 +3,26 @@ date: '2020-12-28T07:51:22-05:00'
 draft: false
 title: "Persona 4 Golden: Finished!"
 author: "Tipa"
+disqusIdentifier: "2020/12/28/persona-4-golden-finished"
 summary: "A warm, friendly murder mystery that doesn't outstay its welcome and sets up themes that Persona 5 would eventually deconstruct."
 categories:
   - "Steam Games"
 tags:
   - "Persona"
   - "Steam"
+relatedPosts:
+  - url: "/2020/12/14/persona-4-golden-the-story-thus-far/"
+    title: "Persona 4 Golden: The Story Thus Far"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/20201209215453_1.jpg"
+  - url: "/2020/12/08/too-many-games-in-my-queue/"
+    title: "Too Many Games in my Queue"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/2020120808035600-67D01338887DAC4477826B5EA75BFB74.jpg"
+  - url: "/2022/06/26/v-rising-hitting-the-hemoglobin/"
+    title: "V Rising: Hitting the Hemoglobin"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/06/20220626091446_1.jpg"
+  - url: "/2022/05/02/restarting-in-valheim/"
+    title: "Restarting in Valheim"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/05/20220429225417_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/20201227203256_1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/20201227203256_1.jpg"
 ---

@@ -3,12 +3,26 @@ date: '2023-10-11T07:00:00-05:00'
 draft: false
 title: "D&D: Bastions"
 author: "Tipa"
+disqusIdentifier: "2023/10/11/dd-bastion"
 summary: "Finally, after fifty years, housing comes to Dungeons & Dragons. Innkeepers across the land protest."
 categories:
   - "Dungeons & Dragons"
 tags:
   - "5e"
   - "Bastions"
+relatedPosts:
+  - url: "/2023/10/12/dd-deanna-the-bastion-cleric/"
+    title: "D&D: Deanna, the Bastion Cleric"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/deanna.png"
+  - url: "/2023/09/24/dd-session-1-the-lost-mine-of-phandelver/"
+    title: "D&D Session 1: The Lost Mine of Phandelver"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/Phandelverobservers.webp"
+  - url: "/2020/10/22/solasta-crown-of-the-magister/"
+    title: "Solasta: Crown of the Magister"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/20201022065807_1.jpg"
+  - url: "/2024/09/08/the-end-of-the-dragon-of-icespire-peak/"
+    title: "The End of the Dragon of Icespire Peak"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/1-IMG_4688.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/bastion.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/bastion.png"
 ---

@@ -3,6 +3,7 @@ date: '2021-08-27T00:07:04-05:00'
 draft: false
 title: "Shadowverse Showdown!"
 author: "Tipa"
+disqusIdentifier: "2021/08/27/shadowverse-showdown"
 summary: "Okay, picture this: A collectible card game -- except digital! And you play as one of a bunch of different classes, with cards themed to..."
 categories:
   - "Blaugust"
@@ -13,6 +14,19 @@ tags:
   - "Blaugust"
   - "Mobile Game"
   - "Shadowverse"
+relatedPosts:
+  - url: "/2022/07/09/when-to-say-goodbye-to-a-game/"
+    title: "When to say goodbye to a game?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/bogsneak.png"
+  - url: "/2020/12/28/i-am-free-of-fallout-shelters-evil-clutches/"
+    title: "I am free of Fallout Shelter's evil clutches"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/1-Fallout-Shelter_20201228193414.jpg"
+  - url: "/2020/12/22/quick-take-fallout-shelter/"
+    title: "Quick Takes: Fallout Shelter"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/Fallout-Shelter_20201222093220-scaled.jpg"
+  - url: "/2020/09/02/save-the-fish-a-deep-dive-into-11-mobile-pull-pin-games/"
+    title: "Save the Fish! A Deep Dive into 11 Mobile Pull-Pin Games."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/fishdom.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/shadowverselogo.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/shadowverselogo.png"
 ---

@@ -3,9 +3,23 @@ date: '2008-02-15T08:54:56-05:00'
 draft: false
 title: "Watch the Skies: Free books from Tor"
 author: "Tipa"
+disqusIdentifier: "2008/02/15/watch-the-skies-free-books-from-tor"
 summary: "I signed up a couple of weeks ago for Tor's \"Watch the Skies\" promotion, where they send you a dozen of their books, once a..."
 categories:
   - "Sci Fi"
+relatedPosts:
+  - url: "/2026/01/17/starfleet-academy-your-billionaire-future/"
+    title: "Starfleet Academy: Your Billionaire Future"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/starfleetacademy.png"
+  - url: "/2024/09/27/game-night-in-too-deep/"
+    title: "Game Night: In Too Deep"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/intoodeepbanner.png"
+  - url: "/2022/09/20/review-braking-day-by-adam-oyebanji/"
+    title: "Review: Braking Day by Adam Oyebanji"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/brakingday.png"
+  - url: "/2015/09/13/beam-me-up/"
+    title: "Beam me up..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/09/1-Star-Trek-Me-1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/02/tor.gif"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/02/tor.gif"
 ---

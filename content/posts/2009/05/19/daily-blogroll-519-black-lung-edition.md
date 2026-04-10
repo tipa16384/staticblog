@@ -3,6 +3,7 @@ date: '2009-05-19T08:09:23-05:00'
 draft: false
 title: "Daily Blogroll 5/19 -- Black Lung edition"
 author: "Tipa"
+disqusIdentifier: "2009/05/19/daily-blogroll-519-black-lung-edition"
 summary: "In EVE Online, at my new home at the Sisters of EVE base in the Arnon system, with Mining IV, Refining III, and two Miner..."
 categories:
   - "Age of Conan"
@@ -19,6 +20,19 @@ categories:
   - "Pirates of the Burning Sea"
   - "Vanguard"
   - "Warhammer: Age of Reckoning"
+relatedPosts:
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2008/12/24/a-look-back-at-2008/"
+    title: "A look back at 2008"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-30-22-10-50-69.jpg"
+  - url: "/2009/05/08/daily-blogroll-58-darkfail-edition/"
+    title: "Daily Blogroll 5/8 -- Darkfail edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/darkfall.jpg"
+  - url: "/2009/05/06/daily-blogroll-56-tempests-and-teapots-edition/"
+    title: "Daily Blogroll 5/6 -- Tempests and Teapots edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/fullscreen-capture-562009-125235-am.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/exefile-2009-05-18-23-31-07-25.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/exefile-2009-05-18-23-31-07-25.jpg"
 ---

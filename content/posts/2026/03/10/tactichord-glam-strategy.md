@@ -3,10 +3,24 @@ date: '2026-03-10T10:00:00-05:00'
 draft: false
 title: "Tactichord: Glam Strategy"
 author: "Tipa"
+disqusIdentifier: "2026/03/10/tactichord-glam-strategy"
 summary: "Mix X-COM with Mötley Crüe and this is what you get -- a hair metal band on its way to its first gig... if they can get by all the haters."
 categories:
   - "Steam Games"
   - "Tactical RPG"
+relatedPosts:
+  - url: "/2025/01/27/those-who-rule-released/"
+    title: "Those Who Rule released!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/thosewhorulebanner.png"
+  - url: "/2025/01/09/our-starvaders/"
+    title: "Our STAR*VADERS!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/KeyArt_920x430.png"
+  - url: "/2024/10/01/those-who-rule-new-demo/"
+    title: "Those Who Rule: new demo!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/thosewhorulebanner.png"
+  - url: "/2022/07/25/those-who-rule-chapter-1/"
+    title: "Those Who Rule: Chapter 1"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/20220725222601_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-09-220443.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-09-220443.png"
 ---

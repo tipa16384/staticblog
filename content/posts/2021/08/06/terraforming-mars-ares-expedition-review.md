@@ -3,6 +3,7 @@ date: '2021-08-06T08:22:57-05:00'
 draft: false
 title: "Terraforming Mars: Ares Expedition Review"
 author: "Tipa"
+disqusIdentifier: "2021/08/06/terraforming-mars-ares-expedition-review"
 summary: "Terraforming Mars, the big box game by FryxGames, is a long-time favorite board game at our kitchen table. As the name implies, it's a game..."
 categories:
   - "Blaugust"
@@ -13,6 +14,19 @@ categories:
 tags:
   - "Ares Expedition"
   - "Card Game"
+relatedPosts:
+  - url: "/2020/10/29/game-night-heart-of-crown/"
+    title: "Game Night: Heart of Crown"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/1-IMG_1972.jpg"
+  - url: "/2022/08/06/the-six-cats-of-madame-miracle/"
+    title: "The Six Cats of Madame Miracle"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/sixcats.png"
+  - url: "/2021/09/15/lets-go-looking-for-my-games/"
+    title: "Let's Go Looking For My Games"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/china-map.gif"
+  - url: "/2024/10/22/game-night-in-too-deep-terraforming-mars-what-comes-next/"
+    title: "Game Night: In Too Deep, Terraforming Mars, what comes next?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/intoodeep.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/fbbf63001a2354f8bc6e89c58b4a21f1_original.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/fbbf63001a2354f8bc6e89c58b4a21f1_original.png"
 ---

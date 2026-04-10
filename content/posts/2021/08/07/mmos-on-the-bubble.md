@@ -3,6 +3,7 @@ date: '2021-08-07T10:11:39-05:00'
 draft: false
 title: "MMOs on the Bubble"
 author: "Tipa"
+disqusIdentifier: "2021/08/07/mmos-on-the-bubble"
 summary: "I don't play every MMO that comes out -- not by a longshot. But, I follow a lot of gamers, streamers, and game developers, and..."
 categories:
   - "Blaugust"
@@ -33,6 +34,19 @@ tags:
   - "Neverwinter Online"
   - "Pantheon: Rise of the Fallen"
   - "Shadowbane"
+relatedPosts:
+  - url: "/2021/07/22/new-world-fomo-or-fotm/"
+    title: "New World: FOMO or FOTM?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/GameClient-2014-12-06-11-09-05-59.jpg"
+  - url: "/2020/05/11/mangled-everquest-day-1/"
+    title: "EverQuest is dead. Long live EverQuest! New games trying to capture EQ nostalgia are doomed."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/eqgame-2020-05-10-20-24-56-57.jpg"
+  - url: "/2021/08/18/developer-appreciation-cryptic-studios/"
+    title: "Developer Appreciation: Cryptic Studios"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/cityofheroes-2007-12-01-12-05-32-84.jpg"
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/STP61286.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/STP61286.jpg"
 ---

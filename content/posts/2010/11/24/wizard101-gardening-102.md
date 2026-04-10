@@ -3,12 +3,26 @@ date: '2010-11-24T08:23:43-05:00'
 draft: false
 title: "Wizard101: Gardening 102"
 author: "Tipa"
+disqusIdentifier: "2010/11/24/wizard101-gardening-102"
 summary: "[..."
 categories:
   - "MMORPG"
   - "Wizard101"
 tags:
   - "Gardening"
+relatedPosts:
+  - url: "/2011/01/24/wizard101-grandmaster-gardener/"
+    title: "Wizard101: Grandmaster Gardener"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/WizardGraphicalClient-2011-01-24-07-08-22-05-480x360.jpg"
+  - url: "/2010/12/24/wizard101-the-last-gift-of-the-giving-tree/"
+    title: "Wizard101: The last gift of the Giving Tree"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/WizardGraphicalClient-2010-12-24-08-35-39-45-480x360.jpg"
+  - url: "/2010/12/15/wizard101-level-58-and-i-feel-fine/"
+    title: "Wizard101: Level 58, and I Feel Fine."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/WizardGraphicalClient-2010-12-15-00-52-54-31-480x383.jpg"
+  - url: "/2010/11/26/wizard101-gardening-104/"
+    title: "Wizard101: Gardening 104"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/WizardGraphicalClient-2010-11-25-16-36-07-34-480x384.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/WizardGraphicalClient-2010-11-24-08-06-27-68-480x270.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/WizardGraphicalClient-2010-11-24-08-06-27-68-480x270.jpg"
 ---

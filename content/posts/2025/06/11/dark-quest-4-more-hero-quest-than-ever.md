@@ -3,6 +3,7 @@ date: '2025-06-11T08:00:00-05:00'
 draft: false
 title: "Dark Quest 4: More Hero Quest than ever?"
 author: "Tipa"
+disqusIdentifier: "2025/06/11/dark-quest-4-more-hero-quest-than-ever"
 summary: "Can Dark Quest 4 satisfy your insatiable appetite for Hero Quest, except on a computer?"
 categories:
   - "HeroQuest"
@@ -11,6 +12,19 @@ categories:
   - "Turn-Based Rpgs"
 tags:
   - "Dark Quest"
+relatedPosts:
+  - url: "/2025/11/12/you-had-one-job-dark-quest-4/"
+    title: "You had ONE JOB, Dark Quest 4!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/1-20250610202611_1.jpg"
+  - url: "/2026/03/04/frosthaven-104-ruins-of-the-solstice-and-heroquest-first-light-sound-the-hearthkin-horn/"
+    title: "Frosthaven #104: Ruins of the Solstice and HeroQuest First Light: Sound the Hearthkin Horn"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/IMG_5701-scaled.jpg"
+  - url: "/2026/02/15/heroquest-first-light-king-forgrins-trove/"
+    title: "HeroQuest First Light: King Forgrin's Trove"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/IMG_5672-scaled.jpg"
+  - url: "/2026/01/27/heroquest-first-light-tomb-of-the-fire-king/"
+    title: "HeroQuest First Light: Tomb of the Fire King"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/IMG_5629-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/1-20250610202611_1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/1-20250610202611_1.jpg"
 ---

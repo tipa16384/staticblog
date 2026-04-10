@@ -3,6 +3,7 @@ date: '2009-05-08T07:14:59-05:00'
 draft: false
 title: "Daily Blogroll 5/8 -- Darkfail edition"
 author: "Tipa"
+disqusIdentifier: "2009/05/08/daily-blogroll-58-darkfail-edition"
 summary: "Apologies to Randall Munroe..."
 categories:
   - "Champions Online"
@@ -20,6 +21,19 @@ categories:
   - "Torchlight"
   - "Warhammer: Age of Reckoning"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/04/24/web-log-424-friday-is-free-day-edition/"
+    title: "Web Log 4/24 -- Friday is Free Day edition"
+    thumbnailImage: "http://www.penny-arcade.com/images/2009/20090424.jpg"
+  - url: "/2009/05/11/daily-blogroll-511-reboot-edition/"
+    title: "Daily Blogroll 5/11 -- Reboot edition"
+    thumbnailImage: ""
+  - url: "/2009/05/06/daily-blogroll-56-tempests-and-teapots-edition/"
+    title: "Daily Blogroll 5/6 -- Tempests and Teapots edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/fullscreen-capture-562009-125235-am.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/darkfall.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/darkfall.jpg"
 ---

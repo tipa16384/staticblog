@@ -3,6 +3,7 @@ date: '2024-02-20T07:31:31-05:00'
 draft: false
 title: "Retro Game Quick Look: Sword of Mana, LotR: Two Towers, Iridion 3D"
 author: "Tipa"
+disqusIdentifier: "2024/02/20/retro-game-quick-look-sword-of-mana-lotr-two-towers-iridion-3d"
 summary: "I shuffled through the Gameboy Advance discount bins at some local retro game stores, and this is what I came away with."
 categories:
   - "Lord of the Rings"
@@ -13,6 +14,19 @@ tags:
   - "Iridion 3D"
   - "Sword of Mana"
   - "The Two Towers"
+relatedPosts:
+  - url: "/2023/12/05/the-hobbit-gameboy-advance/"
+    title: "The Hobbit (Gameboy Advance)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/20231205_085706.png"
+  - url: "/2024/01/06/tactics-ogre-the-knight-of-lodis-finished/"
+    title: "Tactics Ogre: The Knight of Lodis FINISHED!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/20240104_221426.jpg"
+  - url: "/2023/12/29/christmas-loot-knight-of-lodis-and-prince-of-zenobia/"
+    title: "Christmas Loot: Knight of Lodis and Prince of Zenobia"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/IMG_4125-scaled.jpg"
+  - url: "/2009/01/19/lord-of-the-rings-online-hobbit-vs-troll/"
+    title: "Lord of the Rings Online: Hobbit vs Troll"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/01/lotroclient-2009-01-18-10-50-14-05.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/02/DALL·E-2024-02-19-23.10.31-Illustrate-an-anime-style-boy-and-girl-standing-on-a-hill-looking-towards-an-enormous-tree-surrounded-by-blue-crystals-capturing-the-essence-of-a-19.webp"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/02/DALL·E-2024-02-19-23.10.31-Illustrate-an-anime-style-boy-and-girl-standing-on-a-hill-looking-towards-an-enormous-tree-surrounded-by-blue-crystals-capturing-the-essence-of-a-19.webp"
 ---

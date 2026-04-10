@@ -3,12 +3,26 @@ date: '2020-08-28T08:20:26-05:00'
 draft: false
 title: "DCUO: This is my Elite Weapon. There are many like it, but this is mine."
 author: "Tipa"
+disqusIdentifier: "2020/08/28/dcuo-this-is-my-elite-weapon-there-are-many-like-it-but-this-is-mine"
 summary: "Last night was a good night to be superheroing in DC Universe Online. It was a Thursday, the day all the weekly quests reset. And..."
 categories:
   - "MMORPG"
   - "Steam Games"
 tags:
   - "DC Universe Online"
+relatedPosts:
+  - url: "/2021/08/26/dcuo-house-of-legends-is-live/"
+    title: "DCUO: House of Legends is LIVE!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/avatarofmeta.jpg"
+  - url: "/2021/08/21/champions-online-vs-dcuo/"
+    title: "Champions Online vs DCUO"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/riddlers.jpg"
+  - url: "/2021/07/27/dcuo-new-player-experience/"
+    title: "DCUO: New Player Experience"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/1-20210725214657_1.jpg"
+  - url: "/2021/07/23/dcuo-reboots-itself-with-house-of-legends/"
+    title: "DCUO Reboots itself with House of Legends"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/batman-joker-collaborations_auto_x2.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/DCGAME-2020-05-03-22-05-45-95.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/DCGAME-2020-05-03-22-05-45-95.jpg"
 ---

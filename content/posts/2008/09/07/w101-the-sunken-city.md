@@ -3,6 +3,7 @@ date: '2008-09-07T10:03:23-05:00'
 draft: false
 title: "W101: The Sunken City"
 author: "Tipa"
+disqusIdentifier: "2008/09/07/w101-the-sunken-city"
 summary: "It is SO difficult to hook up with your friends in Wizard 101. Even once I figured out where to enter the \"True Friend\" code,..."
 categories:
   - "MMORPG"
@@ -11,6 +12,19 @@ tags:
   - "Sunken City"
   - "W101"
   - "Wizard101"
+relatedPosts:
+  - url: "/2008/10/29/wizard-101-crimson-fields-and-sunken-city-again/"
+    title: "Wizard 101: Crimson Fields and Sunken City (again)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-28-01-24-41-16.jpg"
+  - url: "/2008/09/21/w101-the-chamber-of-fire-the-royal-hall-and-sunken-city/"
+    title: "W101: The Chamber of Fire, the Royal Hall and Sunken City"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/wizardgraphicalclient-2008-09-21-17-39-05-38.jpg"
+  - url: "/2008/09/17/wizard-101-slices-repeat-instance-xp/"
+    title: "Wizard 101 slices repeat instance XP"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/wizardgraphicalclient-2008-09-17-06-55-45-50.jpg"
+  - url: "/2009/04/23/wizard-101-downtime/"
+    title: "Wizard 101 Downtime"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/wizardgraphicalclient-2008-09-07-02-12-18-82.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/wizardgraphicalclient-2008-09-07-02-12-18-82.jpg"
 ---

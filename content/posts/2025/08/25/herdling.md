@@ -3,6 +3,7 @@ date: '2025-08-25T08:37:09-05:00'
 draft: false
 title: "Herdling"
 author: "Tipa"
+disqusIdentifier: "2025/08/25/herdling"
 summary: "Care for and guide a growing herd of cattle-like Calicorn to a mysterious destination in this \"Journey\"-like wordless game of wonder and danger."
 categories:
   - "Blaugust"
@@ -12,6 +13,19 @@ categories:
 tags:
   - "Herdling"
   - "Journey"
+relatedPosts:
+  - url: "/2025/08/08/lilliputs-workshop/"
+    title: "Lilliput's Workshop"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/lilliputbanner.png"
+  - url: "/2025/02/25/steam-next-fest-day-1-the-weird-stuff/"
+    title: "Steam Next Fest: Day 1, the Weird Stuff"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/02/1-steam-next-fest.jpg"
+  - url: "/2024/10/26/last-call-bbs-puzzle-games-for-the-retro-inclined/"
+    title: "Last Call BBS: Puzzle Games for the Retro-Inclined"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/2-20241026104137_1.jpg"
+  - url: "/2021/01/10/exapunks-finished-heres-my-solutions/"
+    title: "EXAPUNKS Finished! Here's my solutions..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/01/exaepilogue.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/herdlingbanner.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/herdlingbanner.png"
 ---

@@ -3,12 +3,26 @@ date: '2009-05-05T21:40:07-05:00'
 draft: false
 title: "Wizard 101: Housing goes LIVE Wednesday!"
 author: "Tipa"
+disqusIdentifier: "2009/05/05/wizard-101-housing-goes-live-wednesday"
 summary: "We've word from Ravenwood that the newly-named Builder Turtles are being dropped off at their new homes across the Spiral, and that tomorrow, we'll be..."
 categories:
   - "MMORPG"
   - "Wizard101"
 tags:
   - "Player Housing"
+relatedPosts:
+  - url: "/2009/06/04/catching-up-with-wizard-101/"
+    title: "Catching up with Wizard 101"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/wizardgraphicalclient-2009-06-04-20-24-30-91.jpg"
+  - url: "/2009/05/07/wizard-101-housing-slump-what-housing-slump/"
+    title: "Wizard 101: Housing slump? What housing slump?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/wizardgraphicalclient-2009-05-06-20-24-33-56.jpg"
+  - url: "/2009/04/26/wizard-101-all-ten-player-houses/"
+    title: "Wizard 101: All ten player houses"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/wizardgraphicalclient-2009-04-26-06-57-46-79.jpg"
+  - url: "/2009/04/23/wizard-101-player-housing-on-test/"
+    title: "Wizard 101 Player Housing ON TEST!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/wizardgraphicalclient-2009-04-23-01-13-36-76.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/wizardgraphicalclient-2009-05-05-22-09-21-98.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/wizardgraphicalclient-2009-05-05-22-09-21-98.jpg"
 ---

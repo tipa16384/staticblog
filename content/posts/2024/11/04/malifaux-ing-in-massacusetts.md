@@ -3,6 +3,7 @@ date: '2024-11-04T08:00:00-05:00'
 draft: false
 title: "Malifaux-ing in Massachusetts"
 author: "Tipa"
+disqusIdentifier: "2024/11/04/malifaux-ing-in-massacusetts"
 summary: "To celebrate Halloween, Kasul and I traveled to Webways in Marlborough, Massachusetts for a Carver Day tournament. Carver Day?"
 categories:
   - "Malifaux"
@@ -13,6 +14,19 @@ tags:
   - "Halloween"
   - "Tournament"
   - "Webway Games"
+relatedPosts:
+  - url: "/2024/10/20/malifaux-fall-into-faux-tournament/"
+    title: 'Malifaux: "Fall into Faux" tournament'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/malifaux-10-19-24-banner.png"
+  - url: "/2024/09/25/malifaux-the-scrappy-underdog/"
+    title: "Malifaux: The Scrappy Underdog"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/league3.png"
+  - url: "/2024/08/20/malifaux-league-champion/"
+    title: "Malifaux: League champion?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/malifaux-league-1.png"
+  - url: "/2024/11/20/malifaux-pig-farm/"
+    title: "Malifaux: Pig Farm"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/IMG_4871-scaled.jpeg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/carverbanner.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/carverbanner.png"
 ---

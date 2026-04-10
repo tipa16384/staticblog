@@ -3,6 +3,7 @@ date: '2010-11-18T07:27:41-05:00'
 draft: false
 title: "Star Trek Online: The Enterprise Pack (and Genesis)"
 author: "Tipa"
+disqusIdentifier: "2010/11/18/star-trek-online-the-enterprise-pack-and-genesis"
 summary: "[..."
 categories:
   - "MMORPG"
@@ -12,6 +13,19 @@ tags:
   - "Enterprise"
   - "Feature Episode"
   - "Season 3"
+relatedPosts:
+  - url: "/2010/08/25/omg-its-neverwinter/"
+    title: "OMG! It's Neverwinter!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/Fullscreen-capture-8252010-74125-AM.jpg"
+  - url: "/2012/02/06/star-trek-online-the-2800-return-this-weekend/"
+    title: "Star Trek Online: The 2800 Return this weekend"
+    thumbnailImage: ""
+  - url: "/2011/03/06/star-trek-online-fe305-cut-the-cord-spoilers/"
+    title: "Star Trek Online FE305: Cutting the Cord (spoilers)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/GameClient-2011-03-05-13-52-30-97-480x324.jpg"
+  - url: "/2011/02/21/star-trek-online-fe303-frozen-spoilers/"
+    title: "Star Trek Online FE303: Frozen (Spoilers)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-19-13-57-38-51-480x326.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/GameClient-2010-11-18-06-25-23-18-480x383.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/GameClient-2010-11-18-06-25-23-18-480x383.jpg"
 ---

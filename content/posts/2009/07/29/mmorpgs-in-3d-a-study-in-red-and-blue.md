@@ -3,6 +3,7 @@ date: '2009-07-29T07:30:31-05:00'
 draft: false
 title: "MMORPGs in 3D: A Study in Red and Blue"
 author: "Tipa"
+disqusIdentifier: "2009/07/29/mmorpgs-in-3d-a-study-in-red-and-blue"
 summary: "[slide width=\"640\" height=\"480\"]..."
 categories:
   - "Chronicles of Spellborn"
@@ -12,6 +13,19 @@ categories:
   - "Lord of the Rings"
   - "MMORPG"
   - "Wizard101"
+relatedPosts:
+  - url: "/2009/04/24/web-log-424-friday-is-free-day-edition/"
+    title: "Web Log 4/24 -- Friday is Free Day edition"
+    thumbnailImage: "http://www.penny-arcade.com/images/2009/20090424.jpg"
+  - url: "/2009/04/23/web-log-423-too-much-news-edition/"
+    title: "Web Log 4/23 -- Too Much News edition"
+    thumbnailImage: ""
+  - url: "/2009/04/19/what-im-playing-easily-distracted-edition/"
+    title: "What I'm Playing: Easily Distracted edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/fullscreen-capture-4192009-121615-pm.jpg"
+  - url: "/2009/09/17/daily-blogroll-917-kanye-edition/"
+    title: "Daily Blogroll 9/17 - Kanye edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/kanye.jpg"
 ---
 [slide width="640" height="480"]...
 <!--more-->

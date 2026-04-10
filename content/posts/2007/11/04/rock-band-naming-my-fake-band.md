@@ -3,6 +3,7 @@ date: '2007-11-04T06:06:17-05:00'
 draft: false
 title: "Rock Band: Naming my fake band."
 author: "Tipa"
+disqusIdentifier: "2007/11/04/rock-band-naming-my-fake-band"
 summary: "We got a little closer to being the most famous fake cover band in our living room yesterday when we finally bought an Xbox 360..."
 categories:
   - "General"
@@ -11,6 +12,19 @@ tags:
   - "Rock Band"
   - "W. B. Yeats"
   - "Xbox 360"
+relatedPosts:
+  - url: "/2008/07/17/rock-band-2-controllers-blur-the-line-between-real-band-and-fake-band/"
+    title: "Rock Band 2 controllers blur the line between real band and fake band"
+    thumbnailImage: ""
+  - url: "/2008/07/14/sigh-rock-band-2-set-list/"
+    title: "Sigh. Rock Band 2 set list."
+    thumbnailImage: ""
+  - url: "/2008/06/30/rock-band-2-announced/"
+    title: "Rock Band 2 announced"
+    thumbnailImage: ""
+  - url: "/2008/08/06/rock-band-live-on-tour-with-real-instruments/"
+    title: "Rock Band Live! On Tour! With real instruments!"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/11/stp60768.JPG"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/11/stp60768.JPG"
 ---

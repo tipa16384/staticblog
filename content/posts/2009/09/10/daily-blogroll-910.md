@@ -3,6 +3,7 @@ date: '2009-09-10T08:00:41-05:00'
 draft: false
 title: "Daily Blogroll 9/10 - Launch Madness edition"
 author: "Tipa"
+disqusIdentifier: "2009/09/10/daily-blogroll-910"
 summary: "Was there ever a mob that you really, REALLY hated as a low level, that you just HAD to go back later on and just..."
 categories:
   - "Aion"
@@ -12,6 +13,19 @@ categories:
   - "MMORPG"
   - "Wizard101"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2009/09/03/daily-blogroll-93-sushi-day-edition/"
+    title: "Daily Blogroll 9/3 - Sushi day edition!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/Fullscreen-capture-932009-75844-AM.jpg"
+  - url: "/2009/08/12/daily-blogroll-812-dominix-edition/"
+    title: "Daily Blogroll 8/12 - Dominix edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/ExeFile-2009-08-11-22-18-43-82.jpg"
+  - url: "/2009/06/30/daily-blogroll-630-christmas-edition/"
+    title: "Daily Blogroll 6/30 - Christmas edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/TS3-2009-06-30-08-10-20-98.jpg"
+  - url: "/2009/09/17/daily-blogroll-917-kanye-edition/"
+    title: "Daily Blogroll 9/17 - Kanye edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/kanye.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/EverQuest2-2009-09-09-22-49-15-60.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/EverQuest2-2009-09-09-22-49-15-60.jpg"
 ---

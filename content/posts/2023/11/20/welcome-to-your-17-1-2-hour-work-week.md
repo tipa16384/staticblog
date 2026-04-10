@@ -3,12 +3,23 @@ date: '2023-11-20T10:26:24-05:00'
 draft: false
 title: "Welcome to your 17 1/2 hour work week!"
 author: "Tipa"
+disqusIdentifier: "2023/11/20/welcome-to-your-17-1-2-hour-work-week"
 summary: "Are you really doing metric if you're still living in a 24 hour reality?"
 categories:
   - "Metric Time"
 tags:
   - "French Revolution"
   - "Lagrange"
+relatedPosts:
+  - url: "/2022/10/08/steelrising-a-souls-like-for-revolutionary-spirits/"
+    title: "Steelrising: A Souls-Like for Revolutionary Spirits"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/10/steelrising.png"
+  - url: "/2022/08/16/the-escape-of-king-louis-xvi/"
+    title: "The Escape of King Louis XVI"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-08-20.34.22-King-Louis-XVI-sitting-in-a-dark-prison-cell-painted-by-Antoine-Callet.png"
+  - url: "/2020/08/19/banner-of-the-maid-doesnt-want-me-to-sleep/"
+    title: "Banner of the Maid doesn't want me to sleep."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/banner-of-the-maid-switch-hero.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/DALL·E-2023-11-20-09.21.53-Create-an-exaggerated-cartoon-style-image-of-a-person-enjoying-their-free-time-depicted-in-a-vibrant-and-colorful-setting.-The-person-should-be-shown.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/DALL·E-2023-11-20-09.21.53-Create-an-exaggerated-cartoon-style-image-of-a-person-enjoying-their-free-time-depicted-in-a-vibrant-and-colorful-setting.-The-person-should-be-shown.png"
 ---

@@ -3,10 +3,24 @@ date: '2010-04-17T12:45:41-05:00'
 draft: false
 title: "IP-based MMOs: Part 3 (of 5)"
 author: "Tipa"
+disqusIdentifier: "2010/04/17/ip-based-mmos-part-3-of-5"
 summary: "If you're ever in the position where you'd want to tell a non-gamer about your hobby, you can either try to explain WHAT the game..."
 categories:
   - "Lord of the Rings"
   - "MMORPG"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2020/08/27/blaugust-27-be-the-content-you-want-to-see/"
+    title: "Blaugust #27: Be the Content You Want to See"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/ClipartKey_519651.png"
+  - url: "/2011/10/10/daily-blogroll-oct-10-columbus-day-edition/"
+    title: "Daily Blogroll Oct 10: Columbus Day edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/glitch.png"
+  - url: "/2011/08/24/lotro-kill-the-dwaggin/"
+    title: "LotRO: Kill the Dwaggin"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/08/lotroclient-2011-08-24-01-05-21-21-480x433.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/928202_20060510_790screen013-225x225.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/928202_20060510_790screen013-225x225.jpg"
 ---

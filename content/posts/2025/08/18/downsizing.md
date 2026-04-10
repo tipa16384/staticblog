@@ -3,6 +3,7 @@ date: '2025-08-18T08:37:34-05:00'
 draft: false
 title: "Downsizing!"
 author: "Tipa"
+disqusIdentifier: "2025/08/18/downsizing"
 summary: "Can I replace an aging desktop computer with a Raspberry Pi the size of a deck of cards?"
 categories:
   - "Blaugust"
@@ -11,6 +12,19 @@ tags:
   - "Pi 5"
   - "Raspberry Pi"
   - "Raspbian"
+relatedPosts:
+  - url: "/2025/09/01/august-blogging-from-2005-to-today/"
+    title: "August Blogging from 2005 to today"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/raspy-blogging.png"
+  - url: "/2025/08/31/the-vectrex-is-coming-back-in-pog-form/"
+    title: "The Vectrex is coming back... in pog form!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/vectrexmini.png"
+  - url: "/2025/08/30/dune-awakening-we-finally-got-ganked/"
+    title: "Dune Awakening: We finally got ganked"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/20250830103401_1.jpg"
+  - url: "/2025/08/29/i-guess-i-suck-at-this-whole-blaugust-thing/"
+    title: "I guess I suck at this whole Blaugust thing"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/arcaniststage.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/1-Photos-1-001-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/1-Photos-1-001-scaled.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2025-03-17T08:00:00-05:00'
 draft: false
 title: "Sword for Hire: Vertical Slice &amp; Vibe Coding"
 author: "Tipa"
+disqusIdentifier: "2025/03/17/sword-for-hire-vertical-slice-vibe-coding"
 summary: "When it's mapped out, Sword for Hire isn't as large as it looks in the book. But, it is possible to play through the game and level up."
 categories:
   - "Text Adventure Game"
@@ -10,6 +11,19 @@ tags:
   - "Python"
   - "Tunnels & Trolls"
   - "Vibe Coding"
+relatedPosts:
+  - url: "/2026/02/18/a-new-tunnels-trolls-in-this-economy/"
+    title: "A new Tunnels &amp; Trolls? In this economy?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/TTnewbanner.png"
+  - url: "/2025/03/10/how-to-fail-at-writing-a-game-in-7-days/"
+    title: "How To Fail at Writing A Game in 7 Days"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/gamedevadventure.png"
+  - url: "/2025/03/03/tunnels-trolls-sword-for-hire/"
+    title: "Tunnels &amp; Trolls: Sword for Hire"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/ttbanner.png"
+  - url: "/2025/01/25/ai-is-going-to-steal-my-job-and-i-couldnt-be-happier/"
+    title: "AI is going to steal my job -- and I couldn't be happier"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/minitray.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/swordforhiremap.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/swordforhiremap.png"
 ---

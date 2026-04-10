@@ -3,6 +3,7 @@ date: '2020-05-07T11:20:10-05:00'
 draft: false
 title: "MMO updates: Crowfall, EverQuest, Chocobo's Mystery Dungeon, DCUO"
 author: "Tipa"
+disqusIdentifier: "2020/05/07/mmo-updates-crowfall-everquest-chocobos-mystery-dungeon-dcuo"
 summary: "I apologize for the brief news on Crowfall. I'd meant to get deeper into the PvE, but while I was building up my kingdom in..."
 categories:
   - "EverQuest"
@@ -15,6 +16,19 @@ tags:
   - "Chocobo Mystery Dungeon"
   - "Crowfall"
   - "DC Universe Online"
+relatedPosts:
+  - url: "/2020/08/22/i-jump-on-bandwagons/"
+    title: "I Jump on Bandwagons"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/Fall-Guys_-Ultimate-Knockout_20200821210108.jpg"
+  - url: "/2021/01/12/does-dcuo-on-the-switch-make-any-sense/"
+    title: "Does DCUO on the Switch make any sense?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/01/2021011212024200-57B4628D2267231D57E0FC1078C0596D.jpg"
+  - url: "/2020/05/19/am-i-witchy-enough-for-you/"
+    title: "Am I Witchy Enough For You?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/witcher.jpg"
+  - url: "/2021/07/23/dcuo-reboots-itself-with-house-of-legends/"
+    title: "DCUO Reboots itself with House of Legends"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/batman-joker-collaborations_auto_x2.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/CrowfallClient-2020-05-07-07-19-12-64-1024x576.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/CrowfallClient-2020-05-07-07-19-12-64-1024x576.jpg"
 ---

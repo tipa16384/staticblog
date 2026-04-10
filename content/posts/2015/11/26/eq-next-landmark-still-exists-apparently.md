@@ -3,10 +3,24 @@ date: '2015-11-26T00:19:23-05:00'
 draft: false
 title: "EQ Next Landmark still exists apparently"
 author: "Tipa"
+disqusIdentifier: "2015/11/26/eq-next-landmark-still-exists-apparently"
 summary: "Every few years, I wonder whatever became of EQ Next. It was going to change the face of MMO gaming. Mobs that reacted to over-hunting..."
 categories:
   - "Everquest"
   - "MMORPG"
+relatedPosts:
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2024/10/21/evercraft-online-the-unholy-child-of-eq-and-minecraft/"
+    title: "EverCraft Online: The Unholy Child of EQ and MineCraft"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/evercraft-banner.png"
+  - url: "/2024/08/28/erenshor-everquest-for-soloers/"
+    title: "Erenshor -- EverQuest for soloers"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/erenshotheader.jpg"
+  - url: "/2024/05/04/everquest-ii-goes-retro-with-anashti-sul/"
+    title: "EverQuest II goes retro with Anashti Sul"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/anashtisul.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/11/Landmark-v0.525.4.117572-_x64_-__RELEASE__-11_25_2015-12_28_41-PM.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/11/Landmark-v0.525.4.117572-_x64_-__RELEASE__-11_25_2015-12_28_41-PM.jpg"
 ---

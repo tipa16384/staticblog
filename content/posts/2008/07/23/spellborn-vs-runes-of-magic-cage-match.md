@@ -3,6 +3,7 @@ date: '2008-07-23T13:03:24-05:00'
 draft: false
 title: "Spellborn vs Runes of Magic CAGE MATCH"
 author: "Tipa"
+disqusIdentifier: "2008/07/23/spellborn-vs-runes-of-magic-cage-match"
 summary: "There's two MMOs out there you have probably not heard of. There's HUNDREDS of those, right? Once you get out of the calm, safe, bathwater-warm..."
 categories:
   - "MMORPG"
@@ -11,6 +12,19 @@ tags:
   - "Frogster"
   - "Runes of Magic"
   - "The Chronicles of Spellborn"
+relatedPosts:
+  - url: "/2010/08/19/chronicles-of-spellborn-anatomy-of-a-failure/"
+    title: "Chronicles of Spellborn: Anatomy of a Failure"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/sb_client-2010-08-18-19-49-21-19-480x270.jpg"
+  - url: "/2021/07/22/new-world-fomo-or-fotm/"
+    title: "New World: FOMO or FOTM?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/GameClient-2014-12-06-11-09-05-59.jpg"
+  - url: "/2008/11/20/how-far-would-i-go-to-play-spellborn/"
+    title: "How far would I go to play Spellborn?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/bestellung.jpg"
+  - url: "/2008/11/05/shin-megami-tensei-the-mmo/"
+    title: "Shin Megami Tensei -- the MMO"
+    thumbnailImage: "http://www.shacknews.com/images/generated/4910c1d8f256c_featured_without_text_smt_pc.jpg"
 ---
 There's two MMOs out there you have probably not heard of. There's HUNDREDS of those, right? Once you get out of the calm, safe, bathwater-warm...
 <!--more-->

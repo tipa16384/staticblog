@@ -3,10 +3,24 @@ date: '2008-04-20T13:44:05-05:00'
 draft: false
 title: "Battlestar Galactica - the Ties that Bind"
 author: "Tipa"
+disqusIdentifier: "2008/04/20/battlestar-galactica-the-ties-that-bind"
 summary: "The problem is not that Battlestar Galactica has tranformed science fiction television. The problem is that it has set such an impossibly high bar that..."
 categories:
   - "Battlestar Galactica"
   - "Sci Fi"
+relatedPosts:
+  - url: "/2007/03/07/battlestar-galactica-frame-by-frame/"
+    title: "Battlestar Galactica, frame by frame"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/03/bg1.jpg"
+  - url: "/2007/01/05/when-we-return-televisions-finest-part-1/"
+    title: "When We Return: Television's Finest (Part 1)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/01/avatar.jpg"
+  - url: "/2006/09/06/battlestar-galactica-webisodes/"
+    title: "Battlestar Galactica Webisodes"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/09/katie.jpg"
+  - url: "/2024/08/22/ps2-rpgs-quick-reviews/"
+    title: "PS2 RPGs: Quick Reviews"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/Final-Fantasy-7-Dirge-Of-Cerberus.jpg"
 ---
 The problem is not that Battlestar Galactica has tranformed science fiction television. The problem is that it has set such an impossibly high bar that...
 <!--more-->

@@ -3,6 +3,7 @@ date: '2010-09-03T20:59:20-05:00'
 draft: false
 title: "A Parent's Guide to MMO Gaming"
 author: "Tipa"
+disqusIdentifier: "2010/09/03/a-parents-guide-to-mmo-gaming"
 summary: "Someone needs to tell the truth about MMOs. I guess it falls to me to explain to parents about the games their children are playing..."
 categories:
   - "Fallen Earth"
@@ -22,6 +23,19 @@ tags:
   - "Sanrio"
   - "Tera Online"
   - "The Bible Online"
+relatedPosts:
+  - url: "/2008/09/17/straight-talk-warhammer-realm-vs-realm/"
+    title: "Straight Talk Warhammer: Realm vs Realm"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/warcraftbattle.jpg"
+  - url: "/2008/09/16/straight-talk-warhammer-the-white-lion-profession/"
+    title: "Straight Talk Warhammer: The White Lion profession."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/eqgame-2008-09-16-00-45-54-28.jpg"
+  - url: "/2010/08/18/five-better-concepts-for-everquest-next/"
+    title: "Five Better Concepts for EverQuest Next?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/village.jpg"
+  - url: "/2008/09/23/straight-talk-warhammer-the-warrior-priest/"
+    title: "Straight Talk Warhammer: The Warrior Priest"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/galahad.gif"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/worgen_1280x1024-225x225.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/worgen_1280x1024-225x225.jpg"
 ---

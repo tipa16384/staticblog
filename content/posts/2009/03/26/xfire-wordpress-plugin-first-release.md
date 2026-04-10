@@ -3,6 +3,7 @@ date: '2009-03-26T23:53:14-05:00'
 draft: false
 title: "XFire Wordpress Plugin -- first release"
 author: "Tipa"
+disqusIdentifier: "2009/03/26/xfire-wordpress-plugin-first-release"
 summary: "Announcing the XFire Stats Wordpress Plugin. This plugin adds a widget that you can place on the sidebar of your Wordpress blog to show your..."
 categories:
   - "General"
@@ -11,6 +12,19 @@ tags:
   - "Plugin"
   - "Wordpress"
   - "Xfire"
+relatedPosts:
+  - url: "/2008/08/25/weekend-gaming-2/"
+    title: "Weekend Gaming"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/everquest2-2008-08-24-23-45-52-15.jpg"
+  - url: "/2025/10/16/taking-control-of-my-skeets-and-toots/"
+    title: "Taking Control of my Skeets and Toots"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/hq720.jpg"
+  - url: "/2021/09/08/chasing-dings-goes-to-west-karana/"
+    title: "Chasing Dings! goes to West Karana"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/tara21.jpg"
+  - url: "/2008/10/22/how-to-start-an-everquest-blog/"
+    title: "How to start an EverQuest blog."
+    thumbnailImage: ""
 ---
 Announcing the XFire Stats Wordpress Plugin. This plugin adds a widget that you can place on the sidebar of your Wordpress blog to show your...
 <!--more-->

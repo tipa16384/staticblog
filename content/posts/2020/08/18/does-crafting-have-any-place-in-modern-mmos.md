@@ -3,6 +3,7 @@ date: '2020-08-18T20:01:55-05:00'
 draft: false
 title: "Does Crafting have any place in modern MMOs?"
 author: "Tipa"
+disqusIdentifier: "2020/08/18/does-crafting-have-any-place-in-modern-mmos"
 summary: "This is going to be a little Twitter-heavy, and I apologize for that...."
 categories:
   - "EverQuest"
@@ -13,6 +14,19 @@ categories:
   - "World of Warcraft"
 tags:
   - "Crafting"
+relatedPosts:
+  - url: "/2021/08/07/mmos-on-the-bubble/"
+    title: "MMOs on the Bubble"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/STP61286.jpg"
+  - url: "/2020/09/09/what-makes-an-mmo-an-mmo/"
+    title: "What makes an MMO an MMO?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/Kingdoms-of-Amalur_-Reckoning-12_31_2015-4_16_05-PM-1.png"
+  - url: "/2008/11/26/eq2-the-firemyst-village-crafting-mission/"
+    title: "EQ2: The Firemyst Village crafting mission"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/everquest2-2008-11-25-20-42-22-31.jpg"
+  - url: "/2008/11/21/eq2-crafting-an-alliance/"
+    title: "EQ2: Crafting an alliance"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/everquest2-2008-11-21-01-44-20-28.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-EverQuest2-2020-08-18-18-11-08-10.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-EverQuest2-2020-08-18-18-11-08-10.jpg"
 ---

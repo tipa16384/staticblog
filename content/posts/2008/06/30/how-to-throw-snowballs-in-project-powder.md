@@ -3,6 +3,7 @@ date: '2008-06-30T15:18:22-05:00'
 draft: false
 title: "How to throw snowballs in Project Powder"
 author: "Tipa"
+disqusIdentifier: "2008/06/30/how-to-throw-snowballs-in-project-powder"
 summary: "I haven't really looked at the stats for this blog since I started working at Massively. I took a peek and hey, there are still..."
 categories:
   - "Other Games"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Project Powder"
   - "Snowball"
+relatedPosts:
+  - url: "/2008/07/11/project-powder-closed-beta-test-closes/"
+    title: "Project Powder closed beta test... closes."
+    thumbnailImage: ""
+  - url: "/2008/06/29/crafting-enhancements-in-project-powder/"
+    title: "Crafting enhancements in Project Powder"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/run-2008-06-28-18-43-39-74.jpg"
+  - url: "/2008/06/26/project-powder-addendum/"
+    title: "Project Powder addendum"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/run-2008-06-26-21-48-17-42.jpg"
+  - url: "/2008/06/26/project-powder-shredding-the-galaxy/"
+    title: "Project Powder: Shredding the Galaxy"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/run-2008-06-25-21-16-05-20.jpg"
 ---
 I haven't really looked at the stats for this blog since I started working at Massively. I took a peek and hey, there are still...
 <!--more-->

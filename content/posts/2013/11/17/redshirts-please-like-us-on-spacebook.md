@@ -3,10 +3,24 @@ date: '2013-11-17T12:38:01-05:00'
 draft: false
 title: "Redshirt: Please Like Us On Spacebook"
 author: "Tipa"
+disqusIdentifier: "2013/11/17/redshirts-please-like-us-on-spacebook"
 summary: "It was Galaxy Quest that first codified for me the sad fate of supporting characters in the original Star Trek, the \"... guy in the..."
 categories:
   - "Other Games"
   - "Redshirt"
+relatedPosts:
+  - url: "/2025/08/06/la-brute-battles-royale-and-warring-guilds/"
+    title: "La Brute: Battles Royale and Warring Guilds"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/LaBrute.png"
+  - url: "/2025/07/10/frosthaven-scenario-14-jagged-shoals/"
+    title: "Frosthaven Scenario 14: Jagged Shoals"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/07/IMG_5225-scaled.jpg"
+  - url: "/2024/11/21/dragon-age-the-veilguard-finished/"
+    title: "Dragon Age: the Veilguard finished"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/banner2.png"
+  - url: "/2024/11/09/dragon-age-the-veilguard-is-not-the-game-you-think-it-is/"
+    title: "Dragon Age: The Veilguard is not the game you think it is"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/davg-banner.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/11/Redshirt-2013-11-17-08-45-37-95.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/11/Redshirt-2013-11-17-08-45-37-95.jpg"
 ---

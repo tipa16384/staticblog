@@ -3,6 +3,7 @@ date: '2009-03-13T07:22:39-05:00'
 draft: false
 title: "Wizard 101: St. Patty's day -- and new Crowns items!"
 author: "Tipa"
+disqusIdentifier: "2009/03/13/wizard-101-st-pattys-day-and-new-crowns-items"
 summary: "A funny little man dressed in green dragged me to my computer. \"Log in! To Wizard 101!\" he insisted. And when I started to do..."
 categories:
   - "MMORPG"
@@ -14,6 +15,19 @@ tags:
   - "RMT"
   - "St. Patrick's Day"
   - "Zeke the Prospector"
+relatedPosts:
+  - url: "/2008/11/01/wizard-101-october-30-update-and-the-cave-of-sorrows/"
+    title: "Wizard 101: October 30 update and the Cave of Sorrows"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-01-08-29-11-18.jpg"
+  - url: "/2008/07/29/lets-check-in-on-wizard-101/"
+    title: "Let's check in on Wizard 101..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/wizardcomic.jpg"
+  - url: "/2008/11/14/wizard-101-harvest-festival-is-here/"
+    title: "Wizard 101: Harvest Festival is here!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-14-07-10-01-56.jpg"
+  - url: "/2010/08/23/wizard101-its-all-about-the-ninja-pig/"
+    title: "Wizard101: It's all about the Ninja Pig"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/WizardGraphicalClient-2010-08-23-23-14-18-90.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-34-54-60.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-34-54-60.jpg"
 ---

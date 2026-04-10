@@ -3,12 +3,26 @@ date: '2010-04-16T00:20:39-05:00'
 draft: false
 title: "IP-based MMOs Part 2 (of 5)"
 author: "Tipa"
+disqusIdentifier: "2010/04/16/ip-based-mmos-part-2-of-5"
 summary: "While developing a game to an established IP may bring the potential of thousands of players eager to live in the world they have come..."
 categories:
   - "Dungeons & Dragons Online"
   - "Final Fantasy"
   - "Hello Kitty Online"
   - "MMORPG"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2010/09/03/a-parents-guide-to-mmo-gaming/"
+    title: "A Parent's Guide to MMO Gaming"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/worgen_1280x1024-225x225.jpg"
+  - url: "/2009/09/09/daily-blogroll-9909-galaxy-express-edition/"
+    title: "Daily Blogroll 9/9/09 - Galaxy Express edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/hko-2009-09-08-21-52-33-20.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/07305s-225x225.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/07305s-225x225.jpg"
 ---

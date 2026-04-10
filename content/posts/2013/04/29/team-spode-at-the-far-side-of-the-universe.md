@@ -3,10 +3,24 @@ date: '2013-04-29T06:54:12-05:00'
 draft: false
 title: "Team Spode at the Far Side of the Universe"
 author: "Tipa"
+disqusIdentifier: "2013/04/29/team-spode-at-the-far-side-of-the-universe"
 summary: "There's just something about the Guardians that I don't understand. These are the blue, gnomish creatures who, in the DC mythology, were among the first..."
 categories:
   - "DC Universe Online"
   - "MMORPG"
+relatedPosts:
+  - url: "/2024/01/16/city-of-heroes-homecoming/"
+    title: "City of Heroes: Homecoming..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/cohhclogo.png"
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2022/07/30/ship-of-heroes-housing-beta-2/"
+    title: "Ship of Heroes: Housing Beta #2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/1-20220730211912_1.jpg"
+  - url: "/2021/10/11/dcuo-the-legion-of-doom-invades-washington-d-c/"
+    title: "DCUO: The Legion of Doom invades Washington D.C."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/dcuodc.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/04/MADV113_DESIGNERDATA-PC-28-22.57.020-480x342.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/04/MADV113_DESIGNERDATA-PC-28-22.57.020-480x342.jpg"
 ---

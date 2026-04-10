@@ -3,6 +3,7 @@ date: '2020-07-15T12:28:49-05:00'
 draft: false
 title: "Let's have a little talk about RAID: SHADOW LEGENDS."
 author: "Tipa"
+disqusIdentifier: "2020/07/15/lets-have-a-little-talk-about-raid-shadow-legends"
 summary: "I finally succumbed to the advertising, and downloaded Raid: Shadow Legends. It couldn't be as bad as everyone made it sound, could it? My Free..."
 categories:
   - "Mobile Games"
@@ -10,6 +11,19 @@ tags:
   - "Gacha"
   - "Mobile Game"
   - "Raid Shadow Legends"
+relatedPosts:
+  - url: "/2022/08/18/brown-dust-did-you-mean-brave-nine/"
+    title: "Brown Dust? Did you mean Brave Nine?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/Screenshot_2022.08.18_08.42.35.827.png"
+  - url: "/2022/09/26/my-one-sided-argument-with-raid-shadow-legends-marketing-department/"
+    title: "My One-Sided Argument with Raid: Shadow Legend's Marketing Department"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-26-18.24.24-digital-art-Raid-Shadow-Legends.png"
+  - url: "/2021/08/27/shadowverse-showdown/"
+    title: "Shadowverse Showdown!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/shadowverselogo.png"
+  - url: "/2020/12/28/i-am-free-of-fallout-shelters-evil-clutches/"
+    title: "I am free of Fallout Shelter's evil clutches"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/1-Fallout-Shelter_20201228193414.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/07/IMG_1733.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/07/IMG_1733.png"
 ---

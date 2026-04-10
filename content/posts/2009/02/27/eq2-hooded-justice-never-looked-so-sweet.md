@@ -3,6 +3,7 @@ date: '2009-02-27T08:00:22-05:00'
 draft: false
 title: "EQ2: Hooded Justice never looked so sweet"
 author: "Tipa"
+disqusIdentifier: "2009/02/27/eq2-hooded-justice-never-looked-so-sweet"
 summary: "Back in, oh, I guess this would be the early 90s, I had a friend who was so excited about finally putting all her paintings..."
 categories:
   - "EverQuest"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "RMT"
   - "Station Marketplace"
+relatedPosts:
+  - url: "/2009/04/10/eq2-bugbears-always-roll-need/"
+    title: "EQ2: Bugbears always roll need"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/bugbearsneed.jpg"
+  - url: "/2009/03/12/eq2-latest-arrivals-in-the-station-marketplace/"
+    title: "EQ2: Latest arrivals in the Station Marketplace"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/everquest2-2009-03-11-19-29-59-07.jpg"
+  - url: "/2009/04/05/eq2-epic-encounter-in-my-bedroom/"
+    title: "EQ2: Epic encounter in my bedroom"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/everquest2-2009-04-04-21-58-41-05.jpg"
+  - url: "/2008/12/10/new-everquest-hot-zones-rmt-and-frostfell-missions/"
+    title: "New EverQuest hot zones. RMT, and Frostfell missions"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/eqgame-2008-12-10-08-05-08-12.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/feedingtime.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/feedingtime.jpg"
 ---

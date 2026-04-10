@@ -3,6 +3,7 @@ date: '2023-04-29T12:24:55-05:00'
 draft: false
 title: "Contact is a bad movie. And I am angry."
 author: "Tipa"
+disqusIdentifier: "2023/04/29/contact-is-a-bad-movie-and-i-am-angry"
 summary: "I have a soft spot for this movie. I think Jodie Foster is amazing in it. But almost everything in it is stupid...."
 categories:
   - "Movies"
@@ -10,6 +11,7 @@ tags:
   - "Carl Sagan"
   - "Contact"
   - "Pi"
+relatedPosts:
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/04/tileburnedin.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/04/tileburnedin.jpg"
 ---

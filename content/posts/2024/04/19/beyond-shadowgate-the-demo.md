@@ -3,6 +3,7 @@ date: '2024-04-19T07:58:49-05:00'
 draft: false
 title: "Beyond Shadowgate -- the Demo"
 author: "Tipa"
+disqusIdentifier: "2024/04/19/beyond-shadowgate-the-demo"
 summary: "Still trying to figure out the puzzles in that old NES cart of Shadowgate you still somehow have? Well, you can finally take the game out of your NES because the sequel is finally here, almost."
 categories:
   - "Beyond Shadowgate"
@@ -12,6 +13,19 @@ tags:
   - "NES"
   - "Point and Click"
   - "Shadowgate"
+relatedPosts:
+  - url: "/2022/07/29/breaking-the-4th-wall-a-mysterious-point-and-click-adventure/"
+    title: "Breaking the 4th Wall: A Mysterious Point-and-Click Adventure"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/Screenshot_2022.07.29_07.15.30.416.png"
+  - url: "/2024/04/18/confessions-of-a-kickstarter-superbacker/"
+    title: "Confessions of a Kickstarter Superbacker"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/superbacker.png"
+  - url: "/2021/08/01/ff1-garland-hero-of-the-empire/"
+    title: "FF1: Garland, Hero of the Empire!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-IMG_0131.jpg"
+  - url: "/2021/01/03/quick-takes-the-innsmouth-case/"
+    title: "Quick Takes: The Innsmouth Case"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/01/the-innsmouth-case-switch-hero-1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/thumb0-640x360-1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/thumb0-640x360-1.jpg"
 ---

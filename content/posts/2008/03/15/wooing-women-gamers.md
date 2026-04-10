@@ -3,10 +3,24 @@ date: '2008-03-15T19:07:53-05:00'
 draft: false
 title: "\"Wooing\" women \"gamers\""
 author: "Tipa"
+disqusIdentifier: "2008/03/15/wooing-women-gamers"
 summary: "Thanks for the heads up from MMORPG.com; I'd have missed this gem from CNN. It's partly old news about SOE's \"G.I.R.L.\" (Gonna Insult Roleplaying Ladies)..."
 categories:
   - "General"
   - "MMORPG"
+relatedPosts:
+  - url: "/2012/10/08/pirate101-yo-ho-ho-a-pirates-life-for-me/"
+    title: "Pirate101: Yo ho ho, a Pirate's Life for Me"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-08-22-32-11-71-480x269.jpg"
+  - url: "/2010/11/24/thoughts-on-elitism-and-speed-runs-or-my-dinner-with-yhrall/"
+    title: "Thoughts on Elitism and Speed Runs, or, My Dinner with Thrall"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/lotroclient-2010-11-24-00-25-18-91-480x385.jpg"
+  - url: "/2010/10/21/how-i-killed-mmos-can-ffxiv-get-them-a-rez/"
+    title: "How I Killed MMOs (can FFXIV get them a rez?)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/secretworld1-480x270.jpg"
+  - url: "/2009/04/28/daily-blogroll-428-hug-squeeze-edition/"
+    title: "Daily Blogroll 4/28 -- Hug & Squeeze Edition"
+    thumbnailImage: ""
 ---
 Thanks for the heads up from MMORPG.com; I'd have missed this gem from CNN. It's partly old news about SOE's "G.I.R.L." (Gonna Insult Roleplaying Ladies)...
 <!--more-->

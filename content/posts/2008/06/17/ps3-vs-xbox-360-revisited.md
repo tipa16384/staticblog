@@ -3,10 +3,24 @@ date: '2008-06-17T03:20:04-05:00'
 draft: false
 title: "PS3 vs Xbox 360, revisited"
 author: "Tipa"
+disqusIdentifier: "2008/06/17/ps3-vs-xbox-360-revisited"
 summary: "Because my son's domination of the television and, indeed, the entire living room by his 24/7, non-stop playing of Call of Duty 4, and his..."
 categories:
   - "Other Games"
   - "Rock Band"
+relatedPosts:
+  - url: "/2008/09/12/guitar-hero-world-tour-set-list/"
+    title: "Guitar Hero World Tour set list!"
+    thumbnailImage: ""
+  - url: "/2008/07/17/rock-band-2-controllers-blur-the-line-between-real-band-and-fake-band/"
+    title: "Rock Band 2 controllers blur the line between real band and fake band"
+    thumbnailImage: ""
+  - url: "/2008/07/14/sigh-rock-band-2-set-list/"
+    title: "Sigh. Rock Band 2 set list."
+    thumbnailImage: ""
+  - url: "/2008/06/30/rock-band-2-announced/"
+    title: "Rock Band 2 announced"
+    thumbnailImage: ""
 ---
 Because my son's domination of the television and, indeed, the entire living room by his 24/7, non-stop playing of Call of Duty 4, and his...
 <!--more-->

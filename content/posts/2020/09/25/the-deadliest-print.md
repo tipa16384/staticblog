@@ -3,12 +3,26 @@ date: '2020-09-25T07:00:00-05:00'
 draft: false
 title: "The Deadliest Print"
 author: "Tipa"
+disqusIdentifier: "2020/09/25/the-deadliest-print"
 summary: "I more or less love my 3D printer. More or less. I can make physical stuff out of bits -- that's pretty cool...."
 categories:
   - "3D Printing"
   - "Gloomhaven"
   - "Miniatures"
   - "Tabletop Games"
+relatedPosts:
+  - url: "/2020/09/11/game-night-jaws-of-the-lion-the-black-ship/"
+    title: "Game Night: Jaws of the Lion, the Black Ship"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/1-IMG_1908.jpg"
+  - url: "/2020/08/14/game-night-gloomhaven-jaws-of-the-lion/"
+    title: "Game Night: Gloomhaven, Jaws of the Lion"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-IMG_1822.jpg"
+  - url: "/2024/08/12/dd-i-no-we-have-a-white-dragon-problem/"
+    title: "D&amp;D: I -- no, WE -- have a white dragon problem"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_4558-EDIT-scaled.jpg"
+  - url: "/2025/06/24/frosthaven-7-the-edge-of-the-world/"
+    title: "Frosthaven #7: The Edge of the World"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/IMG_5196-1-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/1-IMG_1927.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/1-IMG_1927.jpg"
 ---

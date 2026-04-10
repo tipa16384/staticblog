@@ -3,6 +3,7 @@ date: '2008-09-17T13:44:11-05:00'
 draft: false
 title: "EQ2: GU 49 Test patch notes commentary"
 author: "Tipa"
+disqusIdentifier: "2008/09/17/eq2-gu-49-test-patch-notes-commentary"
 summary: "EverQuest 2's game update 49 is pretty much the most exciting single update since Kunark. As the last (I believe) update before the launch of..."
 categories:
   - "EverQuest"
@@ -12,6 +13,19 @@ tags:
   - "Crafting"
   - "EverQuest II"
   - "Gu49"
+relatedPosts:
+  - url: "/2008/10/07/eq2-the-return-of-anashti-sul/"
+    title: "EQ2: The return of Anashti Sul?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/everquest2-2008-10-06-22-41-21-45.jpg"
+  - url: "/2008/10/07/eq2-gu49-live/"
+    title: "EQ2: GU49 live!"
+    thumbnailImage: ""
+  - url: "/2024/05/04/everquest-ii-goes-retro-with-anashti-sul/"
+    title: "EverQuest II goes retro with Anashti Sul"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/anashtisul.jpg"
+  - url: "/2008/10/09/eq2-nostalgia-guild-hall-mania/"
+    title: "EQ2: Nostalgia Guild Hall mania!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/everquest2-2008-10-08-18-05-29-271.jpg"
 ---
 EverQuest 2's game update 49 is pretty much the most exciting single update since Kunark. As the last (I believe) update before the launch of...
 <!--more-->

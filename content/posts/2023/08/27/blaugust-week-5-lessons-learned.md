@@ -3,6 +3,7 @@ date: '2023-08-27T13:12:41-05:00'
 draft: false
 title: "Blaugust Week 5: Lessons Learned"
 author: "Tipa"
+disqusIdentifier: "2023/08/27/blaugust-week-5-lessons-learned"
 summary: "It's the last week of Blaugust, and I have learned some things."
 categories:
   - "Blaugust"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "How I Met Your Mother"
   - "Lessons Learned"
+relatedPosts:
+  - url: "/2023/08/31/the-final-days-of-blaugust/"
+    title: "The final days of Blaugust"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/solongblaugust.png"
+  - url: "/2023/08/30/what-makes-an-mmo-an-mmo-2/"
+    title: "What makes an MMO, an MMO?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/notanmmo.png"
+  - url: "/2023/08/29/loot-pinatas-how-much-are-you-worth/"
+    title: "Loot Piñatas: How much are you worth?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/moneybags.jpg"
+  - url: "/2023/08/28/retro-world-expo-scorecard/"
+    title: "Retro World Expo Scorecard"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/sailormoonpikachu.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/lessonslearned.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/lessonslearned.png"
 ---

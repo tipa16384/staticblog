@@ -3,11 +3,25 @@ date: '2025-12-16T08:31:37-05:00'
 draft: false
 title: "Prompting Malifaux"
 author: "Tipa"
+disqusIdentifier: "2025/12/16/prompting-malifaux"
 summary: "Why yes, I do enjoy making my Malifaux masters into chibis :-)"
 categories:
   - "Malifaux"
 tags:
   - "ChatGPT"
+relatedPosts:
+  - url: "/2025/01/25/ai-is-going-to-steal-my-job-and-i-couldnt-be-happier/"
+    title: "AI is going to steal my job -- and I couldn't be happier"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/minitray.png"
+  - url: "/2025/09/03/the-mystery-of-the-casterville-legion/"
+    title: "The Mystery of the Casterville Legion"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/tess-of-casterville.png"
+  - url: "/2025/08/15/base44-games-from-a-prompt/"
+    title: "Base44: Games from a Prompt"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/pendeenpoint.png"
+  - url: "/2024/04/16/that-is-not-a-sandworm-in-your-driveway/"
+    title: "That is not a sandworm in your driveway"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/sandwormindriveway.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/ChatGPT-Image-Dec-16-2025-08_13_14-AM.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/ChatGPT-Image-Dec-16-2025-08_13_14-AM.png"
 ---

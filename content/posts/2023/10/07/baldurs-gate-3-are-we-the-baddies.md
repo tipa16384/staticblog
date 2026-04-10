@@ -3,11 +3,25 @@ date: '2023-10-07T11:35:24-05:00'
 draft: false
 title: "Baldur's Gate 3: Are We the Baddies?"
 author: "Tipa"
+disqusIdentifier: "2023/10/07/baldurs-gate-3-are-we-the-baddies"
 summary: "I think I really screwed it all up, this time."
 categories:
   - "Baldur's Gate 3"
   - "Dungeons & Dragons"
   - "PS5"
+relatedPosts:
+  - url: "/2023/10/16/baldurs-gate-3-finished/"
+    title: "Baldur's Gate 3: Finished!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/scritches1.png"
+  - url: "/2023/10/06/baldurs-gate-3-back-on-track/"
+    title: "Baldur's Gate 3: Back on Track"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/Screenshot-2023-10-06-073659.png"
+  - url: "/2023/10/04/baldurs-gate-its-been-a-long-act-2/"
+    title: "Baldur's Gate: It's been a long Act 2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/daveinvestmentbanker.png"
+  - url: "/2023/10/25/baldurs-gate-3-guilty/"
+    title: "Baldur's Gate 3: Guilty"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/snapedit_1698202481176.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/Screenshot-2023-10-07-103249.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/Screenshot-2023-10-07-103249.png"
 ---

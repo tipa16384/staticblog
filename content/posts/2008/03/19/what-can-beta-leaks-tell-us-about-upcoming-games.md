@@ -3,11 +3,25 @@ date: '2008-03-19T09:26:57-05:00'
 draft: false
 title: "What can beta leaks tell us about upcoming games?"
 author: "Tipa"
+disqusIdentifier: "2008/03/19/what-can-beta-leaks-tell-us-about-upcoming-games"
 summary: "Tobold posted today about a site hoping to be for MMO gaming what Wikileaks is for the real world -- a way for players in..."
 categories:
   - "Age of Conan"
   - "MMORPG"
   - "Warhammer: Age of Reckoning"
+relatedPosts:
+  - url: "/2011/01/01/daily-blogroll-1111-happy-new-year-edition/"
+    title: "Daily Blogroll 1/1/11 -- Happy New Year edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/rift-2010-12-31-16-51-43-97-480x384.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/09/23/daily-blogroll-923-all-queued-up-edition/"
+    title: "Daily Blogroll 9/23 - All Queued Up Edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/yankee.jpg"
+  - url: "/2009/06/25/daily-blogroll-625-a-valiant-effort-edition/"
+    title: "Daily Blogroll 6/25 -- A Valiant Effort edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/valianteffort.jpg"
 ---
 Tobold posted today about a site hoping to be for MMO gaming what Wikileaks is for the real world -- a way for players in...
 <!--more-->

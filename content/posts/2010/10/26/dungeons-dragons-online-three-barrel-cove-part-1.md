@@ -3,6 +3,7 @@ date: '2010-10-26T07:08:15-05:00'
 draft: false
 title: "Dungeons & Dragons Online: Three Barrel Cove, Part 1"
 author: "Tipa"
+disqusIdentifier: "2010/10/26/dungeons-dragons-online-three-barrel-cove-part-1"
 summary: "[..."
 categories:
   - "Dungeons & Dragons Online"
@@ -12,6 +13,19 @@ tags:
   - "Pirates"
   - "Static Group"
   - "Three Barrel Cove"
+relatedPosts:
+  - url: "/2010/10/18/dungeons-dragons-online-the-seal-of-shan-to-kor/"
+    title: "Dungeons & Dragons Online: The Seal of Shan-To-Kor"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/dndclient-2010-10-18-00-40-03-40.jpg"
+  - url: "/2010/11/17/ddo-the-puzzling-three-barrel-cove/"
+    title: "DDO: The Puzzling Three Barrel Cove"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/dndclient-2010-11-17-22-08-34-14-480x384.jpg"
+  - url: "/2010/11/08/dungeons-dragons-online-endless-trials/"
+    title: "Dungeons & Dragons Online: Endless Trials"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/dndclient-2010-11-08-21-15-15-11-480x384.jpg"
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/dndclient-2010-10-25-00-39-44-80-480x384.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/dndclient-2010-10-25-00-39-44-80-480x384.jpg"
 ---

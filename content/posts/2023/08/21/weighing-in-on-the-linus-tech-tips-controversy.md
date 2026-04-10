@@ -3,6 +3,7 @@ date: '2023-08-21T07:00:00-05:00'
 draft: false
 title: "Weighing in on the Linus Tech Tips Controversy"
 author: "Tipa"
+disqusIdentifier: "2023/08/21/weighing-in-on-the-linus-tech-tips-controversy"
 summary: "Linus is reportedly taking a week off to play RAID: Shadow Legends, or so I assume."
 categories:
   - "Blaugust"
@@ -13,6 +14,19 @@ tags:
   - "LTT"
   - "Project Farm"
   - "Raid Shadow Legends"
+relatedPosts:
+  - url: "/2023/11/12/clickbait/"
+    title: "Clickbait"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/tipachu_a_desk_strewn_with_images_of_clickbait_ads_featuring_se_f9bb71a2-c331-4950-943b-4a0a5117b826.png"
+  - url: "/2022/09/26/my-one-sided-argument-with-raid-shadow-legends-marketing-department/"
+    title: "My One-Sided Argument with Raid: Shadow Legend's Marketing Department"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-26-18.24.24-digital-art-Raid-Shadow-Legends.png"
+  - url: "/2020/07/15/lets-have-a-little-talk-about-raid-shadow-legends/"
+    title: "Let's have a little talk about RAID: SHADOW LEGENDS."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/07/IMG_1733.png"
+  - url: "/2023/08/31/the-final-days-of-blaugust/"
+    title: "The final days of Blaugust"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/solongblaugust.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/ltt.webp"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/ltt.webp"
 ---

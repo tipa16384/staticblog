@@ -3,6 +3,7 @@ date: '2022-09-01T07:00:00-05:00'
 draft: false
 title: "Creating \"32 Bullets\" -- an AI adventure."
 author: "Tipa"
+disqusIdentifier: "2022/09/01/32-bullets-new-first-person-shooter-game"
 summary: "In \"32 Bullets\", you play as a professional hitman with only 32 bullets to complete 32 contracts. The catch is that you must complete them all within a certain amount of time."
 categories:
   - "Blaugust"
@@ -13,6 +14,19 @@ tags:
   - "Dall-E 2"
   - "Gpt-3"
   - "Twitch"
+relatedPosts:
+  - url: "/2022/08/24/24-7-attention-undead-shoppers-edition/"
+    title: "24/7: Attention, Undead Shoppers edition."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-16-19.33.49-A-photograph-of-a-security-guard-in-a-blue-uniform-watching-zombie-shoppers-walking-through-a-dark-mall-lit-with-a-glowing-mist-1977-film-Alien..png"
+  - url: "/2022/08/15/the-15th-element-a-squad-based-shooter-with-puzzle-elements/"
+    title: "The 15th Element: A Squad-Based Shooter With Puzzle Elements"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/15thelementtop.png"
+  - url: "/2022/07/31/welcome-to-blaugust-2022-31-game-ideas-from-ai/"
+    title: "Welcome to Blaugust 2022: 31 game ideas from AI"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/blaugust2022.webp"
+  - url: "/2022/08/31/blaugust-hath-31-days/"
+    title: "Blaugust Hath 31 Days"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-24-22.46.10-a-young-woman-fighting-a-monster-with-a-rune-carved-sword.-She-is-surrounded-by-a-dark-forest-and-the-full-moon-is-shining-overhead-in-the-style-of-.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/32bulletsbanner.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/32bulletsbanner.png"
 ---

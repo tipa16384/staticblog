@@ -3,6 +3,7 @@ date: '2024-08-16T08:05:22-05:00'
 draft: false
 title: "Could this be the end of Palworld?"
 author: "Tipa"
+disqusIdentifier: "2024/08/16/could-this-be-the-end-of-palworld"
 summary: "For me, I mean. Could this be the end of Palworld -- for me. Betteridge's law of headlines may apply."
 categories:
   - "Blaugust"
@@ -11,6 +12,19 @@ categories:
   - "Palworld"
 tags:
   - "Raiding"
+relatedPosts:
+  - url: "/2024/08/04/ultimate-victory-dominating-palworlds-challenging-endgame-raids/"
+    title: "Ultimate Victory: Dominating Palworld’s Challenging Endgame Raids"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/bellanoirultra.png"
+  - url: "/2024/04/15/palworld-100-finally/"
+    title: "Palworld @ 100%. Finally."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/BellanoirLibero.jpg"
+  - url: "/2024/04/05/palworlds-first-raid-is-a-killer/"
+    title: "Palworld's First Raid is a Killer"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/bellenoir.png"
+  - url: "/2024/08/27/twitch-drops-why/"
+    title: "Twitch Drops: Why?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/1-Palworld-Screenshot-2024.08.26-07.46.02.07.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/palworld-cheevs.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/palworld-cheevs.png"
 ---

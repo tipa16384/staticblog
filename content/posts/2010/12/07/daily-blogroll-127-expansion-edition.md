@@ -3,6 +3,7 @@ date: '2010-12-07T06:00:30-05:00'
 draft: false
 title: "Daily Blogroll 12/7 -- Expansion edition"
 author: "Tipa"
+disqusIdentifier: "2010/12/07/daily-blogroll-127-expansion-edition"
 summary: "The Imperial Japanese Navy attacked Pearl Harbor 69 years ago today. Now we're having a little payback at the expense of the whole world. I..."
 categories:
   - "Champions Online"
@@ -11,6 +12,19 @@ categories:
   - "EverQuest"
   - "MMORPG"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/08/31/daily-blogroll-831-end-of-summer-edition/"
+    title: "Daily Blogroll 8/31 - End of Summer edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/GameClient-2009-08-30-21-20-36-81.jpg"
+  - url: "/2009/05/22/daily-blogroll-522-on-holiday-edition/"
+    title: "Daily Blogroll 5/22 -- On Holiday edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/wizardgraphicalclient-2009-05-20-19-32-06-04.jpg"
+  - url: "/2009/05/11/daily-blogroll-511-reboot-edition/"
+    title: "Daily Blogroll 5/11 -- Reboot edition"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/holmes.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/holmes.png"
 ---

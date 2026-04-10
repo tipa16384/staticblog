@@ -3,6 +3,7 @@ date: '2008-08-26T07:57:23-05:00'
 draft: false
 title: "Bringing a character to life -- three character creators"
 author: "Tipa"
+disqusIdentifier: "2008/08/26/bringing-a-character-to-life-three-character-creators"
 summary: "I was writing a new Stout Henry story last night, when I got the idea to try and model him with the character creators from..."
 categories:
   - "City of Heroes"
@@ -11,6 +12,19 @@ categories:
   - "Vanguard"
 tags:
   - "Stout Henry"
+relatedPosts:
+  - url: "/2008/11/04/stout-henry-nanowrimo-edition-kneed-before-greed/"
+    title: "Stout Henry, NaNoWriMo edition: Kneed Before Greed"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/stouthenrynbg.jpg"
+  - url: "/2008/10/17/the-death-of-stout-henry/"
+    title: "The Death of Stout Henry"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/gallows.jpg"
+  - url: "/2008/10/08/stout-henry-goes-to-war/"
+    title: "Stout Henry goes to war"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/vgclient-2008-10-07-20-41-55-41.jpg"
+  - url: "/2008/08/26/stout-henry-at-the-market/"
+    title: "Stout Henry at the Market"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/market2.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/cityofheroes-2008-08-26-06-57-59-63.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/cityofheroes-2008-08-26-06-57-59-63.jpg"
 ---

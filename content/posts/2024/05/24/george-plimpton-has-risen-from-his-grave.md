@@ -3,6 +3,7 @@ date: '2024-05-24T16:44:31-05:00'
 draft: false
 title: "George Plimpton Has Risen from His Grave"
 author: "Tipa"
+disqusIdentifier: "2024/05/24/george-plimpton-has-risen-from-his-grave"
 summary: "The dregs of Atari has bought out the remains of Intellivision, the seventh seal is broken, and chaos has descended upon a burning world."
 categories:
   - "Atari"
@@ -10,6 +11,19 @@ categories:
   - "NFT"
 tags:
   - "Intellivision"
+relatedPosts:
+  - url: "/2024/05/25/retro-game-haul-tron-deadly-discs-and-reversi/"
+    title: "Retro Game Haul: Tron Deadly Discs and Reversi"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/trondeadlydisks.png"
+  - url: "/2021/11/18/im-just-here-to-bring-joy-and-melt-your-brain/"
+    title: "I'm just here to bring joy and melt your brain."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/genesisloot.jpg"
+  - url: "/2020/11/07/atarinft-io-the-dumbest-thing-atari-has-ever-done/"
+    title: "AtariNFT.io -- the dumbest thing Atari has ever done."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/11/atari.png"
+  - url: "/2024/03/30/the-atari-400-mini-is-it-worth-the-nostalgia/"
+    title: "The Atari 400 Mini. Is it worth the nostalgia?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/banner.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/plimpton.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/plimpton.png"
 ---

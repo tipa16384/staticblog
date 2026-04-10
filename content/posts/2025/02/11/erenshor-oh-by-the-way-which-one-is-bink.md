@@ -3,6 +3,7 @@ date: '2025-02-11T08:01:35-05:00'
 draft: false
 title: "Erenshor: Oh, by the way, which one is Bink?"
 author: "Tipa"
+disqusIdentifier: "2025/02/11/erenshor-oh-by-the-way-which-one-is-bink"
 summary: "Erenshor is the single player RPG you tell MMO stories about."
 categories:
   - "Erenshor"
@@ -11,6 +12,19 @@ categories:
 tags:
   - "Erenshor"
   - "Pink Floyd"
+relatedPosts:
+  - url: "/2025/02/18/wots-uh-the-deal/"
+    title: "Wot's... Uh the Deal?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/02/tipachu_A_scene_from_a_city_with_an_unpainted_metal_statue_of_1f26c4d5-89d9-43e1-98ae-b76a59f62d92_2.png"
+  - url: "/2024/10/18/erenshor-the-shivering-steps/"
+    title: "Erenshor: The Shivering Steps"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/erenshor-shivering.png"
+  - url: "/2024/09/14/this-halloween-erenshor-gets-spooky/"
+    title: "This Halloween, Erenshor Gets Spooky!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/erenshotheader.jpg"
+  - url: "/2024/08/28/erenshor-everquest-for-soloers/"
+    title: "Erenshor -- EverQuest for soloers"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/erenshotheader.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/02/1-20250210223651_1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/02/1-20250210223651_1.jpg"
 ---

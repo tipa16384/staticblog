@@ -446,6 +446,16 @@ def extract_slug_from_url(url):
         return parts[-1]  # Return the slug
     return None
 
+def extract_disqus_identifier_from_url(url):
+    """Extract the YYYY/MM/DD/slug path used for Disqus identifiers."""
+    parsed = urlparse(url)
+    path = parsed.path.strip('/')
+    parts = path.split('/')
+
+    if len(parts) >= 4:
+        return "/".join(parts[:4])
+    return None
+
 def parse_wordpress_date(wp_date_str):
     """Parse WordPress date string and convert to ISO format with timezone"""
     # WordPress format: YYYY-MM-DD HH:MM:SS
@@ -687,6 +697,11 @@ def create_hugo_post(item, child_items=None, tag_normalization_dict=None, tags_o
     if not slug:
         print(f"Could not extract slug from URL: {link_url}")
         return False
+
+    disqus_identifier = extract_disqus_identifier_from_url(link_url)
+    if not disqus_identifier:
+        print(f"Could not extract Disqus identifier from URL: {link_url}")
+        return False
     
     # Extract year, month, day from the date
     try:
@@ -769,6 +784,7 @@ def create_hugo_post(item, child_items=None, tag_normalization_dict=None, tags_o
         "draft: false",
         f"title: \"{escape_yaml_string(normalized_title)}\"",
         "author: \"Tipa\"",
+        f"disqusIdentifier: \"{escape_yaml_string(disqus_identifier)}\"",
     ]
 
     frontmatter_lines.append(f"summary: \"{escape_yaml_string(summary_text)}\"")

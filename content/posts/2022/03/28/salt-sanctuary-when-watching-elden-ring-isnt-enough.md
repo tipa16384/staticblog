@@ -3,6 +3,7 @@ date: '2022-03-28T08:03:14-05:00'
 draft: false
 title: "Salt & Sanctuary: When Watching Elden Ring Isn't Enough"
 author: "Tipa"
+disqusIdentifier: "2022/03/28/salt-sanctuary-when-watching-elden-ring-isnt-enough"
 summary: "My partner is playing our copy of Elden Ring, and I'd love to do more than just watch. Doesn't make much sense to buy another..."
 categories:
   - "Salt and Sanctuary"
@@ -10,6 +11,19 @@ tags:
   - "2D"
   - "Black and White"
   - "Souls-Like"
+relatedPosts:
+  - url: "/2024/08/24/nexus-kingdom-of-the-wind/"
+    title: "Nexus: Kingdom of the Wind"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/nexus-afk.png"
+  - url: "/2023/08/26/quick-take-deaths-door/"
+    title: "Quick Take: Death's Door"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/snapedit_1693017882163.png"
+  - url: "/2022/06/21/elden-ring-aftermath/"
+    title: "Elden Ring: Aftermath"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/06/1-ELDEN-RING™_20220620153851.jpg"
+  - url: "/2022/05/30/what-if-elden-but-ring/"
+    title: "What if Elden, but Ring?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/05/ELDEN-RING™_20220529120543-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/Salt-and-Sanctuary_20220328070627-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/Salt-and-Sanctuary_20220328070627-scaled.jpg"
 ---

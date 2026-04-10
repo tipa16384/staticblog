@@ -3,6 +3,7 @@ date: '2010-08-26T23:01:21-05:00'
 draft: false
 title: "Star Trek Online: A Light in the Dark (spoilers)"
 author: "Tipa"
+disqusIdentifier: "2010/08/26/star-trek-online-a-light-in-the-dark-spoilers"
 summary: "[..."
 categories:
   - "MMORPG"
@@ -15,6 +16,19 @@ tags:
   - "Recap"
   - "Starfleet"
   - "Undine"
+relatedPosts:
+  - url: "/2010/08/09/star-trek-online-fluid-dynamics-spoilers/"
+    title: "Star Trek Online: Fluid Dynamics (spoilers!)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-08-17-53-56-96.jpg"
+  - url: "/2010/08/07/star-trek-online-undine-front-the-return-spoilers/"
+    title: "Star Trek Online, Undine Front: The Return (spoilers)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-06-20-22-16-69-480x383.jpg"
+  - url: "/2011/03/06/star-trek-online-fe305-cut-the-cord-spoilers/"
+    title: "Star Trek Online FE305: Cutting the Cord (spoilers)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/GameClient-2011-03-05-13-52-30-97-480x324.jpg"
+  - url: "/2011/02/27/star-trek-online-fe304-coliseum-spoilers/"
+    title: "Star Trek Online FE304: Coliseum (spoilers)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-26-15-29-44-32-480x275.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-21-23-10-17-94-480x384.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-21-23-10-17-94-480x384.jpg"
 ---

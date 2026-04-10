@@ -3,11 +3,25 @@ date: '2011-12-15T00:43:27-05:00'
 draft: false
 title: "EQ2: What, no SWTOR?"
 author: "Tipa"
+disqusIdentifier: "2011/12/15/eq2-what-no-swtor"
 summary: "I do WANT to play Bioware's Star Wars: The Old Republic. I WILL play it. Just... not right now. I'm not in a good place..."
 categories:
   - "EverQuest"
   - "MMORPG"
   - "Skyrim"
+relatedPosts:
+  - url: "/2011/08/17/is-social-networking-killing-the-mmo-genre/"
+    title: "Is social networking killing the MMO genre?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/08/rift-2011-08-17-07-23-49-86.jpg"
+  - url: "/2010/12/14/daily-blogroll-1214-take-my-game-please-edition/"
+    title: "Daily Blogroll 12/14 -- Take my game, PLEASE! edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/ffxiv.png"
+  - url: "/2023/02/04/i-was-trapped-in-a-closet-and-forced-to-play-skyrim/"
+    title: "I Was Trapped in a Closet and Forced to Play Skyrim"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/02/skyrim.png"
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/12/EverQuest2-2011-12-15-00-14-36-09-480x384.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/12/EverQuest2-2011-12-15-00-14-36-09-480x384.jpg"
 ---

@@ -3,11 +3,25 @@ date: '2023-06-27T20:35:52-05:00'
 draft: false
 title: "Is Final Fantasy XVI worth playing?"
 author: "Tipa"
+disqusIdentifier: "2023/06/27/is-final-fantasy-xvi-worth-playing"
 summary: "A gripping story, a deeply customizable combat system and a beautiful world being killed by its crystals. It's Final Fantasy. But is it for you?"
 categories:
   - "Final Fantasy"
 tags:
   - "RPG"
+relatedPosts:
+  - url: "/2021/08/03/ff1-continues-a-witch-a-dwarf-and-a-king-walk-into-a-bar/"
+    title: "FF1 Continues: A Witch, A Dwarf, and a King walk into a bar..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/laliho.png"
+  - url: "/2024/05/08/advent-the-secrets-of-adventure/"
+    title: "ADVENT: The Secrets of Adventure"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/cca-banner2.png"
+  - url: "/2024/03/25/dragons-dogma-ii-now-playing/"
+    title: "Dragon's Dogma II: Now Playing"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/dd2banner.png"
+  - url: "/2024/03/23/unicorn-overlord-whose-overlord-is-it-anyway/"
+    title: "Unicorn Overlord -- Whose Overlord Is It, Anyway?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/Unicorn-Overlord_20240322181915.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/06/1-FINAL-FANTASY-XVI_20230626140359-001.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/06/1-FINAL-FANTASY-XVI_20230626140359-001.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2020-04-27T21:43:33-05:00'
 draft: false
 title: "Daily Gaming Log: April 27."
 author: "Tipa"
+disqusIdentifier: "2020/04/27/daily-gaming-log-april-27"
 summary: "Octopath Traveler: Made it to the second phase of Galdera, the true final boss. This was my first time making it this far. Now that..."
 categories:
   - "MMORPG"
@@ -11,6 +12,19 @@ tags:
   - "Daily Log"
   - "DC Universe Online"
   - "Octopath Traveler"
+relatedPosts:
+  - url: "/2020/04/28/daily-gaming-log-april-28-royal/"
+    title: "Daily Gaming Log: April 28 Royal"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/04/image.png"
+  - url: "/2021/01/12/does-dcuo-on-the-switch-make-any-sense/"
+    title: "Does DCUO on the Switch make any sense?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/01/2021011212024200-57B4628D2267231D57E0FC1078C0596D.jpg"
+  - url: "/2020/05/07/mmo-updates-crowfall-everquest-chocobos-mystery-dungeon-dcuo/"
+    title: "MMO updates: Crowfall, EverQuest, Chocobo's Mystery Dungeon, DCUO"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/CrowfallClient-2020-05-07-07-19-12-64-1024x576.jpg"
+  - url: "/2023/08/03/not-taming-the-backlog/"
+    title: "(Not) Taming the Backlog"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/DALL·E-2023-08-02-23.10.21-A-dragon-wearing-glasses-surrounded-by-stacks-of-video-games.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/04/2020042615283300-93C1C73A3BAF9123A15B9B24886B634B-1024x576.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/04/2020042615283300-93C1C73A3BAF9123A15B9B24886B634B-1024x576.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2020-08-28T21:09:57-05:00'
 draft: false
 title: "FFXIV: A Match of Mahjong"
 author: "Tipa"
+disqusIdentifier: "2020/08/28/ffxiv-a-match-of-mahjong"
 summary: "I'm still so pumped from Wednesday's game night. I just want to play more Mahjong. Luckily, FFXIV is always there to help with that need...."
 categories:
   - "Final Fantasy XIV"
@@ -10,6 +11,19 @@ categories:
   - "Steam Games"
 tags:
   - "Mahjong"
+relatedPosts:
+  - url: "/2020/08/26/game-night-mahjong/"
+    title: "Game Night: Mahjong"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-IMG_1763-1.jpg"
+  - url: "/2020/10/24/japanese-mah-jong-for-the-switch/"
+    title: "Japanese Mah-jong for the Switch"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/japanese-mah-jongg-switch-screenshot01.jpg"
+  - url: "/2021/08/17/ff3-making-myself-cod-worthy/"
+    title: "FF3 -- Making Myself CoD-Worthy"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/20210817213623_1.jpg"
+  - url: "/2020/09/09/what-makes-an-mmo-an-mmo/"
+    title: "What makes an MMO an MMO?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/Kingdoms-of-Amalur_-Reckoning-12_31_2015-4_16_05-PM-1.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-Fullscreen-capture-8282020-90402-PM.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-Fullscreen-capture-8282020-90402-PM.jpg"
 ---

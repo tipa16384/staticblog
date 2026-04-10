@@ -3,6 +3,7 @@ date: '2013-09-12T00:32:46-05:00'
 draft: false
 title: "Top 5 Reasons why Neverwinter is the Best MMO That Can Exist, or, How To Twerk in World of Warcraft"
 author: "Tipa"
+disqusIdentifier: "2013/09/12/top-5-reasons-why-neverwinter-is-the-best-mmo-that-can-exist-or-how-to-twerk-in-world-of-warcraft"
 summary: "When I found out \"Top (some number) (some thing)\" articles were called \"listicles\" (for List Articles), my life was changed. I'd always had these feelings..."
 categories:
   - "Guild Wars"
@@ -11,6 +12,19 @@ categories:
   - "Neverwinter"
   - "Other Games"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2009/08/11/daily-blogroll-811/"
+    title: "Daily Blogroll 8/11 -- Cataclysm edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/39ba0f5f07f444691742d01b64aab12b.jpg"
+  - url: "/2008/12/24/a-look-back-at-2008/"
+    title: "A look back at 2008"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-30-22-10-50-69.jpg"
+  - url: "/2012/10/18/game-log-guild-wars-2-diablo-3/"
+    title: "Game Log: Guild Wars 2, Diablo 3"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Gw2-2012-10-18-23-44-12-32-480x269.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/09/GameClient-2013-09-12-00-38-15-69-480x334.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/09/GameClient-2013-09-12-00-38-15-69-480x334.jpg"
 ---

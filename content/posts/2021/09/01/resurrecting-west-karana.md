@@ -3,6 +3,7 @@ date: '2021-09-01T07:48:11-05:00'
 draft: false
 title: "Resurrecting West Karana"
 author: "Tipa"
+disqusIdentifier: "2021/09/01/resurrecting-west-karana"
 summary: "I was fascinated by UltrViolet's DevOps-ification of his blog, \"Endgame Viable\". The sort of stuff he's doing is the sort of stuff I do every..."
 categories:
   - "Blaugust"
@@ -14,6 +15,19 @@ tags:
   - "Markdown"
   - "Python"
   - "West Karana"
+relatedPosts:
+  - url: "/2021/09/08/chasing-dings-goes-to-west-karana/"
+    title: "Chasing Dings! goes to West Karana"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/tara21.jpg"
+  - url: "/2021/08/11/the-most-interesting-game-of-all-time/"
+    title: "The Most Interesting Game of All Time!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/runescape-20-years.jpg"
+  - url: "/2024/08/10/ai-has-transformed-the-way-i-code/"
+    title: "AI has transformed the way I code"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/copilot.png"
+  - url: "/2023/08/14/my-non-controversial-take-on-the-ai-revolution/"
+    title: "My Non-Controversial Take on the AI Revolution"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/revolution.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/b0d5f94a61f128683568fec95571fa8e.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/b0d5f94a61f128683568fec95571fa8e.jpg"
 ---

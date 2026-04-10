@@ -3,6 +3,7 @@ date: '2008-07-29T01:09:53-05:00'
 draft: false
 title: "Let's check in on Wizard 101..."
 author: "Tipa"
+disqusIdentifier: "2008/07/29/lets-check-in-on-wizard-101"
 summary: "I'm not supposed to be in Marleybone. I'm supposed to be mediating the eons-old feud between the Djesserit and Anjit clans of Kroks, a feud..."
 categories:
   - "Comic"
@@ -12,6 +13,19 @@ tags:
   - "Krokotopia"
   - "Marleybone"
   - "Mooshu"
+relatedPosts:
+  - url: "/2008/10/27/wizard-101-hametsu-village/"
+    title: "Wizard 101: Hametsu Village"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-26-17-18-58-70.jpg"
+  - url: "/2008/10/13/w101-halloween-in-wizard-city-and-october-patch-notes/"
+    title: "W101: Hallowe'en in Wizard City (and October patch notes)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-12-17-08-57-87.jpg"
+  - url: "/2008/10/06/w101-leaving-krokotopia/"
+    title: "W101: Leaving Krokotopia"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/taratheslayer.jpg"
+  - url: "/2009/03/13/wizard-101-st-pattys-day-and-new-crowns-items/"
+    title: "Wizard 101: St. Patty's day -- and new Crowns items!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-34-54-60.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/wizardcomic.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/wizardcomic.jpg"
 ---

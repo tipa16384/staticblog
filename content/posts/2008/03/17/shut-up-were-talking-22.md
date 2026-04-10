@@ -3,6 +3,7 @@ date: '2008-03-17T12:49:58-05:00'
 draft: false
 title: "Shut Up, We're Talking #22"
 author: "Tipa"
+disqusIdentifier: "2008/03/17/shut-up-were-talking-22"
 summary: "I had the pleasure of being on SUWT #22 this weekend. I was first on SUWT #12, so I guess I'll get another chance to..."
 categories:
   - "EVE Online"
@@ -11,6 +12,19 @@ categories:
   - "Second Life"
   - "Vanguard"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2011/01/27/daily-blogroll-127-inevitable-backlash-edition/"
+    title: "Daily Blogroll 1/27 -- Inevitable Backlash edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/riftblade.png"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/08/10/daily-blogroll-810-thank-god-its-monday-edition/"
+    title: "Daily Blogroll 8/10 -- Thank God it's Monday edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/daddygirl.jpg"
+  - url: "/2009/07/21/daily-blogroll-721-scrapyard-edition/"
+    title: "Daily Blogroll 7/21 -- Scrapyard edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/eqgame-2009-07-21-07-17-41-46.jpg"
 ---
 I had the pleasure of being on SUWT #22 this weekend. I was first on SUWT #12, so I guess I'll get another chance to...
 <!--more-->

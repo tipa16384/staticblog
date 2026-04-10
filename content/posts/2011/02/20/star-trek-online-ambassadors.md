@@ -3,6 +3,7 @@ date: '2011-02-20T20:52:35-05:00'
 draft: false
 title: "Star Trek Online: Ambassadors"
 author: "Tipa"
+disqusIdentifier: "2011/02/20/star-trek-online-ambassadors"
 summary: "This post is just about my two Star Trek Online characters, the Andorian science captain Tipa D'zoph, and my old-style Klingon tactical captain, Krontar...."
 categories:
   - "MMORPG"
@@ -15,6 +16,19 @@ tags:
   - "Krontar"
   - "Tipa"
   - "Undine"
+relatedPosts:
+  - url: "/2010/09/11/star-trek-online-s2e3-cold-comfort-spoilers/"
+    title: "Star Trek Online: S2E3 Cold Comfort (spoilers)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/GameClient-2010-09-11-16-55-05-27-480x292.jpg"
+  - url: "/2010/08/07/star-trek-online-undine-front-the-return-spoilers/"
+    title: "Star Trek Online, Undine Front: The Return (spoilers)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-06-20-22-16-69-480x383.jpg"
+  - url: "/2010/10/16/star-trek-online-skirmish-spoilers/"
+    title: "Star Trek Online: Skirmish (spoilers)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/GameClient-2010-10-16-14-50-16-71-480x303.jpg"
+  - url: "/2010/08/29/star-trek-online-cold-call-spoilers/"
+    title: "Star Trek Online: Cold Call (spoilers)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-28-14-15-48-16-480x327.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-20-17-34-12-79-384x480.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-20-17-34-12-79-384x480.jpg"
 ---

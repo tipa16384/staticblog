@@ -3,6 +3,7 @@ date: '2009-10-14T07:06:50-05:00'
 draft: false
 title: "Daily Blogroll 10/14 - Puns R Us edition"
 author: "Tipa"
+disqusIdentifier: "2009/10/14/daily-blogroll-1014-puns-r-us-edition"
 summary: "Earth Eternal's Sylvan have to put up with this every day......."
 categories:
   - "Daily Blogroll"
@@ -12,6 +13,19 @@ categories:
   - "Free Realms"
   - "MMORPG"
   - "Wizard101"
+relatedPosts:
+  - url: "/2009/09/17/daily-blogroll-917-kanye-edition/"
+    title: "Daily Blogroll 9/17 - Kanye edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/kanye.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/09/01/daily-blogroll-91-hell-o-kiddie-edition/"
+    title: "Daily Blogroll 9/1 - Hell, O Kiddie edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/hko-2009-09-01-07-24-48-98.jpg"
+  - url: "/2009/06/15/daily-blogroll-615-just-this-once-edition/"
+    title: "Daily Blogroll 6/15 -- Just This Once edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/WizardGraphicalClient-2009-06-15-07-54-00-91.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/eebark.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/eebark.png"
 ---

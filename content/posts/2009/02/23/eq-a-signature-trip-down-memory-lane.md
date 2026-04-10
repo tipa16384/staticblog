@@ -3,10 +3,24 @@ date: '2009-02-23T12:00:02-05:00'
 draft: false
 title: "EQ: A signature trip down memory lane."
 author: "Tipa"
+disqusIdentifier: "2009/02/23/eq-a-signature-trip-down-memory-lane"
 summary: "Stargrace's high speed romp through EverQuest has made me nostalgic. REALLY nostalgic. I remember when each new victory, the culmination of much effort, many tries,..."
 categories:
   - "EverQuest"
   - "MMORPG"
+relatedPosts:
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2024/10/21/evercraft-online-the-unholy-child-of-eq-and-minecraft/"
+    title: "EverCraft Online: The Unholy Child of EQ and MineCraft"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/evercraft-banner.png"
+  - url: "/2024/08/28/erenshor-everquest-for-soloers/"
+    title: "Erenshor -- EverQuest for soloers"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/erenshotheader.jpg"
+  - url: "/2024/05/04/everquest-ii-goes-retro-with-anashti-sul/"
+    title: "EverQuest II goes retro with Anashti Sul"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/anashtisul.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/terris.gif"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/terris.gif"
 ---

@@ -3,6 +3,7 @@ date: '2023-02-10T23:15:20-05:00'
 draft: false
 title: "If I buy an NFT, that art is mine now. Right?"
 author: "Tipa"
+disqusIdentifier: "2023/02/10/if-a-buy-an-nft-that-art-is-mine-now-right"
 summary: "Of course not. Why do people even think that?"
 categories:
   - "DC Comics"
@@ -13,6 +14,19 @@ tags:
   - "Palm"
   - "Poison Ivy"
   - "The Last of Us"
+relatedPosts:
+  - url: "/2021/10/18/i-burned-down-a-rain-forest-and-all-i-got-was-this-stupid-nft/"
+    title: "I Burned Down a Rain Forest and All I Got Was This Stupid NFT"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/51k1w0ALNL.jpg"
+  - url: "/2020/08/23/blaugust-22-and-23-fear-and-envy/"
+    title: "Blaugust #22 and #23: Fear and Envy"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/lantern-corps-970x545-1.jpg"
+  - url: "/2023/08/19/blue-beetle/"
+    title: "Blue Beetle"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/blue_beetle_movie_costume_concept_art.jpg"
+  - url: "/2023/01/27/no-kidding-i-bought-and-sold-an-nft/"
+    title: "No kidding: I bought (and sold) an NFT."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/01/futurestatewonderwoman1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/02/mylantern.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/02/mylantern.png"
 ---

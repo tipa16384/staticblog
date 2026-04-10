@@ -3,6 +3,7 @@ date: '2008-08-16T11:40:46-05:00'
 draft: false
 title: "First expansion reactions"
 author: "Tipa"
+disqusIdentifier: "2008/08/16/first-expansion-reactions"
 summary: "I'll be seeing these live hopefully later today, but here's my first reactions to the expansions...."
 categories:
   - "EverQuest"
@@ -11,6 +12,19 @@ tags:
   - "Fan Faire"
   - "Seeds of Destruction"
   - "The Shadow Odyssey"
+relatedPosts:
+  - url: "/2008/08/16/eq2-new-clothes-for-old-tailors/"
+    title: "EQ2: New clothes for old tailors"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/stp61365-1.jpg"
+  - url: "/2008/08/16/more-on-the-fan-faire/"
+    title: "More on the Fan Faire"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/image66-1.jpg"
+  - url: "/2008/08/16/lost-in-the-shadow-of-destruction-or-something/"
+    title: "Lost in the Shadow of Destruction... or something."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/image27-1.jpg"
+  - url: "/2008/10/25/eq-the-bastion-of-thunder/"
+    title: "EQ: The Bastion of Thunder"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-25-07-09-32-24.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/befallen.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/befallen.jpg"
 ---

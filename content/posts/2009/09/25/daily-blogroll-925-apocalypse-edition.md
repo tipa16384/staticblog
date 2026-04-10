@@ -3,6 +3,7 @@ date: '2009-09-25T07:08:45-05:00'
 draft: false
 title: "Daily Blogroll 9/25 - Apocalypse edition"
 author: "Tipa"
+disqusIdentifier: "2009/09/25/daily-blogroll-925-apocalypse-edition"
 summary: "Adventuring after a mysterious apocalypse forever changed the landscape, with strange creatures everywhere and a refugee populace just trying to survive in a mutant world..."
 categories:
   - "Champions Online"
@@ -11,6 +12,19 @@ categories:
   - "EverQuest"
   - "MMORPG"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/08/31/daily-blogroll-831-end-of-summer-edition/"
+    title: "Daily Blogroll 8/31 - End of Summer edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/GameClient-2009-08-30-21-20-36-81.jpg"
+  - url: "/2009/07/23/daily-blogroll-723-aftermath-edition/"
+    title: "Daily Blogroll 7/23 -- Aftermath edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/sb_client-2009-07-23-07-34-50-3.jpg"
+  - url: "/2008/12/24/a-look-back-at-2008/"
+    title: "A look back at 2008"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-30-22-10-50-69.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/GameClient-2009-09-24-21-31-22-51.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/GameClient-2009-09-24-21-31-22-51.jpg"
 ---

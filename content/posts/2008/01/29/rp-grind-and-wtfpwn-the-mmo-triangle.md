@@ -3,9 +3,23 @@ date: '2008-01-29T08:30:03-05:00'
 draft: false
 title: "RP, Grind and WTFPWN -- the MMO triangle"
 author: "Tipa"
+disqusIdentifier: "2008/01/29/rp-grind-and-wtfpwn-the-mmo-triangle"
 summary: "Openedge1 over at Simple and Complex was listing off a bunch of upcoming MMOs and he noticed that there's been a sea-change in the MMO..."
 categories:
   - "MMORPG"
+relatedPosts:
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2026/03/11/dune-awakening-finished-chapter-3/"
+    title: "Dune Awakening: Finished Chapter 3"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-11-073510.png"
+  - url: "/2026/02/04/erenshor-rising-shadows-launched/"
+    title: 'Erenshor "Rising Shadows" launched!'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/20260204080313_1.jpg"
+  - url: "/2026/01/24/dominus-automa-an-idle-mmo-for-busy-dads/"
+    title: "Dominus Automa: An Idle MMO for Busy Dads"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/dominusautoma.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/path2164a.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/path2164a.png"
 ---

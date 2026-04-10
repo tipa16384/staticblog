@@ -3,12 +3,26 @@ date: '2025-05-05T08:00:00-05:00'
 draft: false
 title: "Blue Prince: Welcome to the Gift Shop"
 author: "Tipa"
+disqusIdentifier: "2025/05/05/blue-prince-welcome-to-the-gift-shop"
 summary: "Hey, I completed another game! And what a journey..."
 categories:
   - "Puzzle Games"
   - "RPG"
 tags:
   - "Blue Prince"
+relatedPosts:
+  - url: "/2025/04/14/i-know-what-i-did-last-weekend-april-edition/"
+    title: "I Know What I Did Last Weekend (April edition)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/04/Blue-Prince_20250414075008-scaled.jpg"
+  - url: "/2025/08/25/herdling/"
+    title: "Herdling"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/herdlingbanner.png"
+  - url: "/2025/02/25/steam-next-fest-day-1-the-weird-stuff/"
+    title: "Steam Next Fest: Day 1, the Weird Stuff"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/02/1-steam-next-fest.jpg"
+  - url: "/2024/12/27/the-best-puzzle-games-of-2024/"
+    title: "The Best Puzzle Games of 2024"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/puzzlegamesbanner.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/Blue-Prince_20250504155946-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/Blue-Prince_20250504155946-scaled.jpg"
 ---

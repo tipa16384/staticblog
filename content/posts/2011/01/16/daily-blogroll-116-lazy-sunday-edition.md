@@ -3,6 +3,7 @@ date: '2011-01-16T06:00:18-05:00'
 draft: false
 title: "Daily Blogroll 1/16 -- Lazy Sunday edition"
 author: "Tipa"
+disqusIdentifier: "2011/01/16/daily-blogroll-116-lazy-sunday-edition"
 summary: "Yeah, I like TV. I can say that now; for years I refused to watch it. Rotting my mind and all. But having just come..."
 categories:
   - "Aion"
@@ -12,6 +13,19 @@ categories:
   - "Everquest"
   - "Guild Wars"
   - "Vanguard"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2010/12/29/daily-blogroll-1229-super-duper-edition/"
+    title: "Daily Blogroll 12/29: Super Duper edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/dcuo.png"
+  - url: "/2009/09/17/daily-blogroll-917-kanye-edition/"
+    title: "Daily Blogroll 9/17 - Kanye edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/kanye.jpg"
+  - url: "/2009/04/28/daily-blogroll-428-hug-squeeze-edition/"
+    title: "Daily Blogroll 4/28 -- Hug & Squeeze Edition"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/teevee.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/teevee.png"
 ---

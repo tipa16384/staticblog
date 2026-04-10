@@ -3,6 +3,7 @@ date: '2024-09-10T07:00:00-05:00'
 draft: false
 title: "The Utter Insanity of Nemesis"
 author: "Tipa"
+disqusIdentifier: "2024/09/10/the-utter-insanity-of-nemesis"
 summary: "Survivors face escalating dangers aboard a doomed starship in the final game of Nemesis."
 categories:
   - "Game Night"
@@ -10,6 +11,19 @@ categories:
   - "Tabletop Games"
 tags:
   - "Alien"
+relatedPosts:
+  - url: "/2024/08/06/game-night-the-penultimate-nemesis/"
+    title: "Game Night: The Penultimate Nemesis"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_4539.jpg"
+  - url: "/2024/07/03/nemesis-the-board-game/"
+    title: "Nemesis: The Board Game"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/07/1-pic8211747.jpg"
+  - url: "/2025/01/05/best-board-games-of-2024/"
+    title: "Best Board Games of 2024!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/bestboardgamebanner.png"
+  - url: "/2026/03/04/frosthaven-104-ruins-of-the-solstice-and-heroquest-first-light-sound-the-hearthkin-horn/"
+    title: "Frosthaven #104: Ruins of the Solstice and HeroQuest First Light: Sound the Hearthkin Horn"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/IMG_5701-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/nemesis-header.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/nemesis-header.png"
 ---

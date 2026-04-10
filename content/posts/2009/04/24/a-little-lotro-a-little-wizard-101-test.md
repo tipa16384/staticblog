@@ -3,12 +3,26 @@ date: '2009-04-24T06:21:07-05:00'
 draft: false
 title: "A little LotRO, a little Wizard 101 (Test)"
 author: "Tipa"
+disqusIdentifier: "2009/04/24/a-little-lotro-a-little-wizard-101-test"
 summary: "The two characters I set for transfer from Windfola to Landroval a couple of weeks ago, my 36 Captain and my 21 Champion, finally arrived..."
 categories:
   - "Free Realms"
   - "Lord of the Rings"
   - "MMORPG"
   - "Wizard101"
+relatedPosts:
+  - url: "/2010/04/14/the-best-mmo-for-a-new-player/"
+    title: "The best MMO for a new player?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/options.jpg"
+  - url: "/2009/09/17/daily-blogroll-917-kanye-edition/"
+    title: "Daily Blogroll 9/17 - Kanye edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/kanye.jpg"
+  - url: "/2009/07/29/mmorpgs-in-3d-a-study-in-red-and-blue/"
+    title: "MMORPGs in 3D: A Study in Red and Blue"
+    thumbnailImage: ""
+  - url: "/2009/05/06/daily-blogroll-56-tempests-and-teapots-edition/"
+    title: "Daily Blogroll 5/6 -- Tempests and Teapots edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/fullscreen-capture-562009-125235-am.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/forsakenale.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/forsakenale.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2011-02-15T06:00:43-05:00'
 draft: false
 title: "Daily Blogroll 2/15 -- Death of Sleep edition"
 author: "Tipa"
+disqusIdentifier: "2011/02/15/daily-blogroll-215-death-of-sleep-edition"
 summary: "[..."
 categories:
   - "Daily Blogroll"
@@ -10,6 +11,19 @@ categories:
   - "EverQuest"
   - "MMORPG"
   - "Rift"
+relatedPosts:
+  - url: "/2011/01/27/daily-blogroll-127-inevitable-backlash-edition/"
+    title: "Daily Blogroll 1/27 -- Inevitable Backlash edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/riftblade.png"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2011/01/01/daily-blogroll-1111-happy-new-year-edition/"
+    title: "Daily Blogroll 1/1/11 -- Happy New Year edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/rift-2010-12-31-16-51-43-97-480x384.jpg"
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/sheep.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/sheep.png"
 ---

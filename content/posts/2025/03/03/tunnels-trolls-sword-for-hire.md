@@ -3,6 +3,7 @@ date: '2025-03-03T08:43:21-05:00'
 draft: false
 title: "Tunnels &amp; Trolls: Sword for Hire"
 author: "Tipa"
+disqusIdentifier: "2025/03/03/tunnels-trolls-sword-for-hire"
 summary: "I may be committing some light copyright infringement..."
 categories:
   - "CRPG"
@@ -11,6 +12,19 @@ tags:
   - "Solo Adventure"
   - "Sword for Hire"
   - "Tunnels & Trolls"
+relatedPosts:
+  - url: "/2026/02/18/a-new-tunnels-trolls-in-this-economy/"
+    title: "A new Tunnels &amp; Trolls? In this economy?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/TTnewbanner.png"
+  - url: "/2025/04/28/malifaux-preparing-for-4th-edition/"
+    title: "Malifaux: Preparing for 4th Edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/04/IMG_5075-scaled.jpg"
+  - url: "/2025/04/14/i-know-what-i-did-last-weekend-april-edition/"
+    title: "I Know What I Did Last Weekend (April edition)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/04/Blue-Prince_20250414075008-scaled.jpg"
+  - url: "/2025/03/17/sword-for-hire-vertical-slice-vibe-coding/"
+    title: "Sword for Hire: Vertical Slice &amp; Vibe Coding"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/swordforhiremap.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/ttbanner.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/ttbanner.png"
 ---

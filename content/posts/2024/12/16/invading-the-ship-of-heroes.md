@@ -3,12 +3,26 @@ date: '2024-12-16T08:00:00-05:00'
 draft: false
 title: "Invading the Ship of Heroes"
 author: "Tipa"
+disqusIdentifier: "2024/12/16/invading-the-ship-of-heroes"
 summary: "The superheroes-in-space MMO will release in the second quarter of 2025. Today, they let us play one of the first raids..."
 categories:
   - "MMORPG"
   - "Ship of Heroes"
 tags:
   - "Raiding"
+relatedPosts:
+  - url: "/2008/09/14/eq2-tomb-of-thuuga-and-the-shard-of-hate/"
+    title: "EQ2: Tomb of Thuuga and the Shard of Hate"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/everquest2-2008-09-13-22-12-56-42.jpg"
+  - url: "/2024/08/16/could-this-be-the-end-of-palworld/"
+    title: "Could this be the end of Palworld?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/palworld-cheevs.png"
+  - url: "/2024/08/04/ultimate-victory-dominating-palworlds-challenging-endgame-raids/"
+    title: "Ultimate Victory: Dominating Palworld’s Challenging Endgame Raids"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/bellanoirultra.png"
+  - url: "/2024/04/15/palworld-100-finally/"
+    title: "Palworld @ 100%. Finally."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/BellanoirLibero.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/invasiontestbanner.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/invasiontestbanner.png"
 ---

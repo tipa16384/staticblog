@@ -3,6 +3,7 @@ date: '2009-07-16T07:40:18-05:00'
 draft: false
 title: "Daily Blogroll 7/16 -- Lost in Bree edition"
 author: "Tipa"
+disqusIdentifier: "2009/07/16/daily-blogroll-716-lost-in-bree-edition"
 summary: "What makes The Prancing Pony such a \"must see\" when you're in Bree? Butterbur just stands in that same spot all day and all night,..."
 categories:
   - "Aion"
@@ -12,6 +13,19 @@ categories:
   - "Lord of the Rings"
   - "MMORPG"
   - "Wizard101"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2009/09/17/daily-blogroll-917-kanye-edition/"
+    title: "Daily Blogroll 9/17 - Kanye edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/kanye.jpg"
+  - url: "/2009/09/10/daily-blogroll-910/"
+    title: "Daily Blogroll 9/10 - Launch Madness edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/EverQuest2-2009-09-09-22-49-15-60.jpg"
+  - url: "/2009/09/03/daily-blogroll-93-sushi-day-edition/"
+    title: "Daily Blogroll 9/3 - Sushi day edition!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/Fullscreen-capture-932009-75844-AM.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/hobbitbed.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/hobbitbed.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2008-11-21T11:27:35-05:00'
 draft: false
 title: "The Xbox NXE"
 author: "Tipa"
+disqusIdentifier: "2008/11/21/the-xbox-nxe"
 summary: "Seems weird to be writing about the Xbox New Xbox Experience because, after all, I don't have an Xbox... but my son does :) And..."
 categories:
   - "Other Games"
@@ -13,6 +14,19 @@ tags:
   - "NXE"
   - "Wii"
   - "Xbox"
+relatedPosts:
+  - url: "/2009/06/09/shiren-the-wanderer-3-coming-next-year-for-the-wii/"
+    title: "Shiren the Wanderer 3 coming next year for the Wii"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/fullscreen-capture-692009-74630-pm.jpg"
+  - url: "/2024/08/22/ps2-rpgs-quick-reviews/"
+    title: "PS2 RPGs: Quick Reviews"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/Final-Fantasy-7-Dirge-Of-Cerberus.jpg"
+  - url: "/2025/08/06/la-brute-battles-royale-and-warring-guilds/"
+    title: "La Brute: Battles Royale and Warring Guilds"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/LaBrute.png"
+  - url: "/2025/07/10/frosthaven-scenario-14-jagged-shoals/"
+    title: "Frosthaven Scenario 14: Jagged Shoals"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/07/IMG_5225-scaled.jpg"
 ---
 Seems weird to be writing about the Xbox New Xbox Experience because, after all, I don't have an Xbox... but my son does :) And...
 <!--more-->

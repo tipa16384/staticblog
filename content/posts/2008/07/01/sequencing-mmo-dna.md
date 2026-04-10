@@ -3,6 +3,7 @@ date: '2008-07-01T10:09:42-05:00'
 draft: false
 title: "Sequencing MMO DNA"
 author: "Tipa"
+disqusIdentifier: "2008/07/01/sequencing-mmo-dna"
 summary: "I just had a thought, while writing the Mythos article. We all know where Mythos came from. Diablo II game play with a Warcraft art..."
 categories:
   - "Age of Conan"
@@ -13,6 +14,19 @@ categories:
   - "Mythos"
   - "Warhammer: Age of Reckoning"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2008/07/14/does-wow-see-wrinkles-when-she-looks-in-the-mirror/"
+    title: "Does WoW see wrinkles when she looks in the mirror?"
+    thumbnailImage: ""
+  - url: "/2008/05/21/being-wrong-about-age-of-conan/"
+    title: "Being wrong about Age of Conan"
+    thumbnailImage: ""
+  - url: "/2009/04/24/web-log-424-friday-is-free-day-edition/"
+    title: "Web Log 4/24 -- Friday is Free Day edition"
+    thumbnailImage: "http://www.penny-arcade.com/images/2009/20090424.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
 ---
 I just had a thought, while writing the Mythos article. We all know where Mythos came from. Diablo II game play with a Warcraft art...
 <!--more-->

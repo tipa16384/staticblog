@@ -3,11 +3,25 @@ date: '2008-07-07T08:14:14-05:00'
 draft: false
 title: "EQ2: Flittering furtively"
 author: "Tipa"
+disqusIdentifier: "2008/07/07/eq2-flittering-furtively"
 summary: "I haven't blogged about EQ2 in about a month from never. Not because I haven't been playing it -- I have -- but just because..."
 categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
+relatedPosts:
+  - url: "/2020/05/13/everquest-bones-everywhere/"
+    title: "EverQuest: Bones Everywhere."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/eqgame-2020-05-13-06-57-41-85.jpg"
+  - url: "/2009/06/16/welcome-to-mayong-everquests-5150-server/"
+    title: "Welcome to Mayong, EverQuest's 51/50 server"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/mayong.jpg"
+  - url: "/2009/04/17/happy-10th-birthday-everquest/"
+    title: "Happy 10th Birthday, EverQuest!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/eq10-2.jpg"
+  - url: "/2009/04/05/eq2-epic-encounter-in-my-bedroom/"
+    title: "EQ2: Epic encounter in my bedroom"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/everquest2-2009-04-04-21-58-41-05.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/everquest2-2008-07-07-07-23-32-35.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/everquest2-2008-07-07-07-23-32-35.jpg"
 ---

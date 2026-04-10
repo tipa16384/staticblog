@@ -3,6 +3,7 @@ date: '2024-01-07T13:49:13-05:00'
 draft: false
 title: "LEGO Tallneck + Lightailing lighting kit"
 author: "Tipa"
+disqusIdentifier: "2024/01/07/lego-tallneck-lightailing-lighting-kit"
 summary: "I really wanted a LEGO Tallneck, all lit up, so I bought one, built it, and lit it up."
 categories:
   - "Horizon Forbidden West"
@@ -10,6 +11,19 @@ tags:
   - "Lego"
   - "Lightailing"
   - "Tallneck"
+relatedPosts:
+  - url: "/2024/08/26/building-thunderjaw-day-1/"
+    title: "Building Thunderjaw — Day 1"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_0230.jpeg"
+  - url: "/2024/11/23/lego-horizon-adventures/"
+    title: "LEGO Horizon Adventures"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/LEGO®-Horizon-Adventures™_20241122153718-scaled.jpg"
+  - url: "/2024/09/29/lego-thunderjaw-finally-mostly-complete/"
+    title: "LEGO Thunderjaw: Finally mostly complete!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/thunderjaw-scaled.jpg"
+  - url: "/2024/09/09/weekend-gaming-janthir-wilds-return-to-arms-more-thunderjaw/"
+    title: "Weekend gaming: Janthir Wilds, Return to Arms, more Thunderjaw"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/gw2janthir.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/etallneck.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/etallneck.png"
 ---

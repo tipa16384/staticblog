@@ -3,6 +3,7 @@ date: '2008-09-11T19:00:31-05:00'
 draft: false
 title: "Vanguard's character model update? BIG WIN."
 author: "Tipa"
+disqusIdentifier: "2008/09/11/vanguards-character-model-update-big-win"
 summary: "Vanguard offered its Game Update #6 yesterday, finally fixing and updating their character models, something promised pretty much from launch. Worth it? Definitely...."
 categories:
   - "MMORPG"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Characters"
   - "Game Update 6"
+relatedPosts:
+  - url: "/2021/08/07/mmos-on-the-bubble/"
+    title: "MMOs on the Bubble"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/STP61286.jpg"
+  - url: "/2020/08/18/does-crafting-have-any-place-in-modern-mmos/"
+    title: "Does Crafting have any place in modern MMOs?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-EverQuest2-2020-08-18-18-11-08-10.jpg"
+  - url: "/2011/05/12/semi-annual-blogroll-sheep-may-safely-graze-edition/"
+    title: "Semi-Annual Blogroll: Sheep may safely graze edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/05/sheep2.png"
+  - url: "/2010/11/30/daily-blogroll-1130-worst-case-scenario-edition/"
+    title: "Daily Blogroll, 11/30 -- Worst Case Scenario edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/vgclient-2010-11-29-20-32-30-42.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/vgclient-2008-08-24-22-18-05-18.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/vgclient-2008-08-24-22-18-05-18.jpg"
 ---

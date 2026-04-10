@@ -3,6 +3,7 @@ date: '2025-01-04T16:46:09-05:00'
 draft: false
 title: "Best of 2024: My Favorite MMOs"
 author: "Tipa"
+disqusIdentifier: "2025/01/04/best-of-2024-my-favorite-mmos"
 summary: "I played a few MMOs this past year. Here's some of my favorites, including two from way back when."
 categories:
   - "Adrullan Online Adventures"
@@ -14,6 +15,19 @@ categories:
   - "Ship of Heroes"
 tags:
   - "Nexus the Kingdom of the Winds"
+relatedPosts:
+  - url: "/2024/08/24/nexus-kingdom-of-the-wind/"
+    title: "Nexus: Kingdom of the Wind"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/nexus-afk.png"
+  - url: "/2023/12/21/pantheon-rise-of-the-fallen-alpha-peek/"
+    title: "Pantheon: Rise of the Fallen (alpha peek)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-20-23.38.37-Create-an-illustration-that-resembles-a-crayon-drawing-of-a-scene-in-a-meadow-near-a-tall-cliff-illuminated-by-the-morning-sun.-In-the-meadow-a-woma.png"
+  - url: "/2008/12/24/a-look-back-at-2008/"
+    title: "A look back at 2008"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-30-22-10-50-69.jpg"
+  - url: "/2024/08/02/legends-of-kesmai-the-first-mmorpg/"
+    title: "Legends of Kesmai: The first MMORPG"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/Screenshot-2024-08-02-000358.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/mmosbanner.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/mmosbanner.png"
 ---

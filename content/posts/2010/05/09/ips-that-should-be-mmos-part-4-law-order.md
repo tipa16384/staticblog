@@ -3,10 +3,24 @@ date: '2010-05-09T09:39:18-05:00'
 draft: false
 title: "IPs that should be MMOs, part 4: Law & Order"
 author: "Tipa"
+disqusIdentifier: "2010/05/09/ips-that-should-be-mmos-part-4-law-order"
 summary: "wgOggPlayer.msg = {\"ogg-play\": \"Play\", \"ogg-pause\": \"Pause\", \"ogg-stop\": \"Stop\", \"ogg-no-player\": \"Sorry, your system does not appear to have any supported player software.\\nPlease \\x3ca href=\\\"http://www.mediawiki.org/wiki/Extension:OggHandler/Clientdownload\\\"\\x3edownload a player\\x3c/a\\x3e.\",..."
 categories:
   - "Daily Blogroll"
   - "MMORPG"
+relatedPosts:
+  - url: "/2021/10/07/he-thought-i-was-joking/"
+    title: "He thought I was joking."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/endgame_auto_x2_toned_light_ai.jpg"
+  - url: "/2011/10/26/daily-blogroll-oct-26-pandamonium-edition/"
+    title: "Daily Blogroll Oct 26: Pandamonium edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/pandamonium.png"
+  - url: "/2011/10/21/daily-blogroll-oct-21-tanks-for-the-memories-edition/"
+    title: "Daily Blogroll Oct 21: Tanks for the Memories edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/dndclient-2011-10-20-21-19-18-63-480x352.jpg"
+  - url: "/2011/10/20/daily-blogroll-oct-19-time-enough-to-learn-to-swim-edition/"
+    title: "Daily Blogroll Oct 19: Time enough to learn to swim edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/02/ffxivgame-2011-10-18-19-43-58-81-480x234-1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/law-and-order.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/law-and-order.jpg"
 ---

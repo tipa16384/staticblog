@@ -3,9 +3,23 @@ date: '2008-03-13T09:01:50-05:00'
 draft: false
 title: "Being Rock Bandidextrous"
 author: "Tipa"
+disqusIdentifier: "2008/03/13/being-rock-bandidextrous"
 summary: "Wanderlust's \"I Walked\" comes on the MP3 player and I think how wonderful that song would be with Rock Band. I should Audiosurf it...."
 categories:
   - "Rock Band"
+relatedPosts:
+  - url: "/2008/09/12/guitar-hero-world-tour-set-list/"
+    title: "Guitar Hero World Tour set list!"
+    thumbnailImage: ""
+  - url: "/2008/08/06/rock-band-live-on-tour-with-real-instruments/"
+    title: "Rock Band Live! On Tour! With real instruments!"
+    thumbnailImage: ""
+  - url: "/2008/07/17/rock-band-2-controllers-blur-the-line-between-real-band-and-fake-band/"
+    title: "Rock Band 2 controllers blur the line between real band and fake band"
+    thumbnailImage: ""
+  - url: "/2008/07/14/sigh-rock-band-2-set-list/"
+    title: "Sigh. Rock Band 2 set list."
+    thumbnailImage: ""
 ---
 Wanderlust's "I Walked" comes on the MP3 player and I think how wonderful that song would be with Rock Band. I should Audiosurf it....
 <!--more-->

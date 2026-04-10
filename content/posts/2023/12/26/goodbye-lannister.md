@@ -3,10 +3,24 @@ date: '2023-12-26T11:17:19-05:00'
 draft: false
 title: "Goodbye, Lannister"
 author: "Tipa"
+disqusIdentifier: "2023/12/26/goodbye-lannister"
 summary: "The story of my chocolate Maine Coon, Lannister, who died today."
 categories:
   - "Cats"
   - "General"
+relatedPosts:
+  - url: "/2025/03/13/game-night-cultivate/"
+    title: "Game Night: CULTivate"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/pluckymidnight.png"
+  - url: "/2024/07/17/bienvenue-a-monsieur-minuit-mon-nouveau-chat-noir/"
+    title: "Bienvenue à monsieur Minuit, mon nouveau chat noir"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/07/IMG_4436.jpg"
+  - url: "/2022/08/08/the-amazing-adventures-of-8-ball/"
+    title: "The Amazing Adventures of 8-Ball!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/TipaNina_A_tuxedo_cat_wearing_a_red_bowtie._He_is_standing_in_f_7f5ba02f-45ee-4c41-bf1c-71df9e5d3245.png"
+  - url: "/2022/08/07/gpt-3-interviews-me-about-stray/"
+    title: "GPT-3 interviews me about Stray."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/Stray_20220806152752-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/IMG_9234.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/IMG_9234.jpg"
 ---

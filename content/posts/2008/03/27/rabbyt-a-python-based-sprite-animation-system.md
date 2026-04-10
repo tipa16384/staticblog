@@ -3,10 +3,24 @@ date: '2008-03-27T09:52:17-05:00'
 draft: false
 title: "Rabbyt, a Python-based sprite animation system"
 author: "Tipa"
+disqusIdentifier: "2008/03/27/rabbyt-a-python-based-sprite-animation-system"
 summary: "Came across this Python sprite package, Rabbyt while looking for Python gaming development sites with searchme...."
 categories:
   - "General"
   - "My Work"
+relatedPosts:
+  - url: "/2009/05/31/adventures-in-computer-science-monopoly-board-computer/"
+    title: "Adventures in Computer Science: Monopoly board computer"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/turingopoly.jpg"
+  - url: "/2009/03/26/xfire-wordpress-plugin-first-release/"
+    title: "XFire Wordpress Plugin -- first release"
+    thumbnailImage: ""
+  - url: "/2009/03/26/xfire-wordpress-widget/"
+    title: "XFire Wordpress Widget"
+    thumbnailImage: ""
+  - url: "/2008/10/07/how-to-tell-if-youre-a-coder-part-1/"
+    title: "How to tell if you're a coder, part 1."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/purbleplace-2008-10-07-07-24-01-91.jpg"
 ---
 Came across this Python sprite package, Rabbyt while looking for Python gaming development sites with searchme....
 <!--more-->

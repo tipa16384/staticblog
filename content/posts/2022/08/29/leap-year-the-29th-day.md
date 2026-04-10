@@ -3,6 +3,7 @@ date: '2022-08-29T07:00:00-05:00'
 draft: false
 title: "Leap Year: the 29th Day"
 author: "Tipa"
+disqusIdentifier: "2022/08/29/leap-year-the-29th-day"
 summary: "After the world disappears on Leap Day, you must team up with the only other person left awake to find out what happened."
 categories:
   - "Blaugust"
@@ -15,6 +16,19 @@ tags:
   - "Leap Day"
   - "Leap Year"
   - "Visual Novel"
+relatedPosts:
+  - url: "/2022/08/06/the-six-cats-of-madame-miracle/"
+    title: "The Six Cats of Madame Miracle"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/sixcats.png"
+  - url: "/2022/08/17/there-is-no-room-17-in-kaisei-academy/"
+    title: "There is No Room 17 in Kaisei Academy"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-09-21.42.42-Anime-teenage-boys-in-the-school-uniform-for-Kaisei-Academy-in-Tokyo-standing-in-a-Japanese-high-school-classroom-looking-at-crime-clues-on-a-blackbo.png"
+  - url: "/2022/09/01/32-bullets-new-first-person-shooter-game/"
+    title: 'Creating "32 Bullets" -- an AI adventure.'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/32bulletsbanner.png"
+  - url: "/2022/08/31/blaugust-hath-31-days/"
+    title: "Blaugust Hath 31 Days"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-24-22.46.10-a-young-woman-fighting-a-monster-with-a-rune-carved-sword.-She-is-surrounded-by-a-dark-forest-and-the-full-moon-is-shining-overhead-in-the-style-of-.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/29daybanner.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/29daybanner.png"
 ---

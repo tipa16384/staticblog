@@ -3,10 +3,24 @@ date: '2008-02-16T11:28:15-05:00'
 draft: false
 title: "Finished: Perdido Street Station by China Miéville"
 author: "Tipa"
+disqusIdentifier: "2008/02/16/finished-perdido-street-station-by-china-mieville"
 summary: "I bet you thought I would forget about my Reader, return to paper books (and I admit, I do have Iain M. Banks' \"Matter\" winging..."
 categories:
   - "General"
   - "Sci Fi"
+relatedPosts:
+  - url: "/2015/09/13/beam-me-up/"
+    title: "Beam me up..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/09/1-Star-Trek-Me-1.jpg"
+  - url: "/2011/07/31/space-battleship-yamato-the-movie/"
+    title: "Space Battleship Yamato (the movie)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/07/wmplayer-2011-07-31-08-54-13-39-480x320.jpg"
+  - url: "/2008/07/22/save-the-middleman/"
+    title: "Save the Middleman!"
+    thumbnailImage: ""
+  - url: "/2008/07/09/the-middleblog/"
+    title: "The Middleblog"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/02/stp60957.JPG"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/02/stp60957.JPG"
 ---

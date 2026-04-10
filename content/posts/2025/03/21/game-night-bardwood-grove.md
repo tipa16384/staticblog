@@ -3,12 +3,26 @@ date: '2025-03-21T08:00:00-05:00'
 draft: false
 title: "Game Night: Bardwood Grove"
 author: "Tipa"
+disqusIdentifier: "2025/03/21/game-night-bardwood-grove"
 summary: "Run around a forest, do bard stuff, become the most famous bard in Bardwood Grove."
 categories:
   - "Game Night"
   - "Tabletop Games"
 tags:
   - "Bardwood Grove"
+relatedPosts:
+  - url: "/2024/10/22/game-night-in-too-deep-terraforming-mars-what-comes-next/"
+    title: "Game Night: In Too Deep, Terraforming Mars, what comes next?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/intoodeep.png"
+  - url: "/2025/04/14/i-know-what-i-did-last-weekend-april-edition/"
+    title: "I Know What I Did Last Weekend (April edition)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/04/Blue-Prince_20250414075008-scaled.jpg"
+  - url: "/2025/01/05/best-board-games-of-2024/"
+    title: "Best Board Games of 2024!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/bestboardgamebanner.png"
+  - url: "/2025/01/06/i-know-what-i-did-last-weekend/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/2025-1-6.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/bwgrove.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/bwgrove.jpg"
 ---

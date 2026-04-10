@@ -3,11 +3,25 @@ date: '2025-12-20T09:00:44-05:00'
 draft: false
 title: "The 2025 Daily Blogroll Awards"
 author: "Tipa"
+disqusIdentifier: "2025/12/20/the-2025-daily-blogroll-awards"
 summary: "The (short) history of the Daily Blogroll, and a recognition of the best bloggers from the past three months, as judged by the LLM summarizer itself."
 categories:
   - "Daily Blogroll"
 tags:
   - "Blogging"
+relatedPosts:
+  - url: "/2025/10/16/taking-control-of-my-skeets-and-toots/"
+    title: "Taking Control of my Skeets and Toots"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/hq720.jpg"
+  - url: "/2025/10/05/social-media-is-a-terrible-way-to-find-blogs-to-read/"
+    title: "Social media is a terrible way to find blogs to read"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/Screenshot-2025-10-05-113937.png"
+  - url: "/2021/10/07/he-thought-i-was-joking/"
+    title: "He thought I was joking."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/endgame_auto_x2_toned_light_ai.jpg"
+  - url: "/2025/07/14/blaugust-kommt/"
+    title: "Blaugust kommt."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/07/blaugustbanner.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/dailyblogrollawards.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/dailyblogrollawards.png"
 ---

@@ -3,6 +3,7 @@ date: '2025-10-31T08:01:00-05:00'
 draft: false
 title: "Gormenghast Book 1: Titus Groan"
 author: "Tipa"
+disqusIdentifier: "2025/10/31/gormenghast-book-1-titus-groan"
 summary: "It's a book filled with fencing, fighting, torture, revenge, giants, monsters, chases, escapes, true love, and miracles!"
 categories:
   - "Review"
@@ -10,6 +11,19 @@ tags:
   - "Gormenghast"
   - "Mervyn Peake"
   - "Titus Groan"
+relatedPosts:
+  - url: "/2023/09/03/final-fantasy-xiii-finished/"
+    title: "Final Fantasy XIII: Finished"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/ffxiiifinished.png"
+  - url: "/2022/11/14/gotham-knights-completed/"
+    title: "Gotham Knights completed"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/11/Gotham-Knights_20221114221226-scaled.jpg"
+  - url: "/2022/11/07/black-adam-no-spoiler-review/"
+    title: "Black Adam: No Spoiler Review"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/11/img.png"
+  - url: "/2022/09/26/star-ocean-the-divine-force-the-demo-the-review-but-what-if-it-was-written-like-dear-abby/"
+    title: "Star Ocean: The Divine Force: The Demo: The Review, but what if it was written like Dear Abby?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-26-16.46.54-Old-time-newspaper-illustration-of-a-1950s-housewife-writing-a-letter-on-the-kitchen-table-with-pen-and-paper.-the-housewife-is-crying..png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/earling.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/earling.jpg"
 ---

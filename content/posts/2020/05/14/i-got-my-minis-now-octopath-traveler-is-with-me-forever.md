@@ -3,6 +3,7 @@ date: '2020-05-14T22:49:22-05:00'
 draft: false
 title: "I got my minis: Now Octopath Traveler is with me forever."
 author: "Tipa"
+disqusIdentifier: "2020/05/14/i-got-my-minis-now-octopath-traveler-is-with-me-forever"
 summary: "It wasn't super long ago that I ordered these minis from Hero Forge. I'd backed their latest Kickstarter and had a color mini as a..."
 categories:
   - "Miniatures"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Hero Forge"
   - "Octopath Traveler"
+relatedPosts:
+  - url: "/2020/05/25/octomini-project-day-1-minis-arrive/"
+    title: "Octomini Project Day 1: Minis Arrive"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/1-both.jpg"
+  - url: "/2020/05/19/am-i-witchy-enough-for-you/"
+    title: "Am I Witchy Enough For You?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/witcher.jpg"
+  - url: "/2020/04/21/ophilia-is-out-for-printing/"
+    title: "Ophilia is out for printing!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/04/OphiliaRendered.png"
+  - url: "/2020/05/28/primed-and-ready/"
+    title: "Octomini Project Day 2: Primed and Ready"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/1-primed.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/minis-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/minis-scaled.jpg"
 ---

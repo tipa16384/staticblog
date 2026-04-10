@@ -3,9 +3,23 @@ date: '2008-03-18T19:39:46-05:00'
 draft: false
 title: "Arthur C. Clarke, Dead at 90"
 author: "Tipa"
+disqusIdentifier: "2008/03/18/arthur-c-clarke-dead-at-90"
 summary: "Arthur C. Clarke, grandmaster author of some of the greatest science fiction ever written and inventor of the geosynchronous communication satellite, is dead today...."
 categories:
   - "Sci Fi"
+relatedPosts:
+  - url: "/2026/01/17/starfleet-academy-your-billionaire-future/"
+    title: "Starfleet Academy: Your Billionaire Future"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/starfleetacademy.png"
+  - url: "/2024/09/27/game-night-in-too-deep/"
+    title: "Game Night: In Too Deep"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/intoodeepbanner.png"
+  - url: "/2022/09/20/review-braking-day-by-adam-oyebanji/"
+    title: "Review: Braking Day by Adam Oyebanji"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/brakingday.png"
+  - url: "/2015/09/13/beam-me-up/"
+    title: "Beam me up..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/09/1-Star-Trek-Me-1.jpg"
 ---
 Arthur C. Clarke, grandmaster author of some of the greatest science fiction ever written and inventor of the geosynchronous communication satellite, is dead today....
 <!--more-->

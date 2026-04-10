@@ -3,6 +3,7 @@ date: '2009-07-21T08:03:07-05:00'
 draft: false
 title: "Daily Blogroll 7/21 -- Scrapyard edition"
 author: "Tipa"
+disqusIdentifier: "2009/07/21/daily-blogroll-721-scrapyard-edition"
 summary: "I almost resubscribed to WoW last night. Just for a month, just so I could see some of the new places, see if the stuff..."
 categories:
   - "Daily Blogroll"
@@ -12,6 +13,19 @@ categories:
   - "Vanguard"
   - "Wizard101"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2009/08/10/daily-blogroll-810-thank-god-its-monday-edition/"
+    title: "Daily Blogroll 8/10 -- Thank God it's Monday edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/daddygirl.jpg"
+  - url: "/2009/05/06/daily-blogroll-56-tempests-and-teapots-edition/"
+    title: "Daily Blogroll 5/6 -- Tempests and Teapots edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/fullscreen-capture-562009-125235-am.jpg"
+  - url: "/2009/07/31/daily-blogroll-731-for-shannon/"
+    title: "Daily Blogroll 7/31 -- For Shannon"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/forzha.jpg"
+  - url: "/2009/07/23/daily-blogroll-723-aftermath-edition/"
+    title: "Daily Blogroll 7/23 -- Aftermath edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/sb_client-2009-07-23-07-34-50-3.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/eqgame-2009-07-21-07-17-41-46.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/eqgame-2009-07-21-07-17-41-46.jpg"
 ---

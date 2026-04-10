@@ -3,6 +3,7 @@ date: '2021-01-03T20:50:53-05:00'
 draft: false
 title: "Quick Takes: The Innsmouth Case"
 author: "Tipa"
+disqusIdentifier: "2021/01/03/quick-takes-the-innsmouth-case"
 summary: "I was looking for something light and frothy in the Switch eShop's list of new games that they thought I might like...."
 categories:
   - "Nintendo Switch"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Adventure Game"
   - "Text Adventure"
+relatedPosts:
+  - url: "/2024/04/19/beyond-shadowgate-the-demo/"
+    title: "Beyond Shadowgate -- the Demo"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/thumb0-640x360-1.jpg"
+  - url: "/2022/07/29/breaking-the-4th-wall-a-mysterious-point-and-click-adventure/"
+    title: "Breaking the 4th Wall: A Mysterious Point-and-Click Adventure"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/Screenshot_2022.07.29_07.15.30.416.png"
+  - url: "/2021/09/13/quick-look-persona-5-strikers/"
+    title: "Quick Look: Persona 5 Strikers"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/2021082320223000-1ED6A785ADE38F04450C188FF9531338.jpg"
+  - url: "/2021/07/20/rise-eterna/"
+    title: "Rise Eterna"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/2021051618021700-BA2A6D95681540D14D17CA98DC5AFB99.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/01/the-innsmouth-case-switch-hero-1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/01/the-innsmouth-case-switch-hero-1.jpg"
 ---

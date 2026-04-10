@@ -3,10 +3,24 @@ date: '2014-12-19T13:33:02-05:00'
 draft: false
 title: "Roomba is sick, Project Ascension is a fraud (I predict)"
 author: "Tipa"
+disqusIdentifier: "2014/12/19/roomba-is-sick-project-ascension-is-a-fraud-i-predict"
 summary: "Watched the first half of the first episode of Ascension last night. The premise is that, in the mid sixties, America launched an interstellar starship..."
 categories:
   - "From Ello"
   - "General"
+relatedPosts:
+  - url: "/2014/12/13/ingress-darsana-saturday/"
+    title: "Ingress: Darsana Saturday!"
+    thumbnailImage: ""
+  - url: "/2014/12/03/a-review-of-william-gibsons-the-peripheral/"
+    title: 'A Review of William Gibson''s "The Peripheral"'
+    thumbnailImage: ""
+  - url: "/2025/11/01/quick-reviews/"
+    title: "Quick Reviews"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/winterburrow.png"
+  - url: "/2025/08/07/soda-can-tabs-for-charity-really/"
+    title: "Soda can tabs for charity? REALLY?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5304-scaled.jpeg"
 ---
 Watched the first half of the first episode of Ascension last night. The premise is that, in the mid sixties, America launched an interstellar starship...
 <!--more-->

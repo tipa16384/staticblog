@@ -3,11 +3,25 @@ date: '2013-02-28T08:20:32-05:00'
 draft: false
 title: "EQ2: Leveling done, time to level. Also, some DCUO."
 author: "Tipa"
+disqusIdentifier: "2013/02/28/eq2-leveling-done-time-to-level-also-some-dcuo"
 summary: "I was thinking that EverQuest II's double xp days last weekend would be enough to push Arda up to level 95, the current level cap...."
 categories:
   - "DC Universe Online"
   - "EverQuest"
   - "MMORPG"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2022/07/30/ship-of-heroes-housing-beta-2/"
+    title: "Ship of Heroes: Housing Beta #2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/1-20220730211912_1.jpg"
+  - url: "/2021/08/07/mmos-on-the-bubble/"
+    title: "MMOs on the Bubble"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/STP61286.jpg"
+  - url: "/2021/07/22/new-world-fomo-or-fotm/"
+    title: "New World: FOMO or FOTM?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/GameClient-2014-12-06-11-09-05-59.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/EverQuest2-2013-02-28-07-22-56-17-480x343.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/EverQuest2-2013-02-28-07-22-56-17-480x343.jpg"
 ---

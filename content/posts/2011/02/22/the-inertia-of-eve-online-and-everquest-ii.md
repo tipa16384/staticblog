@@ -3,11 +3,25 @@ date: '2011-02-22T07:54:26-05:00'
 draft: false
 title: "The Inertia of EVE Online and EverQuest II"
 author: "Tipa"
+disqusIdentifier: "2011/02/22/the-inertia-of-eve-online-and-everquest-ii"
 summary: "CCP has been sending me \"come back to EVE\" e-mails for awhile now, touting variously their refund of learning skills, the new character creator, soon..."
 categories:
   - "EVE Online"
   - "EverQuest"
   - "MMORPG"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2021/07/22/new-world-fomo-or-fotm/"
+    title: "New World: FOMO or FOTM?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/GameClient-2014-12-06-11-09-05-59.jpg"
+  - url: "/2011/02/15/daily-blogroll-215-death-of-sleep-edition/"
+    title: "Daily Blogroll 2/15 -- Death of Sleep edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/sheep.png"
+  - url: "/2011/01/27/daily-blogroll-127-inevitable-backlash-edition/"
+    title: "Daily Blogroll 1/27 -- Inevitable Backlash edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/riftblade.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/ExeFile-2011-02-22-01-04-00-67-480x384.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/ExeFile-2011-02-22-01-04-00-67-480x384.jpg"
 ---

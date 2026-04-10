@@ -3,6 +3,7 @@ date: '2025-04-30T08:00:00-05:00'
 draft: false
 title: "Malifaux 4th Edition: Mei Feng vs Captain Zipp"
 author: "Tipa"
+disqusIdentifier: "2025/04/30/malifaux-4th-edition-mei-feng-vs-captain-zipp"
 summary: "Foundry and Infamous meet once again... and the result is pretty much same as last time."
 categories:
   - "Malifaux"
@@ -12,6 +13,19 @@ tags:
   - "Foundry"
   - "Mei Feng"
   - "The Battle Standard"
+relatedPosts:
+  - url: "/2024/10/20/malifaux-fall-into-faux-tournament/"
+    title: 'Malifaux: "Fall into Faux" tournament'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/malifaux-10-19-24-banner.png"
+  - url: "/2026/02/01/captaincon-2026-masters-of-malifaux/"
+    title: "CaptainCon 2026: Masters of Malifaux"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/CC_Logo_Red.webp"
+  - url: "/2025/08/22/the-kind-of-malifaux-you-play-at-home/"
+    title: "The Kind of Malifaux You Play at Home"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5337-scaled.jpg"
+  - url: "/2025/05/25/malifaux-4e-december-vs-experimental/"
+    title: "Malifaux 4e: December vs Experimental"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/IMG_5155-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/04/newcrew4ebanner.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/04/newcrew4ebanner.png"
 ---

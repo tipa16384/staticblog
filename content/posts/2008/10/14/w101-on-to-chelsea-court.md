@@ -3,6 +3,7 @@ date: '2008-10-14T08:38:20-05:00'
 draft: false
 title: "W101: On to Chelsea Court"
 author: "Tipa"
+disqusIdentifier: "2008/10/14/w101-on-to-chelsea-court"
 summary: "Kinda embarrassed to have fallen asleep while grouping with Kasul in Chardok last night. Sorry, Kasul :( It was weird, though. Wake up, at the..."
 categories:
   - "MMORPG"
@@ -13,6 +14,19 @@ tags:
   - "Hyde Park"
   - "W101"
   - "Wizard101"
+relatedPosts:
+  - url: "/2008/10/16/w101-the-ironworks/"
+    title: "W101: The Ironworks"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-16-00-18-31-94.jpg"
+  - url: "/2008/10/13/w101-halloween-in-wizard-city-and-october-patch-notes/"
+    title: "W101: Hallowe'en in Wizard City (and October patch notes)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-12-17-08-57-87.jpg"
+  - url: "/2009/04/23/wizard-101-downtime/"
+    title: "Wizard 101 Downtime"
+    thumbnailImage: ""
+  - url: "/2008/11/18/wizard-101-looking-back/"
+    title: "Wizard 101: Looking back"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-15-22-01-14-59.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-14-07-49-04-28.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-14-07-49-04-28.jpg"
 ---

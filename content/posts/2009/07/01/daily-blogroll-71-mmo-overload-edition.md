@@ -3,6 +3,7 @@ date: '2009-07-01T07:56:36-05:00'
 draft: false
 title: "Daily Blogroll 7/1 - MMO Overload edition"
 author: "Tipa"
+disqusIdentifier: "2009/07/01/daily-blogroll-71-mmo-overload-edition"
 summary: "Yesterday, EverQuest launched its new 51/50 server to rave reviews, and this morning, Wizard 101 launches its latest expansion, Grizzleheim...."
 categories:
   - "Aion"
@@ -12,6 +13,19 @@ categories:
   - "EverQuest"
   - "MMORPG"
   - "Wizard101"
+relatedPosts:
+  - url: "/2009/06/18/daily-blogroll-618-fun-with-your-new-brad-edition/"
+    title: "Daily Blogroll 6/18 -- Fun with your new Brad edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/aion-2009-06-06-11-52-13-75.jpg"
+  - url: "/2009/07/23/daily-blogroll-723-aftermath-edition/"
+    title: "Daily Blogroll 7/23 -- Aftermath edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/sb_client-2009-07-23-07-34-50-3.jpg"
+  - url: "/2009/08/19/daily-blogroll-819-l2test-edition/"
+    title: "Daily Blogroll 8/19 - L2Test edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/ExeFile-2009-08-18-21-44-27-54.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/l2pmode.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/l2pmode.jpg"
 ---

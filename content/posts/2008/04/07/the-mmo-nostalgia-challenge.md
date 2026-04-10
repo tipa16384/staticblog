@@ -3,6 +3,7 @@ date: '2008-04-07T07:44:41-05:00'
 draft: false
 title: "The MMO Nostalgia Challenge"
 author: "Tipa"
+disqusIdentifier: "2008/04/07/the-mmo-nostalgia-challenge"
 summary: "While discussing the possibility of \"classic\" servers in World of Warcraft, Cameron waxes nostalgic about his own yearning for the simpler days of gnoll-pounding in..."
 categories:
   - "Age of Conan"
@@ -16,6 +17,19 @@ categories:
   - "Vanguard"
   - "Warhammer: Age of Reckoning"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2008/12/24/a-look-back-at-2008/"
+    title: "A look back at 2008"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-30-22-10-50-69.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2008/01/02/great-expectations-2008/"
+    title: "Great Expectations: 2008"
+    thumbnailImage: ""
+  - url: "/2009/03/05/will-2009-be-the-best-year-ever-for-mmos/"
+    title: "Will 2009 be the best year ever for MMOs?"
+    thumbnailImage: ""
 ---
 While discussing the possibility of "classic" servers in World of Warcraft, Cameron waxes nostalgic about his own yearning for the simpler days of gnoll-pounding in...
 <!--more-->

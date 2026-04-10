@@ -3,6 +3,7 @@ date: '2024-05-17T07:00:00-05:00'
 draft: false
 title: "Midjourney goes Web"
 author: "Tipa"
+disqusIdentifier: "2024/05/17/midjourney-goes-web"
 summary: "Midjourney has famously relied upon the Discord app to be the front end to its image generation AI. But now, all you need is a browser and a prompt."
 categories:
   - "EverQuest"
@@ -11,6 +12,19 @@ categories:
 tags:
   - "Dall-E 2"
   - "Website"
+relatedPosts:
+  - url: "/2024/06/12/heroquest-return-to-barak-tor/"
+    title: "HeroQuest: Return to Barak-Tor"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/06/return-14.png"
+  - url: "/2024/01/06/tactics-ogre-the-death-of-shaher/"
+    title: "Tactics Ogre: The Death of Shaher"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/tipachu_a_painting_of_a_fallen_angel_with_long_purple_hair_and__32101274-a286-4e13-aa66-f3f7b58ff6d6.png"
+  - url: "/2023/11/29/heroquest-lair-of-the-orc-warlord/"
+    title: "HeroQuest: Lair of the Orc Warlord"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/b34850e8-93d7-41d7-afdc-eec711923a98.webp"
+  - url: "/2022/08/30/blaugust-theme-week-lessons-learned/"
+    title: "Blaugust theme week: Lessons learned"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-30-23.00.58-35mm-long-range-photograph-of-a-woman-warrior-reading-a-book-while-sitting-against-a-sleeping-green-dragon-near-a-mountain-lake-pastel-colors-peacef.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/tipachu_cat_wearing_a_college_t-shirt_working_at_a_1970s-styl_dfd676f1-e727-4efc-89cf-0bcbc8ad125d_0.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/tipachu_cat_wearing_a_college_t-shirt_working_at_a_1970s-styl_dfd676f1-e727-4efc-89cf-0bcbc8ad125d_0.jpg"
 ---

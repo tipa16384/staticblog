@@ -3,6 +3,7 @@ date: '2023-02-04T21:00:56-05:00'
 draft: false
 title: "I Was Trapped in a Closet and Forced to Play Skyrim"
 author: "Tipa"
+disqusIdentifier: "2023/02/04/i-was-trapped-in-a-closet-and-forced-to-play-skyrim"
 summary: "I mean, there must be some reason why I was unable to play any other game until I played through Skyrim and all three of its expansions..."
 categories:
   - "Open World RPG"
@@ -13,6 +14,19 @@ tags:
   - "Dlc"
   - "Dragonborn"
   - "Fus-Ro-Da"
+relatedPosts:
+  - url: "/2022/12/28/skyrim-except-its-a-board-game/"
+    title: "Skyrim, except it's a board game"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/pic7203331.webp"
+  - url: "/2024/01/13/pokemon-violet-mochi-mayhem/"
+    title: "Pokemon Violet: Mochi Mayhem"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/2024011219550300-B6CE40797459B0890BF7CEF68A4CE587.jpg"
+  - url: "/2023/09/14/pokemon-scarlet-violet-the-teal-mask-first-impressions/"
+    title: "Pokémon Scarlet/Violet: The Teal Mask first impressions"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/2023091322223400-B6CE40797459B0890BF7CEF68A4CE587.jpg"
+  - url: "/2010/09/07/dragon-age-awakening-good-but-bioware-good/"
+    title: "Dragon Age: Awakening. Good, but Bioware-good?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/DAOrigins-2010-09-05-14-28-18-23-480x385.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/02/skyrim.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/02/skyrim.png"
 ---

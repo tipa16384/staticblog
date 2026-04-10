@@ -3,11 +3,25 @@ date: '2008-05-20T08:22:52-05:00'
 draft: false
 title: "The Madness of Stonehive"
 author: "Tipa"
+disqusIdentifier: "2008/05/20/the-madness-of-stonehive"
 summary: "My Tuesday night paladin, Sela, needed to work on the level 20 Crescent Reach quest armor, but she was already over the target level of..."
 categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
+relatedPosts:
+  - url: "/2020/05/13/everquest-bones-everywhere/"
+    title: "EverQuest: Bones Everywhere."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/eqgame-2020-05-13-06-57-41-85.jpg"
+  - url: "/2009/06/16/welcome-to-mayong-everquests-5150-server/"
+    title: "Welcome to Mayong, EverQuest's 51/50 server"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/mayong.jpg"
+  - url: "/2009/04/17/happy-10th-birthday-everquest/"
+    title: "Happy 10th Birthday, EverQuest!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/eq10-2.jpg"
+  - url: "/2009/04/05/eq2-epic-encounter-in-my-bedroom/"
+    title: "EQ2: Epic encounter in my bedroom"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/everquest2-2009-04-04-21-58-41-05.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/05/eqgame-2008-05-19-23-26-40-13.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/05/eqgame-2008-05-19-23-26-40-13.jpg"
 ---

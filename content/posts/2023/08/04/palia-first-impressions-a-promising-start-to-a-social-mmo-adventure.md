@@ -3,6 +3,7 @@ date: '2023-08-04T07:00:00-05:00'
 draft: false
 title: "Palia First Impressions: A Promising Start to a Social MMO Adventure"
 author: "Tipa"
+disqusIdentifier: "2023/08/04/palia-first-impressions-a-promising-start-to-a-social-mmo-adventure"
 summary: "If you were waiting for the second coming of Free Realms, Palia ain't it. But, if you hate adventuring and love gathering and crafting in your MMO of choice, you might just find a new home in Palia, the new social MMO from Singularity 6."
 categories:
   - "Blaugust"
@@ -16,6 +17,19 @@ categories:
   - "Second Life"
 tags:
   - "Palia"
+relatedPosts:
+  - url: "/2023/08/06/i-killed-a-wolf-and-all-i-got-was-this-stupid-broken-claw/"
+    title: "I killed a wolf and all I got was this stupid broken claw"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/DALL·E-2023-08-05-22.30.24-a-picture-of-a-wolf-sleeping-with-a-family-of-rabbits.png"
+  - url: "/2021/08/10/palia-youre-in-our-world-now/"
+    title: "Palia: You're In Our World Now."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/Palia__ConceptRuinsPast.jpg"
+  - url: "/2023/08/31/the-final-days-of-blaugust/"
+    title: "The final days of Blaugust"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/solongblaugust.png"
+  - url: "/2023/11/24/pantheon-whats-so-bad-about-247-extraction/"
+    title: "Pantheon: What's so bad about 247 Extraction?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/247extraction.webp"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/PALIA_Key_Art_Logo_1920x1080.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/PALIA_Key_Art_Logo_1920x1080.jpg"
 ---

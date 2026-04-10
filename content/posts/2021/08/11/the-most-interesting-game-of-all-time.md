@@ -3,6 +3,7 @@ date: '2021-08-11T22:44:25-05:00'
 draft: false
 title: "The Most Interesting Game of All Time!"
 author: "Tipa"
+disqusIdentifier: "2021/08/11/the-most-interesting-game-of-all-time"
 summary: "I was playing around with Google Trends last week, trying to see how a few MMOs compared to each on the 'Trends. It was fun..."
 categories:
   - "Blaugust"
@@ -13,6 +14,19 @@ tags:
   - "Google Trends"
   - "Python"
   - "Pytrends"
+relatedPosts:
+  - url: "/2021/08/12/the-most-interesting-mmo-in-the-usa-part-deux/"
+    title: "The Most Interesting MMO in the USA, Part Deux."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/RuneScape_Android_Screen_4.0.jpg"
+  - url: "/2021/08/13/okay-the-full-list-of-interesting-games/"
+    title: "Okay -- the FULL LIST of Interesting Games!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/supermechachampions.jpg"
+  - url: "/2021/09/01/resurrecting-west-karana/"
+    title: "Resurrecting West Karana"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/b0d5f94a61f128683568fec95571fa8e.jpg"
+  - url: "/2021/10/05/new-world-kochaja-nas-w-polsce/"
+    title: "New World: Kochają nas w Polsce!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/poland.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/runescape-20-years.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/runescape-20-years.jpg"
 ---

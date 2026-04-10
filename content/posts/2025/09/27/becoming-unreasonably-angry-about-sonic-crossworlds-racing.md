@@ -3,12 +3,26 @@ date: '2025-09-27T14:58:09-05:00'
 draft: false
 title: "Becoming Unreasonably Angry about Sonic Crossworlds Racing"
 author: "Tipa"
+disqusIdentifier: "2025/09/27/becoming-unreasonably-angry-about-sonic-crossworlds-racing"
 summary: "The Fornite-ization of an iconic kart racing series has just gotten out of control."
 categories:
   - "Arcade Game"
 tags:
   - "Season Pass"
   - "Sonic the Hedgehog"
+relatedPosts:
+  - url: "/2025/08/05/international-play-your-vectrex-day-is-november-1/"
+    title: "International Play Your Vectrex Day is November 1!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/vectrexbanner.png"
+  - url: "/2025/06/15/the-dishonesty-of-balatro/"
+    title: "The Dishonesty of Balatro"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/1-Balatro_20250602230340-scaled.jpg"
+  - url: "/2024/12/23/best-of-2024-arcade-games/"
+    title: "Best of 2024: Arcade Games"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/tipachu_banner_image_for_an_article_about_video_gaming_with_t_c476c7e5-25b3-4de2-a318-2a5b0f6e20cf_0.png"
+  - url: "/2024/11/25/spy-muppets-license-to-croak/"
+    title: "Spy Muppets: License to Croak"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/20241125_153617.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/SonicRacingBanner.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/SonicRacingBanner.png"
 ---

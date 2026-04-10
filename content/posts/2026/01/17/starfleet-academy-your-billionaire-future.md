@@ -3,12 +3,26 @@ date: '2026-01-17T11:19:11-05:00'
 draft: false
 title: "Starfleet Academy: Your Billionaire Future"
 author: "Tipa"
+disqusIdentifier: "2026/01/17/starfleet-academy-your-billionaire-future"
 summary: "There's an interesting story in Starfleet Academy, but it's not a story billionaires would want to tell."
 categories:
   - "Sci Fi"
   - "Star Trek"
 tags:
   - "Starfleet Academy"
+relatedPosts:
+  - url: "/2024/09/27/game-night-in-too-deep/"
+    title: "Game Night: In Too Deep"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/intoodeepbanner.png"
+  - url: "/2022/09/20/review-braking-day-by-adam-oyebanji/"
+    title: "Review: Braking Day by Adam Oyebanji"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/brakingday.png"
+  - url: "/2015/09/13/beam-me-up/"
+    title: "Beam me up..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/09/1-Star-Trek-Me-1.jpg"
+  - url: "/2011/07/31/space-battleship-yamato-the-movie/"
+    title: "Space Battleship Yamato (the movie)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/07/wmplayer-2011-07-31-08-54-13-39-480x320.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/starfleetacademy.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/starfleetacademy.png"
 ---

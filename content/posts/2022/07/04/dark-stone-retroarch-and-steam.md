@@ -3,6 +3,7 @@ date: '2022-07-04T23:27:41-05:00'
 draft: false
 title: "Dark Stone, Retroarch, and Steam."
 author: "Tipa"
+disqusIdentifier: "2022/07/04/dark-stone-retroarch-and-steam"
 summary: "I was looking for a game to keep me occupied during the long holiday weekend, and my partner handed me an old RPG from the..."
 categories:
   - "Action RPG"
@@ -14,6 +15,19 @@ tags:
   - "PSX"
   - "Retroarch"
   - "RPG"
+relatedPosts:
+  - url: "/2024/05/25/retro-game-haul-tron-deadly-discs-and-reversi/"
+    title: "Retro Game Haul: Tron Deadly Discs and Reversi"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/trondeadlydisks.png"
+  - url: "/2020/12/05/assassins-creed-valhalla-my-first-creed-no-spoilers/"
+    title: "Assassin's Creed Valhalla: My First Creed (no spoilers)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/Assassins-Creed®-Valhalla_20201117070244-scaled.jpg"
+  - url: "/2020/11/07/atarinft-io-the-dumbest-thing-atari-has-ever-done/"
+    title: "AtariNFT.io -- the dumbest thing Atari has ever done."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/11/atari.png"
+  - url: "/2022/07/11/is-playing-on-the-original-hardware-worth-the-trouble/"
+    title: "Is playing on the original hardware worth the trouble?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/20220710085048_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/IMG_2596-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/IMG_2596-scaled.jpg"
 ---

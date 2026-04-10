@@ -3,10 +3,24 @@ date: '2006-04-26T00:00:00-05:00'
 draft: false
 title: "Academy of Arcane Science"
 author: "Tipa"
+disqusIdentifier: "2006/04/26/academy-of-arcane-science"
 summary: "Dear Mom and Dad;..."
 categories:
   - "Oblivion"
   - "Other Games"
+relatedPosts:
+  - url: "/2006/04/13/leyawiin-my-old-home-town/"
+    title: "Leyawiin, my old home town"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/images/knighterrant.jpg"
+  - url: "/2006/04/11/a-pressing-obliviation/"
+    title: "A Pressing Obliviation"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/images/ranger.jpg"
+  - url: "/2006/04/11/nightmares/"
+    title: "Nightmares"
+    thumbnailImage: ""
+  - url: "/2025/08/06/la-brute-battles-royale-and-warring-guilds/"
+    title: "La Brute: Battles Royale and Warring Guilds"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/LaBrute.png"
 coverImage: "https://tipa16384.github.io/wkblog/images/academy.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/images/academy.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2009-01-03T17:35:40-05:00'
 draft: false
 title: "The many worlds of Chronicles of Spellborn"
 author: "Tipa"
+disqusIdentifier: "2009/01/03/the-many-worlds-of-chronicles-of-spellborn"
 summary: "I've been very, very many places in Spellborn. I've reached level 11 and am closing in on level 12, working on Quarterstone quests while I..."
 categories:
   - "Chronicles of Spellborn"
@@ -16,6 +17,19 @@ tags:
   - "Quarterstone"
   - "Shardship"
   - "The Vault"
+relatedPosts:
+  - url: "/2009/04/27/chronicles-of-spellborn-returning-to-parliament/"
+    title: "Chronicles of Spellborn: Returning to Parliament"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/sb_client-2009-04-26-20-09-32-00.jpg"
+  - url: "/2009/03/24/chronicles-of-spellborn-grouped/"
+    title: "Chronicles of Spellborn: Grouped!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/sb_client-2009-03-23-22-45-18-95.jpg"
+  - url: "/2008/11/01/spellborn-soundscape/"
+    title: "Spellborn soundscape"
+    thumbnailImage: ""
+  - url: "/2015/07/02/some-trufen-managed-to-re/"
+    title: "Spellborn... reborn?"
+    thumbnailImage: "https://lh6.googleusercontent.com/proxy/vBKKuw4kyr3h6Ct92g-leX2lvulYLG8VtWObZxpRG3wNupQeekWxqKtqcOypKIB_CMp9gMCmeDHiXRs9qUjB7Q=w506-h284-n"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/01/sbcomic.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/01/sbcomic.jpg"
 ---

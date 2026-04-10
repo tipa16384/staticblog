@@ -3,6 +3,7 @@ date: '2022-09-20T21:59:39-05:00'
 draft: false
 title: "Review: Braking Day by Adam Oyebanji"
 author: "Tipa"
+disqusIdentifier: "2022/09/20/review-braking-day-by-adam-oyebanji"
 summary: "Oyebanji's Braking Day is a refreshing take on the generation starship story that avoids many of the tropes of the genre. The novel follows trainee engineer Ravi MacLeod as he discovers that the truth about the 132 year journey to Tau Ceti is not what he has been told. Although the book has a few flaws, Oyebanji's writing is enjoyable and makes for a quick read."
 categories:
   - "Review"
@@ -13,6 +14,19 @@ tags:
   - "Book"
   - "Review"
   - "Tau Ceti"
+relatedPosts:
+  - url: "/2010/09/25/social-game-review-backyard-monsters/"
+    title: "Social Game Review: Backyard Monsters"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/Fullscreen-capture-9242010-91206-PM-480x329.jpg"
+  - url: "/2025/09/03/the-mystery-of-the-casterville-legion/"
+    title: "The Mystery of the Casterville Legion"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/tess-of-casterville.png"
+  - url: "/2025/01/25/ai-is-going-to-steal-my-job-and-i-couldnt-be-happier/"
+    title: "AI is going to steal my job -- and I couldn't be happier"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/minitray.png"
+  - url: "/2024/12/02/advent-of-code-2024-1/"
+    title: "Advent of Code 2024.1:"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/DALL·E-2024-12-01-15.45.53-A-serene-scene-of-Tolkien-style-elves-sorting-numbers-written-on-thin-ivory-slabs-and-placing-them-into-a-wall-hanging-reminiscent-of-hymn-boards-in-a.webp"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/brakingday.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/brakingday.png"
 ---

@@ -3,6 +3,7 @@ date: '2009-06-08T22:45:35-05:00'
 draft: false
 title: "Nightly Blogroll -- Though Amaryllis dance edition"
 author: "Tipa"
+disqusIdentifier: "2009/06/08/nightly-blogroll-though-amaryllis-dance-edition"
 summary: "The \"Amaryllis\" edition stuff? Well, here it is, a warm Spring night, just started writing, and \" \" comes up on the playlist, and it..."
 categories:
   - "Aion"
@@ -15,6 +16,19 @@ categories:
   - "Pirates of the Burning Sea"
   - "Warhammer: Age of Reckoning"
   - "Wizard101"
+relatedPosts:
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2009/05/19/daily-blogroll-519-black-lung-edition/"
+    title: "Daily Blogroll 5/19 -- Black Lung edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/exefile-2009-05-18-23-31-07-25.jpg"
+  - url: "/2009/09/17/daily-blogroll-917-kanye-edition/"
+    title: "Daily Blogroll 9/17 - Kanye edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/kanye.jpg"
+  - url: "/2009/05/06/daily-blogroll-56-tempests-and-teapots-edition/"
+    title: "Daily Blogroll 5/6 -- Tempests and Teapots edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/fullscreen-capture-562009-125235-am.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/neosteambanner.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/neosteambanner.jpg"
 ---

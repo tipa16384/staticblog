@@ -3,12 +3,26 @@ date: '2024-08-07T07:00:00-05:00'
 draft: false
 title: "How to lose $2K without hardly trying"
 author: "Tipa"
+disqusIdentifier: "2024/08/07/how-to-lose-2k-without-hardly-trying"
 summary: "Talking about my triumphant crypto journey and the joy of HODL."
 categories:
   - "Blaugust"
   - "Blaugust 2024"
 tags:
   - "Crypto"
+relatedPosts:
+  - url: "/2022/11/29/crypto-crypto-what-will-you-do/"
+    title: "Crypto, Crypto, what will you do?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/11/1-A_puppy_surrounded_by_stacks_of_Bitcoin__Visual_Novel_Seed-2422298_Steps-50_Guidance-7.5.jpg"
+  - url: "/2021/11/18/im-just-here-to-bring-joy-and-melt-your-brain/"
+    title: "I'm just here to bring joy and melt your brain."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/genesisloot.jpg"
+  - url: "/2024/09/02/blaugust-2024-is-in-the-bag/"
+    title: "Blaugust 2024 is in the bag!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/07/blaugust-2024.png"
+  - url: "/2024/08/31/my-california/"
+    title: "My California"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_4623-scaled.jpeg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/crypto_upscaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/crypto_upscaled.jpg"
 ---

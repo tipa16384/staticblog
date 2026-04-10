@@ -3,6 +3,7 @@ date: '2007-11-29T12:45:23-05:00'
 draft: false
 title: "SF: Playing for Keeps"
 author: "Tipa"
+disqusIdentifier: "2007/11/29/sf-playing-for-keeps"
 summary: "I don't game all the time, though you wouldn't know it from this blog. I also enjoy reading, dinking around with 3D renders, playing real..."
 categories:
   - "Sci Fi"
@@ -10,6 +11,19 @@ tags:
   - "Mur Lafferty"
   - "Playing for Keeps"
   - "Sci Fi"
+relatedPosts:
+  - url: "/2007/11/29/vernor-vinges-rainbows-end-free-to-read-so-go-read-it/"
+    title: 'Vernor Vinge''s "Rainbow''s End" free to read... so go read it'
+    thumbnailImage: ""
+  - url: "/2026/01/17/starfleet-academy-your-billionaire-future/"
+    title: "Starfleet Academy: Your Billionaire Future"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/starfleetacademy.png"
+  - url: "/2024/09/27/game-night-in-too-deep/"
+    title: "Game Night: In Too Deep"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/intoodeepbanner.png"
+  - url: "/2022/09/20/review-braking-day-by-adam-oyebanji/"
+    title: "Review: Braking Day by Adam Oyebanji"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/brakingday.png"
 ---
 I don't game all the time, though you wouldn't know it from this blog. I also enjoy reading, dinking around with 3D renders, playing real...
 <!--more-->

@@ -3,6 +3,7 @@ date: '2022-10-13T08:20:29-05:00'
 draft: false
 title: "Ark: Survival Evolved -- Night 1"
 author: "Tipa"
+disqusIdentifier: "2022/10/13/ark-survival-evolved-night-1"
 summary: "PlayStation Plus offered Ark: Survival Evolved last spring, but I only got intrigued enough to give it a try when I saw a friend tweeting..."
 categories:
   - "Ark Survival Evolved"
@@ -10,6 +11,19 @@ categories:
   - "Survival"
 tags:
   - "Playstation Plus"
+relatedPosts:
+  - url: "/2025/07/01/palworld-does-what-nintendont-again/"
+    title: "Palworld Does What Nintendon't. Again."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/drbrawngenderclinic.png"
+  - url: "/2025/02/26/first-impressions-stars-reach/"
+    title: "First Impressions: Stars Reach"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/02/20250225215602_1.jpg"
+  - url: "/2025/01/02/best-of-2024-survival-crafting-games/"
+    title: "Best of 2024: Survival Crafting Games"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/survivalbanner.png"
+  - url: "/2024/08/11/worshippers-of-cthulhu-the-demo/"
+    title: "Worshippers of Cthulhu: the Demo"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/cthulhu.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/10/black.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/10/black.png"
 ---

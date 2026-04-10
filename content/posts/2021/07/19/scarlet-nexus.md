@@ -3,6 +3,7 @@ date: '2021-07-19T21:53:23-05:00'
 draft: false
 title: "Scarlet Nexus"
 author: "Tipa"
+disqusIdentifier: "2021/07/19/scarlet-nexus"
 summary: "What are a couple of post-apocalyptic psionic kids gonna do when all the extraterrestrial invaders in the world try to tear them apart?"
 categories:
   - "PS5"
@@ -12,6 +13,19 @@ tags:
   - "Jrpg"
   - "RPG"
   - "Scarlet Nexus"
+relatedPosts:
+  - url: "/2020/12/11/my-rpgs-of-2020/"
+    title: "My RPGs of 2020"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/Chocobos-Mystery-Dungeon-EVERY-BUDDY_20200506204657.jpg"
+  - url: "/2021/08/03/ff1-continues-a-witch-a-dwarf-and-a-king-walk-into-a-bar/"
+    title: "FF1 Continues: A Witch, A Dwarf, and a King walk into a bar..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/laliho.png"
+  - url: "/2024/03/23/unicorn-overlord-whose-overlord-is-it-anyway/"
+    title: "Unicorn Overlord -- Whose Overlord Is It, Anyway?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/Unicorn-Overlord_20240322181915.jpg"
+  - url: "/2022/11/07/gotham-knights-the-best-superhero-game-youre-not-playing/"
+    title: "Gotham Knights - The Best Superhero Game You're Not Playing"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/11/DALL·E-2022-11-07-22.23.47-digital-art-city-scape-at-night.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/2-SCARLET-NEXUS_20210709212449.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/2-SCARLET-NEXUS_20210709212449.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2023-09-18T07:00:00-05:00'
 draft: false
 title: "The Teal Mask: Was it worth it?"
 author: "Tipa"
+disqusIdentifier: "2023/09/18/teal-mask-was-it-worth-it"
 summary: "I finished the main plot and a bit of the post-expansion content for Pokemon Scarlet/Violet's first DLC, \"The Teal Mask\". Now that it's over... was it worth playing?"
 categories:
   - "Pokemon"
@@ -12,6 +13,19 @@ tags:
   - "Pokemon"
   - "The Loyal Three"
   - "The Teal Mask"
+relatedPosts:
+  - url: "/2023/09/15/the-teal-mask-the-loyal-three/"
+    title: "The Teal Mask: The Loyal Three"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/2023091423002200-B6CE40797459B0890BF7CEF68A4CE587.jpg"
+  - url: "/2023/09/14/pokemon-scarlet-violet-the-teal-mask-first-impressions/"
+    title: "Pokémon Scarlet/Violet: The Teal Mask first impressions"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/2023091322223400-B6CE40797459B0890BF7CEF68A4CE587.jpg"
+  - url: "/2025/12/15/i-know-what-i-did-last-weekend-6/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/IMG_5573-scaled.jpg"
+  - url: "/2025/11/21/pokemon-legends-z-a-rolls-credits/"
+    title: "Pokémon Legends: Z-A rolls credits"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/2025112021391100-D30A1E83A76029FCCC1E3AC4EF5B7C89L.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/2023091520051500-B6CE40797459B0890BF7CEF68A4CE587.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/2023091520051500-B6CE40797459B0890BF7CEF68A4CE587.jpg"
 ---

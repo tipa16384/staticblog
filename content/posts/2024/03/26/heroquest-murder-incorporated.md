@@ -3,6 +3,7 @@ date: '2024-03-26T18:41:48-05:00'
 draft: false
 title: "HeroQuest: Murder, Incorporated."
 author: "Tipa"
+disqusIdentifier: "2024/03/26/heroquest-murder-incorporated"
 summary: "Okay, the actual title of the quest is \"Bastion of Chaos\", but that's not how it felt to us. We're the murderers in the title, btw."
 categories:
   - "Game Night"
@@ -10,6 +11,19 @@ categories:
   - "Tabletop Games"
 tags:
   - "Bastion of Chaos"
+relatedPosts:
+  - url: "/2026/03/04/frosthaven-104-ruins-of-the-solstice-and-heroquest-first-light-sound-the-hearthkin-horn/"
+    title: "Frosthaven #104: Ruins of the Solstice and HeroQuest First Light: Sound the Hearthkin Horn"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/IMG_5701-scaled.jpg"
+  - url: "/2026/02/15/heroquest-first-light-king-forgrins-trove/"
+    title: "HeroQuest First Light: King Forgrin's Trove"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/IMG_5672-scaled.jpg"
+  - url: "/2026/01/27/heroquest-first-light-tomb-of-the-fire-king/"
+    title: "HeroQuest First Light: Tomb of the Fire King"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/IMG_5629-scaled.jpg"
+  - url: "/2025/12/07/heroquest-first-light-the-ring-of-return/"
+    title: "HeroQuest First Light: The Ring of Return"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/1-IMG_5557-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/hqallfour.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/hqallfour.jpg"
 ---

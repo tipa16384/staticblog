@@ -3,6 +3,7 @@ date: '2020-12-11T09:23:17-05:00'
 draft: false
 title: "My RPGs of 2020"
 author: "Tipa"
+disqusIdentifier: "2020/12/11/my-rpgs-of-2020"
 summary: "I looked at all the RPGs I've played this year, trying to pick the one of them all that would be the best of the..."
 categories:
   - "CRPG"
@@ -31,6 +32,19 @@ tags:
   - "Three Houses"
   - "Valhalla"
   - "Zero Escape"
+relatedPosts:
+  - url: "/2020/12/08/too-many-games-in-my-queue/"
+    title: "Too Many Games in my Queue"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/2020120808035600-67D01338887DAC4477826B5EA75BFB74.jpg"
+  - url: "/2020/09/10/banner-of-the-maid-la-victoire-est-a-nous/"
+    title: "Banner of the Maid: La Victoire est à Nous!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/2020090922571700-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
+  - url: "/2020/09/07/banner-of-the-maid-failure-tastes-good/"
+    title: "Banner of the Maid: Failure Tastes Good."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/2020090620392900-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
+  - url: "/2020/09/21/banner-of-the-maid-final-thoughts/"
+    title: "Banner of the Maid: Final Thoughts"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/2020092017453800-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/Chocobos-Mystery-Dungeon-EVERY-BUDDY_20200506204657.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/Chocobos-Mystery-Dungeon-EVERY-BUDDY_20200506204657.jpg"
 ---

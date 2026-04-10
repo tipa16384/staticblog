@@ -3,12 +3,26 @@ date: '2025-10-28T07:00:00-05:00'
 draft: false
 title: "Malifaux 4e: Rasputina vs Seamus"
 author: "Tipa"
+disqusIdentifier: "2025/10/28/malifaux-4e-rasputina-vs-seamus"
 summary: "I showed this to my opponent. \"Look, snipers, on a rooftop, in a book depository, shooting a VIP and his partner? No?\" Nope. Meant nothing to him."
 categories:
   - "Malifaux"
   - "Tabletop Games"
 tags:
   - "Pack Rat Gaming"
+relatedPosts:
+  - url: "/2025/10/15/malifaux-lady-j-meets-the-cult-of-december/"
+    title: "Malifaux: Lady J meets the Cult of December"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/IMG_5423-scaled.jpg"
+  - url: "/2025/07/02/malifaux-boilermaker-takes-the-stage/"
+    title: "Malifaux: Boilermaker takes the stage"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/07/IMG_5205-1-scaled.jpg"
+  - url: "/2025/05/25/malifaux-4e-december-vs-experimental/"
+    title: "Malifaux 4e: December vs Experimental"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/IMG_5155-scaled.jpg"
+  - url: "/2026/03/08/malifaux-collete-du-bois-smuggler-vs-jakob-lynch-dark-bet/"
+    title: "Malifaux: Collete du Bois, Smuggler vs Jakob Lynch, Dark Bet"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/IMG_5713-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/1-IMG_5451-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/1-IMG_5451-scaled.jpg"
 ---

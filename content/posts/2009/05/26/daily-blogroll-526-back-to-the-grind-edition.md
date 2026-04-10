@@ -3,6 +3,7 @@ date: '2009-05-26T07:39:29-05:00'
 draft: false
 title: "Daily Blogroll 5/26 -- Back to the Grind edition"
 author: "Tipa"
+disqusIdentifier: "2009/05/26/daily-blogroll-526-back-to-the-grind-edition"
 summary: "Had a fun weekend in New Hampshire! No gaming to speak of, but I didn't really miss it. My stepmom and I took a hike..."
 categories:
   - "Daily Blogroll"
@@ -13,6 +14,19 @@ categories:
   - "Mabinogi"
   - "MMORPG"
   - "Wizard101"
+relatedPosts:
+  - url: "/2009/05/08/daily-blogroll-58-darkfail-edition/"
+    title: "Daily Blogroll 5/8 -- Darkfail edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/darkfall.jpg"
+  - url: "/2009/09/17/daily-blogroll-917-kanye-edition/"
+    title: "Daily Blogroll 9/17 - Kanye edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/kanye.jpg"
+  - url: "/2009/09/01/daily-blogroll-91-hell-o-kiddie-edition/"
+    title: "Daily Blogroll 9/1 - Hell, O Kiddie edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/hko-2009-09-01-07-24-48-98.jpg"
+  - url: "/2009/06/15/daily-blogroll-615-just-this-once-edition/"
+    title: "Daily Blogroll 6/15 -- Just This Once edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/WizardGraphicalClient-2009-06-15-07-54-00-91.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/mabinogibanner.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/mabinogibanner.jpg"
 ---

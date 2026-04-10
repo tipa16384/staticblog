@@ -3,6 +3,7 @@ date: '2020-07-01T12:35:25-05:00'
 draft: false
 title: "Game Log for June"
 author: "Tipa"
+disqusIdentifier: "2020/07/01/game-log-for-june"
 summary: "June hasn't been the best month for gaming. Tom and I are ramping up our 3D printing, and working on that sort of stuff is..."
 categories:
   - "EverQuest"
@@ -15,6 +16,19 @@ tags:
   - "Chocobo Mystery Dungeon"
   - "Death Stranding"
   - "The Witcher"
+relatedPosts:
+  - url: "/2020/05/19/am-i-witchy-enough-for-you/"
+    title: "Am I Witchy Enough For You?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/witcher.jpg"
+  - url: "/2020/12/11/my-rpgs-of-2020/"
+    title: "My RPGs of 2020"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/Chocobos-Mystery-Dungeon-EVERY-BUDDY_20200506204657.jpg"
+  - url: "/2020/08/22/i-jump-on-bandwagons/"
+    title: "I Jump on Bandwagons"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/Fall-Guys_-Ultimate-Knockout_20200821210108.jpg"
+  - url: "/2020/05/07/mmo-updates-crowfall-everquest-chocobos-mystery-dungeon-dcuo/"
+    title: "MMO updates: Crowfall, EverQuest, Chocobo's Mystery Dungeon, DCUO"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/CrowfallClient-2020-05-07-07-19-12-64-1024x576.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/07/Chocobo’s-Mystery-Dungeon-EVERY-BUDDY_20200630210621.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/07/Chocobo’s-Mystery-Dungeon-EVERY-BUDDY_20200630210621.jpg"
 ---

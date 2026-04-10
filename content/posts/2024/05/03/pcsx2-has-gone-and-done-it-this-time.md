@@ -3,6 +3,7 @@ date: '2024-05-03T07:00:00-05:00'
 draft: false
 title: "PCSX2 has gone and done it this time..."
 author: "Tipa"
+disqusIdentifier: "2024/05/03/pcsx2-has-gone-and-done-it-this-time"
 summary: "The latest updates to the PCSX2 PlayStation 2 emulator have done amazing things for its convenience and compatibility."
 categories:
   - "PS2"
@@ -10,6 +11,19 @@ tags:
   - "Imgburn"
   - "PCSX2"
   - "Retroarch"
+relatedPosts:
+  - url: "/2026/02/17/the-fellowship-of-the-ring-ps2/"
+    title: "The Fellowship of the Ring (PS2)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/The-Lord-of-the-Rings-The-Fellowship-of-the-Ring_SLUS-20520_20260217075358.png"
+  - url: "/2025/08/03/pryzm-the-review-part-1/"
+    title: "Pryzm: The Review: Part 1."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/pryzmbanner.png"
+  - url: "/2024/09/28/champions-return-to-arms-finished/"
+    title: "Champions: Return to Arms finished!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/cazicthule.png"
+  - url: "/2024/09/09/weekend-gaming-janthir-wilds-return-to-arms-more-thunderjaw/"
+    title: "Weekend gaming: Janthir Wilds, Return to Arms, more Thunderjaw"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/gw2janthir.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/pcsx2logo.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/pcsx2logo.png"
 ---

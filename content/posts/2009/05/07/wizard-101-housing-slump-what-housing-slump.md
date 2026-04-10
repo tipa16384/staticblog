@@ -3,6 +3,7 @@ date: '2009-05-07T00:46:34-05:00'
 draft: false
 title: "Wizard 101: Housing slump? What housing slump?"
 author: "Tipa"
+disqusIdentifier: "2009/05/07/wizard-101-housing-slump-what-housing-slump"
 summary: "I scurried my way to visit a housing turtle as soon as I finished patching Wizard 101. I wanted to get started decorating my house..."
 categories:
   - "MMORPG"
@@ -11,6 +12,19 @@ categories:
 tags:
   - "Arena"
   - "Player Housing"
+relatedPosts:
+  - url: "/2009/05/15/wizard-101-arena-season-1-and-automagic/"
+    title: "Wizard 101: Arena Season 1 and Automagic"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/w101pvppreview.jpg"
+  - url: "/2008/12/20/wizard-101-killing-me-softly-with-your-spells/"
+    title: "Wizard 101: Killing me softly with your spells"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/crowdscene.jpg"
+  - url: "/2008/12/15/wizard-101-arena-season-1/"
+    title: "Wizard 101 Arena Season 1"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/wizardgraphicalclient-2008-12-15-20-25-48-13.jpg"
+  - url: "/2009/06/04/catching-up-with-wizard-101/"
+    title: "Catching up with Wizard 101"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/wizardgraphicalclient-2009-06-04-20-24-30-91.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/wizardgraphicalclient-2009-05-06-20-24-33-56.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/wizardgraphicalclient-2009-05-06-20-24-33-56.jpg"
 ---

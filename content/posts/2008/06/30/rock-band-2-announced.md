@@ -3,6 +3,7 @@ date: '2008-06-30T12:54:42-05:00'
 draft: false
 title: "Rock Band 2 announced"
 author: "Tipa"
+disqusIdentifier: "2008/06/30/rock-band-2-announced"
 summary: "We knew it was coming, and it's here. Rock Band 2 will be out in September for the Xbox 360 and somewhat later for the..."
 categories:
   - "Other Games"
@@ -12,6 +13,19 @@ tags:
   - "Guitar Hero 4"
   - "Guitar Hero World Tour"
   - "Rock Band"
+relatedPosts:
+  - url: "/2008/07/17/rock-band-2-controllers-blur-the-line-between-real-band-and-fake-band/"
+    title: "Rock Band 2 controllers blur the line between real band and fake band"
+    thumbnailImage: ""
+  - url: "/2008/07/14/sigh-rock-band-2-set-list/"
+    title: "Sigh. Rock Band 2 set list."
+    thumbnailImage: ""
+  - url: "/2008/08/06/rock-band-live-on-tour-with-real-instruments/"
+    title: "Rock Band Live! On Tour! With real instruments!"
+    thumbnailImage: ""
+  - url: "/2008/06/30/slave-to-marketing/"
+    title: "Slave to marketing."
+    thumbnailImage: ""
 ---
 We knew it was coming, and it's here. Rock Band 2 will be out in September for the Xbox 360 and somewhat later for the...
 <!--more-->

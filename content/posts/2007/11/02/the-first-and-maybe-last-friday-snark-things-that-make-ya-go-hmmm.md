@@ -3,9 +3,23 @@ date: '2007-11-02T12:45:48-05:00'
 draft: false
 title: "The First (and maybe Last) Friday Snark -- things that make ya go, hmmm..."
 author: "Tipa"
+disqusIdentifier: "2007/11/02/the-first-and-maybe-last-friday-snark-things-that-make-ya-go-hmmm"
 summary: "Cuppy of Areae (why isn't this Area E? That would sound so much cooler...) posted some Metaplace wallpaper. Their game engine is built around 2D..."
 categories:
   - "MMORPG"
+relatedPosts:
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2026/03/11/dune-awakening-finished-chapter-3/"
+    title: "Dune Awakening: Finished Chapter 3"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-11-073510.png"
+  - url: "/2026/02/04/erenshor-rising-shadows-launched/"
+    title: 'Erenshor "Rising Shadows" launched!'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/20260204080313_1.jpg"
+  - url: "/2026/01/24/dominus-automa-an-idle-mmo-for-busy-dads/"
+    title: "Dominus Automa: An Idle MMO for Busy Dads"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/dominusautoma.png"
 ---
 Cuppy of Areae (why isn't this Area E? That would sound so much cooler...) posted some Metaplace wallpaper. Their game engine is built around 2D...
 <!--more-->

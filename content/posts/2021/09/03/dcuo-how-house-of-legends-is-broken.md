@@ -3,6 +3,7 @@ date: '2021-09-03T07:53:50-05:00'
 draft: false
 title: "DCUO: How House of Legends is broken"
 author: "Tipa"
+disqusIdentifier: "2021/09/03/dcuo-how-house-of-legends-is-broken"
 summary: "DC Universe Online's \"House of Legends\" expansion was meant to create a new game experience for both old heroes and new. It got halfway there...."
 categories:
   - "Blaugust"
@@ -12,6 +13,19 @@ categories:
 tags:
   - "House of Legends"
   - "Steam"
+relatedPosts:
+  - url: "/2021/08/08/dcuo-episode-41-into-the-house-of-legends/"
+    title: "DCUO Episode 41: Into the House of Legends"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/HouseOfLegends.jpg"
+  - url: "/2021/08/26/dcuo-house-of-legends-is-live/"
+    title: "DCUO: House of Legends is LIVE!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/avatarofmeta.jpg"
+  - url: "/2021/08/17/ff3-making-myself-cod-worthy/"
+    title: "FF3 -- Making Myself CoD-Worthy"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/20210817213623_1.jpg"
+  - url: "/2021/08/28/townscaper-1-0-and-3d-printing/"
+    title: "Townscaper 1.0 and 3D Printing"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210828092303_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/MHQS104_AUDIO-PC-03-07.21.130.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/MHQS104_AUDIO-PC-03-07.21.130.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2011-02-21T07:37:29-05:00'
 draft: false
 title: "Star Trek Online FE303: Frozen (Spoilers)"
 author: "Tipa"
+disqusIdentifier: "2011/02/21/star-trek-online-fe303-frozen-spoilers"
 summary: "[..."
 categories:
   - "MMORPG"
@@ -16,6 +17,19 @@ tags:
   - "Obisek"
   - "Reman"
   - "Romulan"
+relatedPosts:
+  - url: "/2011/03/06/star-trek-online-fe305-cut-the-cord-spoilers/"
+    title: "Star Trek Online FE305: Cutting the Cord (spoilers)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/GameClient-2011-03-05-13-52-30-97-480x324.jpg"
+  - url: "/2011/02/06/star-trek-online-fe301-the-vault-spoilers/"
+    title: "Star Trek Online FE301: The Vault (spoilers)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-05-14-16-08-15-480x270.jpg"
+  - url: "/2011/02/27/star-trek-online-fe304-coliseum-spoilers/"
+    title: "Star Trek Online FE304: Coliseum (spoilers)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-26-15-29-44-32-480x275.jpg"
+  - url: "/2011/02/13/star-trek-online-fe302-mine-enemy-spoilers/"
+    title: 'Star Trek Online: FE302 "Mine Enemy" (spoilers!)'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-12-13-58-06-82-480x325.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-19-13-57-38-51-480x326.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-19-13-57-38-51-480x326.jpg"
 ---

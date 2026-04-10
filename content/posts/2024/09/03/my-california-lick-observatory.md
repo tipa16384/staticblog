@@ -3,6 +3,7 @@ date: '2024-09-03T13:58:55-05:00'
 draft: false
 title: "My California: Lick Observatory"
 author: "Tipa"
+disqusIdentifier: "2024/09/03/my-california-lick-observatory"
 summary: "What was once the largest refracting telescope in the world looks out high above Silicon Valley…"
 categories:
   - "Real Life"
@@ -10,6 +11,19 @@ tags:
   - "California"
   - "Lick Observatory"
   - "Telescope"
+relatedPosts:
+  - url: "/2024/08/29/going-to-california/"
+    title: "Going to California"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_4594-scaled.jpeg"
+  - url: "/2023/12/11/advent-of-code-day-11-cosmic-expansion/"
+    title: "Advent of Code Day 11 -- Cosmic Expansion"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-11-07.29.15-An-elf-showing-a-telescope-to-a-repairman-wearing-a-hardhat-and-a-safety-vest.-The-scene-is-set-under-a-dark-sky-filled-with-stars-and-galaxies.-In-th.png"
+  - url: "/2026/01/10/rubik-and-the-microplastic-mind/"
+    title: "Rubik and the Microplastic Mind"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/ChatGPT-Image-Jan-10-2026-07_02_02-PM.png"
+  - url: "/2025/08/07/soda-can-tabs-for-charity-really/"
+    title: "Soda can tabs for charity? REALLY?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5304-scaled.jpeg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/IMG_4669-scaled.jpeg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/IMG_4669-scaled.jpeg"
 ---

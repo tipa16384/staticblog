@@ -3,6 +3,7 @@ date: '2022-03-25T08:25:09-05:00'
 draft: false
 title: "Horizon Forbidden West: The First Hundred Hours"
 author: "Tipa"
+disqusIdentifier: "2022/03/25/horizon-forbidden-west-the-first-hundred-hours"
 summary: "Supergirl meets up with the Justice League of Future America to once again, save the world. But first, she will have to defeat the Legion..."
 categories:
   - "Open World RPG"
@@ -11,6 +12,19 @@ tags:
   - "Horizon"
   - "Horizon Forbidden West"
   - "Horizon Zero Dawn"
+relatedPosts:
+  - url: "/2023/04/23/horizon-forbidden-west-aloy-finds-love/"
+    title: "Horizon Forbidden West: Aloy Finds Love"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/04/1-Horizon-Forbidden-West_20230423112855.jpg"
+  - url: "/2024/12/01/star-wars-outlaws-just-you-and-your-cat-against-the-galaxy/"
+    title: 'Star Wars: Outlaws. Just you and your "cat" against the galaxy.'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/outlawsbanner.png"
+  - url: "/2024/04/01/dragons-dogma-2-battahl-bound/"
+    title: "Dragon's Dogma 2: Battahl Bound"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/Dragons-Dogma-2_20240401072306-scaled.jpg"
+  - url: "/2022/11/07/gotham-knights-the-best-superhero-game-youre-not-playing/"
+    title: "Gotham Knights - The Best Superhero Game You're Not Playing"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/11/DALL·E-2022-11-07-22.23.47-digital-art-city-scape-at-night.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/Horizon-Forbidden-West_20220219085401-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/Horizon-Forbidden-West_20220219085401-scaled.jpg"
 ---

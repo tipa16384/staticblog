@@ -3,6 +3,7 @@ date: '2023-11-27T08:02:20-05:00'
 draft: false
 title: "Baldur's Gate 3: the Second Playthrough"
 author: "Tipa"
+disqusIdentifier: "2023/11/27/baldurs-gate-3-the-second-playthrough"
 summary: "This time, I saved them what needed saving."
 categories:
   - "Baldur's Gate 3"
@@ -10,6 +11,19 @@ tags:
   - "RPG"
   - "Steam"
   - "Team Spode"
+relatedPosts:
+  - url: "/2022/05/02/restarting-in-valheim/"
+    title: "Restarting in Valheim"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/05/20220429225417_1.jpg"
+  - url: "/2021/08/03/ff1-continues-a-witch-a-dwarf-and-a-king-walk-into-a-bar/"
+    title: "FF1 Continues: A Witch, A Dwarf, and a King walk into a bar..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/laliho.png"
+  - url: "/2020/12/21/quick-takes-unsung-story-tale-of-the-guardian/"
+    title: "Quick Takes: Unsung Story, Tale of the Guardian"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/20201219085246_1.jpg"
+  - url: "/2020/10/26/solasta-crown-of-the-magister-a-fun-but-buggy-mess-in-early-access/"
+    title: "Solasta: Crown of the Magister -- A fun but buggy mess in early access"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/20201025094236_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/snapedit_1701088982383.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/snapedit_1701088982383.png"
 ---

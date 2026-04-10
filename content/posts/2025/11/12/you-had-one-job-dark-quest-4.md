@@ -3,6 +3,7 @@ date: '2025-11-12T08:30:09-05:00'
 draft: false
 title: "You had ONE JOB, Dark Quest 4!"
 author: "Tipa"
+disqusIdentifier: "2025/11/12/you-had-one-job-dark-quest-4"
 summary: "You had one job -- bring the HeroQuest board game experience to a videogame. And you did it. You nailed it. Good job!"
 categories:
   - "HeroQuest"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Dark Quest"
   - "Dark Quest 4"
+relatedPosts:
+  - url: "/2025/06/11/dark-quest-4-more-hero-quest-than-ever/"
+    title: "Dark Quest 4: More Hero Quest than ever?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/1-20250610202611_1.jpg"
+  - url: "/2026/02/06/i-know-what-i-did-last-weekend-7/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/1-20260205205317_1.jpg"
+  - url: "/2026/03/04/frosthaven-104-ruins-of-the-solstice-and-heroquest-first-light-sound-the-hearthkin-horn/"
+    title: "Frosthaven #104: Ruins of the Solstice and HeroQuest First Light: Sound the Hearthkin Horn"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/IMG_5701-scaled.jpg"
+  - url: "/2026/02/15/heroquest-first-light-king-forgrins-trove/"
+    title: "HeroQuest First Light: King Forgrin's Trove"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/IMG_5672-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/1-20250610202611_1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/1-20250610202611_1.jpg"
 ---

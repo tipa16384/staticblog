@@ -3,6 +3,7 @@ date: '2022-08-01T07:00:00-05:00'
 draft: false
 title: "One: The Game - A Superheroic Multiplayer Experience"
 author: "Tipa"
+disqusIdentifier: "2022/08/01/one-the-game-a-superheroic-multiplayer-experience"
 summary: "I asked OpenAI's GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day..."
 categories:
   - "Blaugust"
@@ -14,6 +15,19 @@ tags:
   - "Craiyon"
   - "Gpt-3"
   - "One the Game"
+relatedPosts:
+  - url: "/2022/08/05/steve-the-fifth-horseman-of-the-apocalypse/"
+    title: "Steve, the Fifth Horseman of the Apocalypse"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/DALL·E-2022-07-30-11.32.58-A-photograph-of-a-colorfully-dressed-clown-named-Steve-sitting-on-a-horse-that-has-fiery-eyes.-They-are-standing-on-a-hill.-Behind-them-on-the-hori.png"
+  - url: "/2022/07/31/welcome-to-blaugust-2022-31-game-ideas-from-ai/"
+    title: "Welcome to Blaugust 2022: 31 game ideas from AI"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/blaugust2022.webp"
+  - url: "/2022/08/04/fourt-knight-an-awesome-game-thats-worth-the-price/"
+    title: "Fourt Knight: An Awesome Game That's Worth the Price"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/DALL·E-2022-07-30-11.41.41-a-painting-of-a-lone-knight-in-armor-standing-in-front-of-a-castle.-The-knight-is-holding-a-sword-and-shield-and-there-is-a-bow-slung-over-their-bac.png"
+  - url: "/2022/08/30/blaugust-theme-week-lessons-learned/"
+    title: "Blaugust theme week: Lessons learned"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-30-23.00.58-35mm-long-range-photograph-of-a-woman-warrior-reading-a-book-while-sitting-against-a-sleeping-green-dragon-near-a-mountain-lake-pastel-colors-peacef.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/DALL·E-2022-07-30-12.00.18-A-group-of-diverse-superheroes-photographed-in-a-realistic-style-with-bright-cartoony-colors.-They-are-posed-heroically-with-a-cityscape-in-the-backg.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/DALL·E-2022-07-30-12.00.18-A-group-of-diverse-superheroes-photographed-in-a-realistic-style-with-bright-cartoony-colors.-They-are-posed-heroically-with-a-cityscape-in-the-backg.png"
 ---

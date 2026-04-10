@@ -3,6 +3,7 @@ date: '2022-09-29T08:52:59-05:00'
 draft: false
 title: "Dissidia 012 Final Fantasy comes highly recommended"
 author: "Tipa"
+disqusIdentifier: "2022/09/29/dissidia-012-final-fantasy-comes-highly-recommended"
 summary: "So I was chatting with Terra yesterday and... wait, no, keep reading. Because I think we're in the future now...."
 categories:
   - "Final Fantasy"
@@ -13,6 +14,19 @@ tags:
   - "Dissidia 012 Final Fantasy"
   - "Duodeci"
   - "Gpt-3"
+relatedPosts:
+  - url: "/2022/09/05/the-battle-for-lockes-heart-the-remake/"
+    title: "The Battle for Locke's Heart: The Remake"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-04-21.39.29-Digital-painting-of-a-tall-woman-with-green-hair-in-a-high-ponytail-a-long-blonde-woman-wearing-armor-a-man-in-blue-jeans-and-jacket-a-gentleman-ga.png"
+  - url: "/2022/09/04/how-i-used-ai-to-write-a-final-fantasy-vi-chatbot/"
+    title: "How I used AI to write a Final Fantasy VI chatbot"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-04-21.21.57-A-magazine-illustration-of-a-woman-with-dark-green-hair-in-a-high-ponytail-wearing-overalls-constructing-a-giant-mechanical-steampunk-chatbot-with-h.png"
+  - url: "/2022/09/04/the-battle-for-lockes-heart-a-final-fantasy-vi-fan-fic/"
+    title: "The Battle for Locke's Heart: A Final Fantasy VI Fan Fic"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-04-11.23.53-A-digital-painting-of-a-young-man-with-pale-blonde-hair-and-pale-skin-wearing-a-blue-bandana..png"
+  - url: "/2022/08/09/the-nine-lives-chronicles/"
+    title: "The Nine-Lives Chronicles"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-01-20.27.11-A-woman-looking-at-nine-reflections-of-herself-in-nine-different-historical-periods-painterly-style.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/20220928230704_1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/20220928230704_1.jpg"
 ---

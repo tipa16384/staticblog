@@ -3,6 +3,7 @@ date: '2009-10-10T22:55:00-05:00'
 draft: false
 title: "Lemons Looks at Love"
 author: "Tipa"
+disqusIdentifier: "2009/10/10/lemons-looks-at-love"
 summary: "A guest article by Lemons :)..."
 categories:
   - "Love"
@@ -10,6 +11,19 @@ categories:
 tags:
   - "Lemons"
   - "Necropost"
+relatedPosts:
+  - url: "/2009/10/12/lemons-looks-at-love-2/"
+    title: "Lemons looks at Love"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/loveworld-480x271.jpg"
+  - url: "/2026/03/25/everquest-3-is-officially-dead/"
+    title: "EverQuest 3 is officially dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-25-213122.png"
+  - url: "/2026/03/11/dune-awakening-finished-chapter-3/"
+    title: "Dune Awakening: Finished Chapter 3"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/Screenshot-2026-03-11-073510.png"
+  - url: "/2026/02/04/erenshor-rising-shadows-launched/"
+    title: 'Erenshor "Rising Shadows" launched!'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/20260204080313_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/loveworld-1024x578.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/loveworld-1024x578.jpg"
 ---

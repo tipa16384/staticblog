@@ -3,11 +3,25 @@ date: '2008-02-21T12:41:29-05:00'
 draft: false
 title: "Why Champions Online may be the most innovative MMO of 2009."
 author: "Tipa"
+disqusIdentifier: "2008/02/21/why-champions-online-may-be-the-most-innovative-mmo-of-2009"
 summary: "Dr. Destroyer in Champions Online..."
 categories:
   - "Champions Online"
   - "City of Heroes"
   - "MMORPG"
+relatedPosts:
+  - url: "/2021/09/26/ship-of-heroes-mission-beta-feedback/"
+    title: "Ship of Heroes: Mission Beta Feedback"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/shipoffools-redsigilbase.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2010/12/07/daily-blogroll-127-expansion-edition/"
+    title: "Daily Blogroll 12/7 -- Expansion edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/holmes.png"
+  - url: "/2009/09/28/weekend-gaming-3/"
+    title: "Weekend Gaming"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/ExeFile-2009-09-27-21-46-57-10.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/02/drdestroyer.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/02/drdestroyer.jpg"
 ---

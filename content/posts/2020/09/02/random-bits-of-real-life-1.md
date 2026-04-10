@@ -3,6 +3,7 @@ date: '2020-09-02T07:00:00-05:00'
 draft: false
 title: "Random Bits of Real Life #1"
 author: "Tipa"
+disqusIdentifier: "2020/09/02/random-bits-of-real-life-1"
 summary: "I'm not really sure how interested people will be, but I took some pictures and want to write about them and I have a blog..."
 categories:
   - "3D Printing"
@@ -15,6 +16,19 @@ tags:
   - "East Coast Greenway"
   - "Kalimba"
   - "Sam Porter Bridges"
+relatedPosts:
+  - url: "/2020/08/20/blaugust-20-its-good-to-be-bad/"
+    title: "Blaugust #20: It's Good to be Bad"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-Ghost-of-Tsushima_20200726211225.jpg"
+  - url: "/2020/07/01/game-log-for-june/"
+    title: "Game Log for June"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/07/Chocobo’s-Mystery-Dungeon-EVERY-BUDDY_20200630210621.jpg"
+  - url: "/2023/08/08/sam-portsmouth-bridges/"
+    title: "Sam Portsmouth Bridges"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/IMG_3945-EFFECTS-scaled.jpg"
+  - url: "/2020/08/19/blaugust-19-defend-your-life/"
+    title: "Blaugust #19: Defend Your Life"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/IMG_1538.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/1-IMG_1859.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/1-IMG_1859.jpg"
 ---

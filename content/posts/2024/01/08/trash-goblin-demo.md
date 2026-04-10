@@ -3,6 +3,7 @@ date: '2024-01-08T07:58:24-05:00'
 draft: false
 title: "Trash Goblin Demo"
 author: "Tipa"
+disqusIdentifier: "2024/01/08/trash-goblin-demo"
 summary: "One goblin's trash is another goblin's treasure..."
 categories:
   - "Kickstarter"
@@ -11,6 +12,19 @@ tags:
   - "Goblin"
   - "Item Shop"
   - "Steam"
+relatedPosts:
+  - url: "/2024/03/28/starship-simulator-the-demo/"
+    title: "Starship Simulator: The Demo"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/starshipsimulatorbanner.png"
+  - url: "/2020/12/21/quick-takes-unsung-story-tale-of-the-guardian/"
+    title: "Quick Takes: Unsung Story, Tale of the Guardian"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/20201219085246_1.jpg"
+  - url: "/2010/09/12/recettear-decorating-yr-itemme-shoppe/"
+    title: "Recettear: Decorating y'r Itemme Shoppe."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/recettear-2010-09-12-08-43-01-82-480x384.jpg"
+  - url: "/2008/08/28/wizard101s-subscription-plan-and-item-shop/"
+    title: "Wizard101's subscription plan and item shop"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/wizardgraphicalclient-2008-08-27-18-05-35-45.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/trashgoblin.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/trashgoblin.png"
 ---

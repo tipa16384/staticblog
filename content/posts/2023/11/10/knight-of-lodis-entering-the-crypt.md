@@ -3,6 +3,7 @@ date: '2023-11-10T20:21:24-05:00'
 draft: false
 title: "Knight of Lodis: Entering the Crypt"
 author: "Tipa"
+disqusIdentifier: "2023/11/10/knight-of-lodis-entering-the-crypt"
 summary: "It was supposed to just be a battle. It turned into a gauntlet."
 categories:
   - "Tactical RPG"
@@ -13,6 +14,19 @@ tags:
   - "Knight of Lodis"
   - "Ogre Battle"
   - "Tactics Ogre"
+relatedPosts:
+  - url: "/2024/01/06/tactics-ogre-the-knight-of-lodis-finished/"
+    title: "Tactics Ogre: The Knight of Lodis FINISHED!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/20240104_221426.jpg"
+  - url: "/2024/03/23/unicorn-overlord-whose-overlord-is-it-anyway/"
+    title: "Unicorn Overlord -- Whose Overlord Is It, Anyway?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/Unicorn-Overlord_20240322181915.jpg"
+  - url: "/2023/12/29/christmas-loot-knight-of-lodis-and-prince-of-zenobia/"
+    title: "Christmas Loot: Knight of Lodis and Prince of Zenobia"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/IMG_4125-scaled.jpg"
+  - url: "/2020/10/05/ogre-battle-the-march-of-the-black-queen-night-1/"
+    title: 'Ogre Battle "The March of the Black Queen" -- Night 1'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/blackqueen.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/20231110_002228.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/20231110_002228.png"
 ---

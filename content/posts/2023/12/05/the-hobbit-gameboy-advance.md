@@ -3,6 +3,7 @@ date: '2023-12-05T08:22:00-05:00'
 draft: false
 title: "The Hobbit (Gameboy Advance)"
 author: "Tipa"
+disqusIdentifier: "2023/12/05/the-hobbit-gameboy-advance"
 summary: "See, it's a story about a little man who lives in a hole dug into a hill..."
 categories:
   - "Action Adventure Games"
@@ -11,6 +12,19 @@ tags:
   - "Gameboy Advance"
   - "Hobbit"
   - "Sierra"
+relatedPosts:
+  - url: "/2024/02/20/retro-game-quick-look-sword-of-mana-lotr-two-towers-iridion-3d/"
+    title: "Retro Game Quick Look: Sword of Mana, LotR: Two Towers, Iridion 3D"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/02/DALL·E-2024-02-19-23.10.31-Illustrate-an-anime-style-boy-and-girl-standing-on-a-hill-looking-towards-an-enormous-tree-surrounded-by-blue-crystals-capturing-the-essence-of-a-19.webp"
+  - url: "/2024/01/06/tactics-ogre-the-knight-of-lodis-finished/"
+    title: "Tactics Ogre: The Knight of Lodis FINISHED!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/20240104_221426.jpg"
+  - url: "/2023/12/29/christmas-loot-knight-of-lodis-and-prince-of-zenobia/"
+    title: "Christmas Loot: Knight of Lodis and Prince of Zenobia"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/IMG_4125-scaled.jpg"
+  - url: "/2024/05/12/advent-colossal-cave-3d/"
+    title: "ADVENT: Colossal Cave 3D"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/cc-troll2.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/20231205_085706.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/20231205_085706.png"
 ---

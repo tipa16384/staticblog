@@ -3,6 +3,7 @@ date: '2021-01-10T18:01:14-05:00'
 draft: false
 title: "EXAPUNKS Finished! Here's my solutions..."
 author: "Tipa"
+disqusIdentifier: "2021/01/10/exapunks-finished-heres-my-solutions"
 summary: "Okay, I have been working on EXAPUNKS the last few weekends, and dreaming about it most nights. But I'm done with the main plot; got..."
 categories:
   - "Puzzle Games"
@@ -12,6 +13,19 @@ tags:
   - "Puzzle"
   - "Steam"
   - "Zachtronics"
+relatedPosts:
+  - url: "/2020/12/30/quick-takes-exapunks/"
+    title: "Quick Takes: Exapunks"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/20201230072838_1.jpg"
+  - url: "/2024/10/26/last-call-bbs-puzzle-games-for-the-retro-inclined/"
+    title: "Last Call BBS: Puzzle Games for the Retro-Inclined"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/2-20241026104137_1.jpg"
+  - url: "/2020/12/08/too-many-games-in-my-queue/"
+    title: "Too Many Games in my Queue"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/2020120808035600-67D01338887DAC4477826B5EA75BFB74.jpg"
+  - url: "/2024/12/27/the-best-puzzle-games-of-2024/"
+    title: "The Best Puzzle Games of 2024"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/puzzlegamesbanner.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/01/exaepilogue.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/01/exaepilogue.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2025-05-09T19:52:49-05:00'
 draft: false
 title: "PAX East 2025: Wow, kinda big, right?"
 author: "Tipa"
+disqusIdentifier: "2025/05/09/pax-east-2025-wow-kinda-big-right"
 summary: "First time at PAX, having a great time, wish you were here."
 categories:
   - "Erenshor"
@@ -16,6 +17,19 @@ tags:
   - "Pax East"
   - "Planet Hexx"
   - "Sage Stones"
+relatedPosts:
+  - url: "/2025/05/10/pax-east-2025-part-deux/"
+    title: "PAX East 2025: Part Deux"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/IMG_5120-scaled.jpg"
+  - url: "/2025/02/03/my-adventures-at-captaincon-2025/"
+    title: "Rolling Dice and Taking Names: My CaptainCon 2025 Experience"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/02/captainconbanner.png"
+  - url: "/2022/09/13/retro-world-expo-2022-hartford-ct/"
+    title: "Retro World Expo 2022 -- Hartford, CT"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/1-IMG_2687.jpg"
+  - url: "/2026/02/06/i-know-what-i-did-last-weekend-7/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/1-20260205205317_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/IMG_5091-scaled.jpeg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/IMG_5091-scaled.jpeg"
 ---

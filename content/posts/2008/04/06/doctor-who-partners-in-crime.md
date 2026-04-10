@@ -3,10 +3,24 @@ date: '2008-04-06T11:26:22-05:00'
 draft: false
 title: "Doctor Who: Partners in Crime"
 author: "Tipa"
+disqusIdentifier: "2008/04/06/doctor-who-partners-in-crime"
 summary: "Last night, millions of Britons (8.4 millions to be exact) sat down to the first episode of the latest series of Doctor Who, the first..."
 categories:
   - "Doctor Who"
   - "Sci Fi"
+relatedPosts:
+  - url: "/2007/01/05/when-we-return-televisions-finest-part-1/"
+    title: "When We Return: Television's Finest (Part 1)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/01/avatar.jpg"
+  - url: "/2006/06/07/the-episode-of-the-beast/"
+    title: "The Episode of the Beast"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/images/hell1.jpg"
+  - url: "/2008/06/30/slave-to-marketing/"
+    title: "Slave to marketing."
+    thumbnailImage: ""
+  - url: "/2008/04/28/doctor-who-the-sontaren-stratagem/"
+    title: "Doctor Who: The Sontaren Stratagem"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/04/atmos.gif"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/04/drwho.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/04/drwho.jpg"
 ---

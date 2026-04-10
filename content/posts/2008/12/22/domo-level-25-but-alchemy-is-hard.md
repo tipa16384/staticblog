@@ -3,6 +3,7 @@ date: '2008-12-22T08:50:27-05:00'
 draft: false
 title: "DOMO: Level 25, but Alchemy is hard :("
 author: "Tipa"
+disqusIdentifier: "2008/12/22/domo-level-25-but-alchemy-is-hard"
 summary: "Taking on the Giant Butterfly outside the bandit camp in Copperhorn Mountain..."
 categories:
   - "Dream of Mirror Online"
@@ -11,6 +12,19 @@ tags:
   - "Copperhorn Mountain"
   - "Eversun Inn Basement"
   - "Treasure Map"
+relatedPosts:
+  - url: "/2010/04/14/the-best-mmo-for-a-new-player/"
+    title: "The best MMO for a new player?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/options.jpg"
+  - url: "/2009/08/19/daily-blogroll-819-l2test-edition/"
+    title: "Daily Blogroll 8/19 - L2Test edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/ExeFile-2009-08-18-21-44-27-54.jpg"
+  - url: "/2009/05/04/daily-blogroll-54-dragon-claw-style-edition/"
+    title: "Daily Blogroll 5/4 -- Dragon Claw Style edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/dragonclawstyle1.jpg"
+  - url: "/2009/01/09/wizard-101-plague-oni-why-cant-i-quit-you/"
+    title: "Wizard 101: Plague Oni, why can't I quit you?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/01/wizardgraphicalclient-2009-01-08-21-18-59-29.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/domo-2008-12-21-14-24-19-72.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/domo-2008-12-21-14-24-19-72.jpg"
 ---

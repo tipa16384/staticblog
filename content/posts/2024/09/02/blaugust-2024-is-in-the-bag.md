@@ -3,10 +3,24 @@ date: '2024-09-02T22:18:40-05:00'
 draft: false
 title: "Blaugust 2024 is in the bag!"
 author: "Tipa"
+disqusIdentifier: "2024/09/02/blaugust-2024-is-in-the-bag"
 summary: "It's always a struggle to make it to the finish line, but I also always have fun."
 categories:
   - "Blaugust"
   - "Blaugust 2024"
+relatedPosts:
+  - url: "/2024/08/31/my-california/"
+    title: "My California"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_4623-scaled.jpeg"
+  - url: "/2024/08/29/going-to-california/"
+    title: "Going to California"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_4594-scaled.jpeg"
+  - url: "/2024/08/28/erenshor-everquest-for-soloers/"
+    title: "Erenshor -- EverQuest for soloers"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/erenshotheader.jpg"
+  - url: "/2024/08/27/twitch-drops-why/"
+    title: "Twitch Drops: Why?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/1-Palworld-Screenshot-2024.08.26-07.46.02.07.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/07/blaugust-2024.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/07/blaugust-2024.png"
 ---

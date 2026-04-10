@@ -3,11 +3,25 @@ date: '2020-12-07T08:32:02-05:00'
 draft: false
 title: "EverQuest II: Soloing to Fifty"
 author: "Tipa"
+disqusIdentifier: "2020/12/07/everquest-ii-soloing-to-fifty"
 summary: "My time in EverQuest's latest timelocked progression server, Aradune, didn't go anywhere this summer. I still felt nostalgic for the older days of MMOs, though,..."
 categories:
   - "EverQuest II"
   - "MMORPG"
   - "Nostalgia the Guild"
+relatedPosts:
+  - url: "/2024/05/04/everquest-ii-goes-retro-with-anashti-sul/"
+    title: "EverQuest II goes retro with Anashti Sul"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/anashtisul.jpg"
+  - url: "/2021/08/07/mmos-on-the-bubble/"
+    title: "MMOs on the Bubble"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/STP61286.jpg"
+  - url: "/2020/09/09/what-makes-an-mmo-an-mmo/"
+    title: "What makes an MMO an MMO?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/Kingdoms-of-Amalur_-Reckoning-12_31_2015-4_16_05-PM-1.png"
+  - url: "/2020/08/18/does-crafting-have-any-place-in-modern-mmos/"
+    title: "Does Crafting have any place in modern MMOs?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-EverQuest2-2020-08-18-18-11-08-10.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/EverQuest2-2020-12-06-13-34-47-77.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/EverQuest2-2020-12-06-13-34-47-77.jpg"
 ---

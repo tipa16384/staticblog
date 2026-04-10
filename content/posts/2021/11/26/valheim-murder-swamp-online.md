@@ -3,6 +3,7 @@ date: '2021-11-26T21:35:54-05:00'
 draft: false
 title: "Valheim: Murder Swamp Online"
 author: "Tipa"
+disqusIdentifier: "2021/11/26/valheim-murder-swamp-online"
 summary: "The swamp biome was already Valheim's deadliest, in my opinion. A new \"stirring in the mist\" just made it a little bit deadlier -- but..."
 categories:
   - "Survival"
@@ -11,6 +12,19 @@ tags:
   - "Roots"
   - "Stats"
   - "Swamp"
+relatedPosts:
+  - url: "/2025/01/02/best-of-2024-survival-crafting-games/"
+    title: "Best of 2024: Survival Crafting Games"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/survivalbanner.png"
+  - url: "/2024/06/17/valheim-the-endless-corpse-run/"
+    title: "Valheim: The Endless Corpse Run"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/06/Valheim-Screenshot-2024.06.15-20.50.56.55-scaled.jpg"
+  - url: "/2022/06/26/v-rising-hitting-the-hemoglobin/"
+    title: "V Rising: Hitting the Hemoglobin"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/06/20220626091446_1.jpg"
+  - url: "/2022/05/02/restarting-in-valheim/"
+    title: "Restarting in Valheim"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/05/20220429225417_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/20211126173621_1_resized.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/20211126173621_1_resized.jpg"
 ---

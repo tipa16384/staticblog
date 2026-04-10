@@ -3,6 +3,7 @@ date: '2021-10-07T23:37:50-05:00'
 draft: false
 title: "He thought I was joking."
 author: "Tipa"
+disqusIdentifier: "2021/10/07/he-thought-i-was-joking"
 summary: "UltrViolet writes great posts but doesn't have any comment section on his blog. Sometimes you just have to take that extra step...."
 categories:
   - "Blaugust"
@@ -14,6 +15,19 @@ categories:
 tags:
   - "Blogging"
   - "Daily Log"
+relatedPosts:
+  - url: "/2020/08/12/blaugust-11-what-weve-lost-along-the-way/"
+    title: "Blaugust #11: What We've Lost Along the Way"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/googlere.png"
+  - url: "/2020/04/27/daily-gaming-log-april-27/"
+    title: "Daily Gaming Log: April 27."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/04/2020042615283300-93C1C73A3BAF9123A15B9B24886B634B-1024x576.jpg"
+  - url: "/2025/12/20/the-2025-daily-blogroll-awards/"
+    title: "The 2025 Daily Blogroll Awards"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/dailyblogrollawards.png"
+  - url: "/2025/10/16/taking-control-of-my-skeets-and-toots/"
+    title: "Taking Control of my Skeets and Toots"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/hq720.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/endgame_auto_x2_toned_light_ai.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/endgame_auto_x2_toned_light_ai.jpg"
 ---

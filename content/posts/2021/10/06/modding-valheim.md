@@ -3,6 +3,7 @@ date: '2021-10-06T08:16:51-05:00'
 draft: false
 title: "Modding Valheim"
 author: "Tipa"
+disqusIdentifier: "2021/10/06/modding-valheim"
 summary: "I resisted running mods for Valheim for so long... but I saw some folks talking about building their homes in New World, and I was..."
 categories:
   - "Steam Games"
@@ -12,6 +13,19 @@ tags:
   - "Iron Gate"
   - "Mods"
   - "Thunderstore"
+relatedPosts:
+  - url: "/2022/06/26/v-rising-hitting-the-hemoglobin/"
+    title: "V Rising: Hitting the Hemoglobin"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/06/20220626091446_1.jpg"
+  - url: "/2022/05/02/restarting-in-valheim/"
+    title: "Restarting in Valheim"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/05/20220429225417_1.jpg"
+  - url: "/2021/09/22/valheim-hearth-home-lox/"
+    title: "Valheim: Hearth & Home & Lox"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/20210922072238_1.jpg"
+  - url: "/2021/07/18/valheim-five-years-later/"
+    title: "Valheim: Five Years Later"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/20210717220919_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/valheimmods.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/valheimmods.png"
 ---

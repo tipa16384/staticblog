@@ -3,12 +3,26 @@ date: '2009-05-22T07:11:16-05:00'
 draft: false
 title: "Puyo Puyo 7 coming this year to a console near you!"
 author: "Tipa"
+disqusIdentifier: "2009/05/22/puyo-puyo-7-coming-this-year-to-a-console-near-you"
 summary: "Back in the 90s, I was VERY much into anime and Japanese pop culture in general. And I had a GameBoy Color Pikachu (where IS..."
 categories:
   - "Other Games"
   - "Puyo Puyo"
 tags:
   - "Puyo Puyo 7"
+relatedPosts:
+  - url: "/2025/08/06/la-brute-battles-royale-and-warring-guilds/"
+    title: "La Brute: Battles Royale and Warring Guilds"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/LaBrute.png"
+  - url: "/2025/07/10/frosthaven-scenario-14-jagged-shoals/"
+    title: "Frosthaven Scenario 14: Jagged Shoals"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/07/IMG_5225-scaled.jpg"
+  - url: "/2024/11/21/dragon-age-the-veilguard-finished/"
+    title: "Dragon Age: the Veilguard finished"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/banner2.png"
+  - url: "/2024/11/09/dragon-age-the-veilguard-is-not-the-game-you-think-it-is/"
+    title: "Dragon Age: The Veilguard is not the game you think it is"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/davg-banner.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/puyo7.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/puyo7.jpg"
 ---

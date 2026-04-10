@@ -3,6 +3,7 @@ date: '2022-08-07T07:00:00-05:00'
 draft: false
 title: "The Seven Sages: A Masterclass in Metroidvania Design"
 author: "Tipa"
+disqusIdentifier: "2022/08/07/the-seven-sages-a-masterclass-in-metroidvania-design"
 summary: "In \"The Seven Sages\", you play as one of the seven ancient sages of mystery, who must journey through a vast and dangerous world to gather the seven magical artifacts that will save the realm from a great evil."
 categories:
   - "2D Platformer"
@@ -25,6 +26,19 @@ tags:
   - "Seven Sages"
   - "The Seven Sages"
   - "Video Game"
+relatedPosts:
+  - url: "/2022/08/27/the-27th-chamber-a-game-about-time/"
+    title: "The 27th Chamber: A Game about Time"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/27chamber.png"
+  - url: "/2022/08/19/can-you-make-it-to-the-end-of-19th-street-in-this-frantic-endless-runner/"
+    title: "Can You Make It To The End Of 19th Street In This Frantic Endless Runner?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-11-19.48.05-synthwave-one-point-perspective-a-businesswoman-sprinting-toward-the-camera-along-a-busy-city-sidewalk-with-tall-buildings-in-the-background.png"
+  - url: "/2022/08/08/the-amazing-adventures-of-8-ball/"
+    title: "The Amazing Adventures of 8-Ball!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/TipaNina_A_tuxedo_cat_wearing_a_red_bowtie._He_is_standing_in_f_7f5ba02f-45ee-4c41-bf1c-71df9e5d3245.png"
+  - url: "/2022/08/30/blaugust-theme-week-lessons-learned/"
+    title: "Blaugust theme week: Lessons learned"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-30-23.00.58-35mm-long-range-photograph-of-a-woman-warrior-reading-a-book-while-sitting-against-a-sleeping-green-dragon-near-a-mountain-lake-pastel-colors-peacef.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/7sages2.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/7sages2.png"
 ---

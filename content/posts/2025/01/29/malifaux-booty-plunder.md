@@ -3,6 +3,7 @@ date: '2025-01-29T09:00:00-05:00'
 draft: false
 title: "Malifaux: Booty &amp; Plunder"
 author: "Tipa"
+disqusIdentifier: "2025/01/29/malifaux-booty-plunder"
 summary: "Rasputina and her crew are painted and ready for \"primed\" time in her first serious match-up."
 categories:
   - "Malifaux"
@@ -12,6 +13,19 @@ tags:
   - "December"
   - "Rasputina"
   - "The Haven"
+relatedPosts:
+  - url: "/2025/01/12/malifaux-the-littlest-capn/"
+    title: "Malifaux: The Littlest Cap'n"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/littlecaptainbanner.png"
+  - url: "/2026/02/01/captaincon-2026-masters-of-malifaux/"
+    title: "CaptainCon 2026: Masters of Malifaux"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/CC_Logo_Red.webp"
+  - url: "/2025/06/07/malifaux-4e-december-meets-the-family/"
+    title: "Malifaux 4e: December Meets the Family"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/perdita.png"
+  - url: "/2025/09/30/malifaux-4e-rasputina-vs-maxine/"
+    title: "Malifaux 4e: Rasputina vs Maxine"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/rasp2vsmax2.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/bootyplunder.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/bootyplunder.png"
 ---

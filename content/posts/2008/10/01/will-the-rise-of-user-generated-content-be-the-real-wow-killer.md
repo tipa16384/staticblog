@@ -3,6 +3,7 @@ date: '2008-10-01T15:42:37-05:00'
 draft: false
 title: "Will the rise of User Generated Content be the real \"WoW-killer\"?"
 author: "Tipa"
+disqusIdentifier: "2008/10/01/will-the-rise-of-user-generated-content-be-the-real-wow-killer"
 summary: "Maracas aren't as good at warding off intergalactic invaders as I thought they would be...."
 categories:
   - "Chronicles of Spellborn"
@@ -11,6 +12,19 @@ categories:
   - "Vanguard"
   - "Warhammer: Age of Reckoning"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2009/06/04/daily-blogroll-64-get-off-my-lawn-edition/"
+    title: "Daily Blogroll 6/4 -- Get off my lawn edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/retirement.jpg"
+  - url: "/2008/12/24/a-look-back-at-2008/"
+    title: "A look back at 2008"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-30-22-10-50-69.jpg"
+  - url: "/2009/05/19/daily-blogroll-519-black-lung-edition/"
+    title: "Daily Blogroll 5/19 -- Black Lung edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/exefile-2009-05-18-23-31-07-25.jpg"
+  - url: "/2009/04/24/web-log-424-friday-is-free-day-edition/"
+    title: "Web Log 4/24 -- Friday is Free Day edition"
+    thumbnailImage: "http://www.penny-arcade.com/images/2009/20090424.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/sporeapp-2008-09-28-08-02-17-19.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/sporeapp-2008-09-28-08-02-17-19.jpg"
 ---

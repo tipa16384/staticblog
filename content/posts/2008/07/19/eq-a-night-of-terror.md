@@ -3,6 +3,7 @@ date: '2008-07-19T08:05:33-05:00'
 draft: false
 title: "EQ: A Night of Terror."
 author: "Tipa"
+disqusIdentifier: "2008/07/19/eq-a-night-of-terror"
 summary: "Terror -- if you're a dragon. Nostalgia the Guild set up a face-to-face for Naggy and Vox with old Veeshan, and I don't think Queen..."
 categories:
   - "EverQuest"
@@ -11,6 +12,19 @@ categories:
 tags:
   - "Lady Vox"
   - "Lord Nagafen"
+relatedPosts:
+  - url: "/2008/08/02/eq-the-last-dragons/"
+    title: "EQ: The Last Dragons"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/eqgame-2008-08-01-20-57-03-54.jpg"
+  - url: "/2008/07/12/eq-ding-dong-the-vox-is-dead/"
+    title: "EQ: Ding dong, the Vox is dead."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/voxdead.jpg"
+  - url: "/2008/07/26/eq-the-half-baked-half-dozen/"
+    title: "EQ: The Half-Baked Half Dozen"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/eqgame-2008-07-25-22-29-20-28.jpg"
+  - url: "/2008/07/16/eq-tower-of-frozen-shadow-floors-2-and-3/"
+    title: "EQ: Tower of Frozen Shadow, floors 2 and 3."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/eqgame-2008-07-15-22-00-20-56.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/eqgame-2008-07-18-20-35-20-29.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/eqgame-2008-07-18-20-35-20-29.jpg"
 ---

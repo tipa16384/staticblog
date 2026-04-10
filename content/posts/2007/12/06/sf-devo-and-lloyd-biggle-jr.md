@@ -3,10 +3,24 @@ date: '2007-12-06T14:45:45-05:00'
 draft: false
 title: "SF: Devo and Lloyd Biggle Jr."
 author: "Tipa"
+disqusIdentifier: "2007/12/06/sf-devo-and-lloyd-biggle-jr"
 summary: "Via boingboing, I found a great LA Weekly profile of Devo co-founder Mark Motherbaugh's turn from New Wave post-punk icon to noted, \"quirky\", soundtrack and..."
 categories:
   - "General"
   - "Sci Fi"
+relatedPosts:
+  - url: "/2015/09/13/beam-me-up/"
+    title: "Beam me up..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/09/1-Star-Trek-Me-1.jpg"
+  - url: "/2011/07/31/space-battleship-yamato-the-movie/"
+    title: "Space Battleship Yamato (the movie)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/07/wmplayer-2011-07-31-08-54-13-39-480x320.jpg"
+  - url: "/2008/07/22/save-the-middleman/"
+    title: "Save the Middleman!"
+    thumbnailImage: ""
+  - url: "/2008/07/09/the-middleblog/"
+    title: "The Middleblog"
+    thumbnailImage: ""
 ---
 Via boingboing, I found a great LA Weekly profile of Devo co-founder Mark Motherbaugh's turn from New Wave post-punk icon to noted, "quirky", soundtrack and...
 <!--more-->

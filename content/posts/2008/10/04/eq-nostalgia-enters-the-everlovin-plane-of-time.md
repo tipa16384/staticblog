@@ -3,6 +3,7 @@ date: '2008-10-04T00:26:03-05:00'
 draft: false
 title: "EQ: Nostalgia enters the everlovin' PLANE of TIME."
 author: "Tipa"
+disqusIdentifier: "2008/10/04/eq-nostalgia-enters-the-everlovin-plane-of-time"
 summary: "Photoshop stitched together four screenshots to make this, automatically. Pretty neat!..."
 categories:
   - "EverQuest"
@@ -17,6 +18,19 @@ tags:
   - "Planes of Power"
   - "Seeds of Destruction"
   - "Warsliks Woods"
+relatedPosts:
+  - url: "/2008/09/27/eq-the-lurkers-of-lavaspinners-lair-more/"
+    title: "EQ: The Lurkers of Lavaspinner's Lair & more"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/eqgame-2008-09-26-19-45-56-08.jpg"
+  - url: "/2008/09/11/eq-plane-of-storms/"
+    title: "EQ: Plane of Storms"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/eqgame-2008-09-05-20-38-19-75.jpg"
+  - url: "/2008/10/25/eq-the-bastion-of-thunder/"
+    title: "EQ: The Bastion of Thunder"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-25-07-09-32-24.jpg"
+  - url: "/2008/10/22/eq-seeds-of-destruction-meet-caiffin-the-merc/"
+    title: "EQ: Seeds of Destruction: Meet Caiffin, the Merc."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-21-22-24-23-12.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/pot.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/pot.jpg"
 ---

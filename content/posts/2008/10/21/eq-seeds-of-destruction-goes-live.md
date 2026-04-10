@@ -3,6 +3,7 @@ date: '2008-10-21T11:38:16-05:00'
 draft: false
 title: "EQ: Seeds of Destruction goes live!"
 author: "Tipa"
+disqusIdentifier: "2008/10/21/eq-seeds-of-destruction-goes-live"
 summary: "Massively is reporting that Seeds of Destruction goes live today. Since I abandoned the high level game over a year and a half ago, closer..."
 categories:
   - "EverQuest"
@@ -12,6 +13,19 @@ tags:
   - "Hirelings"
   - "Mercenaries"
   - "Seeds of Destruction"
+relatedPosts:
+  - url: "/2008/10/22/eq-seeds-of-destruction-meet-caiffin-the-merc/"
+    title: "EQ: Seeds of Destruction: Meet Caiffin, the Merc."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-21-22-24-23-12.jpg"
+  - url: "/2008/11/01/eq-nostalgia-enters-vex-thal/"
+    title: "EQ: Nostalgia enters Vex Thal!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/eqgame-2008-11-01-12-03-19-13.jpg"
+  - url: "/2008/10/25/eq-the-bastion-of-thunder/"
+    title: "EQ: The Bastion of Thunder"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-25-07-09-32-24.jpg"
+  - url: "/2008/10/04/eq-nostalgia-enters-the-everlovin-plane-of-time/"
+    title: "EQ: Nostalgia enters the everlovin' PLANE of TIME."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/pot.jpg"
 ---
 Massively is reporting that Seeds of Destruction goes live today. Since I abandoned the high level game over a year and a half ago, closer...
 <!--more-->

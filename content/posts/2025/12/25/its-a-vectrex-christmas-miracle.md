@@ -3,6 +3,7 @@ date: '2025-12-25T15:12:24-05:00'
 draft: false
 title: "It's a Vectrex Christmas Miracle!"
 author: "Tipa"
+disqusIdentifier: "2025/12/25/its-a-vectrex-christmas-miracle"
 summary: "Also Nintendo 64 and... EverQuest II? Yes, EQ2."
 categories:
   - "EverQuest"
@@ -13,6 +14,19 @@ tags:
   - "Cosmic Chasm"
   - "Lost Worlds"
   - "Viewpoint"
+relatedPosts:
+  - url: "/2025/11/17/lost-worlds-not-so-lost-anymore/"
+    title: "Lost Worlds: not so lost anymore?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/IMG_5485-EDIT-scaled.jpg"
+  - url: "/2023/08/17/the-games-that-defined-me-part-2-arcade/"
+    title: "The Games that Defined Me, Part 2 -- Arcade"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/startrek.png"
+  - url: "/2025/09/15/retro-world-expo-2025-a-guilty-gear-pleasure/"
+    title: "Retro World Expo 2025: A Guilty (Gear) Pleasure"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/ebc958ca-095d-4a90-8173-3680e2352fb2.png"
+  - url: "/2026/01/11/quest-64-i-played-the-worst-rpg-on-the-nintendo-64/"
+    title: "Quest 64: I played the worst RPG on the Nintendo 64 -- and I liked it"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/Screenshot-2026-01-09-18-19-11.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/IMG_5584-scaled.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/IMG_5584-scaled.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2024-05-04T16:48:35-05:00'
 draft: false
 title: "EverQuest II goes retro with Anashti Sul"
 author: "Tipa"
+disqusIdentifier: "2024/05/04/everquest-ii-goes-retro-with-anashti-sul"
 summary: "It's probably intentional that the latest EverQuest 2 server, Anashti Sul, is named after a deity once known as the \"Lifegiver\", but now more known for bringing life to the dead."
 categories:
   - "EverQuest II"
@@ -12,6 +13,19 @@ tags:
   - "Anashti Sul"
   - "EverQuest II"
   - "TLP"
+relatedPosts:
+  - url: "/2008/10/07/eq2-the-return-of-anashti-sul/"
+    title: "EQ2: The return of Anashti Sul?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/everquest2-2008-10-06-22-41-21-45.jpg"
+  - url: "/2008/09/17/eq2-gu-49-test-patch-notes-commentary/"
+    title: "EQ2: GU 49 Test patch notes commentary"
+    thumbnailImage: ""
+  - url: "/2008/10/07/eq2-gu49-live/"
+    title: "EQ2: GU49 live!"
+    thumbnailImage: ""
+  - url: "/2007/11/30/eq2-failure-cascade/"
+    title: "EQ2: Failure Cascade"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/11/everquest2-2007-11-30-06-50-11-87.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/anashtisul.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/anashtisul.jpg"
 ---

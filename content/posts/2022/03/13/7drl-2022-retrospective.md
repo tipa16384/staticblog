@@ -3,9 +3,23 @@ date: '2022-03-13T09:55:32-05:00'
 draft: false
 title: "7DRL 2022: Retrospective"
 author: "Tipa"
+disqusIdentifier: "2022/03/13/7drl-2022-retrospective"
 summary: "7DRL is over. Most everyone has turned in their games. After several hours of last minute changes to improve balance, I submitted \"You Are the..."
 categories:
   - "7DRL"
+relatedPosts:
+  - url: "/2025/03/10/how-to-fail-at-writing-a-game-in-7-days/"
+    title: "How To Fail at Writing A Game in 7 Days"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/gamedevadventure.png"
+  - url: "/2022/03/11/7drl-2022-day-5-im-damaged-and-i-like-it/"
+    title: "7DRL 2022 Day 5: I'm Damaged, and I Like It"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/ezgif.com-gif-maker-5.gif"
+  - url: "/2022/03/10/7drl-2022-day-4-tossing-and-turning/"
+    title: "7DRL 2022 Day 4: Tossing and Turning"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/yata-screenshot-2.png"
+  - url: "/2022/03/09/7drl-2022-day-3-targeting-and-attacking/"
+    title: "7DRL 2022 Day 3: Targeting and Attacking"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/day3teaser.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/1-Dream_TradingCard-4.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/1-Dream_TradingCard-4.jpg"
 ---

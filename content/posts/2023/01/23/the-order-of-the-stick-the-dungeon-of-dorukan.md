@@ -3,6 +3,7 @@ date: '2023-01-23T08:18:29-05:00'
 draft: false
 title: "The Order of the Stick: The Dungeon of Dorukan"
 author: "Tipa"
+disqusIdentifier: "2023/01/23/the-order-of-the-stick-the-dungeon-of-dorukan"
 summary: "Ever like a web comic that satirizes Dungeons and Dragons so much that you wanted to play as those characters in a board game? You're in luck -- \"The Order of the Stick: The Dungeon of Dorukan\" is here."
 categories:
   - "Comic"
@@ -11,6 +12,19 @@ categories:
 tags:
   - "The Dungeon of Dorukan"
   - "The Order of the Stick"
+relatedPosts:
+  - url: "/2024/01/09/heroquest-the-stone-hunter/"
+    title: "HeroQuest: The Stone Hunter"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/tipachu_a_dwarf_warrior_in_shining_plate_armor_wielding_a_golde_41db7272-d75f-48c1-acc0-be33fa2fa3e5.png"
+  - url: "/2023/09/24/dd-session-1-the-lost-mine-of-phandelver/"
+    title: "D&D Session 1: The Lost Mine of Phandelver"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/Phandelverobservers.webp"
+  - url: "/2022/12/28/skyrim-except-its-a-board-game/"
+    title: "Skyrim, except it's a board game"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/pic7203331.webp"
+  - url: "/2022/09/11/game-night-flamecraft/"
+    title: "Game Night: Flamecraft"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-11-08.51.00-Ink-and-watercolor-drawing-of-the-interior-of-a-19th-century-flower-shop-wooden-counter-wooden-floor-watering-can-on-the-counter-gardening-tools-o.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/01/pic169316.webp"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/01/pic169316.webp"
 ---

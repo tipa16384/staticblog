@@ -3,6 +3,7 @@ date: '2022-07-18T08:25:39-05:00'
 draft: false
 title: "Ogre Battle, Blaugust, Steam Deck, V Rising, and Guild Wars 2"
 author: "Tipa"
+disqusIdentifier: "2022/07/18/ogre-battle-blaugust-steam-deck-v-rising-and-guild-wars-2"
 summary: "Each of these probably should get their own posts, but I am exceedingly lazy...."
 categories:
   - "Blaugust"
@@ -18,6 +19,19 @@ tags:
   - "Ogre Battle"
   - "Steam Deck"
   - "Team Spode"
+relatedPosts:
+  - url: "/2023/02/21/pokemon-the-newish-addiction/"
+    title: "Pokémon: The New(ish) Addiction"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/02/pokemonaddiction.png"
+  - url: "/2022/06/26/v-rising-hitting-the-hemoglobin/"
+    title: "V Rising: Hitting the Hemoglobin"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/06/20220626091446_1.jpg"
+  - url: "/2021/08/07/mmos-on-the-bubble/"
+    title: "MMOs on the Bubble"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/STP61286.jpg"
+  - url: "/2022/06/23/symphony-of-war-the-nephilim-saga/"
+    title: "Symphony of War: The Nephilim Saga"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/06/20220622113658_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/ogrebbbllll.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/ogrebbbllll.png"
 ---

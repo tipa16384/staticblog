@@ -3,6 +3,7 @@ date: '2008-08-23T08:19:43-05:00'
 draft: false
 title: "EQ: Hot zone hoedown"
 author: "Tipa"
+disqusIdentifier: "2008/08/23/eq-hot-zone-hoedown"
 summary: "The plan was to help everyone get to level 60 so we can start doing some of the two group raids in Kunark, Velious and..."
 categories:
   - "EverQuest"
@@ -18,6 +19,19 @@ tags:
   - "Plane of Storms"
   - "Tolapumj"
   - "Trial of Execution"
+relatedPosts:
+  - url: "/2008/09/11/eq-plane-of-storms/"
+    title: "EQ: Plane of Storms"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/eqgame-2008-09-05-20-38-19-75.jpg"
+  - url: "/2008/12/10/new-everquest-hot-zones-rmt-and-frostfell-missions/"
+    title: "New EverQuest hot zones. RMT, and Frostfell missions"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/eqgame-2008-12-10-08-05-08-12.jpg"
+  - url: "/2008/09/27/eq-the-lurkers-of-lavaspinners-lair-more/"
+    title: "EQ: The Lurkers of Lavaspinner's Lair & more"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/eqgame-2008-09-26-19-45-56-08.jpg"
+  - url: "/2008/08/20/new-hot-zones-for-everquest/"
+    title: "New hot zones for EverQuest"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/eqgame-2008-08-22-22-02-52-46.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/eqgame-2008-08-22-22-02-52-46.jpg"
 ---

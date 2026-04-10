@@ -3,6 +3,7 @@ date: '2021-09-25T09:54:27-05:00'
 draft: false
 title: "Game Night: My Little Scythe and the Watson Game Topper"
 author: "Tipa"
+disqusIdentifier: "2021/09/25/game-night-my-little-scythe-and-the-watson-game-topper"
 summary: "In yesterday's Game Night, we eased my sister deeper into the world of board gaming with \"My Little Scythe\", and tested out Game Toppers' \"Watson\"..."
 categories:
   - "Game Night"
@@ -18,6 +19,19 @@ tags:
   - "Lords of Waterdeep"
   - "The Red Dragon Inn"
   - "Vast the Crystal Caverns"
+relatedPosts:
+  - url: "/2021/10/02/game-night-scythe-and-my-little-scythe/"
+    title: "Game Night: Scythe (and My Little Scythe)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/Scythe-Board-Game-img06.jpg"
+  - url: "/2024/04/18/confessions-of-a-kickstarter-superbacker/"
+    title: "Confessions of a Kickstarter Superbacker"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/superbacker.png"
+  - url: "/2024/04/12/is-terraforming-mars-too-good/"
+    title: "Is Terraforming Mars... too good?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/terraformingmarsbanner.jpg"
+  - url: "/2025/09/04/still-more-confessions-of-a-kickstarter-superbacker/"
+    title: "Still More Confessions of a Kickstarter Superbacker"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/superbacker.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/2-IMG_2337.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/2-IMG_2337.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2025-08-08T19:10:50-05:00'
 draft: false
 title: "Lilliput's Workshop"
 author: "Tipa"
+disqusIdentifier: "2025/08/08/lilliputs-workshop"
 summary: "Do you like little wooden train sets and solving puzzles? Well, if you do, have I got a game for you..."
 categories:
   - "Blaugust"
@@ -10,6 +11,19 @@ categories:
   - "Steam Games"
 tags:
   - "Lilliput Workshop"
+relatedPosts:
+  - url: "/2025/08/25/herdling/"
+    title: "Herdling"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/herdlingbanner.png"
+  - url: "/2025/09/01/august-blogging-from-2005-to-today/"
+    title: "August Blogging from 2005 to today"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/raspy-blogging.png"
+  - url: "/2025/08/31/the-vectrex-is-coming-back-in-pog-form/"
+    title: "The Vectrex is coming back... in pog form!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/vectrexmini.png"
+  - url: "/2025/08/30/dune-awakening-we-finally-got-ganked/"
+    title: "Dune Awakening: We finally got ganked"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/20250830103401_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/lilliputbanner.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/lilliputbanner.png"
 ---

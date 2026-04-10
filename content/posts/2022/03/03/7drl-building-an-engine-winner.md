@@ -3,12 +3,26 @@ date: '2022-03-03T08:21:20-05:00'
 draft: false
 title: "7DRL: Building an Engine -- Winner."
 author: "Tipa"
+disqusIdentifier: "2022/03/03/7drl-building-an-engine-winner"
 summary: "The last element of the 7DRL engine's \"must haves\" -- a win condition for the player. With that out of the way, let's talk about..."
 categories:
   - "7DRL"
 tags:
   - "Rogue"
   - "Tiled"
+relatedPosts:
+  - url: "/2022/03/07/7drl-2022-day-2-dungeon-room/"
+    title: "7DRL 2022 Day 2: Dungeon Room"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/ezgif.com-gif-maker-2.gif"
+  - url: "/2022/03/04/7drl-building-an-engine-i-screwed-up/"
+    title: "7DRL: Building an Engine -- I Screwed Up."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/7drlfail.png"
+  - url: "/2024/08/13/breakhack-fight-die-repeat/"
+    title: "Breakhack: Fight, Die, Repeat"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/1-20240812215759_1.jpg"
+  - url: "/2024/06/12/heroquest-return-to-barak-tor/"
+    title: "HeroQuest: Return to Barak-Tor"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/06/return-14.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/screenshot.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/screenshot.png"
 ---

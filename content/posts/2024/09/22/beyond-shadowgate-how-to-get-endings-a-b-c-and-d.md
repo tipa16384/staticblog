@@ -3,6 +3,7 @@ date: '2024-09-22T14:54:47-05:00'
 draft: false
 title: "Beyond Shadowgate -- how to get endings A, B, C and D."
 author: "Tipa"
+disqusIdentifier: "2024/09/22/beyond-shadowgate-how-to-get-endings-a-b-c-and-d"
 summary: "I couldn't leave Beyond Shadowgate behind unless I'd managed to get all four endings. Here's how."
 categories:
   - "Adventure"
@@ -11,6 +12,19 @@ categories:
 tags:
   - "Beyond Shadowgate"
   - "Shadowgate"
+relatedPosts:
+  - url: "/2024/09/21/beyond-shadowgate-hey-i-actually-finished-a-game/"
+    title: "Beyond Shadowgate: Hey, I actually finished a game!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/1-Desktop-Screenshot-2024.09.21-18.35.06.66.jpg"
+  - url: "/2024/09/20/beyond-shadowgate-a-classic-reimagined/"
+    title: "Beyond Shadowgate: a classic reimagined."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/2-Beyond-Shadowgate-Screenshot-2024.09.19-23.10.27.86.jpg"
+  - url: "/2024/04/18/confessions-of-a-kickstarter-superbacker/"
+    title: "Confessions of a Kickstarter Superbacker"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/superbacker.png"
+  - url: "/2024/04/19/beyond-shadowgate-the-demo/"
+    title: "Beyond Shadowgate -- the Demo"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/thumb0-640x360-1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/1-Desktop-Screenshot-2024.09.22-13.07.42.90.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/1-Desktop-Screenshot-2024.09.22-13.07.42.90.jpg"
 ---

@@ -3,12 +3,26 @@ date: '2020-05-11T11:48:21-05:00'
 draft: false
 title: "Godville is ten years old!"
 author: "Tipa"
+disqusIdentifier: "2020/05/11/godville-is-ten-years-old"
 summary: "Everyone's most favorite Zero Player RPG (ZPG), Godville, just had its tenth anniversary. And I've been playing for most of that time...."
 categories:
   - "Godville"
   - "Web Games"
 tags:
   - "ZPG"
+relatedPosts:
+  - url: "/2026/01/24/dominus-automa-an-idle-mmo-for-busy-dads/"
+    title: "Dominus Automa: An Idle MMO for Busy Dads"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/dominusautoma.png"
+  - url: "/2015/09/10/double-dragon-down/"
+    title: "Double Dragon Down"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/09/1-Fullscreen-capture-992015-113559-PM.jpg"
+  - url: "/2015/01/17/i-was-surprised-to-see-so-much-interest-in-a-godville-post-godville-is-indeed-a-game-like-progressquest/"
+    title: "Godville: Dungeon Run"
+    thumbnailImage: "https://lh6.googleusercontent.com/-IWUZmew2OuE/VLnFtlji8HI/AAAAAAAA-xo/4QcGZ8L1mrg/w506-h750/Fullscreen%2Bcapture%2B1162015%2B71447%2BPM.jpg"
+  - url: "/2015/01/16/my-pet-finally-hit-level-30-in-godville-and-i-now-can-proudly-bear-the-pet-trainer-badge-and-have/"
+    title: "Godville: Pet Trainer!"
+    thumbnailImage: "https://lh6.googleusercontent.com/-yBPk_9w5Qws/VLj0um-b4XI/AAAAAAAA-uk/iYq_tReYjek/w506-h750/Fullscreen%2Bcapture%2B1162015%2B61953%2BAM.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/godville.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/godville.png"
 ---

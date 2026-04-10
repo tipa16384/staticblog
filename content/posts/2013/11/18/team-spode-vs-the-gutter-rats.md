@@ -3,12 +3,26 @@ date: '2013-11-18T08:12:20-05:00'
 draft: false
 title: "Team Spode vs the Gutter Rats"
 author: "Tipa"
+disqusIdentifier: "2013/11/18/team-spode-vs-the-gutter-rats"
 summary: "Until Kaptain KY returns from his long sabbatical in the wilds of Canada, his spot in Team Spode is being kept warm by Stingheal's wife,..."
 categories:
   - "DC Universe Online"
   - "MMORPG"
 tags:
   - "Team Spode"
+relatedPosts:
+  - url: "/2015/11/24/desecrated-cathedral/"
+    title: "Desecrated Cathedral"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/11/DCGame-2015-11-22-22-38-48-50.jpg"
+  - url: "/2015/09/21/thats-the-power-of-love/"
+    title: "That's the Power of Love"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/09/1-DCGame-2015-09-20-22-43-18-06.jpg"
+  - url: "/2015/01/19/dcuo-war-of-light-iiits-been-a-whirlwind-few-days-since-i-mysteriously-hit-cr-106-and-became-eligible/"
+    title: "DCUO: War of Light II!"
+    thumbnailImage: "https://lh6.googleusercontent.com/-gzNw8KKJpYw/VL0y4IwEpWI/AAAAAAAA-4I/O5mz27BYkNo/w506-h750/MLOC128_DESIGNERDATA-PC-18-22.43.420.jpg"
+  - url: "/2015/01/05/dcuo-lantern-no-moreflush-with-the-legendary-infusion-of-station-cash-that-came-with-the-new-month/"
+    title: "DCUO: Lantern No More"
+    thumbnailImage: "https://lh4.googleusercontent.com/-wg_XdA0AXPs/VKqHwhs-46I/AAAAAAAA-N4/PuAq2EDX2Gs/w506-h750/DCGame%2B2015-01-04%2B22-12-37-84.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/11/MPYR0214_ART_004-PC-17-22.13.150.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/11/MPYR0214_ART_004-PC-17-22.13.150.jpg"
 ---

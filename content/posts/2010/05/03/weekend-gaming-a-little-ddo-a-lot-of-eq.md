@@ -3,11 +3,25 @@ date: '2010-05-03T06:24:35-05:00'
 draft: false
 title: "Weekend Gaming: A little DDO, a lot of EQ"
 author: "Tipa"
+disqusIdentifier: "2010/05/03/weekend-gaming-a-little-ddo-a-lot-of-eq"
 summary: "You say you're about to do \"The Proof is in the Poison\" quest you picked up in the Stormreach Market? You're standing at the door,..."
 categories:
   - "Dungeons & Dragons Online"
   - "EverQuest"
   - "MMORPG"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2011/05/13/daily-blogroll-513-truth-in-advertising-edition/"
+    title: "Daily Blogroll 5/13: Truth in Advertising Edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/05/Fullscreen-capture-5112011-61851-AM-480x308.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2010/10/29/halloween-around-the-multiverse/"
+    title: "Halloween around the multiverse...."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/STOPumpkin.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/dndclient-2010-05-02-21-37-28-97.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/dndclient-2010-05-02-21-37-28-97.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2021-08-19T22:43:57-05:00'
 draft: false
 title: "Game Night: JotL \"The Gauntlet\""
 author: "Tipa"
+disqusIdentifier: "2021/08/19/game-night-jotl-the-gauntlet"
 summary: "I'm kind of worried about the next time when we play \"Jaws of the Lion\", as we'll be confronting cultists again. I don't really know..."
 categories:
   - "3D Printing"
@@ -13,6 +14,19 @@ categories:
   - "Tabletop Games"
 tags:
   - "Blaugust"
+relatedPosts:
+  - url: "/2021/08/23/this-post-isnt-about-tiny-rogue/"
+    title: "This Post Isn't About Mini Rogue"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-IMG_2295.jpg"
+  - url: "/2025/06/24/frosthaven-7-the-edge-of-the-world/"
+    title: "Frosthaven #7: The Edge of the World"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/IMG_5196-1-scaled.jpg"
+  - url: "/2025/04/29/frosthaven-scenario-1-town-in-flames/"
+    title: "Frosthaven Scenario #1: Town in Flames"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/04/IMG_5077-scaled.jpg"
+  - url: "/2022/07/19/gloomhaven-jaws-of-the-lion-finished/"
+    title: "Gloomhaven Jaws of the Lion: Finished."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/jotlbox.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-IMG_2293-001.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-IMG_2293-001.jpg"
 ---

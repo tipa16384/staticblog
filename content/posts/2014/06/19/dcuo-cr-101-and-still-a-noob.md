@@ -3,12 +3,26 @@ date: '2014-06-19T07:13:21-05:00'
 draft: false
 title: "DCUO: CR 101 and still a noob."
 author: "Tipa"
+disqusIdentifier: "2014/06/19/dcuo-cr-101-and-still-a-noob"
 summary: "Combat Rating -- \"CR\" -- in DCUO determines where you can go, what you can do, and what kind of groups will want you. Shouting..."
 categories:
   - "DC Universe Online"
   - "MMORPG"
 tags:
   - "Team Spode"
+relatedPosts:
+  - url: "/2015/11/24/desecrated-cathedral/"
+    title: "Desecrated Cathedral"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/11/DCGame-2015-11-22-22-38-48-50.jpg"
+  - url: "/2015/09/21/thats-the-power-of-love/"
+    title: "That's the Power of Love"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/09/1-DCGame-2015-09-20-22-43-18-06.jpg"
+  - url: "/2015/01/19/dcuo-war-of-light-iiits-been-a-whirlwind-few-days-since-i-mysteriously-hit-cr-106-and-became-eligible/"
+    title: "DCUO: War of Light II!"
+    thumbnailImage: "https://lh6.googleusercontent.com/-gzNw8KKJpYw/VL0y4IwEpWI/AAAAAAAA-4I/O5mz27BYkNo/w506-h750/MLOC128_DESIGNERDATA-PC-18-22.43.420.jpg"
+  - url: "/2015/01/05/dcuo-lantern-no-moreflush-with-the-legendary-infusion-of-station-cash-that-came-with-the-new-month/"
+    title: "DCUO: Lantern No More"
+    thumbnailImage: "https://lh4.googleusercontent.com/-wg_XdA0AXPs/VKqHwhs-46I/AAAAAAAA-N4/PuAq2EDX2Gs/w506-h750/DCGame%2B2015-01-04%2B22-12-37-84.jpg"
 coverImage: "https://lh5.googleusercontent.com/-_zK4940BNEU/U6LNGaaTSVI/AAAAAAAAvnM/w6VwfiJq_Lg/w712-h597-no/Fullscreen+capture+6182014+104107+PM.jpg"
 thumbnailImage: "https://lh5.googleusercontent.com/-_zK4940BNEU/U6LNGaaTSVI/AAAAAAAAvnM/w6VwfiJq_Lg/w712-h597-no/Fullscreen+capture+6182014+104107+PM.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2008-11-19T09:56:12-05:00'
 draft: false
 title: "Chronicles of Spellborn pushed back to January"
 author: "Tipa"
+disqusIdentifier: "2008/11/19/chronicles-of-spellborn-pushed-back-to-january"
 summary: "I don't think that anyone is really surprised by this, but Massively reports that the launch of Chronicles of Spellborn in North America, UK, Oz,..."
 categories:
   - "Chronicles of Spellborn"
@@ -11,6 +12,19 @@ tags:
   - "Acclaim"
   - "Big Surprise"
   - "Same Old Same Old"
+relatedPosts:
+  - url: "/2010/08/19/chronicles-of-spellborn-anatomy-of-a-failure/"
+    title: "Chronicles of Spellborn: Anatomy of a Failure"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/sb_client-2010-08-18-19-49-21-19-480x270.jpg"
+  - url: "/2009/04/24/acclaim-bonus-coin-weekend-april-24-26/"
+    title: "Acclaim Bonus Coin Weekend April 24-26"
+    thumbnailImage: ""
+  - url: "/2009/03/20/spellborn-on-the-cheap-new-armors-dev-chat/"
+    title: "Spellborn on the cheap, new armors, dev chat"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/armor1.jpg"
+  - url: "/2009/03/20/chronicles-of-spellborn-enters-open-beta/"
+    title: "Chronicles of Spellborn enters open beta!"
+    thumbnailImage: ""
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/tcosbeta.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/tcosbeta.jpg"
 ---

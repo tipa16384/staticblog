@@ -3,6 +3,7 @@ date: '2021-11-02T23:31:03-05:00'
 draft: false
 title: "Quick Look: Pawnbarian"
 author: "Tipa"
+disqusIdentifier: "2021/11/02/quick-look-pawnbarian"
 summary: "A lot of indie developers of turn-based, tactical RPGs were strutting their stuff on Twitter yesterday. So wait a second -- Pawnbarian is a card..."
 categories:
   - "Chess the MMORPG"
@@ -16,6 +17,19 @@ tags:
   - "J4nw"
   - "Steam"
   - "Tactics"
+relatedPosts:
+  - url: "/2020/12/21/quick-takes-unsung-story-tale-of-the-guardian/"
+    title: "Quick Takes: Unsung Story, Tale of the Guardian"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/20201219085246_1.jpg"
+  - url: "/2020/12/11/my-rpgs-of-2020/"
+    title: "My RPGs of 2020"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/Chocobos-Mystery-Dungeon-EVERY-BUDDY_20200506204657.jpg"
+  - url: "/2021/11/01/quick-look-unexplored-2/"
+    title: "Quick Look: Unexplored 2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/mainmenu.png"
+  - url: "/2020/12/30/quick-takes-exapunks/"
+    title: "Quick Takes: Exapunks"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/20201230072838_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/20211102204800_1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/20211102204800_1.jpg"
 ---

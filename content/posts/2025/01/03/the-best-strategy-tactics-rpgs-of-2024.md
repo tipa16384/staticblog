@@ -3,6 +3,7 @@ date: '2025-01-03T19:37:01-05:00'
 draft: false
 title: "The Best Strategy/Tactics RPGs of 2024"
 author: "Tipa"
+disqusIdentifier: "2025/01/03/the-best-strategy-tactics-rpgs-of-2024"
 summary: "Tactics RPGs have been a favorite of mine since Final Fantasy Tactics. These are the best strategy/tactics RPGs I played in 2024."
 categories:
   - "Strategy"
@@ -13,6 +14,19 @@ tags:
   - "Popup Dungeon"
   - "The White Raven"
   - "Those Who Rule"
+relatedPosts:
+  - url: "/2024/10/01/those-who-rule-new-demo/"
+    title: "Those Who Rule: new demo!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/thosewhorulebanner.png"
+  - url: "/2024/07/06/the-white-raven-a-cinematic-tactical-rpg/"
+    title: "The White Raven: A Cinematic Tactical RPG"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/07/whiteraventitle.png"
+  - url: "/2025/01/27/those-who-rule-released/"
+    title: "Those Who Rule released!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/thosewhorulebanner.png"
+  - url: "/2022/07/25/those-who-rule-chapter-1/"
+    title: "Those Who Rule: Chapter 1"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/20220725222601_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/tacticsbanner.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/tacticsbanner.png"
 ---

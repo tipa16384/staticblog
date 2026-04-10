@@ -3,6 +3,7 @@ date: '2008-11-06T15:23:19-05:00'
 draft: false
 title: "Headmaster Ambrose hints at Wizard 101 expansion"
 author: "Tipa"
+disqusIdentifier: "2008/11/06/headmaster-ambrose-hints-at-wizard-101-expansion"
 summary: "After months of speculation over the school of magic Ambrose, Headmaster of Wizard 101's Ravenwood Academy, prefers, Ambrose has revealed that he is a master..."
 categories:
   - "MMORPG"
@@ -11,6 +12,19 @@ tags:
   - "Astral Magic"
   - "Dragonspyre"
   - "Expansion"
+relatedPosts:
+  - url: "/2010/10/09/wizard101-welcome-to-celestia/"
+    title: "Wizard101: Welcome to Celestia!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/WizardGraphicalClient-2010-10-09-17-50-20-17.jpg"
+  - url: "/2010/08/23/wizard101-its-all-about-the-ninja-pig/"
+    title: "Wizard101: It's all about the Ninja Pig"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/WizardGraphicalClient-2010-08-23-23-14-18-90.jpg"
+  - url: "/2009/03/28/wizard-101-so-malistaire-we-meet-again/"
+    title: "Wizard 101: So, Malistaire. We meet again."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-28-00-49-38-56.jpg"
+  - url: "/2009/03/18/wizard-101-father-drakes-tower-2/"
+    title: "Wizard 101: Father Drake's Tower"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-14-20-02-42-60.jpg"
 ---
 After months of speculation over the school of magic Ambrose, Headmaster of Wizard 101's Ravenwood Academy, prefers, Ambrose has revealed that he is a master...
 <!--more-->

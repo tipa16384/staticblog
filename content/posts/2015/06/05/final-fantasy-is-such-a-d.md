@@ -3,10 +3,24 @@ date: '2015-06-05T14:50:32-05:00'
 draft: false
 title: "Final Fantasy XIV is... different?"
 author: "Tipa"
+disqusIdentifier: "2015/06/05/final-fantasy-is-such-a-d"
 summary: "Final Fantasy is such a different experience, that a bit more than a week in, I'm still not sure how I feel about it. I..."
 categories:
   - "Final Fantasy"
   - "MMORPG"
+relatedPosts:
+  - url: "/2025/03/24/monster-hunters-wilding/"
+    title: "Monster Hunters Wilding"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/mhwildsbanner.png"
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2023/05/07/ffxiv-how-i-ruined-a-realm-reborn/"
+    title: "FFXIV: How I Ruined a Realm Reborn..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/ffxiv_05072023_001521_777.jpg"
+  - url: "/2022/07/30/ship-of-heroes-housing-beta-2/"
+    title: "Ship of Heroes: Housing Beta #2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/1-20220730211912_1.jpg"
 coverImage: "https://lh3.googleusercontent.com/-7vt2Nk4JPSQ/VXG3N8Q5aiI/AAAAAAABJh0/Rj2OGV7u5FM/w506-h750/ffxiv%2B2015-06-02%2B23-36-04-00.jpg"
 thumbnailImage: "https://lh3.googleusercontent.com/-7vt2Nk4JPSQ/VXG3N8Q5aiI/AAAAAAABJh0/Rj2OGV7u5FM/w506-h750/ffxiv%2B2015-06-02%2B23-36-04-00.jpg"
 ---

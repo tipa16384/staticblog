@@ -3,6 +3,7 @@ date: '2010-09-12T17:26:44-05:00'
 draft: false
 title: "Recettear: Decorating y'r Itemme Shoppe."
 author: "Tipa"
+disqusIdentifier: "2010/09/12/recettear-decorating-yr-itemme-shoppe"
 summary: "[..."
 categories:
   - "Other Games"
@@ -14,6 +15,19 @@ tags:
   - "RPG"
   - "Single Player"
   - "Tear"
+relatedPosts:
+  - url: "/2014/07/05/brothers-a-tale-of-two-sons/"
+    title: "Brothers: A Tale of Two Sons"
+    thumbnailImage: "https://lh3.googleusercontent.com/-sFSBvhefBos/U7QaqHQhw5I/AAAAAAAAxUo/Ek31cE8qPkM/w907-h549-no/Brothers+2014-06-27+21-04-17-70.jpg"
+  - url: "/2024/01/08/trash-goblin-demo/"
+    title: "Trash Goblin Demo"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/trashgoblin.png"
+  - url: "/2008/08/28/wizard101s-subscription-plan-and-item-shop/"
+    title: "Wizard101's subscription plan and item shop"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/wizardgraphicalclient-2008-08-27-18-05-35-45.jpg"
+  - url: "/2024/01/18/granblue-fantasy-relink-demo/"
+    title: "Granblue Fantasy: Relink (DEMO)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/Granblue-Fantasy_-Relink-Demo_20240117201543-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/recettear-2010-09-12-08-43-01-82-480x384.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/recettear-2010-09-12-08-43-01-82-480x384.jpg"
 ---

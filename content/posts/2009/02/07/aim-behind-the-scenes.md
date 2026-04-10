@@ -3,9 +3,23 @@ date: '2009-02-07T19:19:20-05:00'
 draft: false
 title: "AiM: Behind the scenes"
 author: "Tipa"
+disqusIdentifier: "2009/02/07/aim-behind-the-scenes"
 summary: "I was working on the next Adventures in Monopoly comic, and thought it would be fun to show how I created the first panel...."
 categories:
   - "Adventures in Monopoly"
+relatedPosts:
+  - url: "/2020/09/15/adventures-in-monopoly-darkfall-part-iii/"
+    title: "Adventures in Monopoly -- Darkfall, Part III"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/aimbomb.jpg"
+  - url: "/2020/09/08/adventures-in-monopoly-darkfall-part-ii/"
+    title: "Adventures in Monopoly -- Darkfall, Part II"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/panel3.jpg"
+  - url: "/2020/09/01/adventures-in-monopoly-darkfall-pt-1/"
+    title: "Adventures in Monopoly -- Darkfall Pt. 1"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/panel2.jpg"
+  - url: "/2020/08/24/adventures-in-monopoly-cash-shop/"
+    title: "Adventures in Monopoly -- Cash Shop"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/panel1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/pat1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/pat1.jpg"
 ---

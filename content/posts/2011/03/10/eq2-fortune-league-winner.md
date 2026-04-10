@@ -3,12 +3,26 @@ date: '2011-03-10T19:38:24-05:00'
 draft: false
 title: "EQ2 Fortune League: #WINNER"
 author: "Tipa"
+disqusIdentifier: "2011/03/10/eq2-fortune-league-winner"
 summary: "[..."
 categories:
   - "EverQuest"
   - "Facebook Games"
   - "Fortune League"
   - "MMORPG"
+relatedPosts:
+  - url: "/2013/09/10/omg-r-u-still-around/"
+    title: "OMG, R U STILL AROUND?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/09/GameClient-2013-09-02-20-38-42-058-480x384.jpg"
+  - url: "/2011/05/13/daily-blogroll-513-truth-in-advertising-edition/"
+    title: "Daily Blogroll 5/13: Truth in Advertising Edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/05/Fullscreen-capture-5112011-61851-AM-480x308.jpg"
+  - url: "/2011/01/10/fortune-league-or-wall-street-raiders/"
+    title: "Fortune League, or, Wall Street Raiders"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/Fullscreen-capture-1102011-100610-PM-456x480.jpg"
+  - url: "/2011/10/12/daily-blogroll-oct-12-no-time-for-heroes-edition/"
+    title: "Daily Blogroll Oct 12: No time for heroes edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/castleville.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/EverQuest2-2011-03-10-18-19-16-87-480x480.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/EverQuest2-2011-03-10-18-19-16-87-480x480.jpg"
 ---

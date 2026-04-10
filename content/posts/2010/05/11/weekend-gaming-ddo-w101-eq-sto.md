@@ -3,6 +3,7 @@ date: '2010-05-11T07:01:41-05:00'
 draft: false
 title: "Weekend Gaming: DDO, W101, EQ, STO"
 author: "Tipa"
+disqusIdentifier: "2010/05/11/weekend-gaming-ddo-w101-eq-sto"
 summary: "In Dungeons & Dragons Online, Kasul and I finished our trip through all the Korthos Island instances on Elite mode, giving each of us the..."
 categories:
   - "Dungeons & Dragons Online"
@@ -10,6 +11,19 @@ categories:
   - "MMORPG"
   - "Star Trek"
   - "Wizard101"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2010/10/29/halloween-around-the-multiverse/"
+    title: "Halloween around the multiverse...."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/STOPumpkin.jpg"
+  - url: "/2010/03/01/weekend-gaming-eve-eq2-sto-ddo-dragonica-online/"
+    title: "Weekend Gaming: EVE, EQ2, STO, DDO, Dragonica Online"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/03/GameClient-2010-02-28-18-44-20-73.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/dndclient-2010-05-09-00-32-14-90.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/dndclient-2010-05-09-00-32-14-90.jpg"
 ---

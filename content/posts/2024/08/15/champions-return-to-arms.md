@@ -3,6 +3,7 @@ date: '2024-08-15T18:43:17-05:00'
 draft: false
 title: "Champions: Return to Arms"
 author: "Tipa"
+disqusIdentifier: "2024/08/15/champions-return-to-arms"
 summary: "In Champions of Norrath, you're tasked with single-handedly killing the God of Hate. Now they want you to kill the God of War in the sequel. Firiona and her crew are really pretty useless, aren't they?"
 categories:
   - "Blaugust"
@@ -13,6 +14,19 @@ tags:
   - "Champions of Norrath"
   - "Champions Return to Arms"
   - "PCSX2"
+relatedPosts:
+  - url: "/2024/09/28/champions-return-to-arms-finished/"
+    title: "Champions: Return to Arms finished!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/cazicthule.png"
+  - url: "/2024/09/09/weekend-gaming-janthir-wilds-return-to-arms-more-thunderjaw/"
+    title: "Weekend gaming: Janthir Wilds, Return to Arms, more Thunderjaw"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/gw2janthir.png"
+  - url: "/2020/05/01/champions-of-norrath-playthrough-chapter-1-kelethin/"
+    title: "Champions of Norrath playthrough: Act 1, Kelethin"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/pcsx2-2020-04-30-07-01-16-71-1024x769.jpg"
+  - url: "/2024/09/12/upping-my-game-with-ai/"
+    title: "Upping my game with AI"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/obstemplate.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/firiona.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/firiona.png"
 ---

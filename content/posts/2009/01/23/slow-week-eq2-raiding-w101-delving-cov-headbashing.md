@@ -3,6 +3,7 @@ date: '2009-01-23T07:34:42-05:00'
 draft: false
 title: "Slow week -- EQ2 raiding, W101 delving, CoV headbashing"
 author: "Tipa"
+disqusIdentifier: "2009/01/23/slow-week-eq2-raiding-w101-delving-cov-headbashing"
 summary: "This is my week to be the \"on call\" developer at work, which means I carry the Pager of Doom and also have to go..."
 categories:
   - "City of Heroes"
@@ -11,6 +12,19 @@ categories:
   - "Wizard101"
 tags:
   - "Dragonspyre"
+relatedPosts:
+  - url: "/2009/02/19/the-clandestine-norrathdragonspyre-connection/"
+    title: "The clandestine Norrath/Dragonspyre connection"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/veeshansymbol.jpg"
+  - url: "/2010/08/23/wizard101-its-all-about-the-ninja-pig/"
+    title: "Wizard101: It's all about the Ninja Pig"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/WizardGraphicalClient-2010-08-23-23-14-18-90.jpg"
+  - url: "/2009/03/28/wizard-101-so-malistaire-we-meet-again/"
+    title: "Wizard 101: So, Malistaire. We meet again."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-28-00-49-38-56.jpg"
+  - url: "/2009/03/18/wizard-101-father-drakes-tower-2/"
+    title: "Wizard 101: Father Drake's Tower"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-14-20-02-42-60.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/01/specimen.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/01/specimen.jpg"
 ---

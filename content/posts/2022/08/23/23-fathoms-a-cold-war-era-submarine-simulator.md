@@ -3,6 +3,7 @@ date: '2022-08-23T07:00:00-05:00'
 draft: false
 title: "23 Fathoms: A Cold War Era Submarine Simulator"
 author: "Tipa"
+disqusIdentifier: "2022/08/23/23-fathoms-a-cold-war-era-submarine-simulator"
 summary: "Number: 23. Genre: Submarine Simulator. Title: \"23 Fathoms\". Outline: In this submarine simulator, you are the captain of a nuclear submarine on a secret mission...."
 categories:
   - "Blaugust"
@@ -14,6 +15,19 @@ tags:
   - "Simulation Game"
   - "Submarines"
   - "Wombats"
+relatedPosts:
+  - url: "/2022/08/22/the-22nd-letter-a-game-of-mystery-and-scrabble/"
+    title: '"The 22nd Letter": A Game of Mystery and Scrabble'
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/22ndletter.png"
+  - url: "/2022/08/21/21-reactions-chemical-chaos/"
+    title: "21 Reactions: Chemical Chaos"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-13-21.11.32-a-beaker-containing-multicolored-chemicals.-musical-notes-are-coming-out-of-the-mouth-of-the-beaker.-in-the-style-of-a-textbook-illustration..png"
+  - url: "/2022/08/30/the-golden-years-30-something/"
+    title: "The Golden Years: 30 Something"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-23-20.51.10-A-magazine-illustration-of-a-30-something-person-surrounded-by-icons-representing-lifes-challenges-work-family-hobbies-money-food-travel-and-.png"
+  - url: "/2022/08/26/1926-the-golden-age-of-aviation/"
+    title: "1926: The Golden Age of Aviation"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/goldenage26.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/smallsub.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/smallsub.png"
 ---

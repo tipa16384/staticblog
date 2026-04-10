@@ -3,6 +3,7 @@ date: '2008-06-28T01:54:38-05:00'
 draft: false
 title: "Being Lord Nagafen"
 author: "Tipa"
+disqusIdentifier: "2008/06/28/being-lord-nagafen"
 summary: "We'll talk about this picture in a little bit :)..."
 categories:
   - "EverQuest"
@@ -12,6 +13,19 @@ tags:
   - "Monster Missions"
   - "Nagafen"
   - "Vox"
+relatedPosts:
+  - url: "/2008/07/16/eq-tower-of-frozen-shadow-floors-2-and-3/"
+    title: "EQ: Tower of Frozen Shadow, floors 2 and 3."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/eqgame-2008-07-15-22-00-20-56.jpg"
+  - url: "/2020/05/13/everquest-bones-everywhere/"
+    title: "EverQuest: Bones Everywhere."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/eqgame-2020-05-13-06-57-41-85.jpg"
+  - url: "/2009/06/16/welcome-to-mayong-everquests-5150-server/"
+    title: "Welcome to Mayong, EverQuest's 51/50 server"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/mayong.jpg"
+  - url: "/2009/04/17/happy-10th-birthday-everquest/"
+    title: "Happy 10th Birthday, EverQuest!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/eq10-2.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/eqgame-2008-06-28-00-21-06-07.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/eqgame-2008-06-28-00-21-06-07.jpg"
 ---

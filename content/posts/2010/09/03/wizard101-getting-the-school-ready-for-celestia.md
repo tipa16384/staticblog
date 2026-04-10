@@ -3,6 +3,7 @@ date: '2010-09-03T06:35:53-05:00'
 draft: false
 title: "Wizard101: Getting the school ready for Celestia"
 author: "Tipa"
+disqusIdentifier: "2010/09/03/wizard101-getting-the-school-ready-for-celestia"
 summary: "As part of Wizard101's second year celebration, every account gets a ninja pig transformation potion. Now everyone can understand for fifteen minutes how Myth wizards..."
 categories:
   - "MMORPG"
@@ -12,6 +13,19 @@ tags:
   - "Sandra Bullock"
   - "Teen Choice"
   - "Wizard101"
+relatedPosts:
+  - url: "/2010/12/24/wizard101-the-last-gift-of-the-giving-tree/"
+    title: "Wizard101: The last gift of the Giving Tree"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/WizardGraphicalClient-2010-12-24-08-35-39-45-480x360.jpg"
+  - url: "/2010/12/19/w101-celestia-finished/"
+    title: "W101: Celestia finished!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/WizardGraphicalClient-2010-12-19-14-19-18-93-480x384.jpg"
+  - url: "/2010/12/15/wizard101-level-58-and-i-feel-fine/"
+    title: "Wizard101: Level 58, and I Feel Fine."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/WizardGraphicalClient-2010-12-15-00-52-54-31-480x383.jpg"
+  - url: "/2010/11/12/wizard101-halfway-through-celestia/"
+    title: "Wizard101: Halfway through Celestia!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/WizardGraphicalClient-2010-11-12-07-33-23-75.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/WizardGraphicalClient-2010-09-02-20-49-06-61.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/WizardGraphicalClient-2010-09-02-20-49-06-61.jpg"
 ---

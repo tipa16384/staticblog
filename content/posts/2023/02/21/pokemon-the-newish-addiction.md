@@ -3,6 +3,7 @@ date: '2023-02-21T22:16:36-05:00'
 draft: false
 title: "Pokémon: The New(ish) Addiction"
 author: "Tipa"
+disqusIdentifier: "2023/02/21/pokemon-the-newish-addiction"
 summary: "With both Pokémon Go and Pokémon Sword & Shield going on, it's pretty much peak Pokémon at the moment."
 categories:
   - "Pokemon"
@@ -12,6 +13,19 @@ tags:
   - "Octopath Traveler"
   - "Pokemon"
   - "Team Spode"
+relatedPosts:
+  - url: "/2022/07/18/ogre-battle-blaugust-steam-deck-v-rising-and-guild-wars-2/"
+    title: "Ogre Battle, Blaugust, Steam Deck, V Rising, and Guild Wars 2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/ogrebbbllll.png"
+  - url: "/2023/08/03/not-taming-the-backlog/"
+    title: "(Not) Taming the Backlog"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/DALL·E-2023-08-02-23.10.21-A-dragon-wearing-glasses-surrounded-by-stacks-of-video-games.png"
+  - url: "/2025/12/15/i-know-what-i-did-last-weekend-6/"
+    title: "I Know What I Did Last Weekend"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/IMG_5573-scaled.jpg"
+  - url: "/2025/11/21/pokemon-legends-z-a-rolls-credits/"
+    title: "Pokémon Legends: Z-A rolls credits"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/2025112021391100-D30A1E83A76029FCCC1E3AC4EF5B7C89L.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/02/pokemonaddiction.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/02/pokemonaddiction.png"
 ---

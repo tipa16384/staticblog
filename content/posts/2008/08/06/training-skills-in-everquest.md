@@ -3,6 +3,7 @@ date: '2008-08-06T07:46:34-05:00'
 draft: false
 title: "Training skills in EverQuest"
 author: "Tipa"
+disqusIdentifier: "2008/08/06/training-skills-in-everquest"
 summary: "The clock on the cable box in the living room is twenty minutes slow; I know I shouldn't rely upon it. I was trying to..."
 categories:
   - "EverQuest"
@@ -12,6 +13,19 @@ tags:
   - "Choo Choo"
   - "Crypt of Nadox"
   - "Train to Zone"
+relatedPosts:
+  - url: "/2008/08/02/eq-the-last-dragons/"
+    title: "EQ: The Last Dragons"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/eqgame-2008-08-01-20-57-03-54.jpg"
+  - url: "/2020/05/13/everquest-bones-everywhere/"
+    title: "EverQuest: Bones Everywhere."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/eqgame-2020-05-13-06-57-41-85.jpg"
+  - url: "/2009/06/16/welcome-to-mayong-everquests-5150-server/"
+    title: "Welcome to Mayong, EverQuest's 51/50 server"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/mayong.jpg"
+  - url: "/2009/04/17/happy-10th-birthday-everquest/"
+    title: "Happy 10th Birthday, EverQuest!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/eq10-2.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/eqgame-2008-08-06-06-59-07-90.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/eqgame-2008-08-06-06-59-07-90.jpg"
 ---

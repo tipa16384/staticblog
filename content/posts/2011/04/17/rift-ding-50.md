@@ -3,10 +3,24 @@ date: '2011-04-17T19:47:51-05:00'
 draft: false
 title: "Rift: Ding 50!"
 author: "Tipa"
+disqusIdentifier: "2011/04/17/rift-ding-50"
 summary: "Lucked into a group grinding the Abyssal Precipice instance and dinged 50 a few times in. So, I'm now max level in Rift. More than..."
 categories:
   - "MMORPG"
   - "Rift"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2021/07/22/new-world-fomo-or-fotm/"
+    title: "New World: FOMO or FOTM?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/GameClient-2014-12-06-11-09-05-59.jpg"
+  - url: "/2011/08/17/is-social-networking-killing-the-mmo-genre/"
+    title: "Is social networking killing the MMO genre?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/08/rift-2011-08-17-07-23-49-86.jpg"
+  - url: "/2011/06/20/rift-just-give-me-what-i-want/"
+    title: "Rift: Just give me what I want..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/06/rift-2011-06-17-21-26-16-90-480x480.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/04/rift-2011-04-17-15-39-16-46-480x383.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/04/rift-2011-04-17-15-39-16-46-480x383.jpg"
 ---

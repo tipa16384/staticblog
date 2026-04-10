@@ -3,10 +3,24 @@ date: '2014-09-17T20:12:55-05:00'
 draft: false
 title: "DND 5e: A Caravan Arrives; A Dragon Burns"
 author: "Tipa"
+disqusIdentifier: "2014/09/17/dnd-5e-a-caravan-arrives-a-dragon-burns"
 summary: "There’s a song I wrote once. Everyone in Elturel was singing it. They loved me there, but what could I do? I’m just that good...."
 categories:
   - "D&D 4e"
   - "Other Games"
+relatedPosts:
+  - url: "/2015/06/16/hoard-of-the-dragon-queen-the-story-thus-far/"
+    title: "Hoard of the Dragon Queen: The Story Thus Far..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/06/inndrawing.jpg"
+  - url: "/2015/06/05/dd-on-the-road-again/"
+    title: "D&D: On the road again!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/06/Fullscreen-capture-652015-74149-PM-480x402.jpg"
+  - url: "/2014/10/15/dd-5e-death-without-succor/"
+    title: "D&D 5e -- Death Without Succor"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2014/10/1-Fullscreen-capture-1092014-115643-PM-480x374.jpg"
+  - url: "/2014/09/29/dd-5e-grist-for-the-mill/"
+    title: "D&D 5e: Grist for the Mill"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2014/09/1-Fullscreen-capture-9252014-101528-PM-480x361.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2014/09/1-Fullscreen-capture-9112014-101707-PM-480x430.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2014/09/1-Fullscreen-capture-9112014-101707-PM-480x430.jpg"
 ---

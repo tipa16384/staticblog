@@ -3,6 +3,7 @@ date: '2008-09-24T07:55:04-05:00'
 draft: false
 title: "Straight Talk Warhammer: The Dwarf Engineer"
 author: "Tipa"
+disqusIdentifier: "2008/09/24/straight-talk-warhammer-the-dwarf-engineer"
 summary: "Ever since Blizzard created the MMORPG genre with World of Warcraft, generations of people wondered if the genre they invented would end with that game..."
 categories:
   - "Humor"
@@ -12,6 +13,19 @@ categories:
 tags:
   - "Dwarf"
   - "Engineer"
+relatedPosts:
+  - url: "/2008/10/02/straight-talk-warhammer-the-ironbreaker/"
+    title: "Straight Talk Warhammer: The Ironbreaker"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-02-07-39-22-47.jpg"
+  - url: "/2008/10/03/straight-talk-warhammer-the-archmage/"
+    title: "Straight Talk Warhammer: The Archmage"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/d2sorceress.jpg"
+  - url: "/2008/10/01/straight-talk-warhammer-the-witch-hunter/"
+    title: "Straight Talk Warhammer: The Witch Hunter"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/witchhunter.jpg"
+  - url: "/2008/09/23/straight-talk-warhammer-the-warrior-priest/"
+    title: "Straight Talk Warhammer: The Warrior Priest"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/galahad.gif"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/bomberman.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/bomberman.jpg"
 ---

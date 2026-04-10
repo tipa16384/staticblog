@@ -3,12 +3,26 @@ date: '2012-01-30T07:20:02-05:00'
 draft: false
 title: "DDO: Doomsphere the Dull"
 author: "Tipa"
+disqusIdentifier: "2012/01/30/ddo-doomsphere-the-dull"
 summary: "After last week's mass dragon death in Gianthold Tor, we were back in the Cornfields of Catastrophe Greenhouse of Gore Tidepools of Terror Orchard of..."
 categories:
   - "Dungeons & Dragons Online"
   - "MMORPG"
 tags:
   - "Team Spode"
+relatedPosts:
+  - url: "/2012/04/06/ddo-web-of-chaos/"
+    title: "DDO: Web of Chaos"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/04/dndclient-2012-04-01-23-54-24-56-480x384.jpg"
+  - url: "/2012/01/16/ddo-inferno-of-the-damned/"
+    title: "DDO: Inferno of the Damned"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/dndclient-2012-01-15-23-39-49-21-480x384.jpg"
+  - url: "/2012/01/11/ddo-buying-time/"
+    title: "DDO: Buying Time"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/dndclient-2012-01-10-23-25-52-06-480x383.jpg"
+  - url: "/2012/01/09/ddo-its-a-hard-night/"
+    title: "DDO: It's a Hard Night..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/dndclient-2012-01-08-23-22-52-51-480x343.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/dndclient-2012-01-29-22-54-24-25-480x319.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/dndclient-2012-01-29-22-54-24-25-480x319.jpg"
 ---

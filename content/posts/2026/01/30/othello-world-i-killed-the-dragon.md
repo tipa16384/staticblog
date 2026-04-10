@@ -3,6 +3,7 @@ date: '2026-01-30T10:00:00-05:00'
 draft: false
 title: "Othello World: I Killed the Dragon"
 author: "Tipa"
+disqusIdentifier: "2026/01/30/othello-world-i-killed-the-dragon"
 summary: "I've been working on beating this Othello boss for years. Now it's dead and I am one step closer to meeting the Othello master."
 categories:
   - "Game Development"
@@ -10,6 +11,19 @@ tags:
   - "Othello"
   - "othello world"
   - "super famicom"
+relatedPosts:
+  - url: "/2026/02/03/the-end-of-the-othello-world-saga/"
+    title: "The End of the Othello World Saga"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/Screenshot-2026-02-02-20-11-59.png"
+  - url: "/2026/02/13/othello-trigger-for-the-gameboy-color/"
+    title: "Othello Trigger for the Gameboy Color"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/othellotrigger.png"
+  - url: "/2024/05/25/retro-game-haul-tron-deadly-discs-and-reversi/"
+    title: "Retro Game Haul: Tron Deadly Discs and Reversi"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/trondeadlydisks.png"
+  - url: "/2024/03/30/retro-game-haul-march-30-2024/"
+    title: "Retro Game Haul: March 30, 2024"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/IMG_4228.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/Screenshot-2026-01-29-21-40-06.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/Screenshot-2026-01-29-21-40-06.png"
 ---

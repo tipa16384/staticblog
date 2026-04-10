@@ -3,11 +3,25 @@ date: '2010-11-28T21:09:29-05:00'
 draft: false
 title: "WoW: Killing you is just Arthas' way of saying \"hello!\""
 author: "Tipa"
+disqusIdentifier: "2010/11/28/wow-killing-you-is-just-arthas-way-of-saying-hello"
 summary: "[..."
 categories:
   - "MMORPG"
   - "Wizard101"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2011/10/21/daily-blogroll-oct-21-tanks-for-the-memories-edition/"
+    title: "Daily Blogroll Oct 21: Tanks for the Memories edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/dndclient-2011-10-20-21-19-18-63-480x352.jpg"
+  - url: "/2011/01/14/daily-blogroll-114-old-characters-home-edition/"
+    title: "Daily Blogroll 1/14 -- Old Character's Home edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/openmike-480x270.png"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/WoW-2010-11-28-14-42-02-97-480x385.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/WoW-2010-11-28-14-42-02-97-480x385.jpg"
 ---

@@ -3,6 +3,7 @@ date: '2020-10-23T07:28:17-05:00'
 draft: false
 title: "Solasta: Crown of the Magister -- Bringing the Boom"
 author: "Tipa"
+disqusIdentifier: "2020/10/23/solasta-crown-of-the-magister-bringing-the-boom"
 summary: "While writing up yesterday's post about my first experiences with Solasta, the D&D 5e-compatible RPG released to Steam early access a couple days ago, I..."
 categories:
   - "Steam Games"
@@ -12,6 +13,19 @@ tags:
   - "RPG"
   - "Solasta"
   - "Tactics"
+relatedPosts:
+  - url: "/2020/10/22/solasta-crown-of-the-magister/"
+    title: "Solasta: Crown of the Magister"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/20201022065807_1.jpg"
+  - url: "/2020/10/26/solasta-crown-of-the-magister-a-fun-but-buggy-mess-in-early-access/"
+    title: "Solasta: Crown of the Magister -- A fun but buggy mess in early access"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/20201025094236_1.jpg"
+  - url: "/2022/04/07/you-probably-should-be-playing-wildermyth-right-now/"
+    title: "You probably should be playing Wildermyth right now."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/04/screenshot_30.png"
+  - url: "/2021/07/20/rise-eterna/"
+    title: "Rise Eterna"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/2021051618021700-BA2A6D95681540D14D17CA98DC5AFB99.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/20201022225458_1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/20201022225458_1.jpg"
 ---

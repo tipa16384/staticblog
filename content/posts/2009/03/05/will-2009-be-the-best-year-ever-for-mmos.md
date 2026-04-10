@@ -3,6 +3,7 @@ date: '2009-03-05T12:58:04-05:00'
 draft: false
 title: "Will 2009 be the best year ever for MMOs?"
 author: "Tipa"
+disqusIdentifier: "2009/03/05/will-2009-be-the-best-year-ever-for-mmos"
 summary: "In 2007, you could have surprised absolutely nobody by predicting that 2008, last year, would be the biggest, best year ever for MMOs. Triple A..."
 categories:
   - "Age of Conan"
@@ -16,6 +17,19 @@ categories:
   - "Warhammer: Age of Reckoning"
   - "Wizard101"
   - "World of Warcraft"
+relatedPosts:
+  - url: "/2008/12/24/a-look-back-at-2008/"
+    title: "A look back at 2008"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-30-22-10-50-69.jpg"
+  - url: "/2010/12/30/the-magic-8-ball-predicts-the-losers-and-winners-of-2011/"
+    title: "The Magic 8 Ball predicts the losers and winners of 2011."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/8-ball-225x225.jpg"
+  - url: "/2008/04/07/the-mmo-nostalgia-challenge/"
+    title: "The MMO Nostalgia Challenge"
+    thumbnailImage: ""
+  - url: "/2009/05/19/daily-blogroll-519-black-lung-edition/"
+    title: "Daily Blogroll 5/19 -- Black Lung edition"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/exefile-2009-05-18-23-31-07-25.jpg"
 ---
 In 2007, you could have surprised absolutely nobody by predicting that 2008, last year, would be the biggest, best year ever for MMOs. Triple A...
 <!--more-->

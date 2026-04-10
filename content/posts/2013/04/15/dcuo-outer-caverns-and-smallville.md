@@ -3,10 +3,24 @@ date: '2013-04-15T06:50:53-05:00'
 draft: false
 title: "DCUO: Outer Caverns and Smallville"
 author: "Tipa"
+disqusIdentifier: "2013/04/15/dcuo-outer-caverns-and-smallville"
 summary: "After last week's very narrow defeat by the Scion of Fear in the STAR Labs Research Facility, we were all kinda hoping that STAR Labs..."
 categories:
   - "DC Universe Online"
   - "MMORPG"
+relatedPosts:
+  - url: "/2024/01/16/city-of-heroes-homecoming/"
+    title: "City of Heroes: Homecoming..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/cohhclogo.png"
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2022/07/30/ship-of-heroes-housing-beta-2/"
+    title: "Ship of Heroes: Housing Beta #2"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/1-20220730211912_1.jpg"
+  - url: "/2021/10/11/dcuo-the-legion-of-doom-invades-washington-d-c/"
+    title: "DCUO: The Legion of Doom invades Washington D.C."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/dcuodc.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/04/INTCHARLIGHTRIG_NEUT-PC-14-23.22.290-480x299.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/04/INTCHARLIGHTRIG_NEUT-PC-14-23.22.290-480x299.jpg"
 ---

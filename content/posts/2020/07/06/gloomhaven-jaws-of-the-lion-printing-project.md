@@ -3,6 +3,7 @@ date: '2020-07-06T11:16:50-05:00'
 draft: false
 title: "Gloomhaven: Jaws of the Lion printing project"
 author: "Tipa"
+disqusIdentifier: "2020/07/06/gloomhaven-jaws-of-the-lion-printing-project"
 summary: "I'm printing all the scenarios in Gloomhaven: Jaws of the Lion, in collaboration with my boyfriend, on a filament and a resin 3D printer. After..."
 categories:
   - "3D Printing"
@@ -11,6 +12,19 @@ categories:
 tags:
   - "Jaws of the Lion"
   - "Maghex"
+relatedPosts:
+  - url: "/2022/07/19/gloomhaven-jaws-of-the-lion-finished/"
+    title: "Gloomhaven Jaws of the Lion: Finished."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/jotlbox.png"
+  - url: "/2020/11/23/game-night-jaws-of-the-lion/"
+    title: "Game Night: Jaws of the Lion"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/11/2-IMG_2014.jpg"
+  - url: "/2020/10/16/game-night-gloomhaven-jaws-of-the-lion-a-ritual-in-stone/"
+    title: "Game Night: Gloomhaven, Jaws of the Lion, A Ritual in Stone"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/1-IMG_1959.jpg"
+  - url: "/2020/09/11/game-night-jaws-of-the-lion-the-black-ship/"
+    title: "Game Night: Jaws of the Lion, the Black Ship"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/1-IMG_1908.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/07/1-IMG_1715.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/07/1-IMG_1715.jpg"
 ---

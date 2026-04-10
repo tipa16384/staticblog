@@ -3,6 +3,7 @@ date: '2021-08-16T08:01:53-05:00'
 draft: false
 title: "FF3, Day 3: Fangs for Everything"
 author: "Tipa"
+disqusIdentifier: "2021/08/16/ff3-day-3-fangs-for-everything"
 summary: "Just one crystal to restore -- the Earth crystal. We've already restored three of them. How hard could the last one be?..."
 categories:
   - "Blaugust"
@@ -11,6 +12,19 @@ categories:
 tags:
   - "Blaugust"
   - "Jrpg"
+relatedPosts:
+  - url: "/2021/08/22/ff3-complete/"
+    title: "FF3 Complete!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210821223214_1.jpg"
+  - url: "/2021/08/17/ff3-eureka-and-the-cloud-of-darkness/"
+    title: "FF3 -- Eureka, and the Cloud of Darkness"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/20210816230414_1.jpg"
+  - url: "/2021/08/04/ff1-playthrough-pheasant-dreams/"
+    title: "FF1 Playthrough: Pheasant Dreams!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-lich.jpg"
+  - url: "/2021/08/02/ff1-pirates-witches-elves-and-cthulhus/"
+    title: "FF1: Pirates, Witches, Elves and Cthulhus."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/FF1neslogo.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210815094224_1-1.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210815094224_1-1.jpg"
 ---

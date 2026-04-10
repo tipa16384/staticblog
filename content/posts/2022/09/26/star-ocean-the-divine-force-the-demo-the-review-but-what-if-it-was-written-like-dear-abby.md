@@ -3,6 +3,7 @@ date: '2022-09-26T17:54:44-05:00'
 draft: false
 title: "Star Ocean: The Divine Force: The Demo: The Review, but what if it was written like Dear Abby?"
 author: "Tipa"
+disqusIdentifier: "2022/09/26/star-ocean-the-divine-force-the-demo-the-review-but-what-if-it-was-written-like-dear-abby"
 summary: "It might go a little like this. But what if the Avengers were talking about it, or it was being reviewed by Siskel & Ebert?..."
 categories:
   - "Humor"
@@ -13,6 +14,19 @@ tags:
   - "Dall-E 2"
   - "Gpt-3"
   - "Star Ocean"
+relatedPosts:
+  - url: "/2022/08/08/8-bit-love-the-princess-and-the-plumber/"
+    title: "8 Bit Love - The Princess and the Plumber"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-08-19.33.03-Zelda-and-Link-fighting-with-swords-as-high-resolution-digital-art.-they-are-spotlighted-and-they-are-on-a-stage..png"
+  - url: "/2022/09/07/the-life-of-a-medical-student-who-sold-himself-as-an-nft-to-pay-for-school/"
+    title: "The Life of a Medical Student Who Sold Himself as an NFT to Pay for School"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-07-08.36.20-A-young-male-medical-student-mining-gold-in-World-of-Warcraft..png"
+  - url: "/2022/09/05/the-battle-for-lockes-heart-the-remake/"
+    title: "The Battle for Locke's Heart: The Remake"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-04-21.39.29-Digital-painting-of-a-tall-woman-with-green-hair-in-a-high-ponytail-a-long-blonde-woman-wearing-armor-a-man-in-blue-jeans-and-jacket-a-gentleman-ga.png"
+  - url: "/2022/09/04/how-i-used-ai-to-write-a-final-fantasy-vi-chatbot/"
+    title: "How I used AI to write a Final Fantasy VI chatbot"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-04-21.21.57-A-magazine-illustration-of-a-woman-with-dark-green-hair-in-a-high-ponytail-wearing-overalls-constructing-a-giant-mechanical-steampunk-chatbot-with-h.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-26-16.46.54-Old-time-newspaper-illustration-of-a-1950s-housewife-writing-a-letter-on-the-kitchen-table-with-pen-and-paper.-the-housewife-is-crying..png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-26-16.46.54-Old-time-newspaper-illustration-of-a-1950s-housewife-writing-a-letter-on-the-kitchen-table-with-pen-and-paper.-the-housewife-is-crying..png"
 ---

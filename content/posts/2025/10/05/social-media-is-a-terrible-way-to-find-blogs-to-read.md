@@ -3,12 +3,26 @@ date: '2025-10-05T12:59:40-05:00'
 draft: false
 title: "Social media is a terrible way to find blogs to read"
 author: "Tipa"
+disqusIdentifier: "2025/10/05/social-media-is-a-terrible-way-to-find-blogs-to-read"
 summary: "The answer comes from the forgotten history of blogging itself."
 categories:
   - "Daily Blogroll"
 tags:
   - "Blogging"
   - "Penultimatum"
+relatedPosts:
+  - url: "/2025/12/20/the-2025-daily-blogroll-awards/"
+    title: "The 2025 Daily Blogroll Awards"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/dailyblogrollawards.png"
+  - url: "/2025/10/16/taking-control-of-my-skeets-and-toots/"
+    title: "Taking Control of my Skeets and Toots"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/hq720.jpg"
+  - url: "/2021/10/07/he-thought-i-was-joking/"
+    title: "He thought I was joking."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/endgame_auto_x2_toned_light_ai.jpg"
+  - url: "/2025/07/14/blaugust-kommt/"
+    title: "Blaugust kommt."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/07/blaugustbanner.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/Screenshot-2025-10-05-113937.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/Screenshot-2025-10-05-113937.png"
 ---

@@ -3,6 +3,7 @@ date: '2024-10-13T08:00:00-05:00'
 draft: false
 title: "October retro finds!"
 author: "Tipa"
+disqusIdentifier: "2024/10/13/october-retro-finds"
 summary: "We didn’t find much in our latest dive into the local retro game store scene, but we’d found a couple things. Mostly."
 categories:
   - "Final Fantasy"
@@ -13,6 +14,19 @@ tags:
   - "Collector's Edition"
   - "Livestream 2"
   - "War in the North"
+relatedPosts:
+  - url: "/2024/12/30/best-of-2024-single-player-rpgs/"
+    title: "Best of 2024: Single-Player RPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/bestrpgbanner.png"
+  - url: "/2024/10/07/the-lord-of-the-rings-war-in-the-north/"
+    title: "The Lord of the Rings: War in the North"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/20241006100304_1.jpg"
+  - url: "/2008/11/20/how-far-would-i-go-to-play-spellborn/"
+    title: "How far would I go to play Spellborn?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/bestellung.jpg"
+  - url: "/2026/02/17/the-fellowship-of-the-ring-ps2/"
+    title: "The Fellowship of the Ring (PS2)"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/The-Lord-of-the-Rings-The-Fellowship-of-the-Ring_SLUS-20520_20260217075358.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/IMG_4727-scaled.jpeg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/IMG_4727-scaled.jpeg"
 ---

@@ -3,10 +3,24 @@ date: '2011-03-13T20:10:56-05:00'
 draft: false
 title: "Rift: Sealing the King's Breeches."
 author: "Tipa"
+disqusIdentifier: "2011/03/13/rift-sealing-the-kings-breeches"
 summary: "It's important to remember that in Rift, the best laid plans of mice and men go oft awry. (Men drop cloth when they die. Mice..."
 categories:
   - "MMORPG"
   - "Rift"
+relatedPosts:
+  - url: "/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+    title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-rotmg.jpg"
+  - url: "/2021/07/22/new-world-fomo-or-fotm/"
+    title: "New World: FOMO or FOTM?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/GameClient-2014-12-06-11-09-05-59.jpg"
+  - url: "/2011/08/17/is-social-networking-killing-the-mmo-genre/"
+    title: "Is social networking killing the MMO genre?"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/08/rift-2011-08-17-07-23-49-86.jpg"
+  - url: "/2011/06/20/rift-just-give-me-what-i-want/"
+    title: "Rift: Just give me what I want..."
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/06/rift-2011-06-17-21-26-16-90-480x480.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/rift-2011-03-13-12-41-03-76-480x384.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/rift-2011-03-13-12-41-03-76-480x384.jpg"
 ---

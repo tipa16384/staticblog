@@ -3,11 +3,25 @@ date: '2025-09-25T08:09:25-05:00'
 draft: false
 title: "Frosthaven #18 -- Crystal Fields"
 author: "Tipa"
+disqusIdentifier: "2025/09/25/frosthaven-18-crystal-fields"
 summary: "Back to Frosthaven with an entirely new threat -- and a weighty decision to make."
 categories:
   - "Frosthaven"
   - "Game Night"
   - "Tabletop Games"
+relatedPosts:
+  - url: "/2026/03/04/frosthaven-104-ruins-of-the-solstice-and-heroquest-first-light-sound-the-hearthkin-horn/"
+    title: "Frosthaven #104: Ruins of the Solstice and HeroQuest First Light: Sound the Hearthkin Horn"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/03/IMG_5701-scaled.jpg"
+  - url: "/2026/02/10/frosthaven-9-glowing-catacombs/"
+    title: "Frosthaven #9: Glowing Catacombs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/02/1-IMG_5665-scaled.jpg"
+  - url: "/2025/09/11/frosthaven-114-work-freeze/"
+    title: "Frosthaven #114: Work Freeze"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/1-IMG_5360-scaled.jpg"
+  - url: "/2025/08/26/frosthaven-scenario-10-crystal-enclosure/"
+    title: "Frosthaven Scenario #10: Crystal Enclosure"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5344-scaled.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/frosthaven-20250924.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/frosthaven-20250924.png"
 ---

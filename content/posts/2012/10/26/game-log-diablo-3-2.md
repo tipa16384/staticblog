@@ -3,10 +3,24 @@ date: '2012-10-26T09:04:52-05:00'
 draft: false
 title: "Game Log: Diablo 3"
 author: "Tipa"
+disqusIdentifier: "2012/10/26/game-log-diablo-3-2"
 summary: "I tell ya, Blizzard loves shoulder pads more than Joan Crawford. I knew it would be only a matter of time before my Diablo 3..."
 categories:
   - "Diablo 3"
   - "Other Games"
+relatedPosts:
+  - url: "/2013/01/15/diablo-3-230-hours-in/"
+    title: "Diablo 3: 230 Hours In"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/01/Diablo-III-2013-01-13-23-13-22-32-480x300.jpg"
+  - url: "/2013/01/14/d3-youve-defeated-diablo-iii/"
+    title: "D3: You've Defeated Diablo III"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/01/Diablo-III-2013-01-13-23-13-32-63-480x298.jpg"
+  - url: "/2012/12/31/diablo-3-its-an-inferno-out-there/"
+    title: "Diablo 3: It's an Inferno out there!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/12/Diablo-III-2012-12-30-22-02-19-12-480x300.jpg"
+  - url: "/2012/12/05/diablo-3-spodes-inferno/"
+    title: "Diablo 3: Spode's Inferno"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/12/Diablo-III-2012-12-02-23-58-26-14-480x335.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Diablo-III-2012-10-26-09-44-05-60-480x383.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Diablo-III-2012-10-26-09-44-05-60-480x383.jpg"
 ---

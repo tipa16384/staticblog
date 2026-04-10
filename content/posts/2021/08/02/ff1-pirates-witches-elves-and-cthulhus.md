@@ -3,6 +3,7 @@ date: '2021-08-02T21:07:00-05:00'
 draft: false
 title: "FF1: Pirates, Witches, Elves and Cthulhus."
 author: "Tipa"
+disqusIdentifier: "2021/08/02/ff1-pirates-witches-elves-and-cthulhus"
 summary: "We defeated Garland and rescued Princess Sarah! Yay! A grateful king embarked on an impromptu \"Infrastructure Week\", and built us a bridge because that was..."
 categories:
   - "Blaugust"
@@ -12,6 +13,19 @@ categories:
 tags:
   - "Blaugust"
   - "Jrpg"
+relatedPosts:
+  - url: "/2021/08/17/ff3-eureka-and-the-cloud-of-darkness/"
+    title: "FF3 -- Eureka, and the Cloud of Darkness"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/20210816230414_1.jpg"
+  - url: "/2021/08/04/ff1-playthrough-pheasant-dreams/"
+    title: "FF1 Playthrough: Pheasant Dreams!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-lich.jpg"
+  - url: "/2021/08/01/ff1-garland-hero-of-the-empire/"
+    title: "FF1: Garland, Hero of the Empire!"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-IMG_0131.jpg"
+  - url: "/2021/08/09/ff1-it-is-the-end-of-eternity/"
+    title: "FF1: It is the End of Eternity"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/20210809143848_1.jpg"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/FF1neslogo.jpg"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/FF1neslogo.jpg"
 ---

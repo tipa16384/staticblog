@@ -3,10 +3,24 @@ date: '2008-08-08T07:37:23-05:00'
 draft: false
 title: "To my music-starved guild."
 author: "Tipa"
+disqusIdentifier: "2008/08/08/to-my-music-starved-guild"
 summary: "I can't believe you guys had NEVER heard of the bands I listen to. I mean, I'm hardly on the cutting edge, and these bands..."
 categories:
   - "General"
   - "Other Games"
+relatedPosts:
+  - url: "/2014/12/13/ingress-darsana-saturday/"
+    title: "Ingress: Darsana Saturday!"
+    thumbnailImage: ""
+  - url: "/2008/09/10/spore-final-thoughts/"
+    title: "Spore: Final Thoughts"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/sporeapp-2008-09-07-16-02-16-05.jpg"
+  - url: "/2008/07/07/ps3-valkyrie-chronicles/"
+    title: "PS3: Valkyrie Chronicles"
+    thumbnailImage: ""
+  - url: "/2008/06/23/sweetflag-1-year-anniversary-give-away/"
+    title: "Sweetflag 1 Year Anniversary Give-away!"
+    thumbnailImage: "http://i.i.com.com/cnwk.1d/i/bto/20080506/Picture_3.png"
 ---
 I can't believe you guys had NEVER heard of the bands I listen to. I mean, I'm hardly on the cutting edge, and these bands...
 <!--more-->

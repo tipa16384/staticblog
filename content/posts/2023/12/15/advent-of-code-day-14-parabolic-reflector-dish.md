@@ -3,6 +3,7 @@ date: '2023-12-15T07:00:00-05:00'
 draft: false
 title: "Advent of Code Day 14 -- Parabolic Reflector Dish"
 author: "Tipa"
+disqusIdentifier: "2023/12/15/advent-of-code-day-14-parabolic-reflector-dish"
 summary: "We're almost to the mountaintop where everything begins... but first we need to start a little fire."
 categories:
   - "Advent of Code"
@@ -12,6 +13,19 @@ tags:
   - "Mirrors"
   - "Python"
   - "Volcano"
+relatedPosts:
+  - url: "/2023/12/14/advent-of-code-day-13-point-of-incidence/"
+    title: "Advent of Code Day 13 -- Point of Incidence"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-13-22.52.31-An-ash-field-dotted-with-boulders-and-large-frameless-standless-mirrors-over-six-feet-tall-reflecting-each-other-the-ash-and-the-rocks.-In-the-f.png"
+  - url: "/2023/12/12/advent-of-code-day-12-hot-springs/"
+    title: "Advent of Code Day 12 -- Hot Springs"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-12-20.48.05-A-repairman-in-a-safety-vest-and-hardhat-looking-at-a-damaged-map-in-a-landscape-reminiscent-of-Iceland-near-a-dormant-volcano.-The-scene-includes-ste.png"
+  - url: "/2023/12/16/advent-of-code-day-16-the-floor-will-be-lava/"
+    title: "Advent of Code Day 16 -- The Floor Will Be Lava"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-16-10.31.52-A-reindeer-leading-the-way-into-the-depths-of-a-giant-cave-that-serves-as-a-Lava-Production-Facility.-The-caves-walls-doorways-and-floor-are-all-na.png"
+  - url: "/2022/12/18/advent-of-code-day-18-boiling-boulders/"
+    title: "Advent of Code Day 18 -- Boiling Boulders"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-18-19.03.10-An-elephant-watching-a-flaming-meteor-crash-into-a-lake-by-Bob-Eggleton-detailed-and-intricate.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-14-21.53.41-A-wall-of-mirrors-attached-to-a-cliff-face-on-the-left-side-of-the-image-with-a-dormant-volcano-in-the-background-steaming.-The-sun-is-setting-over-.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-14-21.53.41-A-wall-of-mirrors-attached-to-a-cliff-face-on-the-left-side-of-the-image-with-a-dormant-volcano-in-the-background-steaming.-The-sun-is-setting-over-.png"
 ---

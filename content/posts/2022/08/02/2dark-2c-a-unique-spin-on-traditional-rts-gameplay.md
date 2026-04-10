@@ -3,6 +3,7 @@ date: '2022-08-02T07:00:00-05:00'
 draft: false
 title: "2Dark 2C: A Unique Spin on Traditional RTS Gameplay"
 author: "Tipa"
+disqusIdentifier: "2022/08/02/2dark-2c-a-unique-spin-on-traditional-rts-gameplay"
 summary: "I asked OpenAI's GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day..."
 categories:
   - "Blaugust"
@@ -12,6 +13,19 @@ tags:
   - "Blaugust"
   - "RTS"
   - "Vampires"
+relatedPosts:
+  - url: "/2022/08/06/the-six-cats-of-madame-miracle/"
+    title: "The Six Cats of Madame Miracle"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/sixcats.png"
+  - url: "/2022/08/05/steve-the-fifth-horseman-of-the-apocalypse/"
+    title: "Steve, the Fifth Horseman of the Apocalypse"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/DALL·E-2022-07-30-11.32.58-A-photograph-of-a-colorfully-dressed-clown-named-Steve-sitting-on-a-horse-that-has-fiery-eyes.-They-are-standing-on-a-hill.-Behind-them-on-the-hori.png"
+  - url: "/2022/08/04/fourt-knight-an-awesome-game-thats-worth-the-price/"
+    title: "Fourt Knight: An Awesome Game That's Worth the Price"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/DALL·E-2022-07-30-11.41.41-a-painting-of-a-lone-knight-in-armor-standing-in-front-of-a-castle.-The-knight-is-holding-a-sword-and-shield-and-there-is-a-bow-slung-over-their-bac.png"
+  - url: "/2022/08/01/one-the-game-a-superheroic-multiplayer-experience/"
+    title: "One: The Game - A Superheroic Multiplayer Experience"
+    thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/DALL·E-2022-07-30-12.00.18-A-group-of-diverse-superheroes-photographed-in-a-realistic-style-with-bright-cartoony-colors.-They-are-posed-heroically-with-a-cityscape-in-the-backg.png"
 coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/craiyon_220904_a_vampire_spaceship_flying_towards_a_planet_that_is_being_consumed_by_a_giant_Medusa_.png"
 thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/craiyon_220904_a_vampire_spaceship_flying_towards_a_planet_that_is_being_consumed_by_a_giant_Medusa_.png"
 ---
